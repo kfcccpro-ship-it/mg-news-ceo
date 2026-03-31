@@ -1,79 +1,325 @@
 {
-  "updatedAt": "2026-03-31T09:00:00.000Z",
-  "totalCount": 6,
+  "updatedAt": "2026-03-31T23:26:57.101Z",
+  "totalCount": 36,
   "topStories": [
     {
-      "title": "새마을금고 관련 경영 이슈 점검 기사 예시",
-      "link": "https://example.com/saemaeul-1",
-      "description": "초기 배포 확인용 샘플 기사입니다. Actions가 돌면 실제 수집 데이터로 교체됩니다.",
-      "source": "샘플데이터",
-      "pubDate": "2026-03-31 09:00",
+      "title": "새마을금고, ‘이원덕 前 우리은행장’ 전문이사로…내부통제 강화한다 - 이지경제",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sU0s0R2VxOTJ5R0JqR3cwNlRQS1VhNVdYNDhVa3pjeXF5VnlDUnhMZ3JLd0ZTeEg2OTB0bmFnd1A3OXNwUWRhSmJ6N0xBX09nSkxlUTJfeTdlZm5CSUt3LVgzamhlcHhYNGtmb3Vn?oc=5",
+      "description": "새마을금고, ‘이원덕 前 우리은행장’ 전문이사로…내부통제 강화한다 이지경제",
+      "source": "\"새마을금고\" - Google 뉴스",
+      "pubDate": "2026-03-31 23:00",
       "category": "saemaeul"
     },
     {
-      "title": "농협 금융 동향 기사 예시",
-      "link": "https://example.com/nonghyup-1",
-      "description": "초기 화면이 비지 않도록 넣어둔 샘플 데이터입니다.",
-      "source": "샘플데이터",
-      "pubDate": "2026-03-31 09:00",
-      "category": "nonghyup"
+      "title": "[Who Is ?] 김인 새마을금고중앙회 회장 - 비즈니스포스트",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OZms4ZjZyakswR3NyRW55TXBBQWQxdkc1ZGgxTVpnd1MySWROSXFPdFBjendyOWJzb3dTdmktVXA3VWdISUdVN2NwTVhtbWJyU0tsVGVmOFgxaFY4RnJudjh0Y2x0b25Wc2JoTGM1WG1WNU0?oc=5",
+      "description": "[Who Is ?] 김인 새마을금고중앙회 회장 비즈니스포스트",
+      "source": "\"새마을금고\" - Google 뉴스",
+      "pubDate": "2026-03-31 22:00",
+      "category": "saemaeul"
     },
     {
-      "title": "은행권 디지털 전략 기사 예시",
-      "link": "https://example.com/bank-1",
-      "description": "첫 배포 직후 동작 여부를 바로 확인할 수 있습니다.",
-      "source": "샘플데이터",
-      "pubDate": "2026-03-31 09:00",
-      "category": "bank"
+      "title": "[채용] 새마을금고, 상반기 신입 공채 실시…전국 220명 채용 - koreapost.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94dkpFOUxNOC1oVVhibllRd216Zkk4WXBMZll2QjdNeFVCcXJIU0J4ZXUyOFp4b2ZDQlZ4NnBENjJCcTkxejQ0cFhOR28xS3lKeWpjdVZjcHhKOEVhTExjclVibHhUaGRjenFScWRR?oc=5",
+      "description": "[채용] 새마을금고, 상반기 신입 공채 실시…전국 220명 채용 koreapost.co.kr",
+      "source": "\"새마을금고\" - Google 뉴스",
+      "pubDate": "2026-03-31 15:29",
+      "category": "saemaeul"
     }
   ],
   "categories": {
     "saemaeul": [
       {
-        "title": "새마을금고 관련 경영 이슈 점검 기사 예시",
-        "link": "https://example.com/saemaeul-1",
-        "description": "초기 배포 확인용 샘플 기사입니다. Actions가 돌면 실제 수집 데이터로 교체됩니다.",
-        "source": "샘플데이터",
-        "pubDate": "2026-03-31 09:00"
+        "title": "새마을금고, ‘이원덕 前 우리은행장’ 전문이사로…내부통제 강화한다 - 이지경제",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sU0s0R2VxOTJ5R0JqR3cwNlRQS1VhNVdYNDhVa3pjeXF5VnlDUnhMZ3JLd0ZTeEg2OTB0bmFnd1A3OXNwUWRhSmJ6N0xBX09nSkxlUTJfeTdlZm5CSUt3LVgzamhlcHhYNGtmb3Vn?oc=5",
+        "description": "새마을금고, ‘이원덕 前 우리은행장’ 전문이사로…내부통제 강화한다 이지경제",
+        "source": "\"새마을금고\" - Google 뉴스",
+        "pubDate": "2026-03-31 23:00",
+        "category": "saemaeul"
       },
       {
-        "title": "지역 금융 협력 강화 기사 예시",
-        "link": "https://example.com/saemaeul-2",
-        "description": "샘플 데이터 2건째입니다.",
-        "source": "샘플데이터",
-        "pubDate": "2026-03-31 08:50"
+        "title": "[Who Is ?] 김인 새마을금고중앙회 회장 - 비즈니스포스트",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OZms4ZjZyakswR3NyRW55TXBBQWQxdkc1ZGgxTVpnd1MySWROSXFPdFBjendyOWJzb3dTdmktVXA3VWdISUdVN2NwTVhtbWJyU0tsVGVmOFgxaFY4RnJudjh0Y2x0b25Wc2JoTGM1WG1WNU0?oc=5",
+        "description": "[Who Is ?] 김인 새마을금고중앙회 회장 비즈니스포스트",
+        "source": "\"새마을금고\" - Google 뉴스",
+        "pubDate": "2026-03-31 22:00",
+        "category": "saemaeul"
+      },
+      {
+        "title": "[채용] 새마을금고, 상반기 신입 공채 실시…전국 220명 채용 - koreapost.co.kr",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94dkpFOUxNOC1oVVhibllRd216Zkk4WXBMZll2QjdNeFVCcXJIU0J4ZXUyOFp4b2ZDQlZ4NnBENjJCcTkxejQ0cFhOR28xS3lKeWpjdVZjcHhKOEVhTExjclVibHhUaGRjenFScWRR?oc=5",
+        "description": "[채용] 새마을금고, 상반기 신입 공채 실시…전국 220명 채용 koreapost.co.kr",
+        "source": "\"새마을금고\" - Google 뉴스",
+        "pubDate": "2026-03-31 15:29",
+        "category": "saemaeul"
+      },
+      {
+        "title": "횡성중앙새마을금고 쌀 전달 - 강원도민일보",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxNEViY1VfZ3FqS2p2N0V1cWN5WXlsbk5hWWhZYTh4TUNhNWZ3RVJ3bEdPeEMtQ2Vyd0M2T0RJcFl1c1Z4aGlfOXU1eXZsREE2VTVyRE1BN1hqQ1hYWEtaU21NZDkyMWM?oc=5",
+        "description": "횡성중앙새마을금고 쌀 전달 강원도민일보",
+        "source": "\"새마을금고\" - Google 뉴스",
+        "pubDate": "2026-03-31 15:02",
+        "category": "saemaeul"
+      },
+      {
+        "title": "새마을금고 내부통제 부실 '고질병' - 뉴스통",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeFZhcENtM2Nla1BFQXNSbkxoOEw1Uzh3cHQ4UXFSNnJEUE9GeEdSUklHRXlYNjlkb2VKdVUyYXpIRkkyaGZCb2JXR0JRZVl2c0RnQXVIdWV0QU11NVpvVU9vXzhSWU16cVl6bVJIZHRRVW1iRnZZdVF5YXItdm95VmZ3U3FEVXMtTGR0SFZqZE8wUW5JbUZQSGVtSy1BZ3ZKWHUxQU9INDlnRlo2akk1Rl9wbUw5a1dMZTVxRlFn?oc=5",
+        "description": "새마을금고 내부통제 부실 '고질병' 뉴스통",
+        "source": "\"새마을금고\" - Google 뉴스",
+        "pubDate": "2026-03-31 12:53",
+        "category": "saemaeul"
+      },
+      {
+        "title": "전북자치도, 서부권 새마을금고 간담회 개최…서민금융 활성화 모색 - 웹이코노미",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1YMkZSek94V1MwdjN1VklMVkp3bXJaTWxscHowRnJqeWFQUUNRSlRlSHNCQ254eWhLR19pTi1LTFhMZ3FuV0RGdllvZ3E0WlRJam9faFZ6b2NxXzRvem5xU3hEY3d1RkRic0poNzZldW54Zw?oc=5",
+        "description": "전북자치도, 서부권 새마을금고 간담회 개최…서민금융 활성화 모색 웹이코노미",
+        "source": "\"새마을금고\" - Google 뉴스",
+        "pubDate": "2026-03-31 12:39",
+        "category": "saemaeul"
+      },
+      {
+        "title": "신제주새마을금고 대상 '영예' - 제민일보",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51bGdTY3N4T2lwVV9td3BKNjZKVEFSd1Q5ZFd6WElNbGlsYmlVdmQyZ2ZoaTJ4T1ZQMl9kcGhGaGhLUGIyNG9kMXd5OG9pd0trTGdKWHRzNzEtWTF6Nld1ZEFMaFBZZw?oc=5",
+        "description": "신제주새마을금고 대상 '영예' 제민일보",
+        "source": "\"새마을금고\" - Google 뉴스",
+        "pubDate": "2026-03-31 10:40",
+        "category": "saemaeul"
+      },
+      {
+        "title": "내일 가계대출 관리방안 나온다…주담대 확 늘린 새마을금고 '살얼음' - 네이트",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9oM2h3QlJybUNCUG1MaW9tMktuRWVKMHdrM0pJVDJFTWpobmZWcENiZHl5ek0xUmxvQlBRT240Nl9yWE5HX1d6TDY3OC1jdTUxdTlv?oc=5",
+        "description": "내일 가계대출 관리방안 나온다…주담대 확 늘린 새마을금고 '살얼음' 네이트",
+        "source": "\"새마을금고\" - Google 뉴스",
+        "pubDate": "2026-03-31 08:50",
+        "category": "saemaeul"
+      },
+      {
+        "title": "내일 가계대출 관리방안 나온다…주담대 확 늘린 새마을금고 '살얼음' - 네이트",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4ybGhLaEo0UWU1YXVvcXg4MzV6ajh6clNMU1B2Wm1CM1NpTVRjblJmQy1ybVRDM2JNX1BOMWk0Y25HMzlDeWs2YTgxdEJKWndVTDFVeHV6RnBzMGZNeGFaOTAyOVFSdkttYWtPeE1R?oc=5",
+        "description": "내일 가계대출 관리방안 나온다…주담대 확 늘린 새마을금고 '살얼음' 네이트",
+        "source": "\"새마을금고\" - Google 뉴스",
+        "pubDate": "2026-03-31 08:50",
+        "category": "saemaeul"
+      },
+      {
+        "title": "내일 가계대출 관리방안 나온다...주담대 확 늘린 새마을금고 '살얼음' - edaily.co.kr",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPalo2eWZCVUlKeWVaRW1qRE1adlU3MkdybGhBdTAxZl9OZWJIb1pWRlJzbDhkOHhWNWRWZnJhbmVpREZoVjVWT21JZkpUS3hyX0czeFlVenR1dE8xc3ZudXVySG96ODdTcEdMX3hhYnZwZXdDMUxFcDBrSklLMWJsaQ?oc=5",
+        "description": "내일 가계대출 관리방안 나온다...주담대 확 늘린 새마을금고 '살얼음' edaily.co.kr",
+        "source": "\"새마을금고\" - Google 뉴스",
+        "pubDate": "2026-03-31 08:48",
+        "category": "saemaeul"
+      },
+      {
+        "title": "새마을금고중앙회 제주지역본부, 경영평가 연도대상 - 제주매일",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tN0F4enNBaENyQkhpRE4zcDRGTFA1OFBPcmoyR2dFOUdOT3poWkhGUHZTVHJwWjZjVWVEam1GRjk1VDljV2NPQ2kxSG9JZjBTalpxdnMzUDI5dS1ZYjBtWjdwTWM1T25JVTFsbA?oc=5",
+        "description": "새마을금고중앙회 제주지역본부, 경영평가 연도대상 제주매일",
+        "source": "\"새마을금고\" - Google 뉴스",
+        "pubDate": "2026-03-31 08:19",
+        "category": "saemaeul"
+      },
+      {
+        "title": "서초구, 중소상공인 대출 437.5억·서초사랑상품권 70억 조기 발행 - 웹이코노미",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9fQUdLRzFnTWdVdGV6dlBEVnlGVlh5OXYwcUVwM0RBX3g0Q0JTeWcySzNmSGVRMmNTV2Q5VFNlaGlBWDZtOVBQT2RpRGttZGFOQWFPNjZyUkFMMVVtTmlfUUt4YndLVnMzV2IzNDhBMGU4UQ?oc=5",
+        "description": "서초구, 중소상공인 대출 437.5억·서초사랑상품권 70억 조기 발행 웹이코노미",
+        "source": "\"새마을금고\" - Google 뉴스",
+        "pubDate": "2026-03-31 07:54",
+        "category": "saemaeul"
       }
     ],
     "nonghyup": [
       {
-        "title": "농협 금융 동향 기사 예시",
-        "link": "https://example.com/nonghyup-1",
-        "description": "초기 화면이 비지 않도록 넣어둔 샘플 데이터입니다.",
-        "source": "샘플데이터",
-        "pubDate": "2026-03-31 09:00"
+        "title": "NH농협금융,“속도와 실행으로 승부”변화의 흐름에 답하다 - 한국경제",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLNGQ5RGRONUIzSFdPRlN5NGhjNmZMMThJdElNWDhOWnU2MFdKOWJ2WDdQVm9aYlpNdHAtaUdUWDhfLXVETkRjSEFMdTBLUjBwcDBYOEdLTWR6QdIBVEFVX3lxTFBWdzVoRF9aVnJsa3RzbmpndTR3a1lncU9jR3QyRVRIRUwzS3l2aEhNdlFFcVgybTJHOTFHdzRwb1F4OE1pMklzMnpyMXAydTFFNW42dQ?oc=5",
+        "description": "NH농협금융,“속도와 실행으로 승부”변화의 흐름에 답하다 한국경제",
+        "source": "\"농협 금융\" - Google 뉴스",
+        "pubDate": "2026-03-31 23:06",
+        "category": "nonghyup"
       },
       {
-        "title": "농업 금융 지원 확대 기사 예시",
-        "link": "https://example.com/nonghyup-2",
-        "description": "샘플 데이터 2건째입니다.",
-        "source": "샘플데이터",
-        "pubDate": "2026-03-31 08:40"
+        "title": "NH농협 \"하나로마트서 CBDC 활용 확대…세금환급 등 PoC사업 지속 추진\" - 네이트",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BOUU3b09hUnF3ZzZ0SWxJWXhBZVBQdmtHSnFwaWlRcy05d3FuZHhPajNNNmFzQkFXeF9qbjUzNlBQVzhJblU0ZjR0NWhWYy1QRWVJ?oc=5",
+        "description": "NH농협 \"하나로마트서 CBDC 활용 확대…세금환급 등 PoC사업 지속 추진\" 네이트",
+        "source": "\"농협 금융\" - Google 뉴스",
+        "pubDate": "2026-03-31 22:06",
+        "category": "nonghyup"
+      },
+      {
+        "title": "NH농협 \"하나로마트서 CBDC 활용 확대…세금환급 등 PoC사업 지속 추진\" - 마켓인",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1VTWt6YUtIdDRJbGk1d0dabXI5S18xNHpHMllYUXVJeVdmVWRkQk5ZTm5IUV8wV2NoVGp2b0hoMzFjel9XbE95dGlYbm5GWHc0aVUxNGE2bGNvQ0d4V29lQ2dtRHAwOF9HOC1qZUt1YlBYakk?oc=5",
+        "description": "NH농협 \"하나로마트서 CBDC 활용 확대…세금환급 등 PoC사업 지속 추진\" 마켓인",
+        "source": "\"농협 금융\" - Google 뉴스",
+        "pubDate": "2026-03-31 22:04",
+        "category": "nonghyup"
+      },
+      {
+        "title": "NH농협 \"하나로마트서 CBDC 활용 확대…세금환급 등 PoC사업 지속 추진\" - edaily.co.kr",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZDY0UnRmNTZZb1gxQ001TjNIQy11MnJ1SUNtclZDaGtSbEZkRld6Sy03c1FCVHRqS0FpRC1CbXlMYWZ3U0lpY2ZfTGpJam1Gc1hmaGFuczRIeFhFUHItUmVQYm9HcXpGc1JmWGpzRHJjNnVGWXk0NVpGbUVTZlU3Zw?oc=5",
+        "description": "NH농협 \"하나로마트서 CBDC 활용 확대…세금환급 등 PoC사업 지속 추진\" edaily.co.kr",
+        "source": "\"농협 금융\" - Google 뉴스",
+        "pubDate": "2026-03-31 22:04",
+        "category": "nonghyup"
+      },
+      {
+        "title": "NH투자증권 대표 선임 왜 늦어지나…농협중앙회 입김 탓? - 네이트",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Wa3czdk5rXzJLdDN0djZUdkJ3NVpOY21Rb0xjdWExX0w4OWg5TTd3Szlib21Ub3hBaEVISXFZODFpeXBSa0tFTXVINlVDbm12SmJn?oc=5",
+        "description": "NH투자증권 대표 선임 왜 늦어지나…농협중앙회 입김 탓? 네이트",
+        "source": "\"농협 금융\" - Google 뉴스",
+        "pubDate": "2026-03-31 21:01",
+        "category": "nonghyup"
+      },
+      {
+        "title": "기업銀·농협·수협, 지방 이전 본격화…금융권 파업 가능성↑ - 디지털데일리",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXUVJvcmdUdTVTaDJGOUpfVnYzMHd5MC10dkdwd2pjdGVJVEVldFFUanM5ZnNyUTJ1dms0NU0wSzRYUnpVYzh5MzhXeXFxMXRidUV4cnZKajQtV1UwZGc0bWVVYk0?oc=5",
+        "description": "기업銀·농협·수협, 지방 이전 본격화…금융권 파업 가능성↑ 디지털데일리",
+        "source": "\"농협 금융\" - Google 뉴스",
+        "pubDate": "2026-03-31 21:00",
+        "category": "nonghyup"
+      },
+      {
+        "title": "‘맞형’같은 은행권, 에너지 위기대응 선도에 모범적 - 라이센스뉴스",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4yWEtQRFFyX2hGMTlnN0FWeHdETFo5UUJtSnpfZGw4OXRWNzd2S05CUUFJUWtYWGd1Rkota1JaNzItY2wwdElzSHhwRWYyaGlLV0JXSG1GcTJLUjNTUVFCb3VxUzJna0VPSFZj?oc=5",
+        "description": "‘맞형’같은 은행권, 에너지 위기대응 선도에 모범적 라이센스뉴스",
+        "source": "\"농협 금융\" - Google 뉴스",
+        "pubDate": "2026-03-31 21:00",
+        "category": "nonghyup"
+      },
+      {
+        "title": "[증권 뉴스브리핑] 지난달 케이뱅크 IPO에 주식발행 3배로↑/1분기 신규상장 9곳뿐/카카오페이증권 신호철 대표 연임/이찬우 NH농협금융 회장, NH투자증권 IMA 1호 가입 등 - 아시아타임즈",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBBQ29hbTRiQXRESFdPZ3kzd1VJRU1ZVS00U3FMbTNzbENUQlIwUFRQRDd5bDM4cGJFZHd3bGhxMHhnOWxSbHY0blYzaXlJdWQ5ZWJkUmdGbUtwWXplb0E?oc=5",
+        "description": "[증권 뉴스브리핑] 지난달 케이뱅크 IPO에 주식발행 3배로↑/1분기 신규상장 9곳뿐/카카오페이증권 신호철 대표 연임/이찬우 NH농협금융 회장, NH투자증권 IMA 1호 가입 등 아시아타임즈",
+        "source": "\"농협 금융\" - Google 뉴스",
+        "pubDate": "2026-03-31 16:59",
+        "category": "nonghyup"
+      },
+      {
+        "title": "NH농협생명, 제11기 고객패널 발대식 개최 - 비즈월드",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5IclVobnAzYVp2OGo4SjZKTjlNWk84LW11dVdpcWpTSF9YSWpoaXdUTS1GVEtMVHZ1Ym1MdEZPbkFFSzMtOVBHdEJnNmx5QTRoY2FQVVVNVEhKb2YyeVpYLU4yV19JRzNMRkxR?oc=5",
+        "description": "NH농협생명, 제11기 고객패널 발대식 개최 비즈월드",
+        "source": "\"농협 금융\" - Google 뉴스",
+        "pubDate": "2026-03-31 16:03",
+        "category": "nonghyup"
+      },
+      {
+        "title": "NH농협생명, 제11기 고객패널 발대식 개최 - todaymild.com",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBvR2lpM1IyWEhialhQX2NMTTh0NXYyZ28wdWMwSkhMVTVxQlZoOF9jaXcteEpmY2I5djFqQ19DRXUwdWt3RVZwQlNSbnhucXpqVzV5bHNzbmxwX3VBYkZ4S1BjTVpYeG80SVRB?oc=5",
+        "description": "NH농협생명, 제11기 고객패널 발대식 개최 todaymild.com",
+        "source": "\"농협 금융\" - Google 뉴스",
+        "pubDate": "2026-03-31 13:27",
+        "category": "nonghyup"
+      },
+      {
+        "title": "농협사료 충청지사-농협은행 청주공단지점, 금융사기 피해 예방 교육 - 충청타임즈",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xR211WGRDSEVnSWd3SXpzVGNoNWUxNU0zRGlpejhEa2JnaHlxOE4tQ2RwcVoyMG9VT3dCZlBpeVRYT25vRnpyRXRpS3o2VFc0VTlUOGtWclJyZ3didW9JSDQwWVV3dFNS?oc=5",
+        "description": "농협사료 충청지사-농협은행 청주공단지점, 금융사기 피해 예방 교육 충청타임즈",
+        "source": "\"농협 금융\" - Google 뉴스",
+        "pubDate": "2026-03-31 11:50",
+        "category": "nonghyup"
+      },
+      {
+        "title": "NH농협금융 이찬우 회장 직접 가입...NH투자증권 IMA 사업 본격 시동 - 글로벌이코노믹",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTlE4VmRKc2EzZl9RWTMyTDBQWXF2MUUzY29nNEJSUGtpX2s1c2dINzktY1U0TmlWYUIxRHZ1cGVQUHNSMzZZN0t3cU9qZ0ZwM3FXVmxlNFNVT3JuV2dsMndsR3EwNC14TWc0SDVzVjFtNTd6X0tTS0NXMnRESmZLX29aUVE4d2k4?oc=5",
+        "description": "NH농협금융 이찬우 회장 직접 가입...NH투자증권 IMA 사업 본격 시동 글로벌이코노믹",
+        "source": "\"농협 금융\" - Google 뉴스",
+        "pubDate": "2026-03-31 11:33",
+        "category": "nonghyup"
       }
     ],
     "bank": [
       {
-        "title": "은행권 디지털 전략 기사 예시",
-        "link": "https://example.com/bank-1",
-        "description": "첫 배포 직후 동작 여부를 바로 확인할 수 있습니다.",
-        "source": "샘플데이터",
-        "pubDate": "2026-03-31 09:00"
+        "title": "[충정로에서] 상생에 흔들리는 저축은행 생태계 - 딜사이트",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sT05kM0p2OUVDMlBBaXdxOG5XRjBJUnc5UEJLbk5WeFhzY1ZiWnoxNzdxM1ZDTEp3aFdGN2VBTEpOZUhWVVY3NlNQZW1nbXc?oc=5",
+        "description": "[충정로에서] 상생에 흔들리는 저축은행 생태계 딜사이트",
+        "source": "\"은행 금융\" - Google 뉴스",
+        "pubDate": "2026-03-31 22:25",
+        "category": "bank"
       },
       {
-        "title": "시중은행 리스크 관리 기사 예시",
-        "link": "https://example.com/bank-2",
-        "description": "샘플 데이터 2건째입니다.",
-        "source": "샘플데이터",
-        "pubDate": "2026-03-31 08:30"
+        "title": "KB국민은행·우리은행 주춤… 금융 데이터 경쟁 격화 - pinpointnews.co.kr",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53ZmkzSmVZMlh4V1IwRDYyaWpQa3dtelBVRmJrQmVHNkhsXzBjVmZzalV0YzY4LV9LMHFYaGVVNGpCb1diNVk1cm42VDhWV2djUE5pRDM5eVp5RmE2TllwSFBlMjFveVhueTlzaldkTFJWRm_SAXdBVV95cUxNM0I1ZmJkWE9XWGY2WDBjUG5hWDhfY0hoVy1vQ01lVUs1LWtGbEVsX1Vtcm1qVFpZdW5ZZ0k1LVY5SDhUM1pFMGFMRlNwZFBtTktOcGlGUlhRS0wwUkpOb1ZQRlpuamlSUFpEV1kyVGE0Zl9HVGVEMA?oc=5",
+        "description": "KB국민은행·우리은행 주춤… 금융 데이터 경쟁 격화 pinpointnews.co.kr",
+        "source": "\"은행 금융\" - Google 뉴스",
+        "pubDate": "2026-03-31 22:24",
+        "category": "bank"
+      },
+      {
+        "title": "ELS 불완전판매 은행 과징금 또 미뤄져…금융위 상정 불발 - 뉴시스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sZl9QM3NBVllPRlFzd3F1SG1PaWhDYnRpcE0zZmJvaTJTSG5NQXNYNEg0UmsxZElrZGN3OEs4LUFHemdOWV9MYmpBcGRFdWg4SUZNcE8zWHdFU3d1bHhHNtIBeEFVX3lxTE1DVGxNcFhONWRoUGlYR2dmNjloNlh0TzhUa3RNWlN5ZkV1LUZWb2NvNFVyVHdLZ09NeDZKemYxVmNSNHk0Ym54a2VOTTZ1elp1SXV6MnhWaGEzT19tX0otNXZoRmF5U1JpLV9oOGU1bXVjYlZSU3hERg?oc=5",
+        "description": "ELS 불완전판매 은행 과징금 또 미뤄져…금융위 상정 불발 뉴시스",
+        "source": "\"은행 금융\" - Google 뉴스",
+        "pubDate": "2026-03-31 22:00",
+        "category": "bank"
+      },
+      {
+        "title": "콘진원·신보, 농협·하나은행과 \"K-콘텐츠 혁신 선도\"… 690억 보증 공급 - dt.co.kr",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5CcG51LXJGZVFDQ2xZWDc5eW03ZTRzX2JrX09uMlVVLUdMb3QtbFkzbkZlVU4yaVVXeVNKN3pFd3FSOEJWQmZTSklTaU5vZw?oc=5",
+        "description": "콘진원·신보, 농협·하나은행과 \"K-콘텐츠 혁신 선도\"… 690억 보증 공급 dt.co.kr",
+        "source": "\"은행 금융\" - Google 뉴스",
+        "pubDate": "2026-03-31 21:37",
+        "category": "bank"
+      },
+      {
+        "title": "웰컴저축은행, 부산진여중서 자유학기제 금융교육 - 비즈월드",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsR2ZSQXdqZHBtWE9BOXF0ZjlzXzVYUjNQVlFRbGRqeWVVZGowS0R3SW5BbEZIc05vSS1rNTZBbl8zdWdTOExMdEhuN0VhT1NScW5jVFoybFViM1ljdHNUOHRiVXNJM0tlVy1B?oc=5",
+        "description": "웰컴저축은행, 부산진여중서 자유학기제 금융교육 비즈월드",
+        "source": "\"은행 금융\" - Google 뉴스",
+        "pubDate": "2026-03-31 21:22",
+        "category": "bank"
+      },
+      {
+        "title": "BNK경남은행, ‘제11기 고객패널 발대식’ 개최 - 비즈월드",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55MTRlNWdQUTY1UGFxVTFVWTRYSVpMYW1vbURVVGE3R0R1OUhaY2hZTEt5ZVliUVZ2Q2hjVGhXSWd6ZkgyOV9ZclozTVg4a0ZjeVhxR3JFejRHNEEwcUVzT2hoVjdPaTluZ2c?oc=5",
+        "description": "BNK경남은행, ‘제11기 고객패널 발대식’ 개최 비즈월드",
+        "source": "\"은행 금융\" - Google 뉴스",
+        "pubDate": "2026-03-31 17:39",
+        "category": "bank"
+      },
+      {
+        "title": "[금융 이모저모] BNK부산은행, BNK경남은행, 한국씨티은행, 하나은행 - worktoday.co.kr",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ueGluclhEWmxfMkc0ZElNaWV2TlJZTG45UE5UTmt5aWpESWxWMXRoOUcyZlJFNF9DQkVNT0NHajg5X0VLYWF3UzJfUWJfaFRKMjY1QkllT2IydjFRRGIxOEdmeHVCdGNsNHpCYw?oc=5",
+        "description": "[금융 이모저모] BNK부산은행, BNK경남은행, 한국씨티은행, 하나은행 worktoday.co.kr",
+        "source": "\"은행 금융\" - Google 뉴스",
+        "pubDate": "2026-03-31 15:41",
+        "category": "bank"
+      },
+      {
+        "title": "[금융] KB국민은행, 전세사기 예방 웹예능 공개…청년층 맞춤 콘텐츠 강화 - koreapost.co.kr",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JTm9laEY5ZFRRekJfbVhCSVNPaEpoMWhDdWRYa2dlYTZ6ODlfU3pxczBmS0JoNy1iYlBRQUZUdlh5V2VyLWlQVEZtT1pocWw0bzVMS2R6MTdEWENhQzFYRkxjNGkydFFmcFBWSGh3?oc=5",
+        "description": "[금융] KB국민은행, 전세사기 예방 웹예능 공개…청년층 맞춤 콘텐츠 강화 koreapost.co.kr",
+        "source": "\"은행 금융\" - Google 뉴스",
+        "pubDate": "2026-03-31 15:33",
+        "category": "bank"
+      },
+      {
+        "title": "웰컴저축은행, 박종성·손대희 각자대표 체제 출범 - ebn.co.kr",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vVXZ4OXNxSnQ3bkJ6bXJHZnhCOVd4WG1XYzhTb3BjLTlleUlYNzNXUGlnSkRJMWw1MFZaaXYwbHJTZHhqZXJTQV8xVDc4RU1zdkRfNXhvYVVIYTJISFN5cHJSUmZXUk1t?oc=5",
+        "description": "웰컴저축은행, 박종성·손대희 각자대표 체제 출범 ebn.co.kr",
+        "source": "\"은행 금융\" - Google 뉴스",
+        "pubDate": "2026-03-31 14:36",
+        "category": "bank"
+      },
+      {
+        "title": "전북은행, 대학생 서포터즈 6기 발대식 개최 - 비즈월드",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zYXljWGlJcnJXeGowcXN5dkRTeXVDbXFacjlOM3E3Ul9DRE96bnExQzVNWG9ySkNNbGVqbzNiZ0ZHaXp1VDUzTVRHRC0zd01QbTJ4TG41SVp0WVJkdEktVzZzRHVpdFNLMVY4?oc=5",
+        "description": "전북은행, 대학생 서포터즈 6기 발대식 개최 비즈월드",
+        "source": "\"은행 금융\" - Google 뉴스",
+        "pubDate": "2026-03-31 13:24",
+        "category": "bank"
+      },
+      {
+        "title": "BNK경남은행, 제11기 고객패널 출범…금융소비자 소통 강화 - 네이트",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tYzBrMS1Tc3EwbTV0R3dzX3ZhWEg5Y1FNVWstb2JWS2JrWGMxRllONzl2ZU8xQ0pfV19Nb1N2VlhKVGNuamZUYnVVT1lPdGNTMTRR?oc=5",
+        "description": "BNK경남은행, 제11기 고객패널 출범…금융소비자 소통 강화 네이트",
+        "source": "\"은행 금융\" - Google 뉴스",
+        "pubDate": "2026-03-31 12:51",
+        "category": "bank"
+      },
+      {
+        "title": "Sh수협은행, 코람코자산신탁과 맞손…“부동산 금융 시너지 극대화” - 비즈월드",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WOTNvUUlOZFdfeFZVSEVBYWRITTBXYlhMWmdPTEdDNEZHSmZFTUt3MmFtckdnaVJHdGZUOHlLd1MwQkR4SHh6YS1DS0tCaE1PNEx3cXRBdm4walFROVh2NndWYkg0WVV1SG5v?oc=5",
+        "description": "Sh수협은행, 코람코자산신탁과 맞손…“부동산 금융 시너지 극대화” 비즈월드",
+        "source": "\"은행 금융\" - Google 뉴스",
+        "pubDate": "2026-03-31 12:27",
+        "category": "bank"
       }
     ]
   }
