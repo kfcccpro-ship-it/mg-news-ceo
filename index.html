@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>CEO 모바일 뉴스</title>
+  <meta name="description" content="새마을금고, 농협, 은행 관련 뉴스를 한눈에 보는 GitHub Pages 사이트" />
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <div>
+        <p class="eyebrow">MG CEO Briefing</p>
+        <h1>CEO 모바일 뉴스</h1>
+        <p class="subtitle">새마을금고 · 농협 · 은행 관련 기사를 자동 수집해 보여주는 간단한 뉴스 보드</p>
+      </div>
+      <div class="status-card">
+        <div>
+          <span class="label">업데이트</span>
+          <strong id="updatedAt">-</strong>
+        </div>
+        <div>
+          <span class="label">전체 기사</span>
+          <strong id="articleCount">0건</strong>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap main-layout">
+    <section class="panel hero-panel">
+      <div class="panel-head">
+        <h2>주요 기사</h2>
+        <p>최신 수집 기사 중 상단 3건</p>
+      </div>
+      <div id="topStories" class="top-stories"></div>
+    </section>
+
+    <section class="grid-3">
+      <section class="panel">
+        <div class="panel-head inline">
+          <h2>새마을금고</h2>
+          <span id="count-saemaeul" class="count-pill">0건</span>
+        </div>
+        <div id="list-saemaeul" class="news-list"></div>
+      </section>
+
+      <section class="panel">
+        <div class="panel-head inline">
+          <h2>농협</h2>
+          <span id="count-nonghyup" class="count-pill">0건</span>
+        </div>
+        <div id="list-nonghyup" class="news-list"></div>
+      </section>
+
+      <section class="panel">
+        <div class="panel-head inline">
+          <h2>은행</h2>
+          <span id="count-bank" class="count-pill">0건</span>
+        </div>
+        <div id="list-bank" class="news-list"></div>
+      </section>
+    </section>
+  </main>
+
+  <footer class="site-footer wrap">
+    <p>GitHub Pages + GitHub Actions 기반 정적 사이트</p>
+  </footer>
+
+  <script src="./app.js"></script>
+</body>
+</html>
