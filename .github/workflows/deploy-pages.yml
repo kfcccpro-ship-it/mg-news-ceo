@@ -34,6 +34,9 @@ jobs:
 
       - name: Generate news data
         run: npm run generate
+         env:
+    NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
+    NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
 
       - name: Commit refreshed news data
         if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
