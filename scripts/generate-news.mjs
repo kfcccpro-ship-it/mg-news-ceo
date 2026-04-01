@@ -1,4 +1,10 @@
 import fs from 'node:fs/promises';
+const NAVER_CLIENT_ID = process.env.NAVER_CLIENT_ID;
+const NAVER_CLIENT_SECRET = process.env.NAVER_CLIENT_SECRET;
+
+if (!NAVER_CLIENT_ID || !NAVER_CLIENT_SECRET) {
+  throw new Error('네이버 API 키가 없습니다');
+}
 import path from 'node:path';
 import process from 'node:process';
 import Parser from 'rss-parser';
