@@ -1,79 +1,325 @@
 {
-  "updatedAt": "2026-03-31T09:00:00.000Z",
-  "totalCount": 6,
+  "updatedAt": "2026-04-01T01:17:41.507Z",
+  "totalCount": 36,
   "topStories": [
     {
-      "title": "새마을금고 관련 경영 이슈 점검 기사 예시",
-      "link": "https://example.com/saemaeul-1",
-      "description": "초기 배포 확인용 샘플 기사입니다. Actions가 돌면 실제 수집 데이터로 교체됩니다.",
-      "source": "샘플데이터",
-      "pubDate": "2026-03-31 09:00",
+      "title": "올해 가계대출 증가율 1.5%로 강화…새마을금고는 '동결' 패널티 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfQ3owcU5WOEJaUGJ5MHRmOWdLdmx6RmlWMEtJckJ2T2g1ZnhobHE3T3RCTzU1bzdiS2NSQl9mQmNNUGJ3cFV4RlZBelFQTWM?oc=5",
+      "description": "올해 가계대출 증가율 1.5%로 강화…새마을금고는 '동결' 패널티 v.daum.net",
+      "source": "\"새마을금고\" - Google 뉴스",
+      "pubDate": "2026-04-01 01:09",
       "category": "saemaeul"
     },
     {
-      "title": "농협 금융 동향 기사 예시",
-      "link": "https://example.com/nonghyup-1",
-      "description": "초기 화면이 비지 않도록 넣어둔 샘플 데이터입니다.",
-      "source": "샘플데이터",
-      "pubDate": "2026-03-31 09:00",
-      "category": "nonghyup"
+      "title": "전북자치도, 서부권 새마을금고 간담회 개최…서민금융 활성화 모색 - 아시아뉴스통신",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE90bHpSekdRdll3bnkzOHg2MVdVUTlELXdSTlpyd0VGT2REV19XUGRIX0w0aGp0UTVrQjYxM29QNkFZcUVfcW8yZlVJZmloWjJZZEZHZThicm1WRVJ5?oc=5",
+      "description": "전북자치도, 서부권 새마을금고 간담회 개최…서민금융 활성화 모색 아시아뉴스통신",
+      "source": "\"새마을금고\" - Google 뉴스",
+      "pubDate": "2026-04-01 01:09",
+      "category": "saemaeul"
     },
     {
-      "title": "은행권 디지털 전략 기사 예시",
-      "link": "https://example.com/bank-1",
-      "description": "첫 배포 직후 동작 여부를 바로 확인할 수 있습니다.",
-      "source": "샘플데이터",
-      "pubDate": "2026-03-31 09:00",
-      "category": "bank"
+      "title": "함께일하는재단·새마을금고·행안부, '사회연대경제조직 육성지원사업’ 공모 - 서울경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85WEVxaEE3aGtZM3UyUGp6VmwyQ3BOTGpibkRPTG0yeC1YUUdOSWdFMm05RmNfYnlhVW5qNHR2a0tlNVF2eGNqX0JGUm9WSTk5ZXpvYkozTXVMZnZDRUtEVFdKYkg?oc=5",
+      "description": "함께일하는재단·새마을금고·행안부, '사회연대경제조직 육성지원사업’ 공모 서울경제TV",
+      "source": "\"새마을금고\" - Google 뉴스",
+      "pubDate": "2026-04-01 01:05",
+      "category": "saemaeul"
     }
   ],
   "categories": {
     "saemaeul": [
       {
-        "title": "새마을금고 관련 경영 이슈 점검 기사 예시",
-        "link": "https://example.com/saemaeul-1",
-        "description": "초기 배포 확인용 샘플 기사입니다. Actions가 돌면 실제 수집 데이터로 교체됩니다.",
-        "source": "샘플데이터",
-        "pubDate": "2026-03-31 09:00"
+        "title": "올해 가계대출 증가율 1.5%로 강화…새마을금고는 '동결' 패널티 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfQ3owcU5WOEJaUGJ5MHRmOWdLdmx6RmlWMEtJckJ2T2g1ZnhobHE3T3RCTzU1bzdiS2NSQl9mQmNNUGJ3cFV4RlZBelFQTWM?oc=5",
+        "description": "올해 가계대출 증가율 1.5%로 강화…새마을금고는 '동결' 패널티 v.daum.net",
+        "source": "\"새마을금고\" - Google 뉴스",
+        "pubDate": "2026-04-01 01:09",
+        "category": "saemaeul"
       },
       {
-        "title": "지역 금융 협력 강화 기사 예시",
-        "link": "https://example.com/saemaeul-2",
-        "description": "샘플 데이터 2건째입니다.",
-        "source": "샘플데이터",
-        "pubDate": "2026-03-31 08:50"
+        "title": "전북자치도, 서부권 새마을금고 간담회 개최…서민금융 활성화 모색 - 아시아뉴스통신",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE90bHpSekdRdll3bnkzOHg2MVdVUTlELXdSTlpyd0VGT2REV19XUGRIX0w0aGp0UTVrQjYxM29QNkFZcUVfcW8yZlVJZmloWjJZZEZHZThicm1WRVJ5?oc=5",
+        "description": "전북자치도, 서부권 새마을금고 간담회 개최…서민금융 활성화 모색 아시아뉴스통신",
+        "source": "\"새마을금고\" - Google 뉴스",
+        "pubDate": "2026-04-01 01:09",
+        "category": "saemaeul"
+      },
+      {
+        "title": "함께일하는재단·새마을금고·행안부, '사회연대경제조직 육성지원사업’ 공모 - 서울경제TV",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85WEVxaEE3aGtZM3UyUGp6VmwyQ3BOTGpibkRPTG0yeC1YUUdOSWdFMm05RmNfYnlhVW5qNHR2a0tlNVF2eGNqX0JGUm9WSTk5ZXpvYkozTXVMZnZDRUtEVFdKYkg?oc=5",
+        "description": "함께일하는재단·새마을금고·행안부, '사회연대경제조직 육성지원사업’ 공모 서울경제TV",
+        "source": "\"새마을금고\" - Google 뉴스",
+        "pubDate": "2026-04-01 01:05",
+        "category": "saemaeul"
+      },
+      {
+        "title": "가계대출 증가율 1.5%로 하향…새마을금고엔 '0%' 페널티 - 연합뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ITWlRdXdLWjY5OTlTWUoxSG5wbnBnZXFPOEo0bWJwbUdoUzNyb3dQNElkZEZ3MFlCWUQ4SG1ydWlBU0xQOXVseTR4cTVGRjBKNGFuSjJCd21TVWvSAWBBVV95cUxOUFpZRTktNU9BZGZzbnU1ZXN0R2pPZWtZZnh4WkUxYzUxcElmUW85aURxaW92ZTBoQ3VqR3ZadWExQ2JlTVhENU5kX0J4TDg5UDhnZkU1ZWVHb2tvX25fS1g?oc=5",
+        "description": "가계대출 증가율 1.5%로 하향…새마을금고엔 '0%' 페널티 연합뉴스",
+        "source": "\"새마을금고\" - Google 뉴스",
+        "pubDate": "2026-04-01 01:00",
+        "category": "saemaeul"
+      },
+      {
+        "title": "올해 가계대출 증가율 1.5% 이내로 조인다…주담대 별도 관리 - 뉴시스",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LSmF1U19pRjlGZm5oY2R6d3lfWXJDTFFlX2lRRm1ZTUdubkY5Zm50ODJzYW8wdF9pUFNFVnFJYWRLUWV5T3RPWjZqRkt5eVlCWEtqc214S2NPQzRzUFcyR9IBeEFVX3lxTE1XRnh2bmdBX25qZ2FzQmZBYnpLZXFWcTZkYmRDMjVSRmN1N1BpWXJIYnR1TThxR3BaUG9SWEpoZG9zQ0ptSFZaVnBMclJYRTNxMnk5VEl3Ri1rSUU0SG9fbXYzbFVZb0JKZW9menlnYjdrZFloOTFiOA?oc=5",
+        "description": "올해 가계대출 증가율 1.5% 이내로 조인다…주담대 별도 관리 뉴시스",
+        "source": "\"새마을금고\" - Google 뉴스",
+        "pubDate": "2026-04-01 01:00",
+        "category": "saemaeul"
+      },
+      {
+        "title": "가계대출 증가율 1.5%로 하향…새마을금고엔 '0%' 페널티 - 네이트",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4bEV2UU5ITkp4S255LWtaTERPYUFJT05tblJHdDAwc25UaGRKalpiVkxPYmNTVTZISEpRVXdHd2tEQkxmc1hQVTFqMVpQUVZZOFJn?oc=5",
+        "description": "가계대출 증가율 1.5%로 하향…새마을금고엔 '0%' 페널티 네이트",
+        "source": "\"새마을금고\" - Google 뉴스",
+        "pubDate": "2026-04-01 01:00",
+        "category": "saemaeul"
+      },
+      {
+        "title": "[이런일] 남대구새마을금고, 사랑의 좀도리 운동으로 이웃사랑 실천 - 매일신문",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9yODViT1ZydGQ4cFBqWkl1SzU1YURoMVo3RURtVFhVaXZSdmFnV01VSFRJRktNQ0RhNVRBMjR2OTlZbzZvcDVmUEVpOENBVFlmZG0tM1NxaTkyRUxveHZTbWxR?oc=5",
+        "description": "[이런일] 남대구새마을금고, 사랑의 좀도리 운동으로 이웃사랑 실천 매일신문",
+        "source": "\"새마을금고\" - Google 뉴스",
+        "pubDate": "2026-04-01 00:54",
+        "category": "saemaeul"
+      },
+      {
+        "title": "MG새마을금고중앙회 제주지역본부, 서귀포시남자단기청소년쉼터에‘MG 온정 나눔 행사 지원사업’기부금 500만원 전달 - 제주사회복지신문",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10R1V3SDZkdlVMZUhoRXUtV0xFd1VrYUZYdHBITWtPMS1ydFJncHQwNGs3d2djcEtjMzZWYkNHN2lmel82TUR3OU5kcFpDRTFLM0JHTkdsS2g1Y2xlMEd5RzJIeFFmeGNHeTFLMU1PZGc?oc=5",
+        "description": "MG새마을금고중앙회 제주지역본부, 서귀포시남자단기청소년쉼터에‘MG 온정 나눔 행사 지원사업’기부금 500만원 전달 제주사회복지신문",
+        "source": "\"새마을금고\" - Google 뉴스",
+        "pubDate": "2026-04-01 00:32",
+        "category": "saemaeul"
+      },
+      {
+        "title": "새마을금고중앙회 'MG 온정 나눔행사 지원사업' 기부금 전달 - 삼다일보",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JejZGYlhSVE9VMHhlT043cnc1VE1YZlFZTGZrVjNpTGd3czg3Sk1IVVNzUnUxOFR4NmJmak5yOHA5ak05c2hKd1liNU8xcFVXWl9UM1MtcDJaVEd6YTBOb3phMHdzUURkcnhNdQ?oc=5",
+        "description": "새마을금고중앙회 'MG 온정 나눔행사 지원사업' 기부금 전달 삼다일보",
+        "source": "\"새마을금고\" - Google 뉴스",
+        "pubDate": "2026-04-01 00:20",
+        "category": "saemaeul"
+      },
+      {
+        "title": "새마을금고중앙회 'MG 따뜻한 한끼 쌀 나눔 지원사업' 전달식 개최 - 삼다일보",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01NVhmM0p4WmJuMHlhMnZxTjF0SENMbkRtUDZfMzJrWjdfd2JsbXBqWllRbnIybDRTb3lsR2JiWDFFZE9DVFkxWmdRejBJSVdIU1NFZVpfdUR3OThtc1Z0bmVkZkdfQWU5eXpBZw?oc=5",
+        "description": "새마을금고중앙회 'MG 따뜻한 한끼 쌀 나눔 지원사업' 전달식 개최 삼다일보",
+        "source": "\"새마을금고\" - Google 뉴스",
+        "pubDate": "2026-04-01 00:15",
+        "category": "saemaeul"
+      },
+      {
+        "title": "서천군 새마을금고는, 어려운 이웃을 위해 써달라며 장항읍지역사회보장협의체에 - goodnews365.net",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90Vk9Ya3BNSW1VUFduX0poajVlVWVRUUhtanF6bFU2d1JBSk53U2pTblN4ck5rM1A1VWJ5ZUdROS01RW9jZWd5VWE1WjFGTVZpYjNuREdjZWZZZHg4c25UQ1N3MUI1VEF1bW1oaWQ5NGFJaTB4RkE?oc=5",
+        "description": "서천군 새마을금고는, 어려운 이웃을 위해 써달라며 장항읍지역사회보장협의체에 goodnews365.net",
+        "source": "\"새마을금고\" - Google 뉴스",
+        "pubDate": "2026-04-01 00:00",
+        "category": "saemaeul"
+      },
+      {
+        "title": "새마을금고, ‘이원덕 前 우리은행장’ 전문이사로…내부통제 강화한다 - 이지경제",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sU0s0R2VxOTJ5R0JqR3cwNlRQS1VhNVdYNDhVa3pjeXF5VnlDUnhMZ3JLd0ZTeEg2OTB0bmFnd1A3OXNwUWRhSmJ6N0xBX09nSkxlUTJfeTdlZm5CSUt3LVgzamhlcHhYNGtmb3Vn?oc=5",
+        "description": "새마을금고, ‘이원덕 前 우리은행장’ 전문이사로…내부통제 강화한다 이지경제",
+        "source": "\"새마을금고\" - Google 뉴스",
+        "pubDate": "2026-03-31 23:00",
+        "category": "saemaeul"
       }
     ],
     "nonghyup": [
       {
-        "title": "농협 금융 동향 기사 예시",
-        "link": "https://example.com/nonghyup-1",
-        "description": "초기 화면이 비지 않도록 넣어둔 샘플 데이터입니다.",
-        "source": "샘플데이터",
-        "pubDate": "2026-03-31 09:00"
+        "title": "NH농협금융, 올해 첫 시너지협의회 개최…‘실행력’ 강조 - 브릿지경제",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qVzF6Z2NOekw4bm5MUmprQmI1X3RkYmRrTXM3SEl1NlFCRE5SU2Faek9hVm1xVC1KckVsd0dWZEtnejZOR3p4WUstS2VSY3Y0Z2g0YUVWUWcwZw?oc=5",
+        "description": "NH농협금융, 올해 첫 시너지협의회 개최…‘실행력’ 강조 브릿지경제",
+        "source": "\"농협 금융\" - Google 뉴스",
+        "pubDate": "2026-04-01 00:56",
+        "category": "nonghyup"
       },
       {
-        "title": "농업 금융 지원 확대 기사 예시",
-        "link": "https://example.com/nonghyup-2",
-        "description": "샘플 데이터 2건째입니다.",
-        "source": "샘플데이터",
-        "pubDate": "2026-03-31 08:40"
+        "title": "\"안정 성장·포용금융 강화\"…장종환 대표가 준비하는 NH농협캐피탈의 미래 - theleader.mt.co.kr",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXal9uZmg0djJHVkJ2bl9ISW5KUzZKSkt6bW5uU19maDdhcjROQUNDSmptMWxOY0RqVDRnUW9KWVA5R2tNU1hJS2lZRUJXbGdLdXpaaVYyd3pta2xlY3V5N2tuSTFvYnN5S0RhQWNnQjlJMnc1?oc=5",
+        "description": "\"안정 성장·포용금융 강화\"…장종환 대표가 준비하는 NH농협캐피탈의 미래 theleader.mt.co.kr",
+        "source": "\"농협 금융\" - Google 뉴스",
+        "pubDate": "2026-04-01 00:47",
+        "category": "nonghyup"
+      },
+      {
+        "title": "이찬우 농협금융 회장 \"고객 생애 책임지는 금융 생태계 구축 추진\" - 디지털투데이",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXRFF5R1k1QXJTcWJlLW5FcTRkQkcxTjdHSUxnYWV1aGVqNDlCRmNLRlhLRXlvSVI5NHpLYmFPaTNleDZFUE5tZ3FubnFYNVpHREhCZUg1R1otLU5OZGplZ2swTmRvTEZ3ZDV0elZBU29zTGs?oc=5",
+        "description": "이찬우 농협금융 회장 \"고객 생애 책임지는 금융 생태계 구축 추진\" 디지털투데이",
+        "source": "\"농협 금융\" - Google 뉴스",
+        "pubDate": "2026-04-01 00:42",
+        "category": "nonghyup"
+      },
+      {
+        "title": "[CEO+] 이찬우 농협금융 회장, NH투자증권 IMA 1호 가입 - 비즈월드",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE52eTdNU0Jlb2kzRGVITXdBcktlOEVkVHZsU1hNZGQzVzRCVllfQTdkNGE1UWIxSmRzSUdoNHZ4UUZmU21JTnU3QTl2clhiNmhxT21zYW9FVmxlWkFkU3ZYMzhYSjlZZkpERkVF?oc=5",
+        "description": "[CEO+] 이찬우 농협금융 회장, NH투자증권 IMA 1호 가입 비즈월드",
+        "source": "\"농협 금융\" - Google 뉴스",
+        "pubDate": "2026-04-01 00:31",
+        "category": "nonghyup"
+      },
+      {
+        "title": "NH농협은행, 대출구조 효율성 AX혁신으로 높인다 - 파이낸셜포스트",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OTW8wekxnZ21BNGtKQy1EUTJ1VnZRZU9VQnpNVmJOUDR4MGx4bzdNSFRoUGpCbE81YU11VmhYSlNrZ09TX1AzTmJxblhtYXgzS0J0M2IxWFdLWVVBMk1NWVBydEhtUWNEN1BCcmhLbzg2WU1N?oc=5",
+        "description": "NH농협은행, 대출구조 효율성 AX혁신으로 높인다 파이낸셜포스트",
+        "source": "\"농협 금융\" - Google 뉴스",
+        "pubDate": "2026-04-01 00:27",
+        "category": "nonghyup"
+      },
+      {
+        "title": "농협손해보험, 'NH올원더풀바른치료보험' 출시 - 네이트",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9mOVU3NFJlQXV4UGtJeEw2d244RmI4M1NNNFFxSi05SkVFRVdUalJsT3p4NmtONWpYRGNqOFVyMEVUWVR0RnVfUk1wc3VZMzN6VnJV?oc=5",
+        "description": "농협손해보험, 'NH올원더풀바른치료보험' 출시 네이트",
+        "source": "\"농협 금융\" - Google 뉴스",
+        "pubDate": "2026-04-01 00:27",
+        "category": "nonghyup"
+      },
+      {
+        "title": "농협손보, ‘올원더플 바른치료보험’ 고령층 보장 강화 - 글로벌이코노믹",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOT1hRMXRaT1lfcXczbjFremdQelBQSzlZQllmX3JHM2NUbTRqVFZESDF4M2dUcTFfWXJmZlY4U01tRGM4V2NfT3lzeEZnMmktR0VDTDNkSHZ5RWdtajFJekU3UTZDLUc5MVg3YnlIcDVXUlh5aTNCaXJKRlVNR0tDY2ZZT1M?oc=5",
+        "description": "농협손보, ‘올원더플 바른치료보험’ 고령층 보장 강화 글로벌이코노믹",
+        "source": "\"농협 금융\" - Google 뉴스",
+        "pubDate": "2026-04-01 00:26",
+        "category": "nonghyup"
+      },
+      {
+        "title": "이찬우 회장 “속도·실행으로 승부”…농협금융, 미래사업 재정비 - 서울경제TV",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1b1I1VXh0R3oyc1RNamo5TEEzZEZVaEFtNUw0NG1iLUItSkNqQmFET1VBbTFBVFlxalc0MTR1QzlFcWhpdkJIbFBZdlNHTmJhV2EtSG11R1hXREFaR3hpRk9QbDU?oc=5",
+        "description": "이찬우 회장 “속도·실행으로 승부”…농협금융, 미래사업 재정비 서울경제TV",
+        "source": "\"농협 금융\" - Google 뉴스",
+        "pubDate": "2026-04-01 00:21",
+        "category": "nonghyup"
+      },
+      {
+        "title": "이찬우 농협금융 회장 \"금융,국가 지속가능한 성장 견인해야\" - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DSzhycjhraWNtLTdSUkVyNmJ6T1NOMHNOeEpXTko1TExrTkhxODhfRmM2YklBdkVWdnp2M1Etbk5sMjNFLTFMOXAyTGtwbFU?oc=5",
+        "description": "이찬우 농협금융 회장 \"금융,국가 지속가능한 성장 견인해야\" v.daum.net",
+        "source": "\"농협 금융\" - Google 뉴스",
+        "pubDate": "2026-04-01 00:16",
+        "category": "nonghyup"
+      },
+      {
+        "title": "[CEO 직썰] 이찬우 NH농협금융 회장 “자회사 시너지 통해 차별화된 경쟁력 만들자” - 직썰",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSLVZXR0Z5YjhJQkxNM1NZaU9mZkx5UVVPYjRBQmFzYWhTTDVUSG1aandtYzhCcGRiS192TUFTM202YWZvRXdtT3ZPUUw5TW1faUpFZ1VWS2pBcGZXOHJUVTNYSjh4azAt0gFsQVVfeXFMTTEyVGFXNnNOZXM3S1lWYlJqcnptUFRBVVRad0dNYnA5TEhLRUItMGtzQVZuajlJSE9jeXU1Mm50dWNjOTZOSm1JZEpfNktCUzl0RkhmY2thaTNUZHo1WW5fMmk2aUgyNnJzUi1Y?oc=5",
+        "description": "[CEO 직썰] 이찬우 NH농협금융 회장 “자회사 시너지 통해 차별화된 경쟁력 만들자” 직썰",
+        "source": "\"농협 금융\" - Google 뉴스",
+        "pubDate": "2026-04-01 00:15",
+        "category": "nonghyup"
+      },
+      {
+        "title": "이찬우 농협금융 회장 \"금융,국가 지속가능한 성장 견인해야\" - 네이트",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwTUNNd1RsNG5JZkxpSEJueW8xa3hnSlBhNmJXTDJkUm4zOUFLOVRDdkM1bzUxQ0pGVXVMRTdQcGcxbE1lYkpIQUpRRUZxR2UyNzFv?oc=5",
+        "description": "이찬우 농협금융 회장 \"금융,국가 지속가능한 성장 견인해야\" 네이트",
+        "source": "\"농협 금융\" - Google 뉴스",
+        "pubDate": "2026-04-01 00:15",
+        "category": "nonghyup"
+      },
+      {
+        "title": "NH농협금융, 사업전략·시너지추진협의회 개최…'속도감 있는 실행력' 강조 - fetv.co.kr",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42dVc1TlJkcUxldzE3S3JjR2pMM0hhamZ4T1Q5Q1RFMXpSOUc3TDVDSDV5MEc0VHB3c3VSQTQ5OWxhWlphclRiMHN0bWhLdU5lbWplQ1p3TWZ4UQ?oc=5",
+        "description": "NH농협금융, 사업전략·시너지추진협의회 개최…'속도감 있는 실행력' 강조 fetv.co.kr",
+        "source": "\"농협 금융\" - Google 뉴스",
+        "pubDate": "2026-04-01 00:05",
+        "category": "nonghyup"
       }
     ],
     "bank": [
       {
-        "title": "은행권 디지털 전략 기사 예시",
-        "link": "https://example.com/bank-1",
-        "description": "첫 배포 직후 동작 여부를 바로 확인할 수 있습니다.",
-        "source": "샘플데이터",
-        "pubDate": "2026-03-31 09:00"
+        "title": "금융 아닌 ‘꿈’ 나눔… BNK부산은행, 어린이 꿈 키우는 ‘아이러브 페스티벌’ 개최 - 아시아경제",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuQXdMelNYMUg2NkJkT2xXU0RWUk1DYUNrZ1hWUmZTdDhUbEgyVWE2VnJVY3pNdC1kcmtHVzMzTnhEUm1YUVhfX0lxc3Y2SW1ZU041b0RzVEduVFkyYjE0dQ?oc=5",
+        "description": "금융 아닌 ‘꿈’ 나눔… BNK부산은행, 어린이 꿈 키우는 ‘아이러브 페스티벌’ 개최 아시아경제",
+        "source": "\"은행 금융\" - Google 뉴스",
+        "pubDate": "2026-04-01 01:11",
+        "category": "bank"
       },
       {
-        "title": "시중은행 리스크 관리 기사 예시",
-        "link": "https://example.com/bank-2",
-        "description": "샘플 데이터 2건째입니다.",
-        "source": "샘플데이터",
-        "pubDate": "2026-03-31 08:30"
+        "title": "서민금융진흥원, '징검다리론' 취급 은행 6곳으로 확대 - 네이트",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5zZ3dwY2dRU093eExMQ1JURUtGUWNEYXNHT0lqQTRMRnpray1sUVlabkJ6LXdvRkFSSUlTd0VKNjhwdlV5TEVDWG13MmJWRGp3UExScGl4dElHY0E4TXRlaVJDZFlTYjlEY0lsWm5fY21pVVVRcEIzag?oc=5",
+        "description": "서민금융진흥원, '징검다리론' 취급 은행 6곳으로 확대 네이트",
+        "source": "\"은행 금융\" - Google 뉴스",
+        "pubDate": "2026-04-01 01:06",
+        "category": "bank"
+      },
+      {
+        "title": "IBK기업은행, 프리미엄 카드 ‘BLISS’ 2종 선봬 - 비즈월드",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mX20tUUNjSjRPMHBPYzA5MXZEQUVwRmhicXRHcHRPUWxvQ2tMdWdjREtldU1oZDRLTlppUUYzcjFHN194aEhoY2lSX0dhV3NIWGd3Z3ZRMC1yUDlyR25XUnVvOTNDNXVsUFFj?oc=5",
+        "description": "IBK기업은행, 프리미엄 카드 ‘BLISS’ 2종 선봬 비즈월드",
+        "source": "\"은행 금융\" - Google 뉴스",
+        "pubDate": "2026-04-01 01:03",
+        "category": "bank"
+      },
+      {
+        "title": "신한투자증권, 생산적 금융 지원 위한 리서치본부 확대개편 - enewstoday.co.kr",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWeFBOTWlBc08zQjB5VTI1ZjdoTUx6OVN5RDlzMzZvak9GRVZUbGkxRERsVW1lazA4Y0JfMm5FN29QbkNSLVBqc3N6bmFIOEJhWnIwYzZRSG1RRUZoX0pseFBpR01wQVAyR2VxcG9IMV_SAXRBVV95cUxOZW40NEttWXNsbWVNZDNHMlhZM3J4WXdLWlZHeThnUl9nLThSZzRKNndhS2hwS1NNNkY4Q0QwRkJld2tlMVRFSXVNU20wQTQ1MGVLUHFZMWFrV3FoWUJ4akxiWUR2bi1WS0s3TXRLekJZVnJmVw?oc=5",
+        "description": "신한투자증권, 생산적 금융 지원 위한 리서치본부 확대개편 enewstoday.co.kr",
+        "source": "\"은행 금융\" - Google 뉴스",
+        "pubDate": "2026-04-01 00:58",
+        "category": "bank"
+      },
+      {
+        "title": "하나은행, 군 장병 위한 ‘하나 나라사랑카드 라운지’ 오픈 - dailysmart.co.kr",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyUFRPY0JjZUZfVkxPajV4RGtuU2NTcXJfbHhPMGtFVWludnBxbU8xd0ZQcVV6WHJMZ2pMaTFYdGFFRG5SaHRsTTR5dUVMMzNpVHJQZkJtN0IySVdfdDZMaTdlbU05dHhKZnVtU21Fc2s?oc=5",
+        "description": "하나은행, 군 장병 위한 ‘하나 나라사랑카드 라운지’ 오픈 dailysmart.co.kr",
+        "source": "\"은행 금융\" - Google 뉴스",
+        "pubDate": "2026-04-01 00:53",
+        "category": "bank"
+      },
+      {
+        "title": "NH농협은행-머스트리, AI 기반 ‘자동대출 시스템’ 구축 업무협약 - 뉴스케이프",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EdGxneU1adUpYXzktR2d3OF9mbEpNSDdkeHgwdUJOcENtM3JXRUJ4MlB0Tl9WdGtrYld0WW11RUtkeG1ENnpvUEJsSWFrb0U1ZEFIR0ZtR0p3dFB0a3V1N2ItZEU5UndMa3BMUNIBcEFVX3lxTE9ISXFDSDBZVjJ3WmtJWGVybzhZNF9YeHlucFNlc09PZ1NwT1VTbXdmcEFuMmx3cUE4dWc3a3pSTm5RZkdXaVlWMHNPcy00dWRXUUFaZUxjVy1lbmZtMGR5ZHNlVVZLdGNjU1FUTmItYWY?oc=5",
+        "description": "NH농협은행-머스트리, AI 기반 ‘자동대출 시스템’ 구축 업무협약 뉴스케이프",
+        "source": "\"은행 금융\" - Google 뉴스",
+        "pubDate": "2026-04-01 00:46",
+        "category": "bank"
+      },
+      {
+        "title": "BNK부산은행, 어린이 꿈 자라는 ‘아이러브 페스티벌’ 개최 - 청년투데이",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DTWhzOGhoX09qNFJvYy1DektaQzRRckdmMFFRcFNIZC1lN3Q0RThSSGZLRG5hM0VleXlCbHozbHZZcEhHR3pzYmxYXzk5d19QcEpEYTNmamxWdkJkaVFlRWc2bVlON2EzUVE?oc=5",
+        "description": "BNK부산은행, 어린이 꿈 자라는 ‘아이러브 페스티벌’ 개최 청년투데이",
+        "source": "\"은행 금융\" - Google 뉴스",
+        "pubDate": "2026-04-01 00:45",
+        "category": "bank"
+      },
+      {
+        "title": "BNK부산은행, 어린이 축제 ‘아이러브 페스티벌’ 개최 - 서울와이어",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzbjExd2VETFg0VFVTTEhrY2FnYzlZXzlsVnY2TEtabm5EX3BpdEgxWGJJNDNaR2Fic2h6WTdZdmM0Y0xyejFRdm5CcnFVbFJlTkdoVTk5OHZjOFh2RlVuOEp2eWVQUGNnVExKaw?oc=5",
+        "description": "BNK부산은행, 어린이 축제 ‘아이러브 페스티벌’ 개최 서울와이어",
+        "source": "\"은행 금융\" - Google 뉴스",
+        "pubDate": "2026-04-01 00:43",
+        "category": "bank"
+      },
+      {
+        "title": "신한은행, 11번가와 '11pay 계좌연결 이벤트' 진행 - 디지털투데이",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SV0w4Q05TcFlKYnBKbjFVM2FJOU1zdmxMMmhPTE1jMEE5SzJoNTI3VGN1ekFFR0NFVFhOSm1ndmtLOUt5Xzl1WTR4MV92aVBxR2NpcXVQMGVhQk9UMU9zRHFTZTJNSV9DRmpQOVgyZjl4bWc?oc=5",
+        "description": "신한은행, 11번가와 '11pay 계좌연결 이벤트' 진행 디지털투데이",
+        "source": "\"은행 금융\" - Google 뉴스",
+        "pubDate": "2026-04-01 00:38",
+        "category": "bank"
+      },
+      {
+        "title": "농협은행, ㈜머스트리와 AX혁신 기술개발 사업 위한 MOU 체결 - dailysmart.co.kr",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5keVBKYmVoZDQzOXd2OF93S0UtYV9lRWhqdms2YzVzbGwyS1dXMGtReHFnTDdCelZRU0YtX1lreHl2ZmxMbnJiTWd3U05MWWxpb2RRTnRwWFJ2SzdpV293UDdYYlBEbGlmSnNYS0pRNXE?oc=5",
+        "description": "농협은행, ㈜머스트리와 AX혁신 기술개발 사업 위한 MOU 체결 dailysmart.co.kr",
+        "source": "\"은행 금융\" - Google 뉴스",
+        "pubDate": "2026-04-01 00:30",
+        "category": "bank"
+      },
+      {
+        "title": "하나은행, 군 장병 전용 ‘나라사랑카드 라운지’ 오픈 - 서울와이어",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96U2FvdEFEZDZjZ21OUHZUelhnUGpNOE1YdTlfR0o2ZGk5OGI4a3lvQ05YTkVSZGwtbUFTaVotTTQwam1BalJqVlNQdFBPOGZTZGRyMTdkZFRvRlAyOGZNTmV6STIzbFJIWFJxMg?oc=5",
+        "description": "하나은행, 군 장병 전용 ‘나라사랑카드 라운지’ 오픈 서울와이어",
+        "source": "\"은행 금융\" - Google 뉴스",
+        "pubDate": "2026-04-01 00:29",
+        "category": "bank"
+      },
+      {
+        "title": "NH농협은행, 대출구조 효율성 AX혁신으로 높인다 - 파이낸셜포스트",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OTW8wekxnZ21BNGtKQy1EUTJ1VnZRZU9VQnpNVmJOUDR4MGx4bzdNSFRoUGpCbE81YU11VmhYSlNrZ09TX1AzTmJxblhtYXgzS0J0M2IxWFdLWVVBMk1NWVBydEhtUWNEN1BCcmhLbzg2WU1N?oc=5",
+        "description": "NH농협은행, 대출구조 효율성 AX혁신으로 높인다 파이낸셜포스트",
+        "source": "\"은행 금융\" - Google 뉴스",
+        "pubDate": "2026-04-01 00:27",
+        "category": "bank"
       }
     ]
   }
