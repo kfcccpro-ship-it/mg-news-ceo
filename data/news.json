@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-02T04:00:12.710Z",
+  "updatedAt": "2026-04-02T04:15:03.552Z",
   "headline": "“대출 규제에 금리 급등까지”…가계대출 더 옥죄는 정부 등 새마을금고 관련 핵심 이슈를 점검할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -12,94 +12,87 @@
         "term": null,
         "importance": "새마을금고의 수신·여신 운영과 예대율 관리 측면에서 참고할 가치가 있습니다.",
         "insight": "새마을금고의 수신 경쟁, 대출 운용, 예대율 관리에 미치는 영향을 함께 볼 필요가 있습니다."
-      },
-      {
-        "title": "프랭클린템플턴 &quot;한은, 고유가 지속 시 5월부터 금리 인상&quot;",
-        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4407420",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 12:52:00 +0900",
-        "summary": "금리 변화는 금융회사의 수익성과 자금운용에 영향을 줍니다.",
-        "term": null,
-        "importance": "새마을금고의 수신·여신 운영과 예대율 관리 측면에서 참고할 가치가 있습니다.",
-        "insight": "새마을금고의 수신 경쟁, 대출 운용, 예대율 관리에 미치는 영향을 함께 볼 필요가 있습니다."
       }
     ],
     "otherFinance": [
       {
-        "title": "카드형 보성사랑상품권, 주유소 결제 시 최대 25% 할인 혜택 제공",
-        "link": "https://www.viva100.com/article/20260402500747",
+        "title": "진옥동 회장이 상상했던 'DJ Bank' 현실화…&quot;기업 ERP 안에서 은행 업무...",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1354439",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 12:56:00 +0900",
+        "pubDate": "Thu, 02 Apr 2026 13:14:00 +0900",
         "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
         "term": null,
         "importance": "타 금융권의 움직임을 통해 대응 방향을 비교해볼 수 있는 기사입니다.",
         "insight": "타 금융권의 움직임을 통해 새마을금고의 대응 방향을 비교해볼 수 있습니다."
       },
       {
-        "title": "우리은행, 중동 불안에 18.4조 규모 금융지원 추진",
-        "link": "http://www.newsbrite.net/news/articleView.html?idxno=197278",
+        "title": "[단독] 산업은행, 사업자대출 '용도 외 유용' 적발 즉시 제재",
+        "link": "https://n.news.naver.com/mnews/article/030/0003414036?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 12:52:00 +0900",
+        "pubDate": "Thu, 02 Apr 2026 13:14:00 +0900",
+        "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
+        "term": null,
+        "importance": "타 금융권의 금리·수신 전략이 경쟁환경에 주는 영향을 살펴볼 수 있습니다.",
+        "insight": "타 금융권의 금리·수신 전략 변화가 새마을금고에도 경쟁 압력으로 이어질 수 있습니다."
+      },
+      {
+        "title": "30대 1인당 은행대출 1억 돌파",
+        "link": "https://www.naeil.com/news/read/583799?ref=naver",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 02 Apr 2026 13:12:00 +0900",
+        "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
+        "term": null,
+        "importance": "타 금융권의 금리·수신 전략이 경쟁환경에 주는 영향을 살펴볼 수 있습니다.",
+        "insight": "타 금융권의 금리·수신 전략 변화가 새마을금고에도 경쟁 압력으로 이어질 수 있습니다."
+      },
+      {
+        "title": "IBK기업은행, GS리테일·한국은행과 디지털화폐 및 예금토큰 실증 업무...",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=330758",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 02 Apr 2026 13:10:00 +0900",
+        "summary": "디지털 전환은 금융 경쟁력의 핵심 요소입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        },
+        "importance": "타 금융권의 채널 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "insight": "타 금융권의 디지털 전략 변화가 새마을금고 경쟁환경에 주는 시사점을 볼 수 있습니다."
+      },
+      {
+        "title": "KB국민은행, 국내 최초 한국-인도네시아 간 QR결제 서비스 출시",
+        "link": "https://www.kgnews.co.kr/news/article.html?no=890076",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 02 Apr 2026 13:10:00 +0900",
         "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
         "term": null,
         "importance": "타 금융권의 움직임을 통해 대응 방향을 비교해볼 수 있는 기사입니다.",
         "insight": "타 금융권의 움직임을 통해 새마을금고의 대응 방향을 비교해볼 수 있습니다."
       },
       {
-        "title": "광주은행, 'KIA타이거즈 우승기원 예·적금' 선봬",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1354437",
+        "title": "신한카드 KB국민카드 하나금융 外(금융 레이더)",
+        "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3059687",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 12:50:00 +0900",
+        "pubDate": "Thu, 02 Apr 2026 13:08:00 +0900",
         "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
         "term": null,
         "importance": "타 금융권의 움직임을 통해 대응 방향을 비교해볼 수 있는 기사입니다.",
         "insight": "타 금융권의 움직임을 통해 새마을금고의 대응 방향을 비교해볼 수 있습니다."
       },
       {
-        "title": "변액보험 2026년 4월 브랜드평판...미래에셋생명, 삼성생명, 한화생명 順",
-        "link": "https://www.energy-news.co.kr/news/articleView.html?idxno=224265",
+        "title": "조원래 함양 지리산마천농협 조합장, 서부산림청으로부터 감사패 받아",
+        "link": "https://n.news.naver.com/mnews/article/662/0000092014?sid=102",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 12:46:00 +0900",
+        "pubDate": "Thu, 02 Apr 2026 13:03:00 +0900",
         "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
         "term": null,
         "importance": "타 금융권의 움직임을 통해 대응 방향을 비교해볼 수 있는 기사입니다.",
         "insight": "타 금융권의 움직임을 통해 새마을금고의 대응 방향을 비교해볼 수 있습니다."
       },
       {
-        "title": "곡성군, 제휴카드 적립기금 전달식 진행",
-        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1244603",
+        "title": "농협회장 직선제 놓고 찬반 격돌",
+        "link": "https://www.naeil.com/news/read/583682?ref=naver",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 12:46:00 +0900",
-        "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
-        "term": null,
-        "importance": "타 금융권의 움직임을 통해 대응 방향을 비교해볼 수 있는 기사입니다.",
-        "insight": "타 금융권의 움직임을 통해 새마을금고의 대응 방향을 비교해볼 수 있습니다."
-      },
-      {
-        "title": "농협 진천군지부, 진천군에 제휴카드 적립금 5796만원 전달",
-        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2407614",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 12:40:00 +0900",
-        "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
-        "term": null,
-        "importance": "타 금융권의 움직임을 통해 대응 방향을 비교해볼 수 있는 기사입니다.",
-        "insight": "타 금융권의 움직임을 통해 새마을금고의 대응 방향을 비교해볼 수 있습니다."
-      },
-      {
-        "title": "안정농협, 조합원 자녀 장학금 전달",
-        "link": "https://www.dkilbo.com/news/articleView.html?idxno=539579",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 12:30:00 +0900",
-        "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
-        "term": null,
-        "importance": "타 금융권의 움직임을 통해 대응 방향을 비교해볼 수 있는 기사입니다.",
-        "insight": "타 금융권의 움직임을 통해 새마을금고의 대응 방향을 비교해볼 수 있습니다."
-      },
-      {
-        "title": "보성군, 카드형 보성사랑상품권 6월까지 최대 25% 특별할인",
-        "link": "https://n.news.naver.com/mnews/article/002/0002435061?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 12:13:00 +0900",
+        "pubDate": "Thu, 02 Apr 2026 13:02:00 +0900",
         "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
         "term": null,
         "importance": "타 금융권의 움직임을 통해 대응 방향을 비교해볼 수 있는 기사입니다.",
@@ -107,6 +100,16 @@
       }
     ],
     "macro": [
+      {
+        "title": "수출입銀, 공급망안정화기금 첫 글로벌본드 5억 달러 발행",
+        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=266813",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 02 Apr 2026 13:10:00 +0900",
+        "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
+        "term": null,
+        "importance": "",
+        "insight": ""
+      },
       {
         "title": "'우남퍼스트빌 더 펜트' 오피스텔 전기료 연체·단전 위기까지……",
         "link": "https://www.kmaeil.com/news/articleView.html?idxno=635420",
