@@ -455,7 +455,7 @@ function renderGroupIcon(groupKey) {
     return `
       <span class="section-main-icon" aria-hidden="true" style="padding:0; overflow:hidden; background:#fff; border-color:#cfe1ff;">
         <img
-          src="./assets/mg-logo.jpg"
+          src="./assets/mg-logo.png"
           alt=""
           style="width:28px; height:28px; object-fit:contain; display:block;"
         />
