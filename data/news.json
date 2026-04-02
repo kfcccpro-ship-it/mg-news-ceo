@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-02T05:17:04.607Z",
+  "updatedAt": "2026-04-02T05:19:38.796Z",
   "headline": "새마을금고중앙회, '승용차 5부제' 시행…에너지 절약 동참 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -22,6 +22,41 @@
     ],
     "otherFinance": [
       {
+        "title": "충주 수안보농협 “가루쌀로 만든 미나리부추전 어때요?”",
+        "link": "https://n.news.naver.com/mnews/article/662/0000092023?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 02 Apr 2026 14:18:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "진옥동 “기업금융 한계 넘는다”…제주은행, DJ 뱅크 솔루션 첫 공개",
+        "link": "https://n.news.naver.com/mnews/article/138/0002223096?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 02 Apr 2026 14:18:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "IBK기업은행·GS리테일·한국은행, 디지털화폐·예금토큰 기반 결제·정...",
+        "link": "http://www.techholic.co.kr/news/articleView.html?idxno=220624",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 02 Apr 2026 14:18:00 +0900",
+        "summary": "디지털 전환은 금융 경쟁력의 핵심 요소입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "[밀양소식]자활센터, 농협과 손잡고 저소득층 지원 등",
+        "link": "https://n.news.naver.com/mnews/article/003/0013863234?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 02 Apr 2026 14:17:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
         "title": "경북농협, 칠곡서 농촌 왕진버스 시작",
         "link": "http://www.hidomin.com/news/articleView.html?idxno=615034",
         "source": "네이버뉴스",
@@ -32,14 +67,6 @@
       {
         "title": "제주농협, 한농연 전국대회서 '농심천심 홍보관' 운영",
         "link": "https://www.jejudomin.co.kr/news/articleView.html?idxno=318095",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 14:16:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "KB국민은행, 한국 -인니 간 QR서비스 출시",
-        "link": "https://www.gokorea.kr/news/articleView.html?idxno=862339",
         "source": "네이버뉴스",
         "pubDate": "Thu, 02 Apr 2026 14:16:00 +0900",
         "summary": "",
@@ -57,37 +84,10 @@
         }
       },
       {
-        "title": "IBK기업은행, GS리테일·한국은행과 디지털화폐·예금토큰 실증 업무협...",
-        "link": "http://www.segyebiz.com/newsView/20260402512202?OutUrl=naver",
+        "title": "KB국민은행, 한국 -인니 간 QR서비스 출시",
+        "link": "https://www.gokorea.kr/news/articleView.html?idxno=862339",
         "source": "네이버뉴스",
         "pubDate": "Thu, 02 Apr 2026 14:16:00 +0900",
-        "summary": "디지털 전환은 금융 경쟁력의 핵심 요소입니다.",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
-      },
-      {
-        "title": "[위클리오늘] 횡성 공근농협, 농산물 유통센터 준공…본격 가동",
-        "link": "http://www.weeklytoday.com/news/articleView.html?idxno=768942",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 14:14:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "강원농협, 농촌왕진버스 본격 가동…영농 의료 사각지대 해소",
-        "link": "https://n.news.naver.com/mnews/article/001/0015998453?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 14:12:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "제주은행, ERP뱅킹 승부수…'DJ Bank' 첫선",
-        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4407435",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 14:12:00 +0900",
         "summary": "",
         "term": null
       }
