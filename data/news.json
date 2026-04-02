@@ -1,46 +1,92 @@
 {
-  "updatedAt": "2026-04-02T02:20:13.779Z",
-  "headline": "금융환경 변화에 따른 주요 이슈를 점검할 필요가 있습니다.",
+  "updatedAt": "2026-04-02T02:30:25.887Z",
+  "headline": "새마을금고중앙회 김인 회장이 '새마을금고 위기설'을 빠르게 가라 앉혔... 등 새마을금고 관련 핵심 이슈를 점검할 필요가 있습니다.",
   "categories": {
-    "saemaeul": [
+    "mg": [
       {
-        "title": "성남시, 4월 성남사랑상품권 10% 특별할인 판매",
-        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=243990",
+        "title": "새마을금고중앙회 김인 회장이 '새마을금고 위기설'을 빠르게 가라 앉혔...",
+        "link": "https://www.huffingtonpost.kr/article/256325",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 11:08:00 +0900",
+        "pubDate": "Thu, 02 Apr 2026 10:48:00 +0900",
         "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
-        "term": {
-          "word": "금융환경",
-          "meaning": "금리·경기 등 금융기관에 영향을 주는 외부 조건입니다."
-        },
-        "importance": "경영 판단에 참고가 될 수 있습니다.",
-        "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
+        "term": null,
+        "importance": "새마을금고 운영과 직접 연결될 가능성이 높은 이슈입니다.",
+        "insight": "새마을금고 운영과 경영 판단에 직접 연결될 수 있어 우선적으로 볼 가치가 있습니다."
+      }
+    ],
+    "otherFinance": [
+      {
+        "title": "지도농협, 깨끗한 농촌 만들기 앞장",
+        "link": "http://www.mygoyang.com/news/articleView.html?idxno=88152",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 02 Apr 2026 11:24:00 +0900",
+        "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
+        "term": null,
+        "importance": "타 금융권의 움직임을 통해 대응 방향을 비교해볼 수 있는 기사입니다.",
+        "insight": "타 금융권의 움직임을 통해 새마을금고의 대응 방향을 비교해볼 수 있습니다."
       },
       {
-        "title": "성남시, 4월 성남사랑상품권 10% 특별할인 판매",
-        "link": "http://www.breaknews.com/1197170",
+        "title": "'고양이에게 생선' 신안군 지역농협, 수십억원 허위 거래 논란",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=299181",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 10:56:00 +0900",
+        "pubDate": "Thu, 02 Apr 2026 11:24:00 +0900",
         "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
-        "term": {
-          "word": "금융환경",
-          "meaning": "금리·경기 등 금융기관에 영향을 주는 외부 조건입니다."
-        },
-        "importance": "경영 판단에 참고가 될 수 있습니다.",
-        "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
+        "term": null,
+        "importance": "타 금융권의 움직임을 통해 대응 방향을 비교해볼 수 있는 기사입니다.",
+        "insight": "타 금융권의 움직임을 통해 새마을금고의 대응 방향을 비교해볼 수 있습니다."
       },
       {
-        "title": "성남시, 4월 성남사랑상품권 10% 특별할인 판매",
-        "link": "https://n.news.naver.com/mnews/article/119/0003076244?sid=102",
+        "title": "경기 광주 도척농협, 경로당 운영비 지원",
+        "link": "https://n.news.naver.com/mnews/article/662/0000092012?sid=102",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 10:54:00 +0900",
+        "pubDate": "Thu, 02 Apr 2026 11:24:00 +0900",
         "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
+        "term": null,
+        "importance": "타 금융권의 움직임을 통해 대응 방향을 비교해볼 수 있는 기사입니다.",
+        "insight": "타 금융권의 움직임을 통해 새마을금고의 대응 방향을 비교해볼 수 있습니다."
+      },
+      {
+        "title": "정읍농협, '피트모스' 지원으로 생산기반 강화",
+        "link": "http://www.domin.co.kr/news/articleView.html?idxno=1550804",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 02 Apr 2026 11:24:00 +0900",
+        "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
+        "term": null,
+        "importance": "타 금융권의 움직임을 통해 대응 방향을 비교해볼 수 있는 기사입니다.",
+        "insight": "타 금융권의 움직임을 통해 새마을금고의 대응 방향을 비교해볼 수 있습니다."
+      },
+      {
+        "title": "신한은행 땡겨요, 안동시와 경상북도 첫 공공배달앱 협약",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=260464",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 02 Apr 2026 11:24:00 +0900",
+        "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
+        "term": null,
+        "importance": "타 금융권의 채널 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "insight": "타 금융권의 디지털 전략 변화가 새마을금고 경쟁환경에 주는 시사점을 볼 수 있습니다."
+      },
+      {
+        "title": "산업은행, 공시 기반 보고서 자동 생성하는 '재무분석 AI' 도입",
+        "link": "https://n.news.naver.com/mnews/article/018/0006248304?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 02 Apr 2026 11:23:00 +0900",
+        "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
+        "term": null,
+        "importance": "타 금융권의 움직임을 통해 대응 방향을 비교해볼 수 있는 기사입니다.",
+        "insight": "타 금융권의 움직임을 통해 새마을금고의 대응 방향을 비교해볼 수 있습니다."
+      },
+      {
+        "title": "IBK기업은행-GS리테일-한국은행, 디지털화폐 및 예금토큰 활용 검증 위해...",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=117339",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 02 Apr 2026 11:22:00 +0900",
+        "summary": "디지털 전환은 금융 경쟁력의 핵심 요소입니다.",
         "term": {
-          "word": "금융환경",
-          "meaning": "금리·경기 등 금융기관에 영향을 주는 외부 조건입니다."
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
         },
-        "importance": "경영 판단에 참고가 될 수 있습니다.",
-        "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
+        "importance": "타 금융권의 채널 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "insight": "타 금융권의 디지털 전략 변화가 새마을금고 경쟁환경에 주는 시사점을 볼 수 있습니다."
       },
       {
         "title": "가계대출 1.5% 총량 캡 확정…은행별 쪼개기 돌입",
@@ -48,354 +94,31 @@
         "source": "네이버뉴스",
         "pubDate": "Thu, 02 Apr 2026 10:52:00 +0900",
         "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
-        "term": {
-          "word": "금융환경",
-          "meaning": "금리·경기 등 금융기관에 영향을 주는 외부 조건입니다."
-        },
-        "importance": "경영 판단에 참고가 될 수 있습니다.",
-        "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
-      },
-      {
-        "title": "새마을금고중앙회 김인 회장이 '새마을금고 위기설'을 빠르게 가라 앉혔...",
-        "link": "https://www.huffingtonpost.kr/article/256325",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 10:48:00 +0900",
-        "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
-        "term": {
-          "word": "금융환경",
-          "meaning": "금리·경기 등 금융기관에 영향을 주는 외부 조건입니다."
-        },
-        "importance": "경영 판단에 참고가 될 수 있습니다.",
-        "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
-      },
-      {
-        "title": "성남시, 지역화폐 10% 할인 판매",
-        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2414090",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 10:30:00 +0900",
-        "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
-        "term": {
-          "word": "금융환경",
-          "meaning": "금리·경기 등 금융기관에 영향을 주는 외부 조건입니다."
-        },
-        "importance": "경영 판단에 참고가 될 수 있습니다.",
-        "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
-      },
-      {
-        "title": "'한다면 했던' 李대통령, 다주택자 돈줄 말려 집값 잡을까..&quot;공급이 관건...",
-        "link": "https://n.news.naver.com/mnews/article/014/0005501451?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 10:26:00 +0900",
-        "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
-        "term": {
-          "word": "금융환경",
-          "meaning": "금리·경기 등 금융기관에 영향을 주는 외부 조건입니다."
-        },
-        "importance": "경영 판단에 참고가 될 수 있습니다.",
-        "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
-      },
-      {
-        "title": "성남사랑상품권 10% 특별할인 판매…중동 사태 장기화에 따른 민생경제...",
-        "link": "https://n.news.naver.com/mnews/article/629/0000487661?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 10:20:00 +0900",
-        "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
-        "term": {
-          "word": "금융환경",
-          "meaning": "금리·경기 등 금융기관에 영향을 주는 외부 조건입니다."
-        },
-        "importance": "경영 판단에 참고가 될 수 있습니다.",
-        "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
-      },
-      {
-        "title": "사사불공의 20년… 원불교 군종, 만사형통의 미래 다짐",
-        "link": "http://www.wonnews.co.kr/news/articleView.html?idxno=314566",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 10:16:00 +0900",
-        "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
-        "term": {
-          "word": "금융환경",
-          "meaning": "금리·경기 등 금융기관에 영향을 주는 외부 조건입니다."
-        },
-        "importance": "경영 판단에 참고가 될 수 있습니다.",
-        "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
-      },
-      {
-        "title": "새마을금고, 에너지 위기에 전사 '차량 5부제' 도입",
-        "link": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=515109",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 10:10:00 +0900",
-        "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
-        "term": {
-          "word": "금융환경",
-          "meaning": "금리·경기 등 금융기관에 영향을 주는 외부 조건입니다."
-        },
-        "importance": "경영 판단에 참고가 될 수 있습니다.",
-        "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
+        "term": null,
+        "importance": "타 금융권의 금리·수신 전략이 경쟁환경에 주는 영향을 살펴볼 수 있습니다.",
+        "insight": "타 금융권의 금리·수신 전략 변화가 새마을금고에도 경쟁 압력으로 이어질 수 있습니다."
       }
     ],
-    "nonghyup": [
+    "macro": [
       {
-        "title": "미래에셋생명, 4월 변액보험 브랜드평판 1위…2위 삼성생명·3위 한화생...",
-        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=565041",
+        "title": "[황병극의 파인앤썰] 환율 급등을 보는 시각",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4407396",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 11:18:00 +0900",
+        "pubDate": "Thu, 02 Apr 2026 11:26:00 +0900",
         "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
-        "term": {
-          "word": "금융환경",
-          "meaning": "금리·경기 등 금융기관에 영향을 주는 외부 조건입니다."
-        },
-        "importance": "경영 판단에 참고가 될 수 있습니다.",
-        "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
+        "term": null,
+        "importance": "",
+        "insight": ""
       },
       {
-        "title": "&quot;이자 2% 받을 바에 투자로&quot;…은행 예적금 10조 이탈",
-        "link": "https://www.widedaily.com/news/articleView.html?idxno=291532",
+        "title": "[사설] 다주택자 대출 규제, 서민 주거 부담 키우는 일 없어야",
+        "link": "https://n.news.naver.com/mnews/article/016/0002623656?sid=110",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 11:18:00 +0900",
+        "pubDate": "Thu, 02 Apr 2026 11:22:00 +0900",
         "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
-        "term": {
-          "word": "금융환경",
-          "meaning": "금리·경기 등 금융기관에 영향을 주는 외부 조건입니다."
-        },
-        "importance": "경영 판단에 참고가 될 수 있습니다.",
-        "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
-      },
-      {
-        "title": "올해 사과 생산 10% 늘린다…사과 안정 생산 대책 추진",
-        "link": "https://n.news.naver.com/mnews/article/422/0000850782?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 11:16:00 +0900",
-        "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
-        "term": {
-          "word": "금융환경",
-          "meaning": "금리·경기 등 금융기관에 영향을 주는 외부 조건입니다."
-        },
-        "importance": "경영 판단에 참고가 될 수 있습니다.",
-        "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
-      },
-      {
-        "title": "남광주농협 이영종 조합장, 농업 조세감면 12건 연장 이끈 '주역'",
-        "link": "http://www.youngnong.co.kr/news/articleView.html?idxno=58476",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 11:16:00 +0900",
-        "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
-        "term": {
-          "word": "금융환경",
-          "meaning": "금리·경기 등 금융기관에 영향을 주는 외부 조건입니다."
-        },
-        "importance": "경영 판단에 참고가 될 수 있습니다.",
-        "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
-      },
-      {
-        "title": "[이태경의 토지와 자유] 부동산 시장에 가장 위협적인 금리가 움직인다",
-        "link": "https://vop.co.kr/A00001691035.html",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 11:16:00 +0900",
-        "summary": "금리 변화는 금융회사의 수익성과 자금운용에 영향을 줍니다.",
-        "term": {
-          "word": "금리",
-          "meaning": "자금을 빌리거나 맡길 때 적용되는 비율입니다."
-        },
-        "importance": "금고 수익성과 대출 수요에 영향을 줍니다.",
-        "insight": "금리 환경 변화에 맞춘 자산·부채 관리 점검이 필요합니다."
-      },
-      {
-        "title": "NH농협 진천군지부 적립기금 5천796만원 전달",
-        "link": "https://www.inews365.com/news/article.html?no=913423",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 11:16:00 +0900",
-        "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
-        "term": {
-          "word": "금융환경",
-          "meaning": "금리·경기 등 금융기관에 영향을 주는 외부 조건입니다."
-        },
-        "importance": "경영 판단에 참고가 될 수 있습니다.",
-        "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
-      },
-      {
-        "title": "농협홍삼, 올리브영 입점…2030 겨냥 '젊은 브랜드' 변신",
-        "link": "http://www.amnews.co.kr/news/articleView.html?idxno=71776",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 11:16:00 +0900",
-        "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
-        "term": {
-          "word": "금융환경",
-          "meaning": "금리·경기 등 금융기관에 영향을 주는 외부 조건입니다."
-        },
-        "importance": "경영 판단에 참고가 될 수 있습니다.",
-        "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
-      },
-      {
-        "title": "경북농협 ‘농촌 왕진버스’ 출발···의료 공백 해소 앞장",
-        "link": "https://www.kbmaeil.com/article/20260402500232",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 11:14:00 +0900",
-        "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
-        "term": {
-          "word": "금융환경",
-          "meaning": "금리·경기 등 금융기관에 영향을 주는 외부 조건입니다."
-        },
-        "importance": "경영 판단에 참고가 될 수 있습니다.",
-        "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
-      },
-      {
-        "title": "사과 생산량 4.5만t 늘린다…작년보다 10% 확대",
-        "link": "https://n.news.naver.com/mnews/article/015/0005270109?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 11:14:00 +0900",
-        "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
-        "term": {
-          "word": "금융환경",
-          "meaning": "금리·경기 등 금융기관에 영향을 주는 외부 조건입니다."
-        },
-        "importance": "경영 판단에 참고가 될 수 있습니다.",
-        "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
-      },
-      {
-        "title": "고품질쌀유통활성화 사업 지침 개편…일반 RPC까지 지원 확대",
-        "link": "http://www.amnews.co.kr/news/articleView.html?idxno=71774",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 11:14:00 +0900",
-        "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
-        "term": {
-          "word": "금융환경",
-          "meaning": "금리·경기 등 금융기관에 영향을 주는 외부 조건입니다."
-        },
-        "importance": "경영 판단에 참고가 될 수 있습니다.",
-        "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
-      }
-    ],
-    "bank": [
-      {
-        "title": "이창용과 다른 신현송의 입장…&quot;해외투자기관 환헤지 파생상품 의존 위...",
-        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4407391",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 11:18:00 +0900",
-        "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
-        "term": {
-          "word": "금융환경",
-          "meaning": "금리·경기 등 금융기관에 영향을 주는 외부 조건입니다."
-        },
-        "importance": "경영 판단에 참고가 될 수 있습니다.",
-        "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
-      },
-      {
-        "title": "투기성 '비거주 1주택자' 규제 어떻게…손쉬운 전세보증 손볼 듯",
-        "link": "https://www.widedaily.com/news/articleView.html?idxno=291531",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 11:18:00 +0900",
-        "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
-        "term": {
-          "word": "금융환경",
-          "meaning": "금리·경기 등 금융기관에 영향을 주는 외부 조건입니다."
-        },
-        "importance": "경영 판단에 참고가 될 수 있습니다.",
-        "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
-      },
-      {
-        "title": "&quot;이자 2% 받을 바에 투자로&quot;…은행 예적금 10조 이탈",
-        "link": "https://www.widedaily.com/news/articleView.html?idxno=291532",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 11:18:00 +0900",
-        "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
-        "term": {
-          "word": "금융환경",
-          "meaning": "금리·경기 등 금융기관에 영향을 주는 외부 조건입니다."
-        },
-        "importance": "경영 판단에 참고가 될 수 있습니다.",
-        "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
-      },
-      {
-        "title": "산은, '재무분석 AI' 도입…여신심사 속도 낸다",
-        "link": "https://n.news.naver.com/mnews/article/277/0005744039?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 11:18:00 +0900",
-        "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
-        "term": {
-          "word": "금융환경",
-          "meaning": "금리·경기 등 금융기관에 영향을 주는 외부 조건입니다."
-        },
-        "importance": "경영 판단에 참고가 될 수 있습니다.",
-        "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
-      },
-      {
-        "title": "하나금융, 국가브랜드 대상 수상···하나은행 NCI 1위 동시 달성",
-        "link": "http://www.finomy.com/news/articleView.html?idxno=252542",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 11:18:00 +0900",
-        "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
-        "term": {
-          "word": "금융환경",
-          "meaning": "금리·경기 등 금융기관에 영향을 주는 외부 조건입니다."
-        },
-        "importance": "경영 판단에 참고가 될 수 있습니다.",
-        "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
-      },
-      {
-        "title": "“직장·교육 때문에 서울로” 36만명…‘비거주 1주택’ 규제서 제외되...",
-        "link": "https://n.news.naver.com/mnews/article/016/0002623638?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 11:17:00 +0900",
-        "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
-        "term": {
-          "word": "금융환경",
-          "meaning": "금리·경기 등 금융기관에 영향을 주는 외부 조건입니다."
-        },
-        "importance": "경영 판단에 참고가 될 수 있습니다.",
-        "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
-      },
-      {
-        "title": "“대출 만기 남아도 재심사 대비를”…5060 세무상담 러시",
-        "link": "https://n.news.naver.com/mnews/article/016/0002623640?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 11:17:00 +0900",
-        "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
-        "term": {
-          "word": "금융환경",
-          "meaning": "금리·경기 등 금융기관에 영향을 주는 외부 조건입니다."
-        },
-        "importance": "경영 판단에 참고가 될 수 있습니다.",
-        "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
-      },
-      {
-        "title": "“이제 인니에서도 QR결제하세요”... KB국민은행 국내 최초 현지 서비...",
-        "link": "https://n.news.naver.com/mnews/article/009/0005659979?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 11:17:00 +0900",
-        "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
-        "term": {
-          "word": "금융환경",
-          "meaning": "금리·경기 등 금융기관에 영향을 주는 외부 조건입니다."
-        },
-        "importance": "경영 판단에 참고가 될 수 있습니다.",
-        "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
-      },
-      {
-        "title": "WGBI 편입에 사흘간 외국인 국고채 4조4천억원 순매수",
-        "link": "https://n.news.naver.com/mnews/article/028/0002798855?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 11:16:00 +0900",
-        "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
-        "term": {
-          "word": "금융환경",
-          "meaning": "금리·경기 등 금융기관에 영향을 주는 외부 조건입니다."
-        },
-        "importance": "경영 판단에 참고가 될 수 있습니다.",
-        "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
-      },
-      {
-        "title": "금융노조 &quot;금융기관 지방이전은 정책 실패&quot;…전면 투쟁 선언",
-        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=836398",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 11:16:00 +0900",
-        "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
-        "term": {
-          "word": "금융환경",
-          "meaning": "금리·경기 등 금융기관에 영향을 주는 외부 조건입니다."
-        },
-        "importance": "경영 판단에 참고가 될 수 있습니다.",
-        "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
+        "term": null,
+        "importance": "",
+        "insight": ""
       }
     ]
   }
