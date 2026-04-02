@@ -1,22 +1,38 @@
 {
-  "updatedAt": "2026-04-02T04:34:23.904Z",
-  "headline": "한국산업은행, 자체 '재무분석 AI 에이전트' 도입 등 타 금융권 동향을 비교해볼 필요가 있습니다.",
+  "updatedAt": "2026-04-02T04:41:39.143Z",
+  "headline": "코스피 상장사 영업익 25% 증가…반도체·증권이 이끌었다 등 타 금융권 동향을 비교해볼 필요가 있습니다.",
   "categories": {
     "mg": [],
     "otherFinance": [
       {
-        "title": "한국산업은행, 자체 '재무분석 AI 에이전트' 도입",
-        "link": "http://www.popcornnews.net/news/articleView.html?idxno=117348",
+        "title": "코스피 상장사 영업익 25% 증가…반도체·증권이 이끌었다",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=735826",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 13:28:00 +0900",
+        "pubDate": "Thu, 02 Apr 2026 13:40:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "IBK기업은행, '디지털화폐 및 예금토큰 실증' 업무협약",
-        "link": "http://www.newswell.co.kr/news/articleView.html?idxno=17420",
+        "title": "산업은행, '재무분석 AI Agent' 도입… \"여신업무 시간 절감\"",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=299476",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 13:26:00 +0900",
+        "pubDate": "Thu, 02 Apr 2026 13:40:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "KB국민은행, 한국-인도네시아 간 QR결제 서비스",
+        "link": "https://hbnpress.com/news/view/1065587551949791",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 02 Apr 2026 13:38:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "IBK기업은행, 디지털화폐·예금토큰 결제 실증 협력 본격화",
+        "link": "https://www.delighti.co.kr/news/articleView.html?idxno=114651",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 02 Apr 2026 13:38:00 +0900",
         "summary": "디지털 전환은 금융 경쟁력의 핵심 요소입니다.",
         "term": {
           "word": "Deposit Beta",
@@ -24,26 +40,18 @@
         }
       },
       {
-        "title": "신한은행 땡겨요, 안동시와 경상북도 공공배달앱 업무협약",
-        "link": "http://www.newswell.co.kr/news/articleView.html?idxno=17421",
+        "title": "BNK투자증권, 솔라나재단 등과 데이터센터 개발 3자 협력",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=260483",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 13:26:00 +0900",
-        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "신한은행 '땡겨요', 안동에 확대...첫 상생협약 체결",
-        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=299463",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 13:24:00 +0900",
+        "pubDate": "Thu, 02 Apr 2026 13:36:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "광주은행, 'KIA타이거즈 우승 기원 예·적금' 출시",
-        "link": "https://n.news.naver.com/mnews/article/014/0005501563?sid=102",
+        "title": "NH농협은행, 신규직원 아이디어로 올원뱅크 혁신 추진",
+        "link": "http://www.ttlnews.com/news/articleView.html?idxno=3095279",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 13:21:00 +0900",
+        "pubDate": "Thu, 02 Apr 2026 13:34:00 +0900",
         "summary": "",
         "term": null
       },
@@ -58,14 +66,6 @@
       {
         "title": "한림농협, 수도권 주요 하나로마트서 ‘달코미 양배추’ 판촉 나서",
         "link": "https://n.news.naver.com/mnews/article/662/0000092016?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 13:15:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "농협은행 경북본부, 경북 금융기관 첫 '나눔명문기업 골드등급'",
-        "link": "https://n.news.naver.com/mnews/article/088/0001003834?sid=103",
         "source": "네이버뉴스",
         "pubDate": "Thu, 02 Apr 2026 13:15:00 +0900",
         "summary": "",
