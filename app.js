@@ -4,29 +4,29 @@ const BOK_TERMS_URL =
 
 const FALLBACK_TERMS = {
   NIM: {
-    description: "금리 변화가 금융기관의 수익성에 어떤 영향을 주는지 보여주는 핵심 지표",
+    description: "금리 변화가 금융기관 수익성에 미치는 영향을 보여주는 핵심 지표",
     detail:
-      "조달금리와 운용수익률의 차이가 순이자수익에 어떻게 반영되는지 이해할 때 활용됩니다."
+      "조달금리와 운용수익률 차이가 순이자수익에 어떻게 반영되는지 이해할 때 활용됩니다."
   },
   CET1: {
     description: "손실흡수력을 보여주는 대표적인 자본적정성 지표",
     detail:
-      "위기 상황에서 금융기관이 어느 정도 자본 여력을 갖고 있는지 판단할 때 중요합니다."
+      "위기 상황에서 자본 여력을 얼마나 갖추고 있는지 판단할 때 중요합니다."
   },
   LCR: {
-    description: "단기 유동성 충격에 대응할 수 있는 능력을 보여주는 지표",
+    description: "단기 유동성 충격 대응 능력을 보여주는 지표",
     detail:
-      "예금 이탈이나 자금시장 경색 시 고유동성 자산으로 얼마나 버틸 수 있는지 판단할 때 참고합니다."
+      "예금 이탈이나 자금시장 경색 시 얼마나 버틸 수 있는지 판단할 때 참고합니다."
   },
   "Terminal Rate": {
     description: "기준금리 인상 사이클의 최종 수준에 대한 시장 기대",
     detail:
-      "금리 전망, 조달비용, 수신 경쟁 강도 변화를 읽을 때 함께 봐야 하는 개념입니다."
+      "금리 전망, 조달비용, 수신 경쟁 강도를 읽을 때 함께 봐야 하는 개념입니다."
   },
   "Forward Guidance": {
     description: "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호",
     detail:
-      "시장 금리와 금융기관의 대응 전략에 영향을 줄 수 있어 통화정책 해석에 중요합니다."
+      "시장 금리와 금융기관 대응 전략에 영향을 줄 수 있어 통화정책 해석에 중요합니다."
   },
   Delinquency: {
     description: "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표",
@@ -37,6 +37,11 @@ const FALLBACK_TERMS = {
     description: "신용위험이 비용으로 얼마나 반영되는지를 보여주는 지표",
     detail:
       "경기 둔화나 취약차주 증가 국면에서 수익성과 건전성을 함께 읽을 때 중요합니다."
+  },
+  "Deposit Beta": {
+    description: "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념",
+    detail:
+      "수신 경쟁 심화와 조달비용 상승 압력을 이해할 때 함께 볼 수 있습니다."
   }
 };
 
@@ -48,20 +53,6 @@ const LOW_QUALITY_TERMS = new Set([
   "경영환경",
   "금융시장"
 ]);
-
-const LOW_QUALITY_MEANINGS = [
-  "경영 판단에 참고가 될 수 있습니다",
-  "관련 흐름을 지속적으로 점검할 필요가 있습니다",
-  "시장 흐름을 이해하는 데 참고할 수 있습니다",
-  "외부 조건입니다",
-  "참고할 수 있습니다"
-];
-
-const LOW_QUALITY_INSIGHTS = [
-  "관련 흐름을 지속적으로 점검할 필요가 있습니다",
-  "경영 판단에 참고가 될 수 있습니다",
-  "시장 변화가 경영 판단에 미치는 영향 점검 필요"
-];
 
 const ui = {
   newsContainer: document.getElementById("newsContainer"),
@@ -122,21 +113,15 @@ function flattenNewsData(payload) {
   return [];
 }
 
-function isLowQualityText(text) {
-  const normalized = normalizeText(text);
-  if (!normalized) return true;
-
-  return LOW_QUALITY_MEANINGS.some((bad) => normalized.includes(normalizeText(bad))) ||
-    LOW_QUALITY_INSIGHTS.some((bad) => normalized.includes(normalizeText(bad)));
-}
-
 function isMeaningfulTerm(termWord, termMeaning) {
   const word = String(termWord || "").trim();
   const meaning = String(termMeaning || "").trim();
 
-  if (!word || LOW_QUALITY_TERMS.has(word)) return false;
+  if (!word) return false;
+  if (LOW_QUALITY_TERMS.has(word)) return false;
   if (word.length <= 2) return false;
-  if (!meaning || isLowQualityText(meaning)) return false;
+  if (!meaning) return false;
+  if (meaning.length < 12) return false;
 
   return true;
 }
@@ -155,9 +140,8 @@ function classifyArticle(item) {
 
   const mgKeywords = [
     "새마을금고",
+    "mg새마을금고",
     "mg",
-    "mg손해보험",
-    "mg인재개발원",
     "중앙회",
     "금고"
   ];
@@ -177,21 +161,6 @@ function classifyArticle(item) {
     "핀테크"
   ];
 
-  const macroKeywords = [
-    "기준금리",
-    "금리",
-    "물가",
-    "환율",
-    "경기",
-    "통화정책",
-    "가계대출",
-    "부동산",
-    "자영업",
-    "소비",
-    "수출",
-    "내수"
-  ];
-
   const mgScore = mgKeywords.reduce(
     (sum, keyword) => sum + (text.includes(normalizeText(keyword)) ? 2 : 0),
     0
@@ -202,74 +171,71 @@ function classifyArticle(item) {
     0
   );
 
-  const macroScore = macroKeywords.reduce(
-    (sum, keyword) => sum + (text.includes(normalizeText(keyword)) ? 1 : 0),
-    0
-  );
-
   if (mgScore >= 2) {
-    return {
-      key: "mg",
-      label: "새마을금고 직접 관련"
-    };
+    return { key: "mg", label: "새마을금고 직접 관련" };
   }
 
   if (otherFinanceScore >= 1) {
-    return {
-      key: "other-finance",
-      label: "타 금융권·협동조합"
-    };
+    return { key: "other-finance", label: "타 금융권·협동조합" };
   }
 
-  if (macroScore >= 1) {
-    return {
-      key: "macro",
-      label: "경제·금융 환경"
-    };
-  }
-
-  return {
-    key: "macro",
-    label: "경제·금융 환경"
-  };
+  return { key: "macro", label: "경제·금융 환경" };
 }
 
-function buildBetterInsight(item, sectionKey) {
+function buildShortInsight(item, sectionKey) {
   const text = normalizeText(
     [item.title, item.summary, item.importance, item.insight].join(" ")
   );
 
   if (sectionKey === "mg") {
-    if (text.includes("건전성") || text.includes("연체") || text.includes("부실")) {
-      return "새마을금고 건전성과 리스크 관리 방향에 미치는 영향을 함께 볼 필요가 있습니다.";
+    if (text.includes("연체") || text.includes("부실") || text.includes("건전성")) {
+      return "건전성 관리와 연결해 볼 기사입니다.";
     }
-    if (text.includes("수신") || text.includes("예금") || text.includes("대출") || text.includes("금리")) {
-      return "새마을금고의 수신 경쟁, 대출 운영, 예대율 관리 측면에서 해석이 필요한 기사입니다.";
+    if (text.includes("예금") || text.includes("대출") || text.includes("수신") || text.includes("금리")) {
+      return "수신·여신 운영 관점에서 볼 필요가 있습니다.";
     }
-    return "새마을금고 운영과 경영 판단에 직접 연결될 수 있어 우선적으로 볼 가치가 있습니다.";
+    return "새마을금고 운영과 직접 관련된 기사입니다.";
   }
 
   if (sectionKey === "other-finance") {
     if (text.includes("디지털") || text.includes("플랫폼") || text.includes("비대면")) {
-      return "타 금융권의 채널 전략 변화가 새마을금고 경쟁환경에 주는 시사점을 볼 수 있습니다.";
+      return "채널 경쟁 방향 비교에 참고할 만합니다.";
     }
     if (text.includes("금리") || text.includes("예금") || text.includes("대출")) {
-      return "타 금융권의 금리·수신 전략 변화가 새마을금고에도 경쟁 압력으로 이어질 수 있습니다.";
+      return "금리·수신 경쟁 흐름 비교에 참고할 만합니다.";
     }
-    return "타 금융권의 움직임을 통해 새마을금고의 대응 방향을 비교해볼 수 있는 기사입니다.";
+    return "타 금융권 동향 비교용 기사입니다.";
   }
 
-  if (text.includes("금리") || text.includes("기준금리") || text.includes("통화정책")) {
-    return "금리 환경 변화가 수신 경쟁, 대출 운용, 수익성에 어떤 영향을 줄지 함께 볼 필요가 있습니다.";
-  }
-  if (text.includes("경기") || text.includes("소비") || text.includes("내수")) {
-    return "경기 흐름 변화가 지역금융 수요와 차주의 상환여력에 미치는 영향을 점검할 필요가 있습니다.";
+  if (text.includes("기준금리") || text.includes("금리") || text.includes("통화정책")) {
+    return "금리 환경 변화와 함께 볼 필요가 있습니다.";
   }
   if (text.includes("가계대출") || text.includes("부동산")) {
-    return "가계대출과 부동산 흐름은 대출 수요와 건전성 관리 측면에서 함께 볼 필요가 있습니다.";
+    return "대출 수요와 건전성 흐름에 참고할 만합니다.";
+  }
+  if (text.includes("경기") || text.includes("소비") || text.includes("내수")) {
+    return "지역금융 수요 변화와 함께 볼 수 있습니다.";
   }
 
   return "";
+}
+
+function shouldShowInsight(insight) {
+  const text = String(insight || "").trim();
+  if (!text) return false;
+
+  const blocked = [
+    "비교해볼 수 있습니다",
+    "참고할 가치가 있습니다",
+    "영향을 함께 볼 필요가 있습니다",
+    "관련 흐름",
+    "참고할 수 있습니다"
+  ];
+
+  if (text.length < 10) return false;
+  if (blocked.some((bad) => text.includes(bad))) return false;
+
+  return true;
 }
 
 function normalizeNewsItem(item) {
@@ -295,11 +261,9 @@ function normalizeNewsItem(item) {
       }
     : null;
 
-  const importance = isLowQualityText(item.importance) ? "" : String(item.importance || "").trim();
-
-  let insight = String(item.insight || "").trim();
-  if (!insight || isLowQualityText(insight)) {
-    insight = buildBetterInsight(item, section.key);
+  let insight = buildShortInsight(item, section.key);
+  if (!shouldShowInsight(insight)) {
+    insight = "";
   }
 
   return {
@@ -308,10 +272,9 @@ function normalizeNewsItem(item) {
     source: item.source || "출처 미상",
     pubDate: item.pubDate || item.date || item.publishedAt || "",
     summary: stripHtml(item.summary || item.description || ""),
-    importance,
-    insight,
     section,
-    term
+    term,
+    insight
   };
 }
 
@@ -392,16 +355,6 @@ function renderNewsCard(news) {
             ? `
               <div class="chip-row">
                 <span class="chip chip-term">용어: ${escapeHtml(news.term.word)}</span>
-              </div>
-            `
-            : ""
-        }
-
-        ${
-          news.importance
-            ? `
-              <div class="chip-row">
-                <span class="chip chip-term">참고 포인트: ${escapeHtml(news.importance)}</span>
               </div>
             `
             : ""
