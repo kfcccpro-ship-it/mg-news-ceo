@@ -8,6 +8,7 @@
     name="description"
     content="뉴스와 금융 용어를 함께 제공하는 학습형 금융 뉴스 플랫폼"
   />
+  <link rel="icon" type="image/png" href="./assets/mg-logo.png" />
   <style>
     :root {
       --bg: #f4f7fb;
@@ -16,7 +17,6 @@
       --sub: #5f6b7a;
       --line: #dbe2ea;
 
-      /* Toss-inspired blue direction */
       --primary: #3182f6;
       --primary-strong: #1b64da;
       --primary-soft: #eaf3ff;
@@ -80,6 +80,38 @@
       padding: 30px 28px 28px;
       box-shadow: var(--shadow);
       margin-bottom: 22px;
+    }
+
+    .brand-row {
+      display: flex;
+      align-items: flex-start;
+      gap: 18px;
+    }
+
+    .brand-mark {
+      width: 72px;
+      height: 72px;
+      flex: 0 0 72px;
+      border-radius: 22px;
+      background: #ffffff;
+      border: 1px solid #d7e6fb;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 8px 20px rgba(49, 130, 246, 0.1);
+      overflow: hidden;
+    }
+
+    .brand-mark img {
+      width: 56px;
+      height: 56px;
+      object-fit: contain;
+      display: block;
+    }
+
+    .brand-copy {
+      min-width: 0;
+      flex: 1;
     }
 
     .hero h1 {
@@ -264,6 +296,13 @@
       margin-bottom: 14px;
     }
 
+    .section-title-row {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 4px;
+    }
+
     .section-head h2 {
       margin: 0;
       font-size: 36px;
@@ -279,6 +318,25 @@
       font-size: 20px;
       line-height: 1.7;
       font-weight: 600;
+    }
+
+    .section-main-icon {
+      width: 42px;
+      height: 42px;
+      border-radius: 14px;
+      background: var(--primary-soft);
+      border: 1px solid #cfe1ff;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      color: var(--primary-strong);
+      flex: 0 0 42px;
+    }
+
+    .section-main-icon svg {
+      width: 22px;
+      height: 22px;
+      display: block;
     }
 
     .news-list {
@@ -436,6 +494,22 @@
         border-radius: 24px;
       }
 
+      .brand-row {
+        gap: 14px;
+      }
+
+      .brand-mark {
+        width: 60px;
+        height: 60px;
+        flex-basis: 60px;
+        border-radius: 18px;
+      }
+
+      .brand-mark img {
+        width: 48px;
+        height: 48px;
+      }
+
       .hero h1 {
         font-size: 36px;
         margin-bottom: 12px;
@@ -575,27 +649,35 @@
 <body>
   <div class="wrap">
     <header class="hero">
-      <h1>MG 금융 인사이트</h1>
-      <p class="hero-sub">
-        뉴스와 금융 핵심 용어, MG 시사점을 함께 제공하는 학습형 뉴스 플랫폼
-      </p>
+      <div class="brand-row">
+        <div class="brand-mark" aria-hidden="true">
+          <img src="./assets/mg-logo.png" alt="" />
+        </div>
 
-      <div class="trust-badge">
-        한국은행 경제금융용어 800선(2026 개정판) 기반 핵심 개념 제공
-      </div>
+        <div class="brand-copy">
+          <h1>MG 금융 인사이트</h1>
+          <p class="hero-sub">
+            뉴스와 금융 핵심 용어, MG 시사점을 함께 제공하는 학습형 뉴스 플랫폼
+          </p>
 
-      <div class="hero-actions">
-        <a
-          class="btn btn-primary"
-          href="https://www.bok.or.kr/portal/bbs/B0000249/view.do?menuNo=200765&nttId=10096081"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          원문 보기
-        </a>
-        <button class="btn btn-ghost" id="refreshTermBtn" type="button">
-          오늘의 용어 바꾸기
-        </button>
+          <div class="trust-badge">
+            한국은행 경제금융용어 800선(2026 개정판) 기반 핵심 개념 제공
+          </div>
+
+          <div class="hero-actions">
+            <a
+              class="btn btn-primary"
+              href="https://www.bok.or.kr/portal/bbs/B0000249/view.do?menuNo=200765&nttId=10096081"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              원문 보기
+            </a>
+            <button class="btn btn-ghost" id="refreshTermBtn" type="button">
+              오늘의 용어 바꾸기
+            </button>
+          </div>
+        </div>
       </div>
     </header>
 
@@ -639,7 +721,16 @@
     <section>
       <div class="section-head">
         <div>
-          <h2>오늘의 뉴스</h2>
+          <div class="section-title-row">
+            <span class="section-main-icon" aria-hidden="true">
+              <svg viewBox="0 0 24 24" fill="none">
+                <path d="M4 6h16" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/>
+                <path d="M4 12h16" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/>
+                <path d="M4 18h10" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/>
+              </svg>
+            </span>
+            <h2>오늘의 뉴스</h2>
+          </div>
           <p>핵심 용어와 MG 시사점을 함께 확인할 수 있습니다.</p>
         </div>
       </div>
