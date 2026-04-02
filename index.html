@@ -1,72 +1,454 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="ko">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>CEO 모바일 뉴스</title>
-  <meta name="description" content="새마을금고, 농협, 은행 관련 뉴스를 한눈에 보는 GitHub Pages 사이트" />
-  <link rel="stylesheet" href="./style.css" />
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MG 금융 인사이트</title>
+  <meta
+    name="description"
+    content="뉴스와 금융 용어, MG 시사점을 결합한 학습형 금융 뉴스 플랫폼"
+  />
+  <style>
+    :root {
+      --bg: #f7f8fa;
+      --card: #ffffff;
+      --text: #1f2937;
+      --sub: #6b7280;
+      --line: #e5e7eb;
+      --primary: #0f766e;
+      --primary-soft: #ecfeff;
+      --badge: #f0fdf4;
+      --badge-text: #166534;
+      --term-bg: #eff6ff;
+      --term-text: #1d4ed8;
+      --imp-bg: #fff7ed;
+      --imp-text: #c2410c;
+      --shadow: 0 6px 20px rgba(15, 23, 42, 0.06);
+      --radius: 16px;
+      --max: 980px;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html, body {
+      margin: 0;
+      padding: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo",
+        "Pretendard", "Noto Sans KR", "Segoe UI", sans-serif;
+      line-height: 1.6;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    button {
+      font: inherit;
+    }
+
+    .wrap {
+      width: 100%;
+      max-width: var(--max);
+      margin: 0 auto;
+      padding: 20px 16px 40px;
+    }
+
+    .hero {
+      background: linear-gradient(135deg, #0f766e 0%, #115e59 100%);
+      color: white;
+      border-radius: 20px;
+      padding: 24px 20px;
+      box-shadow: var(--shadow);
+      margin-bottom: 18px;
+    }
+
+    .hero h1 {
+      margin: 0 0 10px;
+      font-size: 28px;
+      line-height: 1.25;
+      font-weight: 800;
+      letter-spacing: -0.02em;
+    }
+
+    .hero-sub {
+      margin: 0;
+      font-size: 15px;
+      opacity: 0.95;
+    }
+
+    .trust-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      margin-top: 14px;
+      padding: 8px 12px;
+      border-radius: 999px;
+      background: rgba(255, 255, 255, 0.14);
+      font-size: 13px;
+      font-weight: 700;
+      word-break: keep-all;
+    }
+
+    .hero-actions {
+      display: flex;
+      gap: 10px;
+      margin-top: 16px;
+      flex-wrap: wrap;
+    }
+
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 42px;
+      padding: 0 14px;
+      border-radius: 12px;
+      border: 1px solid transparent;
+      font-size: 14px;
+      font-weight: 700;
+      cursor: pointer;
+      transition: 0.18s ease;
+    }
+
+    .btn-primary {
+      background: white;
+      color: var(--primary);
+    }
+
+    .btn-primary:hover {
+      transform: translateY(-1px);
+    }
+
+    .btn-ghost {
+      background: transparent;
+      color: white;
+      border-color: rgba(255, 255, 255, 0.25);
+    }
+
+    .btn-ghost:hover {
+      background: rgba(255, 255, 255, 0.08);
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: 1.1fr 0.9fr;
+      gap: 16px;
+      margin-bottom: 22px;
+    }
+
+    .card {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      padding: 18px;
+    }
+
+    .card-title {
+      margin: 0 0 10px;
+      font-size: 18px;
+      font-weight: 800;
+      letter-spacing: -0.01em;
+    }
+
+    .card-desc {
+      margin: 0;
+      color: var(--sub);
+      font-size: 14px;
+    }
+
+    .today-term-key {
+      display: inline-flex;
+      align-items: center;
+      margin-top: 8px;
+      padding: 6px 10px;
+      border-radius: 999px;
+      background: var(--term-bg);
+      color: var(--term-text);
+      font-size: 13px;
+      font-weight: 800;
+    }
+
+    .today-term-meaning {
+      margin: 14px 0 10px;
+      font-size: 17px;
+      font-weight: 700;
+      line-height: 1.5;
+    }
+
+    .today-term-detail {
+      margin: 0;
+      color: var(--sub);
+      font-size: 14px;
+    }
+
+    .term-actions {
+      margin-top: 14px;
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+
+    .mini-link {
+      display: inline-flex;
+      align-items: center;
+      font-size: 14px;
+      font-weight: 700;
+      color: var(--primary);
+    }
+
+    .status-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 12px;
+    }
+
+    .mini-badge {
+      display: inline-flex;
+      align-items: center;
+      padding: 6px 10px;
+      border-radius: 999px;
+      font-size: 12px;
+      font-weight: 700;
+      background: #f3f4f6;
+      color: #374151;
+    }
+
+    .section-head {
+      display: flex;
+      align-items: end;
+      justify-content: space-between;
+      gap: 12px;
+      margin-bottom: 12px;
+    }
+
+    .section-head h2 {
+      margin: 0;
+      font-size: 20px;
+      font-weight: 800;
+      letter-spacing: -0.02em;
+    }
+
+    .section-head p {
+      margin: 0;
+      color: var(--sub);
+      font-size: 13px;
+    }
+
+    .news-list {
+      display: grid;
+      gap: 12px;
+    }
+
+    .news-item {
+      display: block;
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      box-shadow: var(--shadow);
+      padding: 16px;
+      transition: 0.18s ease;
+    }
+
+    .news-item:hover {
+      transform: translateY(-2px);
+    }
+
+    .news-top {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-bottom: 10px;
+    }
+
+    .news-source,
+    .news-date {
+      font-size: 12px;
+      font-weight: 700;
+      color: var(--sub);
+      background: #f9fafb;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      padding: 5px 8px;
+    }
+
+    .news-title {
+      margin: 0 0 8px;
+      font-size: 18px;
+      font-weight: 800;
+      line-height: 1.45;
+      letter-spacing: -0.015em;
+      word-break: keep-all;
+    }
+
+    .news-summary {
+      margin: 0;
+      color: #4b5563;
+      font-size: 14px;
+    }
+
+    .news-bottom {
+      display: grid;
+      gap: 10px;
+      margin-top: 14px;
+    }
+
+    .chip-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .chip {
+      display: inline-flex;
+      align-items: center;
+      min-height: 28px;
+      border-radius: 999px;
+      padding: 0 10px;
+      font-size: 12px;
+      font-weight: 800;
+    }
+
+    .chip-term {
+      background: var(--term-bg);
+      color: var(--term-text);
+    }
+
+    .chip-imp {
+      background: var(--imp-bg);
+      color: var(--imp-text);
+    }
+
+    .divider {
+      width: 100%;
+      height: 1px;
+      background: var(--line);
+    }
+
+    .empty,
+    .loading,
+    .error {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      padding: 20px;
+      color: var(--sub);
+      box-shadow: var(--shadow);
+    }
+
+    .footer-note {
+      margin-top: 18px;
+      color: var(--sub);
+      font-size: 12px;
+      text-align: center;
+    }
+
+    @media (max-width: 768px) {
+      .hero {
+        padding: 20px 16px;
+      }
+
+      .hero h1 {
+        font-size: 24px;
+      }
+
+      .grid {
+        grid-template-columns: 1fr;
+      }
+
+      .news-title {
+        font-size: 17px;
+      }
+    }
+  </style>
 </head>
 <body>
-  <header class="site-header">
-    <div class="wrap">
-      <div>
-        <p class="eyebrow">MG CEO Briefing</p>
-        <h1>CEO 모바일 뉴스</h1>
-        <p class="subtitle">새마을금고 · 농협 · 은행 관련 기사를 자동 수집해 보여주는 간단한 뉴스 보드</p>
-      </div>
-      <div class="status-card">
-        <div>
-          <span class="label">업데이트</span>
-          <strong id="updatedAt">-</strong>
-        </div>
-        <div>
-          <span class="label">전체 기사</span>
-          <strong id="articleCount">0건</strong>
-        </div>
-      </div>
-    </div>
-  </header>
+  <div class="wrap">
+    <header class="hero">
+      <h1>MG 금융 인사이트</h1>
+      <p class="hero-sub">
+        뉴스와 금융 핵심 용어, MG 시사점을 함께 제공하는 학습형 뉴스 플랫폼
+      </p>
 
-  <main class="wrap main-layout">
-    <section class="panel hero-panel">
-      <div class="panel-head">
-        <h2>주요 기사</h2>
-        <p>최신 수집 기사 중 상단 3건</p>
+      <div class="trust-badge">
+        한국은행 경제금융용어 800선(2026 개정판) 기반 핵심 개념 제공
       </div>
-      <div id="topStories" class="top-stories"></div>
+
+      <div class="hero-actions">
+        <a
+          class="btn btn-primary"
+          href="https://www.bok.or.kr/portal/bbs/B0000249/view.do?menuNo=200765&nttId=10096081"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          원문 보기
+        </a>
+        <button class="btn btn-ghost" id="refreshTermBtn" type="button">
+          오늘의 용어 바꾸기
+        </button>
+      </div>
+    </header>
+
+    <section class="grid">
+      <article class="card">
+        <h2 class="card-title">오늘의 용어</h2>
+        <p class="card-desc">
+          실무 판단에 자주 연결되는 금융·통화정책·건전성 지표 중심으로 제공합니다.
+        </p>
+
+        <div id="todayTermBox" style="margin-top: 12px;"></div>
+      </article>
+
+      <article class="card">
+        <h2 class="card-title">학습 포인트</h2>
+        <p class="card-desc">
+          뉴스는 단순 사실 확인보다, 어떤 지표와 정책 신호를 함께 봐야 하는지가 중요합니다.
+        </p>
+
+        <div class="status-row">
+          <span class="mini-badge">금리·통화정책</span>
+          <span class="mini-badge">자본적정성</span>
+          <span class="mini-badge">유동성</span>
+          <span class="mini-badge">자산건전성</span>
+          <span class="mini-badge">디지털 경쟁력</span>
+        </div>
+
+        <div style="margin-top: 14px;">
+          <a
+            class="mini-link"
+            href="https://www.bok.or.kr/portal/bbs/B0000249/view.do?menuNo=200765&nttId=10096081"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            원문 학습 자료 보기
+          </a>
+        </div>
+      </article>
     </section>
 
-    <section class="grid-3">
-      <section class="panel">
-        <div class="panel-head inline">
-          <h2>새마을금고</h2>
-          <span id="count-saemaeul" class="count-pill">0건</span>
+    <section>
+      <div class="section-head">
+        <div>
+          <h2>오늘의 뉴스</h2>
+          <p>핵심 용어와 MG 시사점을 함께 확인할 수 있습니다.</p>
         </div>
-        <div id="list-saemaeul" class="news-list"></div>
-      </section>
+      </div>
 
-      <section class="panel">
-        <div class="panel-head inline">
-          <h2>농협</h2>
-          <span id="count-nonghyup" class="count-pill">0건</span>
-        </div>
-        <div id="list-nonghyup" class="news-list"></div>
-      </section>
-
-      <section class="panel">
-        <div class="panel-head inline">
-          <h2>은행</h2>
-          <span id="count-bank" class="count-pill">0건</span>
-        </div>
-        <div id="list-bank" class="news-list"></div>
-      </section>
+      <div id="newsContainer" class="news-list">
+        <div class="loading">뉴스를 불러오는 중입니다...</div>
+      </div>
     </section>
-  </main>
 
-  <footer class="site-footer wrap">
-    <p>GitHub Pages + GitHub Actions 기반 정적 사이트</p>
-  </footer>
+    <p class="footer-note">
+      본 서비스는 학습 참고용이며, 최종 경영 판단은 원문 및 추가 검토와 함께 수행해야 합니다.
+    </p>
+  </div>
 
   <script src="./app.js"></script>
 </body>
