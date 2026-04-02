@@ -1,9 +1,17 @@
 {
-  "updatedAt": "2026-04-02T04:28:15.874Z",
-  "headline": "IBK기업은행, '디지털화폐 및 예금토큰 실증' 업무협약 등 타 금융권 동향을 비교해볼 필요가 있습니다.",
+  "updatedAt": "2026-04-02T04:34:23.904Z",
+  "headline": "한국산업은행, 자체 '재무분석 AI 에이전트' 도입 등 타 금융권 동향을 비교해볼 필요가 있습니다.",
   "categories": {
     "mg": [],
     "otherFinance": [
+      {
+        "title": "한국산업은행, 자체 '재무분석 AI 에이전트' 도입",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=117348",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 02 Apr 2026 13:28:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "IBK기업은행, '디지털화폐 및 예금토큰 실증' 업무협약",
         "link": "http://www.newswell.co.kr/news/articleView.html?idxno=17420",
@@ -40,14 +48,6 @@
         "term": null
       },
       {
-        "title": "신한은행, 안동시와 경상북도 첫 공공배달앱 업무협약 체결",
-        "link": "https://www.public25.com/news/articleView.html?idxno=43163",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 13:20:00 +0900",
-        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
         "title": "애월농협, 영농자재 교환권 지원…농가실익 증진 ‘앞장’",
         "link": "https://n.news.naver.com/mnews/article/662/0000092017?sid=102",
         "source": "네이버뉴스",
@@ -74,27 +74,11 @@
     ],
     "macro": [
       {
-        "title": "기대가 쇼크가 된 트럼프 연설…국고채 금리 일제히 급등",
-        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4407429",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 13:20:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
         "title": "\"가계부채 1.5%로 묶는다…다주택자 대출 사실상 차단\"",
         "link": "http://www.bizwnews.com/news/articleView.html?idxno=132139",
         "source": "네이버뉴스",
         "pubDate": "Thu, 02 Apr 2026 13:18:00 +0900",
         "summary": "",
-        "term": null
-      },
-      {
-        "title": "다주택자 주담대 17일부터 만기연장 금지…고강도 부동산대책",
-        "link": "http://www.babytimes.co.kr/news/articleView.html?idxno=72545",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 13:18:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
         "term": null
       },
       {
