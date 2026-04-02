@@ -6,26 +6,35 @@
   <title>MG 금융 인사이트</title>
   <meta
     name="description"
-    content="뉴스와 금융 용어, MG 시사점을 결합한 학습형 금융 뉴스 플랫폼"
+    content="뉴스와 금융 용어를 함께 제공하는 학습형 금융 뉴스 플랫폼"
   />
   <style>
     :root {
-      --bg: #f7f8fa;
+      --bg: #f4f7fb;
       --card: #ffffff;
-      --text: #1f2937;
-      --sub: #6b7280;
-      --line: #e5e7eb;
-      --primary: #0f766e;
-      --primary-soft: #ecfeff;
-      --badge: #f0fdf4;
-      --badge-text: #166534;
-      --term-bg: #eff6ff;
-      --term-text: #1d4ed8;
-      --imp-bg: #fff7ed;
-      --imp-text: #c2410c;
-      --shadow: 0 6px 20px rgba(15, 23, 42, 0.06);
-      --radius: 16px;
-      --max: 980px;
+      --text: #2b2f36;
+      --sub: #5f6b7a;
+      --line: #dbe2ea;
+
+      /* Toss-inspired blue direction */
+      --primary: #3182f6;
+      --primary-strong: #1b64da;
+      --primary-soft: #eaf3ff;
+      --primary-soft-2: #f3f8ff;
+
+      --title-blue: #1b64da;
+      --heading-blue: #1757bb;
+      --chip-blue: #edf4ff;
+      --chip-blue-text: #1b64da;
+
+      --term-bg: #edf4ff;
+      --term-text: #1b64da;
+
+      --shadow: 0 10px 28px rgba(49, 130, 246, 0.08);
+      --radius-xl: 24px;
+      --radius-lg: 20px;
+      --radius-md: 16px;
+      --max: 1080px;
     }
 
     * {
@@ -40,7 +49,12 @@
       color: var(--text);
       font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo",
         "Pretendard", "Noto Sans KR", "Segoe UI", sans-serif;
-      line-height: 1.6;
+      line-height: 1.7;
+      -webkit-text-size-adjust: 100%;
+    }
+
+    body {
+      font-size: 18px;
     }
 
     a {
@@ -56,51 +70,55 @@
       width: 100%;
       max-width: var(--max);
       margin: 0 auto;
-      padding: 20px 16px 40px;
+      padding: 20px 18px 44px;
     }
 
     .hero {
-      background: linear-gradient(135deg, #0f766e 0%, #115e59 100%);
-      color: white;
-      border-radius: 20px;
-      padding: 24px 20px;
+      background: linear-gradient(180deg, #ffffff 0%, #f7fbff 100%);
+      border: 1px solid #d7e6fb;
+      border-radius: 28px;
+      padding: 30px 28px 28px;
       box-shadow: var(--shadow);
-      margin-bottom: 18px;
+      margin-bottom: 22px;
     }
 
     .hero h1 {
-      margin: 0 0 12px;
-      font-size: 32px;
-      line-height: 1.25;
-      font-weight: 800;
-      letter-spacing: -0.02em;
+      margin: 0 0 14px;
+      font-size: 46px;
+      line-height: 1.2;
+      font-weight: 900;
+      letter-spacing: -0.03em;
+      color: var(--title-blue);
     }
 
     .hero-sub {
       margin: 0;
-      font-size: 18px;
+      font-size: 24px;
       line-height: 1.6;
-      font-weight: 600;
-      opacity: 0.98;
+      font-weight: 800;
+      color: #245fc7;
+      word-break: keep-all;
     }
 
     .trust-badge {
       display: inline-flex;
       align-items: center;
       gap: 8px;
-      margin-top: 14px;
-      padding: 8px 12px;
+      margin-top: 18px;
+      padding: 12px 16px;
       border-radius: 999px;
-      background: rgba(255, 255, 255, 0.14);
-      font-size: 13px;
-      font-weight: 700;
+      background: var(--primary-soft);
+      border: 1px solid #cfe1ff;
+      font-size: 17px;
+      font-weight: 800;
+      color: var(--primary-strong);
       word-break: keep-all;
     }
 
     .hero-actions {
       display: flex;
-      gap: 10px;
-      margin-top: 16px;
+      gap: 12px;
+      margin-top: 20px;
       flex-wrap: wrap;
     }
 
@@ -108,91 +126,104 @@
       display: inline-flex;
       align-items: center;
       justify-content: center;
-      min-height: 42px;
-      padding: 0 14px;
-      border-radius: 12px;
+      min-height: 54px;
+      padding: 0 20px;
+      border-radius: 16px;
       border: 1px solid transparent;
-      font-size: 14px;
-      font-weight: 700;
+      font-size: 18px;
+      font-weight: 800;
       cursor: pointer;
       transition: 0.18s ease;
     }
 
     .btn-primary {
-      background: white;
-      color: var(--primary);
+      background: var(--primary);
+      color: white;
+      border-color: var(--primary);
+      box-shadow: 0 6px 16px rgba(49, 130, 246, 0.24);
     }
 
     .btn-primary:hover {
       transform: translateY(-1px);
+      background: var(--primary-strong);
+      border-color: var(--primary-strong);
     }
 
     .btn-ghost {
-      background: transparent;
-      color: white;
-      border-color: rgba(255, 255, 255, 0.25);
+      background: white;
+      color: var(--primary-strong);
+      border-color: #cfe1ff;
     }
 
     .btn-ghost:hover {
-      background: rgba(255, 255, 255, 0.08);
+      background: var(--primary-soft-2);
     }
 
     .grid {
       display: grid;
-      grid-template-columns: 1.1fr 0.9fr;
-      gap: 16px;
-      margin-bottom: 22px;
+      grid-template-columns: 1fr 1fr;
+      gap: 18px;
+      margin-bottom: 26px;
     }
 
     .card {
       background: var(--card);
       border: 1px solid var(--line);
-      border-radius: var(--radius);
+      border-radius: var(--radius-xl);
       box-shadow: var(--shadow);
-      padding: 18px;
+      padding: 24px;
     }
 
     .card-title {
-      margin: 0 0 10px;
-      font-size: 18px;
-      font-weight: 800;
-      letter-spacing: -0.01em;
+      margin: 0 0 12px;
+      font-size: 33px;
+      font-weight: 900;
+      letter-spacing: -0.02em;
+      color: var(--heading-blue);
+      line-height: 1.25;
     }
 
     .card-desc {
       margin: 0;
       color: var(--sub);
-      font-size: 14px;
+      font-size: 20px;
+      line-height: 1.75;
+      font-weight: 600;
     }
 
     .today-term-key {
       display: inline-flex;
       align-items: center;
-      margin-top: 8px;
-      padding: 6px 10px;
+      margin-top: 14px;
+      padding: 9px 14px;
       border-radius: 999px;
       background: var(--term-bg);
       color: var(--term-text);
-      font-size: 13px;
-      font-weight: 800;
+      border: 1px solid #cfe1ff;
+      font-size: 18px;
+      font-weight: 900;
     }
 
     .today-term-meaning {
-      margin: 14px 0 10px;
-      font-size: 17px;
-      font-weight: 700;
+      margin: 18px 0 12px;
+      font-size: 30px;
+      font-weight: 900;
       line-height: 1.5;
+      color: var(--heading-blue);
+      word-break: keep-all;
     }
 
     .today-term-detail {
       margin: 0;
-      color: var(--sub);
-      font-size: 14px;
-      line-height: 1.65;
+      color: #566273;
+      font-size: 20px;
+      line-height: 1.8;
+      font-weight: 600;
+      word-break: keep-all;
     }
 
     .term-actions {
-      margin-top: 14px;
+      margin-top: 18px;
       display: flex;
       gap: 10px;
       flex-wrap: wrap;
@@ -201,27 +232,28 @@
     .mini-link {
       display: inline-flex;
       align-items: center;
-      font-size: 14px;
-      font-weight: 700;
-      color: var(--primary);
+      font-size: 18px;
+      font-weight: 900;
+      color: var(--primary-strong);
     }
 
     .status-row {
       display: flex;
       flex-wrap: wrap;
-      gap: 8px;
-      margin-top: 12px;
+      gap: 10px;
+      margin-top: 14px;
     }
 
     .mini-badge {
       display: inline-flex;
       align-items: center;
-      padding: 6px 10px;
+      padding: 10px 14px;
       border-radius: 999px;
-      font-size: 12px;
-      font-weight: 700;
-      background: #f3f4f6;
-      color: #374151;
+      font-size: 16px;
+      font-weight: 800;
+      background: #f4f8fd;
+      color: #2859ad;
+      border: 1px solid #dbe7f8;
     }
 
     .section-head {
@@ -229,34 +261,38 @@
       align-items: end;
       justify-content: space-between;
       gap: 12px;
-      margin-bottom: 12px;
+      margin-bottom: 14px;
     }
 
     .section-head h2 {
       margin: 0;
-      font-size: 20px;
-      font-weight: 800;
-      letter-spacing: -0.02em;
+      font-size: 36px;
+      font-weight: 900;
+      letter-spacing: -0.03em;
+      color: var(--heading-blue);
+      line-height: 1.2;
     }
 
     .section-head p {
-      margin: 0;
+      margin: 6px 0 0;
       color: var(--sub);
-      font-size: 13px;
+      font-size: 20px;
+      line-height: 1.7;
+      font-weight: 600;
     }
 
     .news-list {
       display: grid;
-      gap: 12px;
+      gap: 14px;
     }
 
     .news-item {
       display: block;
       background: var(--card);
       border: 1px solid var(--line);
-      border-radius: 16px;
+      border-radius: 22px;
       box-shadow: var(--shadow);
-      padding: 16px;
+      padding: 22px;
       transition: 0.18s ease;
     }
 
@@ -267,73 +303,78 @@
     .news-top {
       display: flex;
       flex-wrap: wrap;
-      gap: 8px;
-      margin-bottom: 10px;
+      gap: 10px;
+      margin-bottom: 14px;
     }
 
     .news-source,
     .news-date {
-      font-size: 12px;
-      font-weight: 700;
-      color: var(--sub);
-      background: #f9fafb;
-      border: 1px solid var(--line);
+      font-size: 15px;
+      font-weight: 800;
+      color: #48607c;
+      background: #f7faff;
+      border: 1px solid #d7e6fb;
       border-radius: 999px;
-      padding: 5px 8px;
+      padding: 7px 12px;
     }
 
     .news-title {
-      margin: 0 0 8px;
-      font-size: 18px;
-      font-weight: 800;
-      line-height: 1.55;
-      letter-spacing: -0.015em;
+      margin: 0 0 12px;
+      font-size: 31px;
+      font-weight: 900;
+      line-height: 1.45;
+      letter-spacing: -0.02em;
+      color: var(--heading-blue);
       word-break: keep-all;
     }
 
     .news-summary {
       margin: 0;
-      color: #4b5563;
-      font-size: 14px;
-      line-height: 1.65;
+      color: #4f5d70;
+      font-size: 21px;
+      line-height: 1.85;
+      font-weight: 600;
+      word-break: keep-all;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
     }
 
     .news-bottom {
       display: grid;
       gap: 10px;
-      margin-top: 14px;
+      margin-top: 16px;
     }
 
     .chip-row {
       display: flex;
       flex-wrap: wrap;
-      gap: 8px;
+      gap: 10px;
     }
 
     .chip {
       display: inline-flex;
       align-items: center;
-      min-height: 28px;
+      min-height: 38px;
       border-radius: 999px;
-      padding: 0 10px;
-      font-size: 12px;
-      font-weight: 800;
+      padding: 0 14px;
+      font-size: 16px;
+      font-weight: 900;
+      line-height: 1.4;
+      white-space: normal;
     }
 
     .chip-term {
-      background: var(--term-bg);
-      color: var(--term-text);
-    }
-
-    .chip-imp {
-      background: var(--imp-bg);
-      color: var(--imp-text);
+      background: var(--chip-blue);
+      color: var(--chip-blue-text);
+      border: 1px solid #cfe1ff;
     }
 
     .divider {
       width: 100%;
       height: 1px;
-      background: var(--line);
+      background: #e6edf5;
     }
 
     .empty,
@@ -341,116 +382,192 @@
     .error {
       background: var(--card);
       border: 1px solid var(--line);
-      border-radius: 16px;
-      padding: 20px;
+      border-radius: 22px;
+      padding: 24px;
       color: var(--sub);
       box-shadow: var(--shadow);
+      font-size: 20px;
+      font-weight: 700;
+      line-height: 1.7;
     }
 
     .footer-note {
-      margin-top: 18px;
+      margin-top: 22px;
       color: var(--sub);
-      font-size: 12px;
+      font-size: 16px;
       text-align: center;
+      line-height: 1.8;
+      font-weight: 600;
+    }
+
+    @media (max-width: 900px) {
+      .hero h1 {
+        font-size: 40px;
+      }
+
+      .hero-sub {
+        font-size: 22px;
+      }
+
+      .card-title {
+        font-size: 30px;
+      }
+
+      .today-term-meaning {
+        font-size: 27px;
+      }
+
+      .news-title {
+        font-size: 28px;
+      }
+
+      .news-summary {
+        font-size: 20px;
+      }
     }
 
     @media (max-width: 768px) {
       .wrap {
-        padding: 16px 12px 32px;
+        padding: 14px 12px 32px;
       }
 
       .hero {
-        padding: 22px 16px;
-        border-radius: 18px;
+        padding: 24px 18px 22px;
+        border-radius: 24px;
       }
 
       .hero h1 {
-        font-size: 28px;
+        font-size: 36px;
         margin-bottom: 12px;
       }
 
       .hero-sub {
-        font-size: 17px;
+        font-size: 22px;
         line-height: 1.65;
       }
 
       .trust-badge {
-        font-size: 12px;
-        line-height: 1.5;
-        padding: 8px 10px;
-      }
-
-      .hero-actions {
-        gap: 8px;
+        font-size: 16px;
+        line-height: 1.55;
+        padding: 11px 14px;
       }
 
       .btn {
-        min-height: 44px;
-        padding: 0 14px;
-        font-size: 14px;
+        min-height: 52px;
+        padding: 0 18px;
+        font-size: 18px;
       }
 
       .grid {
         grid-template-columns: 1fr;
-        gap: 12px;
+        gap: 14px;
       }
 
       .card {
-        padding: 16px;
+        padding: 20px;
       }
 
       .card-title {
-        font-size: 20px;
+        font-size: 30px;
+      }
+
+      .card-desc {
+        font-size: 19px;
+      }
+
+      .today-term-key {
+        font-size: 17px;
       }
 
       .today-term-meaning {
-        font-size: 18px;
+        font-size: 26px;
         line-height: 1.55;
       }
 
       .today-term-detail {
-        font-size: 15px;
-        line-height: 1.65;
+        font-size: 19px;
+        line-height: 1.8;
       }
 
       .section-head h2 {
-        font-size: 24px;
+        font-size: 34px;
+      }
+
+      .section-head p {
+        font-size: 19px;
       }
 
       .news-item {
-        padding: 15px;
+        padding: 18px;
+        border-radius: 20px;
       }
 
       .news-title {
-        font-size: 17px;
-        line-height: 1.55;
+        font-size: 26px;
+        line-height: 1.5;
       }
 
       .news-summary {
-        font-size: 14px;
-        line-height: 1.65;
-        display: -webkit-box;
+        font-size: 19px;
+        line-height: 1.8;
         -webkit-line-clamp: 3;
-        -webkit-box-orient: vertical;
-        overflow: hidden;
       }
 
-      .chip-row {
-        gap: 6px;
+      .news-source,
+      .news-date {
+        font-size: 14px;
       }
 
       .chip {
-        font-size: 12px;
-        line-height: 1.4;
-        padding: 6px 10px;
+        font-size: 15px;
+        padding: 8px 14px;
         min-height: auto;
-        white-space: normal;
+      }
+
+      .mini-link {
+        font-size: 17px;
       }
 
       .footer-note {
-        font-size: 12px;
-        line-height: 1.6;
-        padding: 0 6px;
+        font-size: 15px;
+      }
+    }
+
+    @media (max-width: 480px) {
+      .hero h1 {
+        font-size: 32px;
+      }
+
+      .hero-sub {
+        font-size: 20px;
+      }
+
+      .card-title {
+        font-size: 28px;
+      }
+
+      .today-term-meaning {
+        font-size: 24px;
+      }
+
+      .section-head h2 {
+        font-size: 31px;
+      }
+
+      .news-title {
+        font-size: 24px;
+      }
+
+      .news-summary {
+        font-size: 18px;
+      }
+
+      .trust-badge {
+        font-size: 15px;
+      }
+
+      .btn {
+        width: 100%;
       }
     }
   </style>
@@ -506,7 +623,7 @@
           <span class="mini-badge">디지털 경쟁력</span>
         </div>
 
-        <div style="margin-top: 14px;">
+        <div style="margin-top: 16px;">
           <a
             class="mini-link"
             href="https://www.bok.or.kr/portal/bbs/B0000249/view.do?menuNo=200765&nttId=10096081"
