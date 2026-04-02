@@ -68,7 +68,9 @@ const LOW_QUALITY_SUMMARIES = [
 const ui = {
   newsContainer: document.getElementById("newsContainer"),
   todayTermBox: document.getElementById("todayTermBox"),
-  refreshTermBtn: document.getElementById("refreshTermBtn")
+  refreshTermBtn: document.getElementById("refreshTermBtn"),
+  todayLabelHero: document.getElementById("todayLabelHero"),
+  todayLabelNews: document.getElementById("todayLabelNews")
 };
 
 function decodeHtmlEntities(text) {
@@ -114,6 +116,18 @@ function formatDate(dateValue) {
     month: "2-digit",
     day: "2-digit"
   }).format(d);
+}
+
+function formatMonthDayLabel(date = new Date()) {
+  const month = date.getMonth() + 1;
+  const day = date.getDate();
+  return `(${month}월 ${day}일)`;
+}
+
+function renderTodayLabels() {
+  const label = formatMonthDayLabel();
+  if (ui.todayLabelHero) ui.todayLabelHero.textContent = ` ${label}`;
+  if (ui.todayLabelNews) ui.todayLabelNews.textContent = ` ${label}`;
 }
 
 function flattenNewsData(payload) {
@@ -441,7 +455,7 @@ function renderGroupIcon(groupKey) {
     return `
       <span class="section-main-icon" aria-hidden="true" style="padding:0; overflow:hidden; background:#fff; border-color:#cfe1ff;">
         <img
-          src="./assets/mg-logo.png"
+          src="./assets/mg-logo.jpg"
           alt=""
           style="width:28px; height:28px; object-fit:contain; display:block;"
         />
@@ -573,6 +587,8 @@ async function loadNews() {
 
 async function init() {
   try {
+    renderTodayLabels();
+
     const payload = await loadNews();
     const flatNews = flattenNewsData(payload)
       .map(normalizeNewsItem)
