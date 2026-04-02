@@ -160,39 +160,83 @@ function isLowQualitySummary(summary) {
 }
 
 function buildFallbackSummary(item, sectionKey) {
-  const title = cleanText(item.title);
   const text = normalizeText([item.title, item.summary].join(" "));
 
   if (sectionKey === "mg") {
-    if (text.includes("회장") || text.includes("중앙회")) {
+    if (
+      text.includes("회장") ||
+      text.includes("중앙회") ||
+      text.includes("조직") ||
+      text.includes("혁신")
+    ) {
       return "새마을금고 조직 운영과 대외 메시지 측면에서 볼 만한 기사입니다.";
     }
-    if (text.includes("대출") || text.includes("예금") || text.includes("수신")) {
+    if (
+      text.includes("대출") ||
+      text.includes("예금") ||
+      text.includes("수신") ||
+      text.includes("여신") ||
+      text.includes("가계대출")
+    ) {
       return "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있습니다.";
     }
-    if (text.includes("건전성") || text.includes("연체") || text.includes("부실")) {
-      return "새마을금고 건전성 관리 흐름과 함께 볼 만한 기사입니다.";
+    if (
+      text.includes("건전성") ||
+      text.includes("연체") ||
+      text.includes("부실") ||
+      text.includes("충당금")
+    ) {
+      return "새마을금고 건전성 관리 흐름과 연결해 볼 수 있는 기사입니다.";
     }
-    return title ? "" : "";
+    if (
+      text.includes("금리") ||
+      text.includes("기준금리") ||
+      text.includes("유동성")
+    ) {
+      return "금리와 자금운용 환경 변화가 금고 운영에 미치는 영향을 함께 볼 수 있습니다.";
+    }
+    return "";
   }
 
   if (sectionKey === "other-finance") {
-    if (text.includes("금리") || text.includes("예금") || text.includes("대출")) {
+    if (
+      text.includes("금리") ||
+      text.includes("예금") ||
+      text.includes("대출") ||
+      text.includes("수신")
+    ) {
       return "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있습니다.";
     }
-    if (text.includes("디지털") || text.includes("플랫폼") || text.includes("비대면")) {
+    if (
+      text.includes("디지털") ||
+      text.includes("플랫폼") ||
+      text.includes("비대면") ||
+      text.includes("앱")
+    ) {
       return "타 금융권의 채널 전략 변화를 비교해서 볼 수 있습니다.";
     }
     return "";
   }
 
-  if (text.includes("기준금리") || text.includes("금리") || text.includes("통화정책")) {
+  if (
+    text.includes("기준금리") ||
+    text.includes("금리") ||
+    text.includes("통화정책")
+  ) {
     return "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있습니다.";
   }
-  if (text.includes("가계대출") || text.includes("부동산") || text.includes("pf")) {
+  if (
+    text.includes("가계대출") ||
+    text.includes("부동산") ||
+    text.includes("pf")
+  ) {
     return "대출 수요와 건전성 흐름을 함께 볼 때 참고할 만한 기사입니다.";
   }
-  if (text.includes("경기") || text.includes("소비") || text.includes("내수")) {
+  if (
+    text.includes("경기") ||
+    text.includes("소비") ||
+    text.includes("내수")
+  ) {
     return "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.";
   }
 
@@ -211,12 +255,28 @@ function classifyArticle(item) {
     ].join(" ")
   );
 
-  const mgKeywords = [
+  const directMgKeywords = [
     "새마을금고",
     "mg새마을금고",
-    "mg",
     "중앙회",
     "금고"
+  ];
+
+  const mgOperationalKeywords = [
+    "예금",
+    "대출",
+    "수신",
+    "여신",
+    "가계대출",
+    "예대율",
+    "건전성",
+    "연체",
+    "부실",
+    "충당금",
+    "유동성",
+    "자금조달",
+    "금리",
+    "기준금리"
   ];
 
   const otherFinanceKeywords = [
@@ -234,8 +294,27 @@ function classifyArticle(item) {
     "핀테크"
   ];
 
-  const mgScore = mgKeywords.reduce(
-    (sum, keyword) => sum + (text.includes(normalizeText(keyword)) ? 2 : 0),
+  const macroKeywords = [
+    "물가",
+    "환율",
+    "경기",
+    "통화정책",
+    "소비",
+    "내수",
+    "수출",
+    "고용",
+    "성장률",
+    "부동산",
+    "pf"
+  ];
+
+  const directMgScore = directMgKeywords.reduce(
+    (sum, keyword) => sum + (text.includes(normalizeText(keyword)) ? 3 : 0),
+    0
+  );
+
+  const mgOperationalScore = mgOperationalKeywords.reduce(
+    (sum, keyword) => sum + (text.includes(normalizeText(keyword)) ? 1 : 0),
     0
   );
 
@@ -244,12 +323,25 @@ function classifyArticle(item) {
     0
   );
 
-  if (mgScore >= 2) {
-    return { key: "mg", label: "새마을금고 직접 관련" };
+  const macroScore = macroKeywords.reduce(
+    (sum, keyword) => sum + (text.includes(normalizeText(keyword)) ? 1 : 0),
+    0
+  );
+
+  if (directMgScore >= 3) {
+    return { key: "mg", label: "금고와 관련" };
+  }
+
+  if (mgOperationalScore >= 2) {
+    return { key: "mg", label: "금고와 관련" };
   }
 
   if (otherFinanceScore >= 1) {
     return { key: "other-finance", label: "타 금융권·협동조합" };
+  }
+
+  if (macroScore >= 1) {
+    return { key: "macro", label: "경제·금융 환경" };
   }
 
   return { key: "macro", label: "경제·금융 환경" };
@@ -389,8 +481,8 @@ function renderGroupedNews(newsItems) {
   const groups = [
     {
       key: "mg",
-      title: "새마을금고 직접 관련",
-      description: "새마을금고 및 MG 관련 이슈를 우선적으로 보여줍니다."
+      title: "금고와 관련",
+      description: "새마을금고와 직접 연결되거나 운영에 영향이 큰 기사를 우선 보여줍니다."
     },
     {
       key: "other-finance",
