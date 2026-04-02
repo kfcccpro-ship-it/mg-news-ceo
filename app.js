@@ -436,6 +436,44 @@ function renderTodayTerm(term) {
   `;
 }
 
+function renderGroupIcon(groupKey) {
+  if (groupKey === "mg") {
+    return `
+      <span class="section-main-icon" aria-hidden="true" style="padding:0; overflow:hidden; background:#fff; border-color:#cfe1ff;">
+        <img
+          src="./assets/mg-logo.png"
+          alt=""
+          style="width:28px; height:28px; object-fit:contain; display:block;"
+        />
+      </span>
+    `;
+  }
+
+  if (groupKey === "other-finance") {
+    return `
+      <span class="section-main-icon" aria-hidden="true">
+        <svg viewBox="0 0 24 24" fill="none">
+          <path d="M4 10L12 5L20 10" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+          <path d="M6 10V18" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/>
+          <path d="M12 10V18" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/>
+          <path d="M18 10V18" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/>
+          <path d="M4 19H20" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/>
+        </svg>
+      </span>
+    `;
+  }
+
+  return `
+    <span class="section-main-icon" aria-hidden="true">
+      <svg viewBox="0 0 24 24" fill="none">
+        <path d="M5 17L10 12L13 15L19 9" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M19 9H15" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/>
+        <path d="M19 9V13" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/>
+      </svg>
+    </span>
+  `;
+}
+
 function renderNewsCard(news) {
   return `
     <a
@@ -505,7 +543,10 @@ function renderGroupedNews(newsItems) {
         <section style="margin-bottom: 18px;">
           <div class="section-head" style="margin-top: 6px;">
             <div>
-              <h2 style="font-size: 22px;">${escapeHtml(group.title)}</h2>
+              <div class="section-title-row">
+                ${renderGroupIcon(group.key)}
+                <h2 style="font-size: 22px;">${escapeHtml(group.title)}</h2>
+              </div>
               <p>${escapeHtml(group.description)}</p>
             </div>
           </div>
