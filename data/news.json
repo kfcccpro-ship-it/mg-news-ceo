@@ -1,8 +1,34 @@
 {
-  "updatedAt": "2026-04-02T01:23:43.479Z",
+  "updatedAt": "2026-04-02T01:33:25.000Z",
   "headline": "금융환경 변화에 따른 주요 이슈를 점검할 필요가 있습니다.",
   "categories": {
     "saemaeul": [
+      {
+        "title": "성남시, 지역화폐 10% 할인 판매",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2414090",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 02 Apr 2026 10:30:00 +0900",
+        "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
+        "term": {
+          "word": "금융환경",
+          "meaning": "금리·경기 등 금융기관에 영향을 주는 외부 조건입니다."
+        },
+        "importance": "경영 판단에 참고가 될 수 있습니다.",
+        "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
+      },
+      {
+        "title": "'한다면 했던' 李대통령, 다주택자 돈줄 말려 집값 잡을까..&quot;공급이 관건...",
+        "link": "https://n.news.naver.com/mnews/article/014/0005501451?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 02 Apr 2026 10:26:00 +0900",
+        "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
+        "term": {
+          "word": "금융환경",
+          "meaning": "금리·경기 등 금융기관에 영향을 주는 외부 조건입니다."
+        },
+        "importance": "경영 판단에 참고가 될 수 있습니다.",
+        "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
+      },
       {
         "title": "성남사랑상품권 10% 특별할인 판매…중동 사태 장기화에 따른 민생경제...",
         "link": "https://n.news.naver.com/mnews/article/629/0000487661?sid=102",
@@ -56,8 +82,8 @@
         "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
       },
       {
-        "title": "[정책포커스] 금융위원회, 부동산 시장 바로잡고 금융의 새로운 패러다...",
-        "link": "http://www.sisacast.kr/news/articleView.html?idxno=94590",
+        "title": "[2일 성남시] 2027년 유엔 ‘지속가능한 교통 포럼’ 개최지 선정 등",
+        "link": "https://www.asiatime.co.kr/article/20260402500006",
         "source": "네이버뉴스",
         "pubDate": "Thu, 02 Apr 2026 09:26:00 +0900",
         "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
@@ -69,8 +95,8 @@
         "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
       },
       {
-        "title": "[2일 성남시] 2027년 유엔 ‘지속가능한 교통 포럼’ 개최지 선정 등",
-        "link": "https://www.asiatime.co.kr/article/20260402500006",
+        "title": "[정책포커스] 금융위원회, 부동산 시장 바로잡고 금융의 새로운 패러다...",
+        "link": "http://www.sisacast.kr/news/articleView.html?idxno=94590",
         "source": "네이버뉴스",
         "pubDate": "Thu, 02 Apr 2026 09:26:00 +0900",
         "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
@@ -106,40 +132,27 @@
         },
         "importance": "경영 판단에 참고가 될 수 있습니다.",
         "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
-      },
-      {
-        "title": "성남시, 4월 성남사랑상품권 10% 특별할인 판매 한다",
-        "link": "https://www.m-i.kr/news/articleView.html?idxno=1360841",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 08:34:00 +0900",
-        "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
-        "term": {
-          "word": "금융환경",
-          "meaning": "금리·경기 등 금융기관에 영향을 주는 외부 조건입니다."
-        },
-        "importance": "경영 판단에 참고가 될 수 있습니다.",
-        "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
-      },
-      {
-        "title": "성남시, 사랑상품권 10% 특별할인 판매",
-        "link": "https://n.news.naver.com/mnews/article/468/0001230430?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 08:14:00 +0900",
-        "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
-        "term": {
-          "word": "금융환경",
-          "meaning": "금리·경기 등 금융기관에 영향을 주는 외부 조건입니다."
-        },
-        "importance": "경영 판단에 참고가 될 수 있습니다.",
-        "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
       }
     ],
     "nonghyup": [
       {
-        "title": "GS25 결제액 1위···유통 판도 '근거리 소비'로 재편",
-        "link": "https://www.seoulfn.com/news/articleView.html?idxno=625385",
+        "title": "NH농협은행, 신규직원 아이디어로 디지털 혁신...'AX-이노베이션' 선정",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=248141",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 10:21:00 +0900",
+        "pubDate": "Thu, 02 Apr 2026 10:32:00 +0900",
+        "summary": "디지털 전환은 금융 경쟁력의 핵심 요소입니다.",
+        "term": {
+          "word": "비대면",
+          "meaning": "대면 없이 모바일·온라인으로 서비스를 제공하는 방식입니다."
+        },
+        "importance": "고객 접근성과 채널 경쟁력에 영향을 줍니다.",
+        "insight": "모바일 채널 경쟁력 점검이 필요합니다."
+      },
+      {
+        "title": "완주군, 친환경 농업 추진위, '3대 전략' 확정",
+        "link": "http://www.jeollailbo.com/news/articleView.html?idxno=796470",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 02 Apr 2026 10:32:00 +0900",
         "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
         "term": {
           "word": "금융환경",
@@ -149,10 +162,10 @@
         "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
       },
       {
-        "title": "임금님표이천쌀, 호주 시드니 첫 수출… 글로벌 시장 확대 본격화",
-        "link": "http://www.suwonilbo.kr/news/articleView.html?idxno=315341",
+        "title": "[뉴스줌인] '예금'인데 원금 깎인다…'지수연동정기예금'의 두 얼굴",
+        "link": "http://www.dailypop.kr/news/articleView.html?idxno=97674",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 10:20:00 +0900",
+        "pubDate": "Thu, 02 Apr 2026 10:30:00 +0900",
         "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
         "term": {
           "word": "금융환경",
@@ -162,10 +175,10 @@
         "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
       },
       {
-        "title": "성남사랑상품권 10% 특별할인 판매…중동 사태 장기화에 따른 민생경제...",
-        "link": "https://n.news.naver.com/mnews/article/629/0000487661?sid=102",
+        "title": "[금융권 소식] KB국민은행ㆍ신한은행ㆍNH농협은행",
+        "link": "http://www.weeklytoday.com/news/articleView.html?idxno=768825",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 10:20:00 +0900",
+        "pubDate": "Thu, 02 Apr 2026 10:30:00 +0900",
         "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
         "term": {
           "word": "금융환경",
@@ -175,10 +188,10 @@
         "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
       },
       {
-        "title": "작년 불장에 ‘1조 클럽’ 증권사 5곳 탄생",
-        "link": "http://www.globalepic.co.kr/view.php?ud=2026040210073154647cc35ccc5c_29",
+        "title": "NH농협은행 진천군지부, 진천군에 제휴카드 적립금 5796만원 전달",
+        "link": "https://n.news.naver.com/mnews/article/421/0008865320?sid=102",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 10:18:00 +0900",
+        "pubDate": "Thu, 02 Apr 2026 10:30:00 +0900",
         "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
         "term": {
           "word": "금융환경",
@@ -188,10 +201,10 @@
         "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
       },
       {
-        "title": "세븐일레븐은 여름 준비 중…냉감 소재 이너웨어·쿨토시 출시",
-        "link": "https://www.widedaily.com/news/articleView.html?idxno=291499",
+        "title": "또 미뤄진 은행 ELS 과징금 결정...당국, 제재수위·과징금 규모 고심",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=245238",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 10:16:00 +0900",
+        "pubDate": "Thu, 02 Apr 2026 10:30:00 +0900",
         "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
         "term": {
           "word": "금융환경",
@@ -201,10 +214,10 @@
         "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
       },
       {
-        "title": "변액보험 4월 브랜드평판... 1위 미래에셋생명·2위 삼성생명·3위 한화...",
-        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=266784",
+        "title": "성남시, 지역화폐 10% 할인 판매",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2414090",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 10:16:00 +0900",
+        "pubDate": "Thu, 02 Apr 2026 10:30:00 +0900",
         "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
         "term": {
           "word": "금융환경",
@@ -214,10 +227,10 @@
         "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
       },
       {
-        "title": "온양농협, 충남아산FC 후원 협약…8년째 동행",
-        "link": "https://www.jbnews.com/news/articleView.html?idxno=1501611",
+        "title": "서삼석 의원, 농어업면세유 가격안정법 대표 발의",
+        "link": "https://n.news.naver.com/mnews/article/001/0015997619?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 10:16:00 +0900",
+        "pubDate": "Thu, 02 Apr 2026 10:29:00 +0900",
         "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
         "term": {
           "word": "금융환경",
@@ -227,10 +240,10 @@
         "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
       },
       {
-        "title": "여주시-여주시농협조합공동사업법인(RPC), 대왕님표 여주쌀 마케팅 공동...",
-        "link": "http://www.suwonilbo.kr/news/articleView.html?idxno=315340",
+        "title": "도드람, 프랑스 최대 양돈 협동조합 쿠펄과 전략적 신뢰관계 구축",
+        "link": "https://www.livesnews.com/news/article.html?no=60541",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 10:14:00 +0900",
+        "pubDate": "Thu, 02 Apr 2026 10:26:00 +0900",
         "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
         "term": {
           "word": "금융환경",
@@ -240,23 +253,10 @@
         "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
       },
       {
-        "title": "이천시, '임금님표이천쌀' 호주 수출 시작",
-        "link": "http://www.metroseoul.co.kr/article/20260402500059",
+        "title": "세븐일레븐, 여름 대비 패션뷰티 확대…쿨이너·가성비선케어 출시",
+        "link": "https://n.news.naver.com/mnews/article/008/0005338825?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 10:10:00 +0900",
-        "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
-        "term": {
-          "word": "금융환경",
-          "meaning": "금리·경기 등 금융기관에 영향을 주는 외부 조건입니다."
-        },
-        "importance": "경영 판단에 참고가 될 수 있습니다.",
-        "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
-      },
-      {
-        "title": "의왕시, 포일2지구 국가전략기술 혁신기업 집중 유치 추진",
-        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2413618",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 10:10:00 +0900",
+        "pubDate": "Thu, 02 Apr 2026 10:26:00 +0900",
         "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
         "term": {
           "word": "금융환경",
@@ -268,10 +268,10 @@
     ],
     "bank": [
       {
-        "title": "스페이스X, 6월 목표로 IPO 신청...21일 투자자 설명회 개최",
-        "link": "https://www.aitimes.com/news/articleView.html?idxno=208697",
+        "title": "하나금융, 2026 뉴욕페스티벌 국가브랜드 대상에서 '금융산업 부문 대상...",
+        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=683068",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 10:22:00 +0900",
+        "pubDate": "Thu, 02 Apr 2026 10:32:00 +0900",
         "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
         "term": {
           "word": "금융환경",
@@ -281,10 +281,23 @@
         "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
       },
       {
-        "title": "카이아, 원화 스테이블코인 기술설계 표준 제시",
-        "link": "https://dealsite.co.kr/articles/159559",
+        "title": "NH농협은행, 신규직원 아이디어로 디지털 혁신...'AX-이노베이션' 선정",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=248141",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 10:22:00 +0900",
+        "pubDate": "Thu, 02 Apr 2026 10:32:00 +0900",
+        "summary": "디지털 전환은 금융 경쟁력의 핵심 요소입니다.",
+        "term": {
+          "word": "비대면",
+          "meaning": "대면 없이 모바일·온라인으로 서비스를 제공하는 방식입니다."
+        },
+        "importance": "고객 접근성과 채널 경쟁력에 영향을 줍니다.",
+        "insight": "모바일 채널 경쟁력 점검이 필요합니다."
+      },
+      {
+        "title": "KB국민은행 KB스타뱅킹 해외결제서비스 인니 전역 확대",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=85100",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 02 Apr 2026 10:32:00 +0900",
         "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
         "term": {
           "word": "금융환경",
@@ -294,10 +307,10 @@
         "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
       },
       {
-        "title": "KB국민은행, 앱 QR결제 서비스 인니까지 확대",
-        "link": "https://www.1conomynews.co.kr/news/articleView.html?idxno=47830",
+        "title": "정화예대, 정화드림팀 제5기 발대식 개최…&quot;미용 국가대표 인재 육성&quot;",
+        "link": "http://www.dailysmart.co.kr/news/articleView.html?idxno=122030",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 10:22:00 +0900",
+        "pubDate": "Thu, 02 Apr 2026 10:32:00 +0900",
         "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
         "term": {
           "word": "금융환경",
@@ -307,10 +320,10 @@
         "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
       },
       {
-        "title": "그룹 '구원투수' 롯데물산, 부동산 개발사업으로 재무 시험대 오르나",
-        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4407369",
+        "title": "미국 사모펀드 부실 위기 대응해야 [특별기고]",
+        "link": "http://www.sisaon.co.kr/news/articleView.html?idxno=182023",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 10:22:00 +0900",
+        "pubDate": "Thu, 02 Apr 2026 10:32:00 +0900",
         "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
         "term": {
           "word": "금융환경",
@@ -320,10 +333,10 @@
         "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
       },
       {
-        "title": "83년생이 이끄는 ‘AI 뱅크’…웰컴저축은행, AX로 제2의 도약 선언",
-        "link": "https://www.viva100.com/article/20260401500877",
+        "title": "JB금융, 차량 5부제 시행…전사 에너지 절약 캠페인 추진",
+        "link": "https://www.fetv.co.kr/news/article.html?no=216205",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 10:20:00 +0900",
+        "pubDate": "Thu, 02 Apr 2026 10:32:00 +0900",
         "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
         "term": {
           "word": "금융환경",
@@ -333,10 +346,10 @@
         "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
       },
       {
-        "title": "KB국민은행, 국내 최초 '인니 QR 결제'…동남아 전략 가속",
-        "link": "https://www.ngetnews.com/news/articleView.html?idxno=549679",
+        "title": "&quot;보이스피싱크홀&quot;…빠져나오기 힘든 '목소리 함정' 들어보니",
+        "link": "https://n.news.naver.com/mnews/article/421/0008865321?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 10:20:00 +0900",
+        "pubDate": "Thu, 02 Apr 2026 10:31:00 +0900",
         "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
         "term": {
           "word": "금융환경",
@@ -346,10 +359,10 @@
         "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
       },
       {
-        "title": "LX하우시스, 그린리모델링 이자지원사업 재개",
-        "link": "http://www.ttlnews.com/news/articleView.html?idxno=3095210",
+        "title": "우리금융, 내부등급법 손질…新신용평가 최종 좌표도 '생산적 금융'",
+        "link": "https://n.news.naver.com/mnews/article/293/0000082057?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 10:20:00 +0900",
+        "pubDate": "Thu, 02 Apr 2026 10:30:00 +0900",
         "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
         "term": {
           "word": "금융환경",
@@ -359,10 +372,10 @@
         "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
       },
       {
-        "title": "성남사랑상품권 10% 특별할인 판매…중동 사태 장기화에 따른 민생경제...",
-        "link": "https://n.news.naver.com/mnews/article/629/0000487661?sid=102",
+        "title": "[금융권 소식] KB국민은행ㆍ신한은행ㆍNH농협은행",
+        "link": "http://www.weeklytoday.com/news/articleView.html?idxno=768825",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 10:20:00 +0900",
+        "pubDate": "Thu, 02 Apr 2026 10:30:00 +0900",
         "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
         "term": {
           "word": "금융환경",
@@ -372,23 +385,10 @@
         "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
       },
       {
-        "title": "진성준 &quot;홍익표 '논의없다' 했지만…7월 보유세 인상 근거는&quot;",
-        "link": "https://n.news.naver.com/mnews/article/079/0004131946?sid=100",
+        "title": "NH농협은행 진천군지부, 진천군에 제휴카드 적립금 5796만원 전달",
+        "link": "https://n.news.naver.com/mnews/article/421/0008865320?sid=102",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 10:19:00 +0900",
-        "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
-        "term": {
-          "word": "금융환경",
-          "meaning": "금리·경기 등 금융기관에 영향을 주는 외부 조건입니다."
-        },
-        "importance": "경영 판단에 참고가 될 수 있습니다.",
-        "insight": "관련 흐름을 지속적으로 점검할 필요가 있습니다."
-      },
-      {
-        "title": "작년 불장에 ‘1조 클럽’ 증권사 5곳 탄생",
-        "link": "http://www.globalepic.co.kr/view.php?ud=2026040210073154647cc35ccc5c_29",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 10:18:00 +0900",
+        "pubDate": "Thu, 02 Apr 2026 10:30:00 +0900",
         "summary": "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
         "term": {
           "word": "금융환경",
