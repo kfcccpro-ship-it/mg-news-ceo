@@ -4,41 +4,64 @@ const BOK_TERMS_URL =
 
 const FALLBACK_TERMS = {
   NIM: {
-    description: "금리 환경 변화가 수익성에 미치는 영향을 보여주는 지표",
+    description: "금리 변화가 금융기관의 수익성에 어떤 영향을 주는지 보여주는 핵심 지표",
     detail:
-      "순이자마진(NIM)은 금융기관의 핵심 수익성 지표로, 조달금리와 운용수익률의 차이가 어떻게 반영되는지를 보여줍니다."
+      "조달금리와 운용수익률의 차이가 순이자수익에 어떻게 반영되는지 이해할 때 활용됩니다."
   },
   CET1: {
-    description: "위기 대응 능력을 판단하는 핵심 자본지표",
+    description: "손실흡수력을 보여주는 대표적인 자본적정성 지표",
     detail:
-      "보통주자본비율(CET1)은 손실흡수력이 높은 자본 수준을 보여주는 대표 건전성 지표입니다."
+      "위기 상황에서 금융기관이 어느 정도 자본 여력을 갖고 있는지 판단할 때 중요합니다."
   },
   LCR: {
-    description: "단기 유동성 대응 능력을 나타내는 지표",
+    description: "단기 유동성 충격에 대응할 수 있는 능력을 보여주는 지표",
     detail:
-      "유동성커버리지비율(LCR)은 단기 자금 유출 상황에서 고유동성 자산으로 얼마나 버틸 수 있는지 보여줍니다."
+      "예금 이탈이나 자금시장 경색 시 고유동성 자산으로 얼마나 버틸 수 있는지 판단할 때 참고합니다."
   },
   "Terminal Rate": {
-    description: "금리 인상 사이클의 최종 수준",
+    description: "기준금리 인상 사이클의 최종 수준에 대한 시장 기대",
     detail:
-      "터미널 레이트는 중앙은행이 기준금리 인상 사이클에서 도달할 것으로 예상되는 최고 수준을 뜻합니다."
+      "금리 전망, 조달비용, 수신 경쟁 강도 변화를 읽을 때 함께 봐야 하는 개념입니다."
   },
   "Forward Guidance": {
-    description: "중앙은행의 향후 정책 방향 신호",
+    description: "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호",
     detail:
-      "포워드 가이던스는 중앙은행이 시장과 소통하는 방식으로, 향후 금리 경로와 정책 기조에 대한 기대를 형성합니다."
+      "시장 금리와 금융기관의 대응 전략에 영향을 줄 수 있어 통화정책 해석에 중요합니다."
   },
   Delinquency: {
-    description: "연체 흐름을 통해 자산건전성 악화를 조기 파악하는 지표",
+    description: "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표",
     detail:
-      "연체율 상승은 대출 포트폴리오의 질 악화 가능성을 시사하며, 충당금·건전성 관리와 직결됩니다."
+      "연체율 상승은 충당금 부담과 건전성 관리 강화 필요성으로 이어질 수 있습니다."
   },
   "Cost of Risk": {
-    description: "대출 손실 위험이 비용으로 얼마나 반영되는지 보여주는 지표",
+    description: "신용위험이 비용으로 얼마나 반영되는지를 보여주는 지표",
     detail:
-      "대손비용률은 경기 둔화, 연체 확대, 취약 차주 증가 국면에서 수익성과 건전성을 함께 읽는 데 유용합니다."
+      "경기 둔화나 취약차주 증가 국면에서 수익성과 건전성을 함께 읽을 때 중요합니다."
   }
 };
+
+const LOW_QUALITY_TERMS = new Set([
+  "금융환경",
+  "시장흐름",
+  "시장 흐름",
+  "경제환경",
+  "경영환경",
+  "금융시장"
+]);
+
+const LOW_QUALITY_MEANINGS = [
+  "경영 판단에 참고가 될 수 있습니다",
+  "관련 흐름을 지속적으로 점검할 필요가 있습니다",
+  "시장 흐름을 이해하는 데 참고할 수 있습니다",
+  "외부 조건입니다",
+  "참고할 수 있습니다"
+];
+
+const LOW_QUALITY_INSIGHTS = [
+  "관련 흐름을 지속적으로 점검할 필요가 있습니다",
+  "경영 판단에 참고가 될 수 있습니다",
+  "시장 변화가 경영 판단에 미치는 영향 점검 필요"
+];
 
 const ui = {
   newsContainer: document.getElementById("newsContainer"),
@@ -61,6 +84,13 @@ function stripHtml(html) {
   return div.textContent || div.innerText || "";
 }
 
+function normalizeText(text) {
+  return String(text || "")
+    .toLowerCase()
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
 function formatDate(dateValue) {
   if (!dateValue) return "날짜 정보 없음";
   const d = new Date(dateValue);
@@ -75,24 +105,16 @@ function formatDate(dateValue) {
 function flattenNewsData(payload) {
   if (!payload) return [];
 
-  if (Array.isArray(payload)) {
-    return payload;
-  }
-
-  if (Array.isArray(payload.items)) {
-    return payload.items;
-  }
-
-  if (Array.isArray(payload.news)) {
-    return payload.news;
-  }
+  if (Array.isArray(payload)) return payload;
+  if (Array.isArray(payload.items)) return payload.items;
+  if (Array.isArray(payload.news)) return payload.news;
 
   if (payload.categories && typeof payload.categories === "object") {
     return Object.entries(payload.categories).flatMap(([category, items]) => {
       if (!Array.isArray(items)) return [];
       return items.map((item) => ({
         ...item,
-        category
+        rawCategory: category
       }));
     });
   }
@@ -100,11 +122,185 @@ function flattenNewsData(payload) {
   return [];
 }
 
-function normalizeNewsItem(item) {
-  const termWord = item?.term?.word || "";
-  const termMeaning = item?.term?.meaning || "";
+function isLowQualityText(text) {
+  const normalized = normalizeText(text);
+  if (!normalized) return true;
 
-  const fallbackTerm = FALLBACK_TERMS[termWord];
+  return LOW_QUALITY_MEANINGS.some((bad) => normalized.includes(normalizeText(bad))) ||
+    LOW_QUALITY_INSIGHTS.some((bad) => normalized.includes(normalizeText(bad)));
+}
+
+function isMeaningfulTerm(termWord, termMeaning) {
+  const word = String(termWord || "").trim();
+  const meaning = String(termMeaning || "").trim();
+
+  if (!word || LOW_QUALITY_TERMS.has(word)) return false;
+  if (word.length <= 2) return false;
+  if (!meaning || isLowQualityText(meaning)) return false;
+
+  return true;
+}
+
+function classifyArticle(item) {
+  const text = normalizeText(
+    [
+      item.title,
+      item.summary,
+      item.source,
+      item.rawCategory,
+      item.importance,
+      item.insight
+    ].join(" ")
+  );
+
+  const mgKeywords = [
+    "새마을금고",
+    "mg",
+    "mg손해보험",
+    "mg인재개발원",
+    "중앙회",
+    "금고"
+  ];
+
+  const otherFinanceKeywords = [
+    "농협",
+    "신협",
+    "수협",
+    "산림조합",
+    "은행",
+    "저축은행",
+    "보험",
+    "증권",
+    "카드",
+    "캐피탈",
+    "인터넷은행",
+    "핀테크"
+  ];
+
+  const macroKeywords = [
+    "기준금리",
+    "금리",
+    "물가",
+    "환율",
+    "경기",
+    "통화정책",
+    "가계대출",
+    "부동산",
+    "자영업",
+    "소비",
+    "수출",
+    "내수"
+  ];
+
+  const mgScore = mgKeywords.reduce(
+    (sum, keyword) => sum + (text.includes(normalizeText(keyword)) ? 2 : 0),
+    0
+  );
+
+  const otherFinanceScore = otherFinanceKeywords.reduce(
+    (sum, keyword) => sum + (text.includes(normalizeText(keyword)) ? 1 : 0),
+    0
+  );
+
+  const macroScore = macroKeywords.reduce(
+    (sum, keyword) => sum + (text.includes(normalizeText(keyword)) ? 1 : 0),
+    0
+  );
+
+  if (mgScore >= 2) {
+    return {
+      key: "mg",
+      label: "새마을금고 직접 관련"
+    };
+  }
+
+  if (otherFinanceScore >= 1) {
+    return {
+      key: "other-finance",
+      label: "타 금융권·협동조합"
+    };
+  }
+
+  if (macroScore >= 1) {
+    return {
+      key: "macro",
+      label: "경제·금융 환경"
+    };
+  }
+
+  return {
+    key: "macro",
+    label: "경제·금융 환경"
+  };
+}
+
+function buildBetterInsight(item, sectionKey) {
+  const text = normalizeText(
+    [item.title, item.summary, item.importance, item.insight].join(" ")
+  );
+
+  if (sectionKey === "mg") {
+    if (text.includes("건전성") || text.includes("연체") || text.includes("부실")) {
+      return "새마을금고 건전성과 리스크 관리 방향에 미치는 영향을 함께 볼 필요가 있습니다.";
+    }
+    if (text.includes("수신") || text.includes("예금") || text.includes("대출") || text.includes("금리")) {
+      return "새마을금고의 수신 경쟁, 대출 운영, 예대율 관리 측면에서 해석이 필요한 기사입니다.";
+    }
+    return "새마을금고 운영과 경영 판단에 직접 연결될 수 있어 우선적으로 볼 가치가 있습니다.";
+  }
+
+  if (sectionKey === "other-finance") {
+    if (text.includes("디지털") || text.includes("플랫폼") || text.includes("비대면")) {
+      return "타 금융권의 채널 전략 변화가 새마을금고 경쟁환경에 주는 시사점을 볼 수 있습니다.";
+    }
+    if (text.includes("금리") || text.includes("예금") || text.includes("대출")) {
+      return "타 금융권의 금리·수신 전략 변화가 새마을금고에도 경쟁 압력으로 이어질 수 있습니다.";
+    }
+    return "타 금융권의 움직임을 통해 새마을금고의 대응 방향을 비교해볼 수 있는 기사입니다.";
+  }
+
+  if (text.includes("금리") || text.includes("기준금리") || text.includes("통화정책")) {
+    return "금리 환경 변화가 수신 경쟁, 대출 운용, 수익성에 어떤 영향을 줄지 함께 볼 필요가 있습니다.";
+  }
+  if (text.includes("경기") || text.includes("소비") || text.includes("내수")) {
+    return "경기 흐름 변화가 지역금융 수요와 차주의 상환여력에 미치는 영향을 점검할 필요가 있습니다.";
+  }
+  if (text.includes("가계대출") || text.includes("부동산")) {
+    return "가계대출과 부동산 흐름은 대출 수요와 건전성 관리 측면에서 함께 볼 필요가 있습니다.";
+  }
+
+  return "";
+}
+
+function normalizeNewsItem(item) {
+  const section = classifyArticle(item);
+
+  const rawTermWord = item?.term?.word || "";
+  const rawTermMeaning = item?.term?.meaning || "";
+  const fallbackTerm = FALLBACK_TERMS[rawTermWord];
+
+  const showTerm = isMeaningfulTerm(
+    rawTermWord,
+    rawTermMeaning || fallbackTerm?.description || ""
+  );
+
+  const term = showTerm
+    ? {
+        word: rawTermWord,
+        meaning:
+          rawTermMeaning ||
+          fallbackTerm?.description ||
+          "관련 흐름을 이해하는 데 필요한 개념입니다.",
+        detail: fallbackTerm?.detail || ""
+      }
+    : null;
+
+  const importance = isLowQualityText(item.importance) ? "" : String(item.importance || "").trim();
+
+  let insight = String(item.insight || "").trim();
+  if (!insight || isLowQualityText(insight)) {
+    insight = buildBetterInsight(item, section.key);
+  }
 
   return {
     title: item.title || "제목 없음",
@@ -112,19 +308,10 @@ function normalizeNewsItem(item) {
     source: item.source || "출처 미상",
     pubDate: item.pubDate || item.date || item.publishedAt || "",
     summary: stripHtml(item.summary || item.description || ""),
-    importance: item.importance || "",
-    insight: item.insight || "시장 변화가 경영 판단에 미치는 영향 점검 필요",
-    category: item.category || "",
-    term: termWord
-      ? {
-          word: termWord,
-          meaning:
-            termMeaning ||
-            fallbackTerm?.description ||
-            "관련 금융 흐름을 이해하는 데 참고할 수 있는 개념입니다.",
-          detail: fallbackTerm?.detail || termMeaning || ""
-        }
-      : null
+    importance,
+    insight,
+    section,
+    term
   };
 }
 
@@ -178,72 +365,109 @@ function renderTodayTerm(term) {
   `;
 }
 
-function renderNews(newsItems) {
+function renderNewsCard(news) {
+  return `
+    <a
+      class="news-item"
+      href="${escapeHtml(news.link)}"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <div class="news-top">
+        <span class="news-source">${escapeHtml(news.source)}</span>
+        <span class="news-date">${escapeHtml(formatDate(news.pubDate))}</span>
+      </div>
+
+      <h3 class="news-title">${escapeHtml(news.title)}</h3>
+
+      ${
+        news.summary
+          ? `<p class="news-summary">${escapeHtml(news.summary)}</p>`
+          : ""
+      }
+
+      <div class="news-bottom">
+        ${
+          news.term
+            ? `
+              <div class="chip-row">
+                <span class="chip chip-term">용어: ${escapeHtml(news.term.word)}</span>
+              </div>
+            `
+            : ""
+        }
+
+        ${
+          news.importance
+            ? `
+              <div class="chip-row">
+                <span class="chip chip-term">참고 포인트: ${escapeHtml(news.importance)}</span>
+              </div>
+            `
+            : ""
+        }
+
+        ${
+          news.insight
+            ? `
+              <div class="divider"></div>
+              <div class="chip-row">
+                <span class="chip chip-imp">MG 시사점: ${escapeHtml(news.insight)}</span>
+              </div>
+            `
+            : ""
+        }
+      </div>
+    </a>
+  `;
+}
+
+function renderGroupedNews(newsItems) {
   if (!Array.isArray(newsItems) || newsItems.length === 0) {
-    ui.newsContainer.innerHTML = `
-      <div class="empty">표시할 뉴스가 없습니다.</div>
-    `;
+    ui.newsContainer.innerHTML = `<div class="empty">표시할 뉴스가 없습니다.</div>`;
     return;
   }
 
-  ui.newsContainer.innerHTML = newsItems
-    .map((news) => {
+  const groups = [
+    {
+      key: "mg",
+      title: "새마을금고 직접 관련",
+      description: "새마을금고 및 MG 관련 이슈를 우선적으로 보여줍니다."
+    },
+    {
+      key: "other-finance",
+      title: "타 금융권·협동조합",
+      description: "농협·신협·은행 등 비교 관점에서 볼 만한 기사입니다."
+    },
+    {
+      key: "macro",
+      title: "경제·금융 환경",
+      description: "금리·경기·가계대출 등 배경 환경을 읽는 기사입니다."
+    }
+  ];
+
+  const groupedHtml = groups
+    .map((group) => {
+      const items = newsItems.filter((item) => item.section.key === group.key);
+      if (items.length === 0) return "";
+
       return `
-        <a
-          class="news-item"
-          href="${escapeHtml(news.link)}"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <div class="news-top">
-            <span class="news-source">${escapeHtml(news.source)}</span>
-            <span class="news-date">${escapeHtml(formatDate(news.pubDate))}</span>
-            ${
-              news.category
-                ? `<span class="news-source">${escapeHtml(news.category)}</span>`
-                : ""
-            }
-          </div>
-
-          <h3 class="news-title">${escapeHtml(news.title)}</h3>
-
-          ${
-            news.summary
-              ? `<p class="news-summary">${escapeHtml(news.summary)}</p>`
-              : ""
-          }
-
-          <div class="news-bottom">
-            ${
-              news.term
-                ? `
-                  <div class="chip-row">
-                    <span class="chip chip-term">용어: ${escapeHtml(news.term.word)}</span>
-                  </div>
-                `
-                : ""
-            }
-
-            ${
-              news.importance
-                ? `
-                  <div class="chip-row">
-                    <span class="chip chip-term">의미: ${escapeHtml(news.importance)}</span>
-                  </div>
-                `
-                : ""
-            }
-
-            <div class="divider"></div>
-
-            <div class="chip-row">
-              <span class="chip chip-imp">MG 시사점: ${escapeHtml(news.insight)}</span>
+        <section style="margin-bottom: 18px;">
+          <div class="section-head" style="margin-top: 6px;">
+            <div>
+              <h2 style="font-size: 22px;">${escapeHtml(group.title)}</h2>
+              <p>${escapeHtml(group.description)}</p>
             </div>
           </div>
-        </a>
+          <div class="news-list">
+            ${items.map(renderNewsCard).join("")}
+          </div>
+        </section>
       `;
     })
     .join("");
+
+  ui.newsContainer.innerHTML = groupedHtml || `<div class="empty">표시할 뉴스가 없습니다.</div>`;
 }
 
 async function loadNews() {
@@ -258,11 +482,14 @@ async function loadNews() {
 async function init() {
   try {
     const payload = await loadNews();
-    const flatNews = flattenNewsData(payload).map(normalizeNewsItem);
+    const flatNews = flattenNewsData(payload)
+      .map(normalizeNewsItem)
+      .filter((item) => item.title && item.link);
+
     const todayTerm = pickTodayTerm(flatNews);
 
     renderTodayTerm(todayTerm);
-    renderNews(flatNews);
+    renderGroupedNews(flatNews);
   } catch (error) {
     console.error(error);
 
