@@ -54,11 +54,40 @@ const LOW_QUALITY_TERMS = new Set([
   "금융시장"
 ]);
 
+const LOW_QUALITY_SUMMARIES = [
+  "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다",
+  "금융환경 변화와 시장 흐름을 이해하는 데 참고 할수있습니다",
+  "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.",
+  "금리 변화는 금융회사의 수익성과 자금운용에 영향을 줍니다",
+  "금리 변화는 금융회사의 수익성과 자금운용에 영향을 줍니다.",
+  "시장 흐름을 이해하는 데 참고할 수 있습니다",
+  "경영 판단에 참고가 될 수 있습니다",
+  "관련 흐름을 지속적으로 점검할 필요가 있습니다"
+];
+
 const ui = {
   newsContainer: document.getElementById("newsContainer"),
   todayTermBox: document.getElementById("todayTermBox"),
   refreshTermBtn: document.getElementById("refreshTermBtn")
 };
+
+function decodeHtmlEntities(text) {
+  const textarea = document.createElement("textarea");
+  textarea.innerHTML = String(text || "");
+  return textarea.value;
+}
+
+function stripHtml(html) {
+  const div = document.createElement("div");
+  div.innerHTML = String(html || "");
+  return div.textContent || div.innerText || "";
+}
+
+function cleanText(text) {
+  return decodeHtmlEntities(stripHtml(text))
+    .replace(/\s+/g, " ")
+    .trim();
+}
 
 function escapeHtml(text) {
   return String(text || "")
@@ -69,14 +98,8 @@ function escapeHtml(text) {
     .replaceAll("'", "&#39;");
 }
 
-function stripHtml(html) {
-  const div = document.createElement("div");
-  div.innerHTML = html || "";
-  return div.textContent || div.innerText || "";
-}
-
 function normalizeText(text) {
-  return String(text || "")
+  return cleanText(text)
     .toLowerCase()
     .replace(/\s+/g, " ")
     .trim();
@@ -114,8 +137,8 @@ function flattenNewsData(payload) {
 }
 
 function isMeaningfulTerm(termWord, termMeaning) {
-  const word = String(termWord || "").trim();
-  const meaning = String(termMeaning || "").trim();
+  const word = cleanText(termWord);
+  const meaning = cleanText(termMeaning);
 
   if (!word) return false;
   if (LOW_QUALITY_TERMS.has(word)) return false;
@@ -124,6 +147,56 @@ function isMeaningfulTerm(termWord, termMeaning) {
   if (meaning.length < 12) return false;
 
   return true;
+}
+
+function isLowQualitySummary(summary) {
+  const normalized = normalizeText(summary);
+  if (!normalized) return true;
+  if (normalized.length < 20) return true;
+
+  return LOW_QUALITY_SUMMARIES.some((bad) =>
+    normalized.includes(normalizeText(bad))
+  );
+}
+
+function buildFallbackSummary(item, sectionKey) {
+  const title = cleanText(item.title);
+  const text = normalizeText([item.title, item.summary].join(" "));
+
+  if (sectionKey === "mg") {
+    if (text.includes("회장") || text.includes("중앙회")) {
+      return "새마을금고 조직 운영과 대외 메시지 측면에서 볼 만한 기사입니다.";
+    }
+    if (text.includes("대출") || text.includes("예금") || text.includes("수신")) {
+      return "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있습니다.";
+    }
+    if (text.includes("건전성") || text.includes("연체") || text.includes("부실")) {
+      return "새마을금고 건전성 관리 흐름과 함께 볼 만한 기사입니다.";
+    }
+    return title ? "" : "";
+  }
+
+  if (sectionKey === "other-finance") {
+    if (text.includes("금리") || text.includes("예금") || text.includes("대출")) {
+      return "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있습니다.";
+    }
+    if (text.includes("디지털") || text.includes("플랫폼") || text.includes("비대면")) {
+      return "타 금융권의 채널 전략 변화를 비교해서 볼 수 있습니다.";
+    }
+    return "";
+  }
+
+  if (text.includes("기준금리") || text.includes("금리") || text.includes("통화정책")) {
+    return "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있습니다.";
+  }
+  if (text.includes("가계대출") || text.includes("부동산") || text.includes("pf")) {
+    return "대출 수요와 건전성 흐름을 함께 볼 때 참고할 만한 기사입니다.";
+  }
+  if (text.includes("경기") || text.includes("소비") || text.includes("내수")) {
+    return "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.";
+  }
+
+  return "";
 }
 
 function classifyArticle(item) {
@@ -182,67 +255,11 @@ function classifyArticle(item) {
   return { key: "macro", label: "경제·금융 환경" };
 }
 
-function buildShortInsight(item, sectionKey) {
-  const text = normalizeText(
-    [item.title, item.summary, item.importance, item.insight].join(" ")
-  );
-
-  if (sectionKey === "mg") {
-    if (text.includes("연체") || text.includes("부실") || text.includes("건전성")) {
-      return "건전성 관리와 연결해 볼 기사입니다.";
-    }
-    if (text.includes("예금") || text.includes("대출") || text.includes("수신") || text.includes("금리")) {
-      return "수신·여신 운영 관점에서 볼 필요가 있습니다.";
-    }
-    return "새마을금고 운영과 직접 관련된 기사입니다.";
-  }
-
-  if (sectionKey === "other-finance") {
-    if (text.includes("디지털") || text.includes("플랫폼") || text.includes("비대면")) {
-      return "채널 경쟁 방향 비교에 참고할 만합니다.";
-    }
-    if (text.includes("금리") || text.includes("예금") || text.includes("대출")) {
-      return "금리·수신 경쟁 흐름 비교에 참고할 만합니다.";
-    }
-    return "타 금융권 동향 비교용 기사입니다.";
-  }
-
-  if (text.includes("기준금리") || text.includes("금리") || text.includes("통화정책")) {
-    return "금리 환경 변화와 함께 볼 필요가 있습니다.";
-  }
-  if (text.includes("가계대출") || text.includes("부동산")) {
-    return "대출 수요와 건전성 흐름에 참고할 만합니다.";
-  }
-  if (text.includes("경기") || text.includes("소비") || text.includes("내수")) {
-    return "지역금융 수요 변화와 함께 볼 수 있습니다.";
-  }
-
-  return "";
-}
-
-function shouldShowInsight(insight) {
-  const text = String(insight || "").trim();
-  if (!text) return false;
-
-  const blocked = [
-    "비교해볼 수 있습니다",
-    "참고할 가치가 있습니다",
-    "영향을 함께 볼 필요가 있습니다",
-    "관련 흐름",
-    "참고할 수 있습니다"
-  ];
-
-  if (text.length < 10) return false;
-  if (blocked.some((bad) => text.includes(bad))) return false;
-
-  return true;
-}
-
 function normalizeNewsItem(item) {
   const section = classifyArticle(item);
 
-  const rawTermWord = item?.term?.word || "";
-  const rawTermMeaning = item?.term?.meaning || "";
+  const rawTermWord = cleanText(item?.term?.word || "");
+  const rawTermMeaning = cleanText(item?.term?.meaning || "");
   const fallbackTerm = FALLBACK_TERMS[rawTermWord];
 
   const showTerm = isMeaningfulTerm(
@@ -261,20 +278,19 @@ function normalizeNewsItem(item) {
       }
     : null;
 
-  let insight = buildShortInsight(item, section.key);
-  if (!shouldShowInsight(insight)) {
-    insight = "";
-  }
+  const rawSummary = cleanText(item.summary || item.description || "");
+  const summary = isLowQualitySummary(rawSummary)
+    ? buildFallbackSummary(item, section.key)
+    : rawSummary;
 
   return {
-    title: item.title || "제목 없음",
+    title: cleanText(item.title || "제목 없음"),
     link: item.link || "#",
-    source: item.source || "출처 미상",
+    source: cleanText(item.source || "출처 미상"),
     pubDate: item.pubDate || item.date || item.publishedAt || "",
-    summary: stripHtml(item.summary || item.description || ""),
+    summary: cleanText(summary),
     section,
-    term,
-    insight
+    term
   };
 }
 
@@ -359,17 +375,6 @@ function renderNewsCard(news) {
             `
             : ""
         }
-
-        ${
-          news.insight
-            ? `
-              <div class="divider"></div>
-              <div class="chip-row">
-                <span class="chip chip-imp">MG 시사점: ${escapeHtml(news.insight)}</span>
-              </div>
-            `
-            : ""
-        }
       </div>
     </a>
   `;
@@ -420,7 +425,8 @@ function renderGroupedNews(newsItems) {
     })
     .join("");
 
-  ui.newsContainer.innerHTML = groupedHtml || `<div class="empty">표시할 뉴스가 없습니다.</div>`;
+  ui.newsContainer.innerHTML =
+    groupedHtml || `<div class="empty">표시할 뉴스가 없습니다.</div>`;
 }
 
 async function loadNews() {
