@@ -1,49 +1,38 @@
 {
-  "updatedAt": "2026-04-02T04:41:39.143Z",
-  "headline": "코스피 상장사 영업익 25% 증가…반도체·증권이 이끌었다 등 타 금융권 동향을 비교해볼 필요가 있습니다.",
+  "updatedAt": "2026-04-02T04:46:43.054Z",
+  "headline": "수원축산농협, 염소 경매시장 개장 앞두고 사전 설명회 개최 등 타 금융권 동향을 비교해볼 필요가 있습니다.",
   "categories": {
     "mg": [],
     "otherFinance": [
       {
-        "title": "코스피 상장사 영업익 25% 증가…반도체·증권이 이끌었다",
-        "link": "https://www.econovill.com/news/articleView.html?idxno=735826",
+        "title": "수원축산농협, 염소 경매시장 개장 앞두고 사전 설명회 개최",
+        "link": "https://n.news.naver.com/mnews/article/662/0000092018?sid=102",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 13:40:00 +0900",
+        "pubDate": "Thu, 02 Apr 2026 13:44:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "산업은행, '재무분석 AI Agent' 도입… \"여신업무 시간 절감\"",
-        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=299476",
+        "title": "변산농협·변산농협농가주부모임, '사랑나눔 바자회' 개최 자발적' 나눔...",
+        "link": "https://www.bzeronews.com/news/articleView.html?idxno=815339",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 13:40:00 +0900",
+        "pubDate": "Thu, 02 Apr 2026 13:44:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "KB국민은행, 한국-인도네시아 간 QR결제 서비스",
-        "link": "https://hbnpress.com/news/view/1065587551949791",
+        "title": "신한은행-안동시, 공공배달앱 ‘땡겨요’ 도입 상생협약 체결",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065587374065142",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 13:38:00 +0900",
-        "summary": "",
+        "pubDate": "Thu, 02 Apr 2026 13:44:00 +0900",
+        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "IBK기업은행, 디지털화폐·예금토큰 결제 실증 협력 본격화",
-        "link": "https://www.delighti.co.kr/news/articleView.html?idxno=114651",
+        "title": "산업은행, '재무분석 AI Agent' 도입",
+        "link": "https://n.news.naver.com/mnews/article/014/0005501587?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 13:38:00 +0900",
-        "summary": "디지털 전환은 금융 경쟁력의 핵심 요소입니다.",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
-      },
-      {
-        "title": "BNK투자증권, 솔라나재단 등과 데이터센터 개발 3자 협력",
-        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=260483",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Apr 2026 13:36:00 +0900",
+        "pubDate": "Thu, 02 Apr 2026 13:43:00 +0900",
         "summary": "",
         "term": null
       },
@@ -70,9 +59,25 @@
         "pubDate": "Thu, 02 Apr 2026 13:15:00 +0900",
         "summary": "",
         "term": null
+      },
+      {
+        "title": "보성군, 카드형 보성사랑상품권 주유소 특별 할인...6월까지 최대 25%",
+        "link": "https://n.news.naver.com/mnews/article/014/0005501554?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 02 Apr 2026 13:01:00 +0900",
+        "summary": "",
+        "term": null
       }
     ],
     "macro": [
+      {
+        "title": "소비 쿠폰도 디지털 화폐로 받나··· GS리테일, ‘결제 혁명’ 시동",
+        "link": "https://www.asiatime.co.kr/article/20260402500165",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 02 Apr 2026 13:42:00 +0900",
+        "summary": "디지털 전환은 금융 경쟁력의 핵심 요소입니다.",
+        "term": null
+      },
       {
         "title": "\"가계부채 1.5%로 묶는다…다주택자 대출 사실상 차단\"",
         "link": "http://www.bizwnews.com/news/articleView.html?idxno=132139",
