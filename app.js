@@ -54,6 +54,29 @@ const LOW_QUALITY_TERMS = new Set([
   "금융시장"
 ]);
 
+
+const BLOCKED_NEWS_KEYWORDS = [
+  "[부고]",
+  "부고",
+  "별세",
+  "부친상",
+  "모친상",
+  "장인상",
+  "장모상",
+  "빙부상",
+  "빙모상",
+  "시부상",
+  "시모상",
+  "조부상",
+  "조모상",
+  "발인",
+  "빈소",
+  "유족",
+  "영면",
+  "추모",
+  "애도"
+];
+
 const LOW_QUALITY_SUMMARIES = [
   "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다",
   "금융환경 변화와 시장 흐름을 이해하는 데 참고 할수있습니다",
@@ -106,6 +129,12 @@ function normalizeText(text) {
     .toLowerCase()
     .replace(/\s+/g, " ")
     .trim();
+}
+
+
+function isBlockedNewsItem(item) {
+  const text = normalizeText([item?.title, item?.summary, item?.description].join(" "));
+  return BLOCKED_NEWS_KEYWORDS.some((keyword) => text.includes(normalizeText(keyword)));
 }
 
 function formatDate(dateValue) {
@@ -422,6 +451,8 @@ function classifyArticle(item) {
 }
 
 function normalizeNewsItem(item) {
+  if (isBlockedNewsItem(item)) return null;
+
   const section = classifyArticle(item);
 
   const rawTermWord = cleanText(item?.term?.word || "");
@@ -652,7 +683,7 @@ async function init() {
     const payload = await loadNews();
     const flatNews = flattenNewsData(payload)
       .map(normalizeNewsItem)
-      .filter((item) => item.title && item.link);
+      .filter((item) => item && item.title && item.link);
 
     const todayTerm = pickTodayTerm(flatNews);
     const latestNewsDate = getLatestNewsDate(flatNews, payload);

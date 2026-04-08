@@ -13,6 +13,29 @@ const parser = new Parser({
   }
 });
 
+
+const BLOCKED_NEWS_KEYWORDS = [
+  "[부고]",
+  "부고",
+  "별세",
+  "부친상",
+  "모친상",
+  "장인상",
+  "장모상",
+  "빙부상",
+  "빙모상",
+  "시부상",
+  "시모상",
+  "조부상",
+  "조모상",
+  "발인",
+  "빈소",
+  "유족",
+  "영면",
+  "추모",
+  "애도"
+];
+
 const categories = [
   {
     key: 'saemaeul',
@@ -42,6 +65,16 @@ function clean(text = '') {
     .replace(/&gt;/g, '>')
     .replace(/\s+/g, ' ')
     .trim();
+}
+
+
+function normalizeText(text = '') {
+  return clean(text).toLowerCase().replace(/\s+/g, ' ').trim();
+}
+
+function isBlockedNewsItem(item) {
+  const text = normalizeText([item.title, item.description].join(' '));
+  return BLOCKED_NEWS_KEYWORDS.some((keyword) => text.includes(normalizeText(keyword)));
 }
 
 function toMillis(value) {
@@ -143,6 +176,7 @@ async function main() {
   for (const category of categories) {
     const items = await fetchCategoryItems(category);
     const normalized = dedupe(items)
+      .filter((item) => !isBlockedNewsItem(item))
       .sort((a, b) => toMillis(b.pubDate) - toMillis(a.pubDate))
       .slice(0, 12);
 

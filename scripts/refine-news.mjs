@@ -140,6 +140,29 @@ const NOISE_KEYWORDS = [
   "허위 거래"
 ];
 
+
+const BLOCKED_NEWS_KEYWORDS = [
+  "[부고]",
+  "부고",
+  "별세",
+  "부친상",
+  "모친상",
+  "장인상",
+  "장모상",
+  "빙부상",
+  "빙모상",
+  "시부상",
+  "시모상",
+  "조부상",
+  "조모상",
+  "발인",
+  "빈소",
+  "유족",
+  "영면",
+  "추모",
+  "애도"
+];
+
 const LOW_QUALITY_SUMMARIES = [
   "금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다",
   "금융환경 변화와 시장 흐름을 이해하는 데 참고 할수있습니다",
@@ -196,6 +219,12 @@ function flattenNews(payload) {
       _rawCategory: category
     }));
   });
+}
+
+
+function isBlockedArticle(article) {
+  const text = normalizeText([article.title, article.summary, article.description].join(" "));
+  return hasAny(text, BLOCKED_NEWS_KEYWORDS);
 }
 
 function isRelevantFinanceArticle(article) {
@@ -371,6 +400,7 @@ async function main() {
   const payload = JSON.parse(raw);
 
   const flat = flattenNews(payload)
+    .filter((article) => !isBlockedArticle(article))
     .filter(isRelevantFinanceArticle)
     .map((article) => {
       const section = classifyArticle(article);
