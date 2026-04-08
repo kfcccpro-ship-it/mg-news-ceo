@@ -70,7 +70,8 @@ const ui = {
   todayTermBox: document.getElementById("todayTermBox"),
   refreshTermBtn: document.getElementById("refreshTermBtn"),
   todayLabelHero: document.getElementById("todayLabelHero"),
-  todayLabelNews: document.getElementById("todayLabelNews")
+  todayLabelNews: document.getElementById("todayLabelNews"),
+  newsFreshnessNote: document.getElementById("newsFreshnessNote")
 };
 
 function decodeHtmlEntities(text) {
@@ -125,9 +126,68 @@ function formatMonthDayLabel(date = new Date()) {
 }
 
 function renderTodayLabels() {
-  const label = formatMonthDayLabel();
-  if (ui.todayLabelHero) ui.todayLabelHero.textContent = ` ${label}`;
-  if (ui.todayLabelNews) ui.todayLabelNews.textContent = ` ${label}`;
+  if (ui.todayLabelHero) ui.todayLabelHero.textContent = "";
+  if (ui.todayLabelNews) ui.todayLabelNews.textContent = "";
+}
+
+function getLatestNewsDate(newsItems, payload) {
+  const candidates = (Array.isArray(newsItems) ? newsItems : [])
+    .map((item) => new Date(item.pubDate))
+    .filter((date) => !Number.isNaN(date.getTime()));
+
+  if (candidates.length > 0) {
+    return new Date(Math.max(...candidates.map((date) => date.getTime())));
+  }
+
+  const updatedAt = new Date(payload?.updatedAt || "");
+  if (!Number.isNaN(updatedAt.getTime())) return updatedAt;
+
+  return null;
+}
+
+function formatLatestLabel(date) {
+  if (!date) return "";
+  const month = date.getMonth() + 1;
+  const day = date.getDate();
+  return ` (${month}월 ${day}일 기준)`;
+}
+
+function getDateDiffInDays(baseDate, compareDate = new Date()) {
+  if (!(baseDate instanceof Date) || Number.isNaN(baseDate.getTime())) return null;
+
+  const utcBase = Date.UTC(baseDate.getFullYear(), baseDate.getMonth(), baseDate.getDate());
+  const utcCompare = Date.UTC(compareDate.getFullYear(), compareDate.getMonth(), compareDate.getDate());
+  return Math.floor((utcCompare - utcBase) / 86400000);
+}
+
+function renderNewsFreshness(latestDate) {
+  if (ui.todayLabelNews) {
+    ui.todayLabelNews.textContent = formatLatestLabel(latestDate);
+  }
+
+  if (!ui.newsFreshnessNote) return;
+
+  if (!latestDate) {
+    ui.newsFreshnessNote.style.display = "none";
+    ui.newsFreshnessNote.textContent = "";
+    return;
+  }
+
+  const dayDiff = getDateDiffInDays(latestDate);
+  if (dayDiff === null) {
+    ui.newsFreshnessNote.style.display = "none";
+    ui.newsFreshnessNote.textContent = "";
+    return;
+  }
+
+  ui.newsFreshnessNote.style.display = "inline-flex";
+
+  if (dayDiff <= 1) {
+    ui.newsFreshnessNote.textContent = `최신 수집 기준: ${formatDate(latestDate)}`;
+    return;
+  }
+
+  ui.newsFreshnessNote.textContent = `현재 표시 중인 뉴스 기준일은 ${formatDate(latestDate)}입니다.`;
 }
 
 function flattenNewsData(payload) {
@@ -595,8 +655,10 @@ async function init() {
       .filter((item) => item.title && item.link);
 
     const todayTerm = pickTodayTerm(flatNews);
+    const latestNewsDate = getLatestNewsDate(flatNews, payload);
 
     renderTodayTerm(todayTerm);
+    renderNewsFreshness(latestNewsDate);
     renderGroupedNews(flatNews);
   } catch (error) {
     console.error(error);
@@ -605,6 +667,11 @@ async function init() {
       <p class="today-term-meaning">용어 정보를 불러오지 못했습니다.</p>
       <p class="today-term-detail">data/news.json 경로와 JSON 구조를 확인해주세요.</p>
     `;
+
+    if (ui.newsFreshnessNote) {
+      ui.newsFreshnessNote.style.display = "none";
+      ui.newsFreshnessNote.textContent = "";
+    }
 
     ui.newsContainer.innerHTML = `
       <div class="error">

@@ -1,116 +1,168 @@
 import fs from 'node:fs/promises';
+import Parser from 'rss-parser';
 
-const NAVER_CLIENT_ID = process.env.NAVER_CLIENT_ID;
-const NAVER_CLIENT_SECRET = process.env.NAVER_CLIENT_SECRET;
+const NAVER_CLIENT_ID = process.env.NAVER_CLIENT_ID || '';
+const NAVER_CLIENT_SECRET = process.env.NAVER_CLIENT_SECRET || '';
+const HAS_NAVER_API = Boolean(NAVER_CLIENT_ID && NAVER_CLIENT_SECRET);
+const OUTPUT_PATH = './data/news.json';
 
-if (!NAVER_CLIENT_ID || !NAVER_CLIENT_SECRET) {
-  throw new Error('네이버 API 키가 없습니다');
-}
+const parser = new Parser({
+  timeout: 20000,
+  headers: {
+    'User-Agent': 'Mozilla/5.0 (compatible; MGNewsBot/1.0)'
+  }
+});
 
 const categories = [
-  { key: 'saemaeul', query: '새마을금고' },
-  { key: 'nonghyup', query: '농협' },
-  { key: 'bank', query: '은행 금융' }
-];
-
-const guides = [
   {
-    keywords: ['금리'],
-    summary: '금리 변화는 금융회사의 수익성과 자금운용에 영향을 줍니다.',
-    term: { word: '금리', meaning: '자금을 빌리거나 맡길 때 적용되는 비율입니다.' },
-    importance: '금고 수익성과 대출 수요에 영향을 줍니다.',
-    insight: '금리 환경 변화에 맞춘 자산·부채 관리 점검이 필요합니다.'
+    key: 'saemaeul',
+    naverQuery: '새마을금고',
+    rssQueries: ['새마을금고', '새마을금고 중앙회']
   },
   {
-    keywords: ['건전성', '연체'],
-    summary: '건전성과 연체 관리는 금융회사의 안정성에 핵심입니다.',
-    term: { word: '건전성', meaning: '자산이 부실화되지 않도록 유지하는 상태입니다.' },
-    importance: '연체율과 손실 가능성에 영향을 줍니다.',
-    insight: '대출자산과 연체 흐름을 함께 점검할 필요가 있습니다.'
+    key: 'nonghyup',
+    naverQuery: '농협 금융',
+    rssQueries: ['농협 금융', '신협 금융']
   },
   {
-    keywords: ['디지털', '플랫폼'],
-    summary: '디지털 전환은 금융 경쟁력의 핵심 요소입니다.',
-    term: { word: '비대면', meaning: '대면 없이 모바일·온라인으로 서비스를 제공하는 방식입니다.' },
-    importance: '고객 접근성과 채널 경쟁력에 영향을 줍니다.',
-    insight: '모바일 채널 경쟁력 점검이 필요합니다.'
+    key: 'bank',
+    naverQuery: '은행 금융',
+    rssQueries: ['은행 금융', '기준금리 은행', '가계대출 금융']
   }
 ];
 
-function getGuide(title = '') {
-  for (const guide of guides) {
-    if (guide.keywords.some(k => title.includes(k))) {
-      return guide;
-    }
-  }
-
-  return {
-    summary: '금융환경 변화와 시장 흐름을 이해하는 데 참고할 수 있습니다.',
-    term: { word: '금융환경', meaning: '금리·경기 등 금융기관에 영향을 주는 외부 조건입니다.' },
-    importance: '경영 판단에 참고가 될 수 있습니다.',
-    insight: '관련 흐름을 지속적으로 점검할 필요가 있습니다.'
-  };
+function clean(text = '') {
+  return String(text)
+    .replace(/<!\[CDATA\[|\]\]>/g, '')
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'")
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/\s+/g, ' ')
+    .trim();
 }
 
-async function fetchNews(query) {
-  const url = `https://openapi.naver.com/v1/search/news.json?query=${encodeURIComponent(query)}&display=10&sort=date`;
+function toMillis(value) {
+  const time = new Date(value || 0).getTime();
+  return Number.isFinite(time) ? time : 0;
+}
 
-  const res = await fetch(url, {
+function dedupe(items) {
+  const seen = new Set();
+  return items.filter((item) => {
+    const title = clean(item.title).toLowerCase();
+    const link = String(item.link || '').trim();
+    const key = `${title}::${link}`;
+    if (!title || !link || seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  });
+}
+
+function buildGoogleNewsUrl(query) {
+  return `https://news.google.com/rss/search?q=${encodeURIComponent(query)}&hl=ko&gl=KR&ceid=KR:ko`;
+}
+
+async function fetchNaverNews(query) {
+  const url = `https://openapi.naver.com/v1/search/news.json?query=${encodeURIComponent(query)}&display=12&sort=date`;
+  const response = await fetch(url, {
     headers: {
       'X-Naver-Client-Id': NAVER_CLIENT_ID,
       'X-Naver-Client-Secret': NAVER_CLIENT_SECRET
     }
   });
 
-  const data = await res.json();
-  return data.items || [];
+  if (!response.ok) {
+    throw new Error(`Naver API ${response.status}`);
+  }
+
+  const data = await response.json();
+  return (data.items || []).map((item) => ({
+    title: clean(item.title || '제목 없음'),
+    link: item.link || item.originallink || '#',
+    source: '네이버뉴스',
+    pubDate: item.pubDate || '',
+    description: clean(item.description || '')
+  }));
 }
 
-function clean(text = '') {
-  return text.replace(/<[^>]+>/g, '');
+async function fetchRssNews(query) {
+  const feed = await parser.parseURL(buildGoogleNewsUrl(query));
+  return (feed.items || []).map((item) => ({
+    title: clean(item.title || '제목 없음'),
+    link: item.link || '#',
+    source: clean(feed.title || 'Google News'),
+    pubDate: item.isoDate || item.pubDate || '',
+    description: clean(item.contentSnippet || item.content || item.summary || '')
+  }));
+}
+
+async function fetchCategoryItems(category) {
+  const collected = [];
+
+  if (HAS_NAVER_API) {
+    try {
+      return await fetchNaverNews(category.naverQuery);
+    } catch (error) {
+      console.warn(`[generate-news] Naver fetch failed for ${category.key}: ${error.message}`);
+    }
+  }
+
+  for (const query of category.rssQueries) {
+    try {
+      const items = await fetchRssNews(query);
+      collected.push(...items);
+    } catch (error) {
+      console.warn(`[generate-news] RSS fetch failed for ${category.key}/${query}: ${error.message}`);
+    }
+  }
+
+  return collected;
+}
+
+async function readExistingJson() {
+  try {
+    const raw = await fs.readFile(OUTPUT_PATH, 'utf8');
+    return JSON.parse(raw);
+  } catch {
+    return null;
+  }
 }
 
 async function main() {
   const result = {
     updatedAt: new Date().toISOString(),
-    headline: '',
-    categories: {
-      saemaeul: [],
-      nonghyup: [],
-      bank: []
-    }
+    collector: HAS_NAVER_API ? 'naver' : 'rss',
+    categories: {}
   };
 
-  let allItems = [];
+  let totalCount = 0;
 
   for (const category of categories) {
-    const items = await fetchNews(category.query);
+    const items = await fetchCategoryItems(category);
+    const normalized = dedupe(items)
+      .sort((a, b) => toMillis(b.pubDate) - toMillis(a.pubDate))
+      .slice(0, 12);
 
-    const mapped = items.map(item => {
-      const title = clean(item.title);
-      const guide = getGuide(title);
-
-      return {
-        title,
-        link: item.link,
-        source: '네이버뉴스',
-        pubDate: item.pubDate,
-        summary: guide.summary,
-        term: guide.term,
-        importance: guide.importance,
-        insight: guide.insight
-      };
-    });
-
-    result.categories[category.key] = mapped;
-    allItems.push(...mapped);
+    result.categories[category.key] = normalized;
+    totalCount += normalized.length;
   }
 
-  result.headline = allItems.length
-    ? '금융환경 변화에 따른 주요 이슈를 점검할 필요가 있습니다.'
-    : '오늘의 주요 금융 이슈를 정리해 제공합니다.';
+  if (totalCount === 0) {
+    const existing = await readExistingJson();
+    if (existing) {
+      console.warn('[generate-news] no fresh items collected, keeping existing data/news.json');
+      return;
+    }
+  }
 
-  await fs.writeFile('./data/news.json', JSON.stringify(result, null, 2));
+  await fs.writeFile(OUTPUT_PATH, JSON.stringify(result, null, 2), 'utf8');
+  console.log(`[generate-news] wrote ${OUTPUT_PATH} (${totalCount} items, ${result.collector})`);
 }
 
-main();
+main().catch((error) => {
+  console.error('[generate-news] failed:', error);
+  process.exit(1);
+});
