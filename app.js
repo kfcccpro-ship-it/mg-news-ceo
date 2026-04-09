@@ -54,7 +54,6 @@ const LOW_QUALITY_TERMS = new Set([
   "금융시장"
 ]);
 
-
 const BLOCKED_NEWS_KEYWORDS = [
   "[부고]",
   "부고",
@@ -93,8 +92,7 @@ const ui = {
   todayTermBox: document.getElementById("todayTermBox"),
   refreshTermBtn: document.getElementById("refreshTermBtn"),
   todayLabelHero: document.getElementById("todayLabelHero"),
-  todayLabelNews: document.getElementById("todayLabelNews"),
-  newsFreshnessNote: document.getElementById("newsFreshnessNote")
+  todayLabelNews: document.getElementById("todayLabelNews")
 };
 
 function decodeHtmlEntities(text) {
@@ -131,6 +129,73 @@ function normalizeText(text) {
     .trim();
 }
 
+function normalizeTitleForCompare(text) {
+  return normalizeText(text)
+    .replace(/["'`“”‘’·.,:;!?()[\]{}]/g, " ")
+    .replace(/\b(네이버뉴스|포토뉴스|단독|종합|속보)\b/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function tokenizeTitle(text) {
+  return normalizeTitleForCompare(text)
+    .split(" ")
+    .map((token) => token.trim())
+    .filter((token) => token.length >= 2);
+}
+
+function jaccardSimilarity(tokensA, tokensB) {
+  const setA = new Set(tokensA);
+  const setB = new Set(tokensB);
+  if (setA.size === 0 || setB.size === 0) return 0;
+
+  let intersection = 0;
+  for (const token of setA) {
+    if (setB.has(token)) intersection += 1;
+  }
+
+  const union = new Set([...setA, ...setB]).size;
+  return union === 0 ? 0 : intersection / union;
+}
+
+function areSimilarTitles(titleA, titleB) {
+  const a = normalizeTitleForCompare(titleA);
+  const b = normalizeTitleForCompare(titleB);
+  if (!a || !b) return false;
+  if (a === b) return true;
+  if (a.includes(b) || b.includes(a)) return true;
+
+  const tokensA = tokenizeTitle(a);
+  const tokensB = tokenizeTitle(b);
+  const similarity = jaccardSimilarity(tokensA, tokensB);
+
+  if (similarity >= 0.72) return true;
+
+  const sharedCore = tokensA.filter((token) => tokensB.includes(token));
+  return sharedCore.length >= 4;
+}
+
+function deduplicateNewsItems(newsItems) {
+  const sorted = [...newsItems].sort((a, b) => {
+    const aDate = new Date(a.pubDate).getTime() || 0;
+    const bDate = new Date(b.pubDate).getTime() || 0;
+    return bDate - aDate;
+  });
+
+  const unique = [];
+
+  for (const item of sorted) {
+    const duplicate = unique.some((kept) => {
+      const sameSection = kept.section?.key === item.section?.key;
+      if (!sameSection) return false;
+      return areSimilarTitles(kept.title, item.title);
+    });
+
+    if (!duplicate) unique.push(item);
+  }
+
+  return unique;
+}
 
 function isBlockedNewsItem(item) {
   const text = normalizeText([item?.title, item?.summary, item?.description].join(" "));
@@ -148,15 +213,13 @@ function formatDate(dateValue) {
   }).format(d);
 }
 
-function formatMonthDayLabel(date = new Date()) {
-  const month = date.getMonth() + 1;
-  const day = date.getDate();
-  return `(${month}월 ${day}일)`;
-}
-
-function renderTodayLabels() {
+function renderTodayLabels(latestDate) {
   if (ui.todayLabelHero) ui.todayLabelHero.textContent = "";
-  if (ui.todayLabelNews) ui.todayLabelNews.textContent = "";
+  if (ui.todayLabelNews) {
+    ui.todayLabelNews.textContent = latestDate
+      ? ` (${latestDate.getMonth() + 1}월 ${latestDate.getDate()}일 기준)`
+      : "";
+  }
 }
 
 function getLatestNewsDate(newsItems, payload) {
@@ -174,54 +237,8 @@ function getLatestNewsDate(newsItems, payload) {
   return null;
 }
 
-function formatLatestLabel(date) {
-  if (!date) return "";
-  const month = date.getMonth() + 1;
-  const day = date.getDate();
-  return ` (${month}월 ${day}일 기준)`;
-}
-
-function getDateDiffInDays(baseDate, compareDate = new Date()) {
-  if (!(baseDate instanceof Date) || Number.isNaN(baseDate.getTime())) return null;
-
-  const utcBase = Date.UTC(baseDate.getFullYear(), baseDate.getMonth(), baseDate.getDate());
-  const utcCompare = Date.UTC(compareDate.getFullYear(), compareDate.getMonth(), compareDate.getDate());
-  return Math.floor((utcCompare - utcBase) / 86400000);
-}
-
-function renderNewsFreshness(latestDate) {
-  if (ui.todayLabelNews) {
-    ui.todayLabelNews.textContent = formatLatestLabel(latestDate);
-  }
-
-  if (!ui.newsFreshnessNote) return;
-
-  if (!latestDate) {
-    ui.newsFreshnessNote.style.display = "none";
-    ui.newsFreshnessNote.textContent = "";
-    return;
-  }
-
-  const dayDiff = getDateDiffInDays(latestDate);
-  if (dayDiff === null) {
-    ui.newsFreshnessNote.style.display = "none";
-    ui.newsFreshnessNote.textContent = "";
-    return;
-  }
-
-  ui.newsFreshnessNote.style.display = "inline-flex";
-
-  if (dayDiff <= 1) {
-    ui.newsFreshnessNote.textContent = `최신 수집 기준: ${formatDate(latestDate)}`;
-    return;
-  }
-
-  ui.newsFreshnessNote.textContent = `현재 표시 중인 뉴스 기준일은 ${formatDate(latestDate)}입니다.`;
-}
-
 function flattenNewsData(payload) {
   if (!payload) return [];
-
   if (Array.isArray(payload)) return payload;
   if (Array.isArray(payload.items)) return payload.items;
   if (Array.isArray(payload.news)) return payload.news;
@@ -229,10 +246,7 @@ function flattenNewsData(payload) {
   if (payload.categories && typeof payload.categories === "object") {
     return Object.entries(payload.categories).flatMap(([category, items]) => {
       if (!Array.isArray(items)) return [];
-      return items.map((item) => ({
-        ...item,
-        rawCategory: category
-      }));
+      return items.map((item) => ({ ...item, rawCategory: category }));
     });
   }
 
@@ -242,13 +256,11 @@ function flattenNewsData(payload) {
 function isMeaningfulTerm(termWord, termMeaning) {
   const word = cleanText(termWord);
   const meaning = cleanText(termMeaning);
-
   if (!word) return false;
   if (LOW_QUALITY_TERMS.has(word)) return false;
   if (word.length <= 2) return false;
   if (!meaning) return false;
   if (meaning.length < 12) return false;
-
   return true;
 }
 
@@ -266,187 +278,87 @@ function buildFallbackSummary(item, sectionKey) {
   const text = normalizeText([item.title, item.summary].join(" "));
 
   if (sectionKey === "mg") {
-    if (
-      text.includes("회장") ||
-      text.includes("중앙회") ||
-      text.includes("조직") ||
-      text.includes("혁신")
-    ) {
+    if (text.includes("회장") || text.includes("중앙회") || text.includes("조직") || text.includes("혁신")) {
       return "새마을금고 조직 운영과 대외 메시지 측면에서 볼 만한 기사입니다.";
     }
-    if (
-      text.includes("대출") ||
-      text.includes("예금") ||
-      text.includes("수신") ||
-      text.includes("여신") ||
-      text.includes("가계대출")
-    ) {
-      return "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있습니다.";
+    if (text.includes("대출") || text.includes("예금") || text.includes("수신") || text.includes("여신") || text.includes("가계대출") || text.includes("보조금")) {
+      return "새마을금고의 수신 기반 확대나 영업 흐름과 연결해서 볼 수 있습니다.";
     }
-    if (
-      text.includes("건전성") ||
-      text.includes("연체") ||
-      text.includes("부실") ||
-      text.includes("충당금")
-    ) {
+    if (text.includes("건전성") || text.includes("연체") || text.includes("부실") || text.includes("충당금")) {
       return "새마을금고 건전성 관리 흐름과 연결해 볼 수 있는 기사입니다.";
     }
-    if (
-      text.includes("금리") ||
-      text.includes("기준금리") ||
-      text.includes("유동성")
-    ) {
+    if (text.includes("금리") || text.includes("기준금리") || text.includes("유동성")) {
       return "금리와 자금운용 환경 변화가 금고 운영에 미치는 영향을 함께 볼 수 있습니다.";
     }
-    return "";
+    return "금고 운영과 연결되는 흐름만 짧게 확인할 수 있도록 정리한 기사입니다.";
   }
 
   if (sectionKey === "other-finance") {
-    if (
-      text.includes("금리") ||
-      text.includes("예금") ||
-      text.includes("대출") ||
-      text.includes("수신")
-    ) {
+    if (text.includes("금리") || text.includes("예금") || text.includes("대출") || text.includes("수신")) {
       return "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있습니다.";
     }
-    if (
-      text.includes("디지털") ||
-      text.includes("플랫폼") ||
-      text.includes("비대면") ||
-      text.includes("앱")
-    ) {
+    if (text.includes("디지털") || text.includes("플랫폼") || text.includes("비대면") || text.includes("앱")) {
       return "타 금융권의 채널 전략 변화를 비교해서 볼 수 있습니다.";
     }
-    return "";
+    return "금융권 전반의 운영 흐름을 비교 관점에서 확인할 수 있는 기사입니다.";
   }
 
-  if (
-    text.includes("기준금리") ||
-    text.includes("금리") ||
-    text.includes("통화정책")
-  ) {
+  if (text.includes("기준금리") || text.includes("금리") || text.includes("통화정책")) {
     return "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있습니다.";
   }
-  if (
-    text.includes("가계대출") ||
-    text.includes("부동산") ||
-    text.includes("pf")
-  ) {
+  if (text.includes("가계대출") || text.includes("부동산") || text.includes("pf")) {
     return "대출 수요와 건전성 흐름을 함께 볼 때 참고할 만한 기사입니다.";
   }
-  if (
-    text.includes("경기") ||
-    text.includes("소비") ||
-    text.includes("내수")
-  ) {
+  if (text.includes("경기") || text.includes("소비") || text.includes("내수")) {
     return "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.";
   }
 
-  return "";
+  return "경제·금융 환경을 이해할 때 같이 보면 좋은 기사입니다.";
 }
 
 function classifyArticle(item) {
-  const text = normalizeText(
-    [
-      item.title,
-      item.summary,
-      item.source,
-      item.rawCategory,
-      item.importance,
-      item.insight
-    ].join(" ")
-  );
+  const text = normalizeText([
+    item.title,
+    item.summary,
+    item.source,
+    item.rawCategory,
+    item.importance,
+    item.insight
+  ].join(" "));
 
-  const directMgKeywords = [
-    "새마을금고",
-    "mg새마을금고",
-    "중앙회",
-    "금고"
-  ];
-
+  const directMgKeywords = ["새마을금고", "mg새마을금고", "중앙회", "금고"];
   const mgOperationalKeywords = [
-    "예금",
-    "대출",
-    "수신",
-    "여신",
-    "가계대출",
-    "예대율",
-    "건전성",
-    "연체",
-    "부실",
-    "충당금",
-    "유동성",
-    "자금조달",
-    "금리",
-    "기준금리"
+    "예금", "대출", "수신", "여신", "가계대출", "예대율", "건전성", "연체", "부실", "충당금", "유동성", "자금조달", "금리", "기준금리", "보조금"
   ];
-
-  const otherFinanceKeywords = [
-    "농협",
-    "신협",
-    "수협",
-    "산림조합",
-    "은행",
-    "저축은행",
-    "보험",
-    "증권",
-    "카드",
-    "캐피탈",
-    "인터넷은행",
-    "핀테크"
-  ];
-
-  const macroKeywords = [
-    "물가",
-    "환율",
-    "경기",
-    "통화정책",
-    "소비",
-    "내수",
-    "수출",
-    "고용",
-    "성장률",
-    "부동산",
-    "pf"
-  ];
+  const otherFinanceKeywords = ["농협", "신협", "수협", "산림조합", "은행", "저축은행", "보험", "증권", "카드", "캐피탈", "인터넷은행", "핀테크"];
+  const macroKeywords = ["물가", "환율", "경기", "통화정책", "소비", "내수", "수출", "고용", "성장률", "부동산", "pf"];
 
   const directMgScore = directMgKeywords.reduce(
     (sum, keyword) => sum + (text.includes(normalizeText(keyword)) ? 3 : 0),
     0
   );
-
   const mgOperationalScore = mgOperationalKeywords.reduce(
     (sum, keyword) => sum + (text.includes(normalizeText(keyword)) ? 1 : 0),
     0
   );
-
   const otherFinanceScore = otherFinanceKeywords.reduce(
     (sum, keyword) => sum + (text.includes(normalizeText(keyword)) ? 1 : 0),
     0
   );
-
   const macroScore = macroKeywords.reduce(
     (sum, keyword) => sum + (text.includes(normalizeText(keyword)) ? 1 : 0),
     0
   );
 
-  if (directMgScore >= 3) {
+  if (directMgScore >= 3 || mgOperationalScore >= 2) {
     return { key: "mg", label: "금고와 관련" };
   }
-
-  if (mgOperationalScore >= 2) {
-    return { key: "mg", label: "금고와 관련" };
-  }
-
   if (otherFinanceScore >= 1) {
     return { key: "other-finance", label: "타 금융권·협동조합" };
   }
-
   if (macroScore >= 1) {
     return { key: "macro", label: "경제·금융 환경" };
   }
-
   return { key: "macro", label: "경제·금융 환경" };
 }
 
@@ -454,7 +366,6 @@ function normalizeNewsItem(item) {
   if (isBlockedNewsItem(item)) return null;
 
   const section = classifyArticle(item);
-
   const rawTermWord = cleanText(item?.term?.word || "");
   const rawTermMeaning = cleanText(item?.term?.meaning || "");
   const fallbackTerm = FALLBACK_TERMS[rawTermWord];
@@ -491,28 +402,28 @@ function normalizeNewsItem(item) {
   };
 }
 
-function pickTodayTerm(newsItems) {
+function getDaySeed(date = new Date()) {
+  return Number(`${date.getFullYear()}${String(date.getMonth() + 1).padStart(2, "0")}${String(date.getDate()).padStart(2, "0")}`);
+}
+
+function pickTodayTerm(newsItems, latestDate) {
   const termItems = newsItems.filter((item) => item.term && item.term.word);
 
-  if (termItems.length === 0) {
-    const fallbackList = Object.entries(FALLBACK_TERMS).map(([word, value]) => ({
-      word,
-      meaning: value.description,
-      detail: value.detail
-    }));
-
-    const seed = Number(sessionStorage.getItem("mg-term-seed") || 0);
-    return fallbackList[seed % fallbackList.length];
+  if (termItems.length > 0) {
+    const seed = getDaySeed(latestDate || new Date());
+    const picked = termItems[seed % termItems.length].term;
+    return { word: picked.word, meaning: picked.meaning, detail: picked.detail };
   }
 
-  const seed = Number(sessionStorage.getItem("mg-term-seed") || 0);
-  const picked = termItems[seed % termItems.length].term;
+  const fallbackList = Object.entries(FALLBACK_TERMS).map(([word, value]) => ({
+    word,
+    meaning: value.description,
+    detail: value.detail
+  }));
 
-  return {
-    word: picked.word,
-    meaning: picked.meaning,
-    detail: picked.detail
-  };
+  const manualOffset = Number(sessionStorage.getItem("mg-term-seed-offset") || 0);
+  const baseSeed = getDaySeed(latestDate || new Date());
+  return fallbackList[(baseSeed + manualOffset) % fallbackList.length];
 }
 
 function renderTodayTerm(term) {
@@ -548,7 +459,7 @@ function renderGroupIcon(groupKey) {
         <img
           src="./assets/mg-logo.png"
           alt=""
-          style="width:28px; height:28px; object-fit:contain; display:block;"
+          style="width:48px; height:48px; object-fit:contain; display:block;"
         />
       </span>
     `;
@@ -587,30 +498,15 @@ function renderNewsCard(news) {
       target="_blank"
       rel="noopener noreferrer"
     >
-      <div class="news-top">
-        <span class="news-source">${escapeHtml(news.source)}</span>
-        <span class="news-date">${escapeHtml(formatDate(news.pubDate))}</span>
-      </div>
-
       <h3 class="news-title">${escapeHtml(news.title)}</h3>
-
-      ${
-        news.summary
-          ? `<p class="news-summary">${escapeHtml(news.summary)}</p>`
-          : ""
-      }
-
-      <div class="news-bottom">
-        ${
-          news.term
-            ? `
-              <div class="chip-row">
-                <span class="chip chip-term">용어: ${escapeHtml(news.term.word)}</span>
-              </div>
-            `
-            : ""
-        }
-      </div>
+      ${news.summary ? `<p class="news-summary">${escapeHtml(news.summary)}</p>` : ""}
+      ${news.term ? `
+        <div class="news-bottom">
+          <div class="chip-row">
+            <span class="chip chip-term">연결 용어: ${escapeHtml(news.term.word)}</span>
+          </div>
+        </div>
+      ` : ""}
     </a>
   `;
 }
@@ -625,17 +521,17 @@ function renderGroupedNews(newsItems) {
     {
       key: "mg",
       title: "금고와 관련",
-      description: "새마을금고와 직접 연결되거나 운영에 영향이 큰 기사를 우선 보여줍니다."
+      description: ""
     },
     {
       key: "other-finance",
       title: "타 금융권·협동조합",
-      description: "농협·신협·은행 등 비교 관점에서 볼 만한 기사입니다."
+      description: ""
     },
     {
       key: "macro",
       title: "경제·금융 환경",
-      description: "금리·경기·가계대출 등 배경 환경을 읽는 기사입니다."
+      description: ""
     }
   ];
 
@@ -650,9 +546,8 @@ function renderGroupedNews(newsItems) {
             <div>
               <div class="section-title-row">
                 ${renderGroupIcon(group.key)}
-                <h2 style="font-size: 22px;">${escapeHtml(group.title)}</h2>
+                <h2>${escapeHtml(group.title)}</h2>
               </div>
-              <p>${escapeHtml(group.description)}</p>
             </div>
           </div>
           <div class="news-list">
@@ -663,8 +558,7 @@ function renderGroupedNews(newsItems) {
     })
     .join("");
 
-  ui.newsContainer.innerHTML =
-    groupedHtml || `<div class="empty">표시할 뉴스가 없습니다.</div>`;
+  ui.newsContainer.innerHTML = groupedHtml || `<div class="empty">표시할 뉴스가 없습니다.</div>`;
 }
 
 async function loadNews() {
@@ -672,24 +566,23 @@ async function loadNews() {
   if (!response.ok) {
     throw new Error(`news.json 로드 실패: ${response.status}`);
   }
-
   return response.json();
 }
 
 async function init() {
   try {
-    renderTodayLabels();
-
     const payload = await loadNews();
-    const flatNews = flattenNewsData(payload)
-      .map(normalizeNewsItem)
-      .filter((item) => item && item.title && item.link);
+    const flatNews = deduplicateNewsItems(
+      flattenNewsData(payload)
+        .map(normalizeNewsItem)
+        .filter((item) => item && item.title && item.link)
+    );
 
-    const todayTerm = pickTodayTerm(flatNews);
     const latestNewsDate = getLatestNewsDate(flatNews, payload);
+    const todayTerm = pickTodayTerm(flatNews, latestNewsDate);
 
+    renderTodayLabels(latestNewsDate);
     renderTodayTerm(todayTerm);
-    renderNewsFreshness(latestNewsDate);
     renderGroupedNews(flatNews);
   } catch (error) {
     console.error(error);
@@ -698,11 +591,6 @@ async function init() {
       <p class="today-term-meaning">용어 정보를 불러오지 못했습니다.</p>
       <p class="today-term-detail">data/news.json 경로와 JSON 구조를 확인해주세요.</p>
     `;
-
-    if (ui.newsFreshnessNote) {
-      ui.newsFreshnessNote.style.display = "none";
-      ui.newsFreshnessNote.textContent = "";
-    }
 
     ui.newsContainer.innerHTML = `
       <div class="error">
@@ -714,8 +602,8 @@ async function init() {
 }
 
 ui.refreshTermBtn?.addEventListener("click", () => {
-  const current = Number(sessionStorage.getItem("mg-term-seed") || 0);
-  sessionStorage.setItem("mg-term-seed", String(current + 1));
+  const current = Number(sessionStorage.getItem("mg-term-seed-offset") || 0);
+  sessionStorage.setItem("mg-term-seed-offset", String(current + 1));
   init();
 });
 
