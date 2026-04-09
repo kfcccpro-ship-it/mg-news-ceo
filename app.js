@@ -175,6 +175,43 @@ function areSimilarTitles(titleA, titleB) {
   return sharedCore.length >= 4;
 }
 
+function toDateKey(dateValue) {
+  const date = new Date(dateValue);
+  if (Number.isNaN(date.getTime())) return "";
+  return `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, "0")}-${String(date.getDate()).padStart(2, "0")}`;
+}
+
+function extractMgEntityName(title) {
+  const normalized = cleanText(title).replace(/["'`“”‘’]/g, " ").replace(/\s+/g, " ").trim();
+  if (!normalized.includes("새마을금고")) return "";
+
+  const attached = normalized.match(/([가-힣A-Za-z0-9]{2,20})새마을금고/);
+  if (attached && attached[1]) {
+    return attached[1].replace(/\s+/g, "").trim();
+  }
+
+  const spaced = normalized.match(/([가-힣A-Za-z0-9]{2,20})\s+새마을금고/);
+  if (spaced && spaced[1]) {
+    return spaced[1].replace(/\s+/g, "").trim();
+  }
+
+  return "";
+}
+
+function isLikelySameMgLocalStory(itemA, itemB) {
+  const sameSection = itemA.section?.key === "mg" && itemB.section?.key === "mg";
+  if (!sameSection) return false;
+
+  const entityA = extractMgEntityName(itemA.title);
+  const entityB = extractMgEntityName(itemB.title);
+  if (!entityA || !entityB || entityA !== entityB) return false;
+
+  const sameDay = toDateKey(itemA.pubDate) && toDateKey(itemA.pubDate) === toDateKey(itemB.pubDate);
+  if (!sameDay) return false;
+
+  return true;
+}
+
 function deduplicateNewsItems(newsItems) {
   const sorted = [...newsItems].sort((a, b) => {
     const aDate = new Date(a.pubDate).getTime() || 0;
@@ -188,6 +225,11 @@ function deduplicateNewsItems(newsItems) {
     const duplicate = unique.some((kept) => {
       const sameSection = kept.section?.key === item.section?.key;
       if (!sameSection) return false;
+
+      if (isLikelySameMgLocalStory(kept, item)) {
+        return true;
+      }
+
       return areSimilarTitles(kept.title, item.title);
     });
 
