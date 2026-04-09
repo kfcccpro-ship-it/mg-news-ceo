@@ -1,21 +1,37 @@
 {
-  "updatedAt": "2026-04-09T10:14:01.017Z",
-  "headline": "새마을금고 중앙회 부산본부, MG 온정나눔행사 지원사업…복지시설 6곳에... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-04-09T13:42:36.622Z",
+  "headline": "우리은행 서울시금고 탈환 시동, 정진완 '104년 수도 금고' 명성 회복 노... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "우리은행 서울시금고 탈환 시동, 정진완 '104년 수도 금고' 명성 회복 노...",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=435334",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 09 Apr 2026 22:26:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "우리 은행 서울시금고 탈환 시동, 정진완 '104년 수도 금고' 명성 회복 노...",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=435334",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 09 Apr 2026 22:26:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "농협 중앙회 강원본부, 2026년 강원팜스테이협의회 2분기 회의 개최",
+        "link": "http://www.fntimes.com/html/view.php?ud=202604092134474198dd55077bc2_18",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 09 Apr 2026 21:38:00 +0900",
+        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
       {
         "title": "새마을금고 중앙회 부산본부, MG 온정나눔행사 지원사업…복지시설 6곳에...",
         "link": "https://n.news.naver.com/mnews/article/658/0000140618?sid=102",
         "source": "네이버뉴스",
         "pubDate": "Thu, 09 Apr 2026 18:52:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "농협 중앙회 칠곡군지부, 농심천심운동 전파",
-        "link": "https://www.hidomin.com/news/articleView.html?idxno=700733",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 09 Apr 2026 18:42:00 +0900",
         "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
         "term": null
       },
@@ -42,105 +58,84 @@
         "pubDate": "Thu, 09 Apr 2026 17:56:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "원주시, 새마을금고 ·신협과 지방보조금 전용계좌 확대 협약 체결",
-        "link": "https://gw.newdaily.co.kr/site/data/html/2026/04/09/2026040900351.html",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 09 Apr 2026 16:58:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "전북 농협 4개 사무소, 직원 13명 'NH 농협 생명 연도대상' 수상 영예",
-        "link": "http://www.domin.co.kr/news/articleView.html?idxno=1551724",
+        "title": "노동위, 하나 은행 ·국민 은행 ·국민카드 콜센터 원청 사용자성 인정",
+        "link": "https://m.skyedaily.com/news_view.html?ID=302165",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 09 Apr 2026 19:09:00 +0900",
+        "pubDate": "Thu, 09 Apr 2026 22:38:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "전북 은행 , 완주군 다가온 구이점 'JB희망의 공부방 232호' 조성",
-        "link": "http://www.domin.co.kr/news/articleView.html?idxno=1551743",
+        "title": "[보험 뉴스브리핑] 롯데손보-토스인슈어런스 업무협약 체결",
+        "link": "https://www.asiatime.co.kr/article/20260409500330",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 09 Apr 2026 19:09:00 +0900",
+        "pubDate": "Thu, 09 Apr 2026 22:32:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "LCR",
+          "meaning": "단기 유동성 충격 대응 능력을 보여주는 지표"
+        }
+      },
+      {
+        "title": "[은행 뉴스브리핑] 강태영 농협 은행장 농식품 펀드 투자기업 현장 방문",
+        "link": "https://www.asiatime.co.kr/article/20260409500384",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 09 Apr 2026 22:32:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[단독] 마이너스ROA 저축 은행 , 1년새 56% 줄었다...\"불황 탈출 신호탄 될...",
-        "link": "http://www.paxetv.com/news/articleView.html?idxno=269087",
+        "title": "[ 은행 뉴스브리핑] 강태영 농협 은행 장 농식품 펀드 투자기업 현장 방문",
+        "link": "https://www.asiatime.co.kr/article/20260409500384",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 09 Apr 2026 19:06:00 +0900",
+        "pubDate": "Thu, 09 Apr 2026 22:32:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "BNK경남 은행 , 경남도발달장애인지원센터와 ' 금융 교육 지원 업무협약' 체...",
-        "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=634612",
+        "title": "'정예림 16점' 하나 은행 , 삼성생명에 61-56 승리로 PO 기선제압",
+        "link": "https://m.sports.naver.com/basketball/article/472/0000039975",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 09 Apr 2026 19:02:00 +0900",
+        "pubDate": "Thu, 09 Apr 2026 22:29:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "전북 농축협 ' 농협 생명 연도대상' 대거 수상 쾌거",
-        "link": "http://www.jjn.co.kr/news/articleView.html?idxno=1037720",
+        "title": "[프로농구] 하나 은행 , 삼성생명에 1차전 승리…챔프전 진출 확률 92%까지...",
+        "link": "https://www.newspim.com/news/view/20260409001327",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 09 Apr 2026 18:44:00 +0900",
+        "pubDate": "Thu, 09 Apr 2026 22:29:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[ 금융 zip] 하나·기업은행, 소상공인 특화 신용평가모형 시범운영 참여...",
-        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=867407",
+        "title": "여자 프로농구 하나 은행 , 삼성생명 꺾고 PO 기선 제압",
+        "link": "https://m.sports.naver.com/basketball/article/055/0001347365",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 09 Apr 2026 18:42:00 +0900",
+        "pubDate": "Thu, 09 Apr 2026 22:27:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "ETF, 올해만 은행서 15조 이상 팔려…금감원, 소비자보호 강화 주문",
-        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=260837",
+        "title": "신한 은행 , SK온과 5억 달러 금융 지원 업무협약",
+        "link": "http://www.ttlnews.com/news/articleView.html?idxno=3097802",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 09 Apr 2026 18:42:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "NH 농협 은행, 주택도시보증공사(HUG)와 부산 농가 찾아 구슬땀",
-        "link": "https://www.rcast.co.kr/news/articleView.html?idxno=30484",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 09 Apr 2026 18:40:00 +0900",
+        "pubDate": "Thu, 09 Apr 2026 22:24:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "[채권-마감] 휴전 실망감에 국고채 금리 상승…금통위 대기",
-        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4408697",
+        "title": "오늘의 경기(4월 10일)",
+        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=544646",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 09 Apr 2026 19:08:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "[단독]“돈 더 빌릴 곳도 없어”…자영업 대출자 절반 ‘다중 채무’",
-        "link": "https://n.news.naver.com/mnews/article/020/0003711190?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 09 Apr 2026 19:07:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "3조 해상풍력 PF 성사…SK이터닉스·한화오션 리스크 어디까지",
-        "link": "https://www.kukinews.com/article/view/kuk202604090186",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 09 Apr 2026 19:06:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
+        "pubDate": "Thu, 09 Apr 2026 22:34:00 +0900",
+        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
         "term": null
       },
       {
