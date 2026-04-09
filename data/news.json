@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-09T16:18:34.117Z",
+  "updatedAt": "2026-04-09T19:08:23.827Z",
   "headline": "원주시, 새마을금고 ·신협과 지방보조금 전용계좌 확대 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -16,14 +16,6 @@
         "link": "https://n.news.naver.com/mnews/article/087/0001186072?sid=102",
         "source": "네이버뉴스",
         "pubDate": "Fri, 10 Apr 2026 00:09:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "우리은행 서울시금고 탈환 시동, 정진완 '104년 수도 금고' 명성 회복 노...",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=435334",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 09 Apr 2026 22:26:00 +0900",
         "summary": "",
         "term": null
       },
@@ -62,26 +54,37 @@
     ],
     "otherFinance": [
       {
-        "title": "하나 은행 , 소상공인 신용평가모형(SCB) 시범사업 참여",
-        "link": "https://www.delighti.co.kr/news/articleView.html?idxno=114982",
+        "title": "[따뜻한 동행⑤] 농협금융 , 2030년까지 108조 '상생 프로젝트'…청년·농...",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=300503",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 10 Apr 2026 00:56:00 +0900",
+        "pubDate": "Fri, 10 Apr 2026 04:00:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[세상만사] 한국 은행 총재의 조건",
-        "link": "https://n.news.naver.com/mnews/article/005/0001842366?sid=110",
+        "title": "[따뜻한 동행⑤] 농협 금융 , 2030년까지 108조 '상생 프로젝트'…청년·농...",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=300503",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 10 Apr 2026 00:37:00 +0900",
+        "pubDate": "Fri, 10 Apr 2026 04:00:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "'83.3% 확률 잡았다!' 하나 은행 , '정예림 16점' 앞세워 삼성생명 꺾고 창...",
-        "link": "https://m.sports.naver.com/basketball/article/445/0000399907",
+        "title": "기름값·금리 동시 폭등하나… 연준, 중동 전쟁에 ‘추가 인상’ 카드 ...",
+        "link": "https://www.g-enews.com/view.php?ud=202604091421018638fbbec65dfb_1",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 10 Apr 2026 00:35:00 +0900",
+        "pubDate": "Fri, 10 Apr 2026 03:26:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+        }
+      },
+      {
+        "title": "유럽 은행 들 “AI 도입에도 고용 증가”…3년간 인력 4% 확대 전망",
+        "link": "https://www.g-enews.com/view.php?ud=2026040918375742699a1f309431_1",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 10 Apr 2026 03:00:00 +0900",
         "summary": "",
         "term": null
       },
@@ -110,14 +113,6 @@
         "term": null
       },
       {
-        "title": "[은행 뉴스브리핑] 강태영 농협 은행장 농식품 펀드 투자기업 현장 방문",
-        "link": "https://www.asiatime.co.kr/article/20260409500384",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 09 Apr 2026 22:32:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
         "title": "[보험 뉴스브리핑] 롯데손보-토스인슈어런스 업무협약 체결",
         "link": "https://www.asiatime.co.kr/article/20260409500330",
         "source": "네이버뉴스",
@@ -131,11 +126,11 @@
     ],
     "macro": [
       {
-        "title": "[단독]“빚내 버티기도 한계” 자영업 대출자 절반 ‘다중채무’",
-        "link": "https://n.news.naver.com/mnews/article/020/0003711235?sid=101",
+        "title": "중부발전, 3.4조 규모 '신안우이 해상풍력' PF 체결…역대 최대 2.89조 조...",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=701487",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 10 Apr 2026 00:31:00 +0900",
-        "summary": "",
+        "pubDate": "Fri, 10 Apr 2026 03:10:00 +0900",
+        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
         "term": null
       },
       {
