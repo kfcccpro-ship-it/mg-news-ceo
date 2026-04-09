@@ -4,6 +4,8 @@ on:
   push:
     branches: ["main"]
   workflow_dispatch:
+  schedule:
+    - cron: "0 */3 * * *"
 
 permissions:
   contents: write
@@ -31,10 +33,10 @@ jobs:
         env:
           NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
           NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
-          
+
       - name: Refine news data
         run: node scripts/refine-news.mjs
-        
+
       - name: Commit refreshed news data
         run: |
           git config user.name "github-actions[bot]"
