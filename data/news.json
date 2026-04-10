@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-10T15:54:35.299Z",
+  "updatedAt": "2026-04-10T18:54:55.479Z",
   "headline": "(사)고향주부모임중앙회, 2026년 정기총회 개최 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -70,6 +70,38 @@
     ],
     "otherFinance": [
       {
+        "title": "박지수-강이슬 나란히 더블더블…KB스타즈, PO 2차전서 우리 은행 꺾고 ...",
+        "link": "https://m.sports.naver.com/basketball/article/382/0001267577",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 11 Apr 2026 02:24:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "제주 하귀 농협 , 6년 연속 농협 카드 연도대상 수상…3년 연속 ‘최우수’",
+        "link": "https://n.news.naver.com/mnews/article/662/0000092730?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 11 Apr 2026 02:16:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "KB 챔피언결정전 진출 -1승, 4강PO 2차전서 우리 은행 24점차 대파, 현격...",
+        "link": "https://m.sports.naver.com/basketball/article/117/0004052879",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 11 Apr 2026 01:43:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "파월·베선트, 은행 권에 앤스로픽 ‘미토스’ AI 보안 위험 경고",
+        "link": "https://www.tokenpost.kr/news/breaking/348251",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 11 Apr 2026 01:32:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
         "title": "롯데카드, '역대급' 중징계 벼랑 끝…'MBK 책임론' 전방위 확산",
         "link": "https://www.apnews.kr/news/articleView.html?idxno=3047728",
         "source": "네이버뉴스",
@@ -100,63 +132,37 @@
         "pubDate": "Fri, 10 Apr 2026 22:44:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "'건강도 맛도 잡는다'… 농협 목우촌 ‘M 카페’ 1호점 오픈",
-        "link": "http://www.fntimes.com/html/view.php?ud=202604102237465965dd55077bc2_18",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 10 Apr 2026 22:42:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "경기 농협 , 4월 정례조회 개최",
-        "link": "http://www.fntimes.com/html/view.php?ud=202604102206314136dd55077bc2_18",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 10 Apr 2026 22:38:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "NH 농협금융 기금형퇴직연금 시장선점…자회사 통합인프라 구축",
-        "link": "https://www.inthenews.co.kr/news/article.html?no=85468",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 10 Apr 2026 20:32:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "NH농협금융, 은행·증권·자산운용 삼각편대 인프라 구축 나서 外",
-        "link": "https://www.rcast.co.kr/news/articleView.html?idxno=30496",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 10 Apr 2026 17:52:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "macro": [
       {
-        "title": "[오늘의 경기] 2026년 4월 11일",
-        "link": "https://m.sports.naver.com/general/article/023/0003970190",
+        "title": "이창용, 마지막 금통위… 7회 연속 기준금리 2.5% 동결",
+        "link": "https://n.news.naver.com/mnews/article/020/0003711517?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 11 Apr 2026 00:45:00 +0900",
-        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
-        "term": null
+        "pubDate": "Sat, 11 Apr 2026 01:42:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+        }
       },
       {
-        "title": "[내일의 경기] 2026년 4월 12일",
-        "link": "https://m.sports.naver.com/general/article/023/0003970188",
+        "title": "[오늘의 경제뉴스] 중동전에 물가·환율·성장 모두 불안…기준금리 7연...",
+        "link": "https://www.newsverse.kr/news/articleView.html?idxno=10104",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 11 Apr 2026 00:45:00 +0900",
-        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
-        "term": null
+        "pubDate": "Sat, 11 Apr 2026 01:10:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+        }
       },
       {
-        "title": "[취재수첩] 획일적 대출 규제에 車까지 저당 잡히는 서민들",
-        "link": "https://n.news.naver.com/mnews/article/015/0005273639?sid=110",
+        "title": "이창용 마지막 금통위… 금리 7연속 동결",
+        "link": "https://n.news.naver.com/mnews/article/023/0003970219?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 11 Apr 2026 00:17:00 +0900",
-        "summary": "",
+        "pubDate": "Sat, 11 Apr 2026 00:56:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       }
     ]
