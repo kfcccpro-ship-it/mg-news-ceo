@@ -1,8 +1,16 @@
 {
-  "updatedAt": "2026-04-10T13:12:34.812Z",
-  "headline": "통합특별시, 6개월 공동 금고 가닥…1금고 물밑 경쟁 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-04-10T15:54:35.299Z",
+  "headline": "(사)고향주부모임중앙회, 2026년 정기총회 개최 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "(사)고향주부모임중앙회, 2026년 정기총회 개최",
+        "link": "http://www.fntimes.com/html/view.php?ud=202604102247353451dd55077bc2_18",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 10 Apr 2026 22:50:00 +0900",
+        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
       {
         "title": "통합특별시, 6개월 공동 금고 가닥…1금고 물밑 경쟁",
         "link": "https://n.news.naver.com/mnews/article/056/0012160142?sid=101",
@@ -36,14 +44,6 @@
         "term": null
       },
       {
-        "title": "새마을금고, 비회원 주담대 중단…상호 금융 대출문 전방위 축소",
-        "link": "https://www.econovill.com/news/articleView.html?idxno=736910",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 10 Apr 2026 18:26:00 +0900",
-        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
         "title": "[노동] \"중앙회장의 면직 요구에 정직 1개월 징계 후 다시 면직하면 이...",
         "link": "http://www.legaltimes.co.kr/news/articleView.html?idxno=93148",
         "source": "네이버뉴스",
@@ -70,21 +70,50 @@
     ],
     "otherFinance": [
       {
-        "title": "\"AI가 금융 보안 흔든다\"…美 재무·연준, 은행 CEO 긴급 소집",
-        "link": "https://n.news.naver.com/mnews/article/014/0005505922?sid=101",
+        "title": "롯데카드, '역대급' 중징계 벼랑 끝…'MBK 책임론' 전방위 확산",
+        "link": "https://www.apnews.kr/news/articleView.html?idxno=3047728",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 10 Apr 2026 22:11:00 +0900",
+        "pubDate": "Fri, 10 Apr 2026 23:04:00 +0900",
         "summary": "",
-        "term": {
-          "word": "Forward Guidance",
-          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
-        }
+        "term": null
       },
       {
-        "title": "주요주주 상상인플러스저축 은행 , 성안머티리얼스 주식 보유 감소",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=655969",
+        "title": "농협 강원본부, 2026년 강원 농협 노사 상견례 개최",
+        "link": "http://www.fntimes.com/html/view.php?ud=20260410224303879dd55077bc2_18",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 10 Apr 2026 21:36:00 +0900",
+        "pubDate": "Fri, 10 Apr 2026 22:52:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "농협 , 농협 주유소 경쟁력 강화로 에너지시장 선도",
+        "link": "http://www.fntimes.com/html/view.php?ud=202604102245051014dd55077bc2_18",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 10 Apr 2026 22:48:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "농협 강원본부, 2026 강원 우수 농산물 사업설명회 개최",
+        "link": "http://www.fntimes.com/html/view.php?ud=202604102240305672dd55077bc2_18",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 10 Apr 2026 22:44:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "'건강도 맛도 잡는다'… 농협 목우촌 ‘M 카페’ 1호점 오픈",
+        "link": "http://www.fntimes.com/html/view.php?ud=202604102237465965dd55077bc2_18",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 10 Apr 2026 22:42:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "경기 농협 , 4월 정례조회 개최",
+        "link": "http://www.fntimes.com/html/view.php?ud=202604102206314136dd55077bc2_18",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 10 Apr 2026 22:38:00 +0900",
         "summary": "",
         "term": null
       },
@@ -97,22 +126,6 @@
         "term": null
       },
       {
-        "title": "NH 농협 은행, 'NH외국환 아카데미' 개최…수출입 기업 지원",
-        "link": "http://www.bizwnews.com/news/articleView.html?idxno=133274",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 10 Apr 2026 19:18:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[ 금융 PICK] 농협 은행·한화생명 금융 서비스",
-        "link": "http://www.wikileaks-kr.org/news/articleView.html?idxno=186145",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 10 Apr 2026 18:06:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
         "title": "NH농협금융, 은행·증권·자산운용 삼각편대 인프라 구축 나서 外",
         "link": "https://www.rcast.co.kr/news/articleView.html?idxno=30496",
         "source": "네이버뉴스",
@@ -121,6 +134,31 @@
         "term": null
       }
     ],
-    "macro": []
+    "macro": [
+      {
+        "title": "[오늘의 경기] 2026년 4월 11일",
+        "link": "https://m.sports.naver.com/general/article/023/0003970190",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 11 Apr 2026 00:45:00 +0900",
+        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
+        "term": null
+      },
+      {
+        "title": "[내일의 경기] 2026년 4월 12일",
+        "link": "https://m.sports.naver.com/general/article/023/0003970188",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 11 Apr 2026 00:45:00 +0900",
+        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
+        "term": null
+      },
+      {
+        "title": "[취재수첩] 획일적 대출 규제에 車까지 저당 잡히는 서민들",
+        "link": "https://n.news.naver.com/mnews/article/015/0005273639?sid=110",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 11 Apr 2026 00:17:00 +0900",
+        "summary": "",
+        "term": null
+      }
+    ]
   }
 }
