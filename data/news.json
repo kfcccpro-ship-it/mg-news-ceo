@@ -1,8 +1,51 @@
 {
-  "updatedAt": "2026-04-12T05:24:25.262Z",
-  "headline": "부산 새마을금고 , 지역 사회복지시설 6곳에 온정 나눔행사 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-04-12T07:15:17.356Z",
+  "headline": "안산시, 시금고 금리-지정 관련 보도에 입장 밝혀... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "안산시, 시금고 금리-지정 관련 보도에 입장 밝혀...",
+        "link": "https://www.cnbnews.com/news/article.html?no=788722",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 12 Apr 2026 16:04:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "가계대출 ‘0’ 현실… 새마을금고 , 비이자수익 올인",
+        "link": "https://n.news.naver.com/mnews/article/029/0003021164?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 12 Apr 2026 15:54:00 +0900",
+        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "새마을금고 중앙회 경기지역본부, MG 온정나눔행사 지원사업 전달식 개최",
+        "link": "https://www.kgnews.co.kr/news/article.html?no=891327",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 12 Apr 2026 15:20:00 +0900",
+        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "'밥상위의 희망, 성남동부 새마을금고 와 적십자의 동행",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363722572",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 12 Apr 2026 14:40:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "새마을금고 '서민대출'의 역설…대출 늘었는데 마진 줄었다",
+        "link": "https://n.news.naver.com/mnews/article/008/0005343020?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 12 Apr 2026 14:28:00 +0900",
+        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "NIM",
+          "meaning": "금리 변화가 금융기관 수익성에 미치는 영향을 보여주는 핵심 지표"
+        }
+      },
       {
         "title": "부산 새마을금고 , 지역 사회복지시설 6곳에 온정 나눔행사",
         "link": "https://n.news.naver.com/mnews/article/082/0001375558?sid=102",
@@ -18,112 +61,88 @@
         "pubDate": "Sun, 12 Apr 2026 11:28:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "“잔금 코앞인데 대출중단이라뇨”… 새마을금고 이어 농협·신협도 셧다...",
-        "link": "https://n.news.naver.com/mnews/article/009/0005664545?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 12 Apr 2026 09:36:00 +0900",
-        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "가계대출 막힌 새마을금고 , 정책대출로 눈 돌리나",
-        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4409035",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 12 Apr 2026 09:10:00 +0900",
-        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "새마을금고 , 저출생 문제 해결 나선다…MG희망나눔 '걸음마(馬)적금' 출...",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=300735",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 12 Apr 2026 08:48:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "빗장 걸린 새마을금고 농협 가계대출, 상호금융권 '대출 한파'에 풍선효...",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=435505",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 12 Apr 2026 06:38:00 +0900",
-        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "[ 금융 가]국내 은행들, 중동 리스크·물류비 부담 완화에 나서며 디지털...",
-        "link": "http://www.newstnt.com/news/articleView.html?idxno=606358",
+        "title": "NH 농협 은행, ‘농식품기업여신 GD’ 발대식 개최",
+        "link": "http://www.segyebiz.com/newsView/20260412508090?OutUrl=naver",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 12 Apr 2026 14:20:00 +0900",
+        "pubDate": "Sun, 12 Apr 2026 16:12:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "NH농협 은행 , ‘농식품기업여신 GD’ 발대식 개최",
+        "link": "http://www.segyebiz.com/newsView/20260412508090?OutUrl=naver",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 12 Apr 2026 16:12:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "하나 은행 , 리디와 손잡고 '하나원큐' 일상형 플랫폼으로 진화",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=260908",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 12 Apr 2026 16:12:00 +0900",
         "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "[ 금융 가]국내 은행 들, 중동 리스크·물류비 부담 완화에 나서며 디지털...",
-        "link": "http://www.newstnt.com/news/articleView.html?idxno=606358",
+        "title": "5대 은행 가계대출 증가율 '1%' 설정…최대 공급해도 6조원 수준",
+        "link": "https://n.news.naver.com/mnews/article/018/0006255737?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 12 Apr 2026 14:20:00 +0900",
-        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
+        "pubDate": "Sun, 12 Apr 2026 16:11:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "NH 농협 은행, 농식품 금융 특화 전문가 교육",
-        "link": "https://n.news.naver.com/mnews/article/014/0005506209?sid=101",
+        "title": "KB국민 은행 , 중진공 정책자금 이용기업에 6조원 한도 금리우대",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=253061",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 12 Apr 2026 14:15:00 +0900",
+        "pubDate": "Sun, 12 Apr 2026 16:06:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "NH 농협 銀, 농식품기업여신 GD 발대식 개최",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065594992936349",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 12 Apr 2026 16:02:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "NH농협 은행 , 농식품 금융 특화 전문가 교육",
-        "link": "https://n.news.naver.com/mnews/article/014/0005506209?sid=101",
+        "title": "농협 은행, ‘농식품기업여신 GD’ 발대식 개최",
+        "link": "https://n.news.naver.com/mnews/article/082/0001375590?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 12 Apr 2026 14:15:00 +0900",
+        "pubDate": "Sun, 12 Apr 2026 16:00:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "NH 농협 은행, '농식품기업여신 GD' 발대식 개최",
-        "link": "http://www.globalepic.co.kr/view.php?ud=2026041214101521757cc35ccc5c_29",
+        "title": "5대 은행 가계대출 1% 안팎 전망…더욱 쪼그라든다",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=200987",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 12 Apr 2026 14:14:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "NH농협 은행 , '농식품기업여신 GD' 발대식 개최",
-        "link": "http://www.globalepic.co.kr/view.php?ud=2026041214101521757cc35ccc5c_29",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 12 Apr 2026 14:14:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "하나 은행 \"리디와 금융 ㆍ콘텐츠 결합한 새로운 손님 경험 선봬\"",
-        "link": "http://www.smarttimes.co.kr/news/articleView.html?idxno=44690",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 12 Apr 2026 14:14:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "KB국민 은행 -중소벤처기업진흥공단, 중동 피해기업 등에 6조원 규모 생산...",
-        "link": "https://www.ngonews.kr/news/articleView.html?idxno=228136",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 12 Apr 2026 14:14:00 +0900",
-        "summary": "",
+        "pubDate": "Sun, 12 Apr 2026 15:56:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "한은 기준금리 7연속 동결…연 2.50%",
-        "link": "https://n.news.naver.com/mnews/article/087/0001186300?sid=101",
+        "title": "한은 \"반도체 경기 확장세 내년 상반기까지…중동영향 제한적\"",
+        "link": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005812077",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 12 Apr 2026 14:21:00 +0900",
+        "pubDate": "Sun, 12 Apr 2026 16:12:00 +0900",
+        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
+        "term": null
+      },
+      {
+        "title": "신현송 \"현재 기준금리 수준, 중립금리 추정 범위 중간 정도\"",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3393191",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 12 Apr 2026 16:06:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": {
           "word": "Forward Guidance",
@@ -131,22 +150,14 @@
         }
       },
       {
-        "title": "5대銀 가계대출 규제 풍선효과…인뱅 1분기 대출잔액 5500억원 늘어",
-        "link": "https://n.news.naver.com/mnews/article/366/0001156227?sid=101",
+        "title": "'매파' 한은 총재 온다는데…대출금리 더 오를라 노심초사",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1297457&inflow=N",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 12 Apr 2026 13:53:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "금융 권 역대급 실적에도 경기 위축으로 대출 부실 확대 우려",
-        "link": "https://www.m-i.kr/news/articleView.html?idxno=1363568",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 12 Apr 2026 13:50:00 +0900",
-        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
+        "pubDate": "Sun, 12 Apr 2026 15:50:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+          "word": "NIM",
+          "meaning": "금리 변화가 금융기관 수익성에 미치는 영향을 보여주는 핵심 지표"
         }
       },
       {
