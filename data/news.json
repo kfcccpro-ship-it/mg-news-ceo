@@ -1,8 +1,24 @@
 {
-  "updatedAt": "2026-04-13T02:44:10.873Z",
-  "headline": "\"연 최대 12%\"... 새마을금고 , 저출생 극복 적금상품 출시 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-04-13T05:42:41.666Z",
+  "headline": "새마을금고 , 대출도 막히고 비이자수익도 한계…2028 흑자 목표 흔들리... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "새마을금고 , 대출도 막히고 비이자수익도 한계…2028 흑자 목표 흔들리...",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=339179",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 13 Apr 2026 13:56:00 +0900",
+        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "“현금 모자라요” 기지로 5천만원 보이스피싱 막은 금고 직원",
+        "link": "https://n.news.naver.com/mnews/article/666/0000103050?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 13 Apr 2026 13:15:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "\"연 최대 12%\"... 새마을금고 , 저출생 극복 적금상품 출시",
         "link": "https://www.ibabynews.com/news/articleView.html?idxno=150475",
@@ -46,90 +62,84 @@
     ],
     "otherFinance": [
       {
-        "title": "[1Q26 Preview]①KB국민 은행 , 가계대출 한파 속 '기업대출·마진 방어'…...",
-        "link": "http://www.press9.kr/news/articleView.html?idxno=74923",
+        "title": "부산 은행 , ‘신안우이 해상풍력발전사업’ PF 금융 참여",
+        "link": "https://n.news.naver.com/mnews/article/016/0002628904?sid=102",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 13 Apr 2026 11:42:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "NIM",
-          "meaning": "금리 변화가 금융기관 수익성에 미치는 영향을 보여주는 핵심 지표"
-        }
-      },
-      {
-        "title": "KB국민 은행 , ‘스타프렌즈정원'서 봉사 활동...'포용 금융 ' 관심도 급등",
-        "link": "http://www.thebigdata.co.kr/view.php?ud=20260413111647917d0a8833aad_23",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 13 Apr 2026 11:42:00 +0900",
+        "pubDate": "Mon, 13 Apr 2026 14:41:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "NH 농협 은행, 국민성장펀드 1호 '신안우이 해상풍력 프로젝트' 참여",
-        "link": "https://n.news.naver.com/mnews/article/003/0013883687?sid=101",
+        "title": "BNK부산 은행 , 신안우이 해상풍력 PF 참여…해양 금융 '에너지 인프라'로...",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=130577",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 13 Apr 2026 11:41:00 +0900",
+        "pubDate": "Mon, 13 Apr 2026 14:40:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "NH농협 은행 , 국민성장펀드 1호 '신안우이 해상풍력 프로젝트' 참여",
-        "link": "https://n.news.naver.com/mnews/article/003/0013883687?sid=101",
+        "title": "농협 개혁에도 노동계 분노 여전...\"강호동 회장 먼저 문책해야\"",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=255288",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 13 Apr 2026 11:41:00 +0900",
+        "pubDate": "Mon, 13 Apr 2026 14:38:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "제주 은행 , 금융 위 소상공인 특화 AI기반 신용평가 시범사업 참여",
-        "link": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=590582",
+        "title": "\"원화 스테이블코인… 은행 중심으로 신뢰·혁신 조화\"",
+        "link": "https://www.asiatime.co.kr/article/20260413500260",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 13 Apr 2026 11:40:00 +0900",
+        "pubDate": "Mon, 13 Apr 2026 14:36:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "신한 은행 , 금융 교육강사 13기 발대식 개최",
-        "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=163725",
+        "title": "NH 농협 성남시지부, 성남FC 경기서 쌀 소비촉진 범국민 아침밥운동 전개",
+        "link": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3019432",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 13 Apr 2026 11:40:00 +0900",
+        "pubDate": "Mon, 13 Apr 2026 14:34:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "KB국민 은행 , 임직원 가족과 함께하는 어린이정원 생태계 가꾸기 봉사",
-        "link": "http://www.press9.kr/news/articleView.html?idxno=74939",
+        "title": "[ 금융 권 소식] BNK부산은행ㆍ신한은행ㆍKB국민은행ㆍNH 농협 은행(4.13)",
+        "link": "http://www.weeklytoday.com/news/articleView.html?idxno=770680",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 13 Apr 2026 11:38:00 +0900",
+        "pubDate": "Mon, 13 Apr 2026 14:34:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "국민성장펀드 1호 '신안우이 해상풍력 발전사업' 본궤도… 농협 ·부산은...",
-        "link": "https://www.ajunews.com/view/20260413110337476",
+        "title": "NH투자증권, 금융 지주 내 위상 급상승…순이익 비중 40% 돌파",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=74950",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 13 Apr 2026 11:30:00 +0900",
+        "pubDate": "Mon, 13 Apr 2026 14:30:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "NH 농협 은행, '신안우이 해상풍력 프로젝트' 참여-지역밀착 생산적 금융 ...",
+        "link": "http://www.techholic.co.kr/news/articleView.html?idxno=220777",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 13 Apr 2026 14:28:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "산은·수은, 석유공사 원유 확보 30억달러 유동성 지원...중동 휴전 불발...",
-        "link": "https://n.news.naver.com/mnews/article/014/0005506648?sid=101",
+        "title": "지난해 사장님대출 2조원 돌파한 ‘케이뱅크’…비결은?",
+        "link": "https://n.news.naver.com/mnews/article/005/0001842878?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 13 Apr 2026 11:43:00 +0900",
+        "pubDate": "Mon, 13 Apr 2026 14:27:00 +0900",
         "summary": "",
-        "term": {
-          "word": "LCR",
-          "meaning": "단기 유동성 충격 대응 능력을 보여주는 지표"
-        }
+        "term": null
       },
       {
-        "title": "[단독]신현송 “성장부진보다 물가상승 더 문제”…매파적 기질 드러내",
-        "link": "https://n.news.naver.com/mnews/article/009/0005665031?sid=101",
+        "title": "감사원, 표적감사 없다더니…‘이복현 금감원’ 정조준",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1297592&inflow=N",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 13 Apr 2026 11:41:00 +0900",
+        "pubDate": "Mon, 13 Apr 2026 14:02:00 +0900",
         "summary": "",
         "term": null
       },
@@ -142,30 +152,11 @@
         "term": null
       },
       {
-        "title": "대출 막히자 예금금리도 눌렸다 … 예대마진 키운 '총량 규제의 역설'",
-        "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/13/2026041300126.html",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 13 Apr 2026 11:30:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "NIM",
-          "meaning": "금리 변화가 금융기관 수익성에 미치는 영향을 보여주는 핵심 지표"
-        }
-      },
-      {
         "title": "[오늘의 주요 사회 일정] 경기남부(4월13일 월요일)",
         "link": "http://www.econonews.co.kr/news/articleView.html?idxno=435349",
         "source": "네이버뉴스",
         "pubDate": "Mon, 13 Apr 2026 09:26:00 +0900",
         "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
-        "term": null
-      },
-      {
-        "title": "[춤추는 정책대출] 주담대 감소세인줄 알았는데…총량 규제 틈새 채운 ...",
-        "link": "https://www.ajunews.com/view/20260412141840987",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 13 Apr 2026 06:10:00 +0900",
-        "summary": "",
         "term": null
       }
     ]
