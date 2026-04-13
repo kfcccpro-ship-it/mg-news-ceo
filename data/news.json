@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-13T13:27:30.985Z",
+  "updatedAt": "2026-04-13T16:14:04.138Z",
   "headline": "대구 새마을금고 경영평가 연도대상 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -38,71 +38,93 @@
     ],
     "otherFinance": [
       {
-        "title": "여자농구 삼성생명, 하나 은행 에 짜릿한 연장승…챔프전까지 1승",
-        "link": "https://m.sports.naver.com/basketball/article/001/0016019307",
+        "title": "은행 권 \"백악관 스테이블코인 이자 허용 논리, 예금 위협 과소평가\"",
+        "link": "https://www.tokenpost.kr/news/breaking/348928",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 13 Apr 2026 22:15:00 +0900",
+        "pubDate": "Tue, 14 Apr 2026 00:52:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "전세 사기 경매 지원 불과 90억원… 2 금융 권 빠지고 대형 은행 만 참여",
+        "link": "https://n.news.naver.com/mnews/article/023/0003970622?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 14 Apr 2026 00:33:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[증권 뉴스브리핑] 미래에셋, 스페이스X 한국 청약 추진/금감원, 제약·...",
-        "link": "https://www.asiatime.co.kr/article/20260413500369",
+        "title": "ECB, 자본시장 토큰화 조건부 허용…중앙 은행 자금이 기준",
+        "link": "https://www.tokenpost.kr/news/blockchain/348918",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 13 Apr 2026 22:12:00 +0900",
+        "pubDate": "Tue, 14 Apr 2026 00:32:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "삼성생명, 챔프전까지 1승 남았다…하나 은행 꺾고 PO 2승 1패",
-        "link": "https://m.sports.naver.com/basketball/article/469/0000925235",
+        "title": "[단신]하나 은행 , 최고 연 2.5% 금리 ‘하나모임통장’ 출시 外",
+        "link": "https://n.news.naver.com/mnews/article/020/0003712020?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 13 Apr 2026 22:11:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[브리프] 한화생명 교보생명 메리츠화재 하나카드 신한카드 농협 카드",
-        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=352327",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 13 Apr 2026 21:14:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "부산 농협 본부, 농축협 신규직원 대상 상생발전 교육",
-        "link": "https://n.news.naver.com/mnews/article/662/0000092911?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 13 Apr 2026 20:58:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "대구 농협 , `상호 금융 대출 건전여신 10조원 달성탑` 수상",
-        "link": "https://www.dkilbo.com/news/articleView.html?idxno=540907",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 13 Apr 2026 20:50:00 +0900",
+        "pubDate": "Tue, 14 Apr 2026 00:32:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "대구 농협 , 건전여신 10조 돌파 9조 이후 3년8개월 만에 달성",
-        "link": "https://www.ksmnews.co.kr/news/view.php?idx=600098",
+        "title": "NH 농협 은행 강원본부, 농번기 합동 농촌 일손돕기 실시",
+        "link": "http://www.fntimes.com/html/view.php?ud=202604132316455055dd55077bc2_18",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 13 Apr 2026 20:50:00 +0900",
+        "pubDate": "Mon, 13 Apr 2026 23:30:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "NH 농협 은행강원본부, 금융 감독원 강원지원과 농번기 맞아 합동 농촌 일...",
-        "link": "https://n.news.naver.com/mnews/article/002/0002437080?sid=102",
+        "title": "농협 , 영농철 전국 동시 일손돕기 돌입...범 농협 영농지원 발대식 개최",
+        "link": "http://www.fntimes.com/html/view.php?ud=202604132321565315dd55077bc2_18",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 13 Apr 2026 20:35:00 +0900",
+        "pubDate": "Mon, 13 Apr 2026 23:26:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "농협 은행 인천본부, 여직원 봉사회 반찬 나눔 따뜻한 동행 실천",
+        "link": "http://www.fntimes.com/html/view.php?ud=202604132318192813dd55077bc2_18",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 13 Apr 2026 23:22:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "강원 농협 , 동심협력 함께 여는 풍년의 봄' 영농지원 발대식 개최",
+        "link": "http://www.fntimes.com/html/view.php?ud=202604132309378649dd55077bc2_18",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 13 Apr 2026 23:18:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
+      {
+        "title": "비거주 1주택자가 갭투자자?… 정부 전세대출 제한 검토에 실효성 논란",
+        "link": "https://n.news.naver.com/mnews/article/005/0001843006?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 14 Apr 2026 00:42:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "금리인상기 채권투자, 대박보다 방망이 짧게 잡고 수익 노려야",
+        "link": "https://n.news.naver.com/mnews/article/020/0003712022?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 14 Apr 2026 00:32:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Terminal Rate",
+          "meaning": "기준금리 인상 사이클의 최종 수준에 대한 시장 기대"
+        }
+      },
       {
         "title": "김해 농·축협 '연체감축' 전략회의",
         "link": "http://www.gnmaeil.com/news/articleView.html?idxno=584530",
@@ -137,17 +159,6 @@
         "pubDate": "Mon, 13 Apr 2026 17:22:00 +0900",
         "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
         "term": null
-      },
-      {
-        "title": "가계대출 막힌 금융권, 기업금융 확대 속 CET1 방어 '시험대'",
-        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=352321",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 13 Apr 2026 16:34:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
-        "term": {
-          "word": "CET1",
-          "meaning": "손실흡수력을 보여주는 대표적인 자본적정성 지표"
-        }
       }
     ]
   }
