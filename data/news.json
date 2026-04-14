@@ -1,8 +1,24 @@
 {
-  "updatedAt": "2026-04-14T05:24:42.571Z",
-  "headline": "구미 원남 새마을금고 경영진의 일탈 논란 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-04-14T07:47:30.445Z",
+  "headline": "MG 새마을금고 충북본부, 지역사회 온정 나눔 실천 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "MG 새마을금고 충북본부, 지역사회 온정 나눔 실천",
+        "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=883400",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 14 Apr 2026 16:40:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "주담대 막힌 새마을금고 … '카드·공제' 비이자 확대 사활",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/14/2026041400171.html",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 14 Apr 2026 15:18:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "구미 원남 새마을금고 경영진의 일탈 논란",
         "link": "https://www.pennmike.com/news/articleView.html?idxno=118709",
@@ -10,115 +26,96 @@
         "pubDate": "Tue, 14 Apr 2026 14:22:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "서천군, 차기 군 금고로 NH 농협 은행 서천군지부 선정",
-        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2410165",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 14 Apr 2026 14:12:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "과천 새마을금고 , 아동·청년 지원 성금 1천만 원 기부",
-        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1247997",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 14 Apr 2026 13:40:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "과천 새마을금고 , 아동·청년 지원 위해 성금 1천만 원 기부",
-        "link": "https://www.kgnews.co.kr/news/article.html?no=891608",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 14 Apr 2026 12:14:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[위클리오늘] 양주시-양주 새마을금고 , 지방보조금 전용계좌 확대 업무협...",
-        "link": "http://www.weeklytoday.com/news/articleView.html?idxno=770837",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 14 Apr 2026 11:20:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "하나 은행 , '2026 퇴직연금 세미나' 개최",
-        "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=163798",
+        "title": "[고영철號 신협 진단] ④ 비대면 앱 공약, '공동유대 비영리법인' 본질...",
+        "link": "https://www.topdaily.kr/articles/109676",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 14 Apr 2026 14:22:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "부산 은행 , 토스 앱에 전용관 개설…비대면 금융 확대",
-        "link": "https://n.news.naver.com/mnews/article/001/0016020804?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 14 Apr 2026 14:22:00 +0900",
+        "pubDate": "Tue, 14 Apr 2026 16:44:00 +0900",
         "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "미 은행 협회 “스테이블코인 수익 허용 땐 대출보다 예금 이탈이 더 큰...",
-        "link": "https://www.tokenpost.kr/news/cryptocurrency/349188",
+        "title": "수출에 ' 금융 혈맥' 뚫는다…우리 은행 , 생산적 금융 3조원 지원",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=511553",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 14 Apr 2026 14:22:00 +0900",
+        "pubDate": "Tue, 14 Apr 2026 16:44:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "한국콜마, 협력사에 1740억원 금융 지원… 무보·우리 은행 과 MOU",
+        "link": "https://n.news.naver.com/mnews/article/366/0001156809?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 14 Apr 2026 16:42:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "우리 은행 , 생산적 금융 3조 지원…수출기업 운전자금 지원 문턱 대폭 완...",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=264717",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 14 Apr 2026 16:42:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "하나 은행 , '2026 퇴직연금 세미나' 개최… 성과 관리·자산운용 전략 제...",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=213553",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 14 Apr 2026 16:42:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "주담대, 가계대출 증가분의 60%~70%로 별도 관리…은행별 차등",
+        "link": "https://n.news.naver.com/mnews/article/421/0008889359?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 14 Apr 2026 16:39:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
+        "term": null
       },
       {
-        "title": "강정훈 iM뱅크 은행 장 \"올해 당기순이익 4천억 달성하겠다\"",
-        "link": "https://n.news.naver.com/mnews/article/079/0004136556?sid=102",
+        "title": "충북 농협 \"농업도 살리고, 청년도 돕는다\"",
+        "link": "https://www.bzeronews.com/news/articleView.html?idxno=816040",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 14 Apr 2026 14:22:00 +0900",
+        "pubDate": "Tue, 14 Apr 2026 16:38:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "취임 100일 강정훈 iM뱅크 은행 장 \"가장 지역적인 시중 은행 구축\"",
-        "link": "https://n.news.naver.com/mnews/article/421/0008888825?sid=102",
+        "title": "[ 금융 체크] 국민은행· 농협 은행·경남은행·우리카드",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=133705",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 14 Apr 2026 14:22:00 +0900",
+        "pubDate": "Tue, 14 Apr 2026 16:36:00 +0900",
         "summary": "",
-        "term": null
-      },
-      {
-        "title": "은행권 '생산적 금융 ' 외치지만…현실은 '대기업 쏠림' 왜",
-        "link": "https://n.news.naver.com/mnews/article/629/0000491240?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 14 Apr 2026 14:21:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "은행 권 '생산적 금융 ' 외치지만…현실은 '대기업 쏠림' 왜",
-        "link": "https://n.news.naver.com/mnews/article/629/0000491240?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 14 Apr 2026 14:21:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "부산 은행 , 토스 앱에 '전용관' 개설…비대면 금융 확대",
-        "link": "http://www.seoulwire.com/news/articleView.html?idxno=716826",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 14 Apr 2026 14:20:00 +0900",
-        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "수은, 여신 88.6%가 무담보…\"AI 기반 여신감리 조기경보모형 도입해 건...",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1358014",
+        "title": "한국콜마, K-뷰티 '상생 생태계' 강화...중소고객사에 1740억 수출 금융 ...",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=213554",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 14 Apr 2026 14:20:00 +0900",
+        "pubDate": "Tue, 14 Apr 2026 16:42:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "대출 규제·'3高' 겹악재에 식어가는 청약통장…'로또 청약' 열기 꺼지나",
+        "link": "https://n.news.naver.com/mnews/article/656/0000173818?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 14 Apr 2026 16:41:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "서민 급전창구도 막히나…대부업도 대출규제 적용 '솔솔'",
+        "link": "https://www.asiatime.co.kr/article/20260414500257",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 14 Apr 2026 15:12:00 +0900",
         "summary": "",
         "term": null
       }
