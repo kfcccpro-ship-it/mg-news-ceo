@@ -1,21 +1,45 @@
 {
-  "updatedAt": "2026-04-15T02:35:12.383Z",
-  "headline": "새마을금고 중앙회 충북지역본부, 청주 복지시설 3곳에 기부금 전달 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-04-15T05:24:52.945Z",
+  "headline": "중기중앙회, 노란우산 협력은행 감사패 수여 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
-        "title": "새마을금고 중앙회 충북지역본부, 청주 복지시설 3곳에 기부금 전달",
-        "link": "https://www.jbnews.com/news/articleView.html?idxno=1502352",
+        "title": "중기중앙회, 노란우산 협력은행 감사패 수여",
+        "link": "http://amenews.kr/news/view.php?idx=66350",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Apr 2026 11:16:00 +0900",
+        "pubDate": "Wed, 15 Apr 2026 14:20:00 +0900",
         "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
         "term": null
       },
       {
-        "title": "가족·지인에 86억 상당 부실대출, 전직 새마을금고 이사장 실형",
-        "link": "https://n.news.naver.com/mnews/article/003/0013888497?sid=102",
+        "title": "중기중앙회, 노란우산 협력 은행 감사패 수여",
+        "link": "http://amenews.kr/news/view.php?idx=66350",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Apr 2026 11:06:00 +0900",
+        "pubDate": "Wed, 15 Apr 2026 14:20:00 +0900",
+        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "김제하나 새마을금고 , 전통시장 상인·어르신 초청 짜장면 나눔",
+        "link": "http://www.jeonmin.co.kr/news/articleView.html?idxno=437981",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 15 Apr 2026 14:14:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "가족·지인 부당대출 '86억'…내 돈처럼 꺼내쓴 새마을금고 이사장 실형",
+        "link": "https://n.news.naver.com/mnews/article/008/0005344556?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 15 Apr 2026 14:11:00 +0900",
+        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "'86억 부실 대출' 광주 새마을금고 전 이사장 실형",
+        "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000030614",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 15 Apr 2026 14:00:00 +0900",
         "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
         "term": {
           "word": "Delinquency",
@@ -23,134 +47,119 @@
         }
       },
       {
-        "title": "중기중앙회, '노란우산' 협력은행에 감사패 수여",
-        "link": "https://news.mtn.co.kr/news-detail/2026041510015622835",
+        "title": "중기중앙회, '노란우산' 협력 6개 시중은행에 감사패",
+        "link": "http://www.metroseoul.co.kr/article/20260415500299",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Apr 2026 11:02:00 +0900",
+        "pubDate": "Wed, 15 Apr 2026 14:00:00 +0900",
         "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
         "term": null
       },
       {
-        "title": "\"330만 가입 기여\"…중기중앙회, 노란우산 협력은행에 감사패 수여",
-        "link": "https://www.m-i.kr/news/articleView.html?idxno=1364459",
+        "title": "가족·지인에 86억원 부실 대출… 새마을금고 이사장 실형",
+        "link": "https://n.news.naver.com/mnews/article/001/0016023009?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Apr 2026 11:00:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "중기중앙회 \"노란우산 가입 이끈 시중은행 6곳에 감사\"",
-        "link": "https://n.news.naver.com/mnews/article/003/0013888451?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Apr 2026 11:00:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "중기중앙회, 노란우산 같이 키운 농협·하나·우리·국민·기업·신한에...",
-        "link": "https://n.news.naver.com/mnews/article/016/0002629973?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Apr 2026 11:00:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
-        "term": null
+        "pubDate": "Wed, 15 Apr 2026 13:52:00 +0900",
+        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
       }
     ],
     "otherFinance": [
       {
-        "title": "\"영업정지 나오나\"… 롯데카드 제재심 앞두고 카드사들 '초긴장'",
-        "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/15/2026041500164.html",
+        "title": "NH 농협 은행, 방위산업공제조합 이차보전 대출 취급기관 선정",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=511889",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Apr 2026 11:34:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[은행가] NH 농협 은행 K-방산 금융 지원 外",
-        "link": "https://www.slist.kr/news/articleView.html?idxno=731983",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Apr 2026 11:32:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "신현송 한국 은행 총재 후보자 \"성장세 약화될 것으로 보인다\"",
-        "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4078471",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Apr 2026 11:32:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "신현송 \"스테이블코인 발행 시 고객확인 업무 역량 중요\"⋯ 은행 에 힘 실...",
-        "link": "https://www.etoday.co.kr/news/view/2575940",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Apr 2026 11:32:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[ 은행 가] NH농협 은행 K-방산 금융 지원 外",
-        "link": "https://www.slist.kr/news/articleView.html?idxno=731983",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Apr 2026 11:32:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "미래에셋자산운용 BNK부산은행 KB손보 外( 금융 레이더)",
-        "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3060755",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Apr 2026 11:30:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "오종석(경남도품목 농협 운영협의회장ㆍ거창사과원예 농협 조합장) - 농자...",
-        "link": "http://www.wonyesanup.co.kr/news/articleView.html?idxno=64297",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Apr 2026 11:28:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "안양원예 농협 , 상호 금융 대출금 1조원 달성탑 수상",
-        "link": "http://www.wonyesanup.co.kr/news/articleView.html?idxno=64309",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Apr 2026 11:28:00 +0900",
+        "pubDate": "Wed, 15 Apr 2026 14:24:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "NH농협 은행 , 방위산업공제조합 이차보전 대출 취급기관 선정",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=511889",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 15 Apr 2026 14:24:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "[# 금융 톡톡] 하나카드 '日 특화 트래블로그' 출시· 농협 카드 '예금토큰...",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=837872",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 15 Apr 2026 14:22:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "[ 은행 뉴스브리핑] KB 금융 국민안전의날 맞이 6억 규모 사회공헌",
+        "link": "https://www.asiatime.co.kr/article/20260415500302",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 15 Apr 2026 14:22:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[# 금융 톡톡] 하나카드 '日 특화 트래블로그' 출시·농협카드 '예금토큰...",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=837872",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 15 Apr 2026 14:22:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "실손보험 청구 전산화 '실손24', 140만 명 이용… 금융 위, 연계율 제고 위...",
+        "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4078505",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 15 Apr 2026 14:22:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[단독] 한화투자, '디지털자산 전문증권사' 전환 속도",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=300238",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 15 Apr 2026 14:20:00 +0900",
+        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "신한 은행 , 더존비즈온과 ‘뱅크인 플랫폼’ 협업 확대",
+        "link": "https://www.smarttoday.co.kr/ko-kr/articles/106526",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 15 Apr 2026 14:20:00 +0900",
+        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "신현송 한은 총재 후보자 \"환율, 역외 거래 영향 커…상당히 높은 수준...",
-        "link": "https://n.news.naver.com/mnews/article/119/0003080848?sid=101",
+        "title": "부자들의 자산관리, 부동산에서 금융 으로…투자 성적표는 A+",
+        "link": "https://www.ajunews.com/view/20260415101839124",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Apr 2026 11:33:00 +0900",
+        "pubDate": "Wed, 15 Apr 2026 14:22:00 +0900",
+        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "철원군 '철기50' 첫 해외 수출…호주로 4톤 선적",
+        "link": "https://www.ajunews.com/view/20260415131922255",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 15 Apr 2026 13:24:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[단독] 보금자리론 1분기 7조 돌파 … 대출 막히자 정책 금융 '과속 신호...",
-        "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/15/2026041500159.html",
+        "title": "철원군 자체 개발 조생종 쌀 '철기50', 첫 수출 성사",
+        "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=382324",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Apr 2026 11:32:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "신현송 \"최근 원달러 환율 꼬리가 몸통 흔들어...선물환 시장 중요\"",
-        "link": "https://www.livebiz.today/news/articleView.html?idxno=201608",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Apr 2026 11:32:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "철원군, '철기50' 첫 해외 수출 시작",
-        "link": "https://www.m-i.kr/news/articleView.html?idxno=1364554",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Apr 2026 11:00:00 +0900",
+        "pubDate": "Wed, 15 Apr 2026 11:56:00 +0900",
         "summary": "",
         "term": null
       }
