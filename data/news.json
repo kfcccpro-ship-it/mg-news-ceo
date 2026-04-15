@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-15T16:06:04.817Z",
+  "updatedAt": "2026-04-15T19:18:40.243Z",
   "headline": "중기중앙회, 노란우산 협력은행에 감사패 수여 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -65,19 +65,27 @@
     ],
     "otherFinance": [
       {
-        "title": "KB국민 은행 , 자립준비청년 '경제적 홀로서기' 돕는다… 금융 교육 강화",
-        "link": "https://www.apnews.kr/news/articleView.html?idxno=3047866",
+        "title": "월가 은행 들, 美 경제 낙관론…\"유가 급등에도 소비 지속\"",
+        "link": "https://n.news.naver.com/mnews/article/293/0000082846?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 16 Apr 2026 00:44:00 +0900",
+        "pubDate": "Thu, 16 Apr 2026 04:15:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "IBK기업 은행 , 충남대와 '지역 유망 스타트업' 발굴·투자 지원 맞손",
-        "link": "https://www.apnews.kr/news/articleView.html?idxno=3047865",
+        "title": "삼성생명, 하나 은행 3승 1패 잡고 WKBL 챔프전 진출…KB 나와!",
+        "link": "https://m.sports.naver.com/basketball/article/311/0001999620",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 16 Apr 2026 00:36:00 +0900",
+        "pubDate": "Thu, 16 Apr 2026 03:30:00 +0900",
         "summary": "",
+        "term": null
+      },
+      {
+        "title": "미국 은행 , 헤지펀드 대출 증가로 금융 시스템 위험 고조",
+        "link": "https://www.tokenpost.kr/news/economy/350018",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 16 Apr 2026 03:28:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
@@ -119,47 +127,31 @@
         "pubDate": "Wed, 15 Apr 2026 20:48:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "강태영 NH 농협 은행장, 경남 현장 찾아 금융 지원 논의",
-        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=832960",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Apr 2026 20:20:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "macro": [
       {
-        "title": "경기 종료 직전 터진 베테랑 배혜윤의 결승 득점 용인삼성생명, 하나은...",
-        "link": "https://m.sports.naver.com/basketball/article/382/0001268480",
+        "title": "집있는 세입자, 평균 1.5억 전세대출 받았다",
+        "link": "https://n.news.naver.com/mnews/article/008/0005344866?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 16 Apr 2026 01:02:00 +0900",
+        "pubDate": "Thu, 16 Apr 2026 04:03:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "대한노인회 경기 양평군지회, 화전2리경로당에 생산적경로당사업비 전...",
+        "link": "https://www.100ssd.co.kr/news/articleView.html?idxno=208226",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 16 Apr 2026 03:44:00 +0900",
         "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
         "term": null
       },
       {
-        "title": "3월 수입 물가 16% 급등… 28년 만에 최대 폭",
-        "link": "https://n.news.naver.com/mnews/article/023/0003971080?sid=101",
+        "title": "이재명 기조에 부자들 움직인다…\"부동산 대신 금융 자산 선회 1.8배\"",
+        "link": "https://www.apnews.kr/news/articleView.html?idxno=3047874",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 16 Apr 2026 00:33:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "신흥 부자 “부동산보다 금융 ”… 30%는 월급쟁이",
-        "link": "https://n.news.naver.com/mnews/article/020/0003712721?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 16 Apr 2026 00:32:00 +0900",
+        "pubDate": "Thu, 16 Apr 2026 02:36:00 +0900",
         "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "국민성장펀드, 네이버 AI데이터센터에 4000억 저리 대출",
-        "link": "https://n.news.naver.com/mnews/article/020/0003712712?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 16 Apr 2026 00:31:00 +0900",
-        "summary": "",
         "term": null
       },
       {
