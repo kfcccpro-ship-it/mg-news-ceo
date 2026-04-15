@@ -1,18 +1,61 @@
 {
-  "updatedAt": "2026-04-15T10:17:08.372Z",
-  "headline": "농협 중앙회 인천옹진군지부, 영흥도서 ' 농협 상생발전협의회' 개최 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-04-15T13:26:00.027Z",
+  "headline": "대구 새마을금고 , 사회복지시설에 3천만원 지원 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
-        "title": "농협 중앙회 인천옹진군지부, 영흥도서 ' 농협 상생발전협의회' 개최",
-        "link": "http://www.fntimes.com/html/view.php?ud=202604151910199061dd55077bc2_18",
+        "title": "대구 새마을금고 , 사회복지시설에 3천만원 지원",
+        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=545151",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Apr 2026 19:12:00 +0900",
+        "pubDate": "Wed, 15 Apr 2026 21:24:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "중기중앙회, 노란우산 협력은행 6곳 감사패",
+        "link": "https://www.ksmnews.co.kr/news/view.php?idx=600627",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 15 Apr 2026 20:52:00 +0900",
         "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
         "term": null
       },
       {
-        "title": "농협중앙회 인천옹진군지부, 영흥도서 '농협상생발전협의회' 개최",
+        "title": "함께그린협동조합·아산 탕정 새마을금고 , 지역사회 디지털 문해력 강화...",
+        "link": "http://www.dynews.co.kr/news/articleView.html?idxno=846923",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 15 Apr 2026 20:50:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "모집/천안서부 새마을금고 문화교실(바리스타, 오카리나, 수채화 취미, 요...",
+        "link": "http://www.dynews.co.kr/news/articleView.html?idxno=846924",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 15 Apr 2026 20:50:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "가족·지인 부실·초과대출 전 새마을금고 이사장 징역 3년 6개월",
+        "link": "http://www.kwangju.co.kr/article.php?aid=1776253020797857006",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 15 Apr 2026 20:40:00 +0900",
+        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "중기중앙회, 노란우산 협력은행에 감사패",
+        "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1073771",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 15 Apr 2026 19:22:00 +0900",
+        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "농협 중앙회 인천옹진군지부, 영흥도서 ' 농협 상생발전협의회' 개최",
         "link": "http://www.fntimes.com/html/view.php?ud=202604151910199061dd55077bc2_18",
         "source": "네이버뉴스",
         "pubDate": "Wed, 15 Apr 2026 19:12:00 +0900",
@@ -26,131 +69,80 @@
         "pubDate": "Wed, 15 Apr 2026 19:10:00 +0900",
         "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
         "term": null
-      },
-      {
-        "title": "새마을금고 86억 부실대출 이사장 징역형",
-        "link": "https://www.namdonews.com/news/articleView.html?idxno=907652",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Apr 2026 19:02:00 +0900",
-        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
-      },
-      {
-        "title": "중기중앙회, 농협·신한·하나·기업·국민·우리 등 노란우산 협력은행...",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=301298",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Apr 2026 18:58:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "중기중앙회, 농협 ·신한·하나·기업·국민·우리 등 노란우산 협력은행...",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=301298",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Apr 2026 18:58:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "김제하나 새마을금고 ,‘짜장면 나눔 봉사’",
-        "link": "https://sjbnews.com/news/news.php?number=876410",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Apr 2026 18:20:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "새마을금고 , 'MG희망나눔 걸음마적금' 출시",
-        "link": "https://www.namdonews.com/news/articleView.html?idxno=907616",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Apr 2026 17:42:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "“주식 투자라더니 7500만원 인출”…수상함 눈치챈 은행 직원, 부산 70...",
-        "link": "https://n.news.naver.com/mnews/article/021/0002785011?sid=102",
+        "title": "[W PO] 4강에서 첫 시즌 마감한 하나 은행 이상범 감독 \"다시 시작하겠다...",
+        "link": "https://m.sports.naver.com/basketball/article/398/0000098947",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Apr 2026 19:16:00 +0900",
+        "pubDate": "Wed, 15 Apr 2026 22:17:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "ERP 안에서 급여이체까지…신한 은행 , 더존 'WEHAGO'에 뱅크인 연동",
-        "link": "https://www.econovill.com/news/articleView.html?idxno=737448",
+        "title": "강태영 NH 농협 은행장, 경남권 생산적 금융 현장경영",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=261093",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Apr 2026 19:16:00 +0900",
+        "pubDate": "Wed, 15 Apr 2026 22:14:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "신한 은행 ·KIET, 생산적 금융 활성화·산업 선구안 배양 MOU",
-        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=355765",
+        "title": "기업 은행 , 충남대학교와 산·학· 금융 협력 업무협약 체결",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=261094",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Apr 2026 19:14:00 +0900",
+        "pubDate": "Wed, 15 Apr 2026 22:14:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "진주경찰서·BNK경남 은행 , 피싱 범죄 예방 업무협약",
-        "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=634937",
+        "title": "KB국민 은행 , '2026 자립준비청년 지원 프로그램' 발대식",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=261092",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Apr 2026 19:12:00 +0900",
+        "pubDate": "Wed, 15 Apr 2026 22:14:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "농협 은행, 방산 이차보전 대출 참여…K-방산 금융 지원 확대",
-        "link": "https://n.news.naver.com/mnews/article/662/0000093113?sid=101",
+        "title": "강태영 NH농협 은행 장, 경남권 생산적 금융 현장경영",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=261093",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Apr 2026 19:10:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "경기 농·축협 'NH 농협 손해보험 연도대상' 개인 시상식 개최",
-        "link": "http://www.fntimes.com/html/view.php?ud=202604151902211285dd55077bc2_18",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Apr 2026 19:08:00 +0900",
+        "pubDate": "Wed, 15 Apr 2026 22:14:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "북부산 농협 'NH 농협 카드 연도대상' 5회 연속 수상",
-        "link": "https://n.news.naver.com/mnews/article/014/0005508422?sid=102",
+        "title": "파키스탄, 은행 암호화폐 서비스 허용…직접 투자·보유는 막았다",
+        "link": "https://www.tokenpost.kr/news/policy/349923",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Apr 2026 19:08:00 +0900",
+        "pubDate": "Wed, 15 Apr 2026 22:12:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "강원 농협 , ‘33년의 우정’ 땀방울로 일궈낸 아름다운 동행",
-        "link": "http://www.fntimes.com/html/view.php?ud=202604151900384891dd55077bc2_18",
+        "title": "‘강유림 20점 맹활약 뒤 눈물’ 삼성생명, 하나 은행 꺾고 5년 만에 챔프...",
+        "link": "https://m.sports.naver.com/basketball/article/396/0000741965",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Apr 2026 19:02:00 +0900",
+        "pubDate": "Wed, 15 Apr 2026 22:09:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "농협 은행 두레봉사단, 지역 아동에 성금 전달",
+        "link": "https://www.ksmnews.co.kr/news/view.php?idx=600571",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 15 Apr 2026 20:56:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "신현송 \"중동발 고물가 장기화 땐 금리 대응\"…외화자산 100% 처분 약속",
-        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=545120",
+        "title": "“뉴노멀이 된 ‘짠물 사회’” 고물가·고환율이 바꾼 대구의 풍경",
+        "link": "https://www.yeongnam.com/web/view.php?key=20260415023168013",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Apr 2026 19:14:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "\"글로벌 쌀 시장 공략\"…철원군, 자체 개발 '철기50' 호주 수출",
-        "link": "https://n.news.naver.com/mnews/article/421/0008891971?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Apr 2026 16:48:00 +0900",
+        "pubDate": "Wed, 15 Apr 2026 22:16:00 +0900",
         "summary": "",
         "term": null
       }
