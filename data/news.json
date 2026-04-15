@@ -1,8 +1,16 @@
 {
-  "updatedAt": "2026-04-15T19:18:40.243Z",
-  "headline": "중기중앙회, 노란우산 협력은행에 감사패 수여 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-04-15T21:53:19.514Z",
+  "headline": "'감시 사각지대' 농협 중앙회…폐쇄성이 키운 비위 [선진 농협 의 조건 ②... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "'감시 사각지대' 농협 중앙회…폐쇄성이 키운 비위 [선진 농협 의 조건 ②...",
+        "link": "https://news.mtn.co.kr/news-detail/2026041515375523884",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 16 Apr 2026 06:04:00 +0900",
+        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
       {
         "title": "중기중앙회, 노란우산 협력은행에 감사패 수여",
         "link": "https://www.gukjenews.com/news/articleView.html?idxno=3558203",
@@ -34,108 +42,116 @@
         "pubDate": "Wed, 15 Apr 2026 20:50:00 +0900",
         "summary": "",
         "term": null
-      },
+      }
+    ],
+    "otherFinance": [
       {
-        "title": "모집/천안서부 새마을금고 문화교실(바리스타, 오카리나, 수채화 취미, 요...",
-        "link": "http://www.dynews.co.kr/news/articleView.html?idxno=846924",
+        "title": "사무 금융 노조·농민단체 ' 농협 직선제' 도입 촉구",
+        "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=233837",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Apr 2026 20:50:00 +0900",
+        "pubDate": "Thu, 16 Apr 2026 06:34:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "가족·지인 부실·초과대출 전 새마을금고 이사장 징역 3년 6개월",
-        "link": "http://www.kwangju.co.kr/article.php?aid=1776253020797857006",
+        "title": "농협 은행 노동자, NH 농협 타워 옥상 천막농성",
+        "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=233823",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Apr 2026 20:40:00 +0900",
-        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
+        "pubDate": "Thu, 16 Apr 2026 06:34:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "농협 은행 노동자, NH농협타워 옥상 천막농성",
+        "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=233823",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 16 Apr 2026 06:34:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[굿모닝 금융 ] 신한 금융 ·국민 은행 ·경남 은행 ·광주 은행 등",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=133868",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 16 Apr 2026 06:18:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[스몰캡 증권사 서바이벌②] PF 충당금 3천억 '피눈물' 닦아낸 iM증권, 리...",
+        "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=754040",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 16 Apr 2026 06:16:00 +0900",
+        "summary": "",
         "term": {
           "word": "Delinquency",
           "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
         }
       },
       {
-        "title": "중기중앙회, 노란우산 협력은행에 감사패",
-        "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1073771",
+        "title": "'말로만 생산적 금융 ' 빅5 은행…기업 대출 잔액 26%가 부동산 임대업",
+        "link": "https://realty.chosun.com/site/data/html_dir/2026/04/15/2026041503707.html",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Apr 2026 19:22:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      }
-    ],
-    "otherFinance": [
-      {
-        "title": "월가 은행 들, 美 경제 낙관론…\"유가 급등에도 소비 지속\"",
-        "link": "https://n.news.naver.com/mnews/article/293/0000082846?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 16 Apr 2026 04:15:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "삼성생명, 하나 은행 3승 1패 잡고 WKBL 챔프전 진출…KB 나와!",
-        "link": "https://m.sports.naver.com/basketball/article/311/0001999620",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 16 Apr 2026 03:30:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "미국 은행 , 헤지펀드 대출 증가로 금융 시스템 위험 고조",
-        "link": "https://www.tokenpost.kr/news/economy/350018",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 16 Apr 2026 03:28:00 +0900",
+        "pubDate": "Thu, 16 Apr 2026 06:02:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "철원 김화 농협 외국인 계절근로자 대상 금융 서비스 지원 및 교육",
-        "link": "https://n.news.naver.com/mnews/article/087/0001187313?sid=102",
+        "title": "스테이블코인 속도내던 은행권, 법제화 지연에 다시 CBDC '기웃'",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092160409",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 16 Apr 2026 00:08:00 +0900",
+        "pubDate": "Thu, 16 Apr 2026 06:00:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "철원 김화 농협 외국인근로자 통장개설 지원",
-        "link": "https://n.news.naver.com/mnews/article/654/0000175924?sid=102",
+        "title": "“기술 투자라며”…‘담보’로 이자장사하는 은행들[only이데일리]",
+        "link": "https://n.news.naver.com/mnews/article/018/0006258129?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 16 Apr 2026 00:07:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "강태영 NH 농협 은행장, 경남권 생산적 금융 현장경영",
-        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=261093",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Apr 2026 22:14:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "농협 은행 두레봉사단, 지역 아동에 성금 전달",
-        "link": "https://www.ksmnews.co.kr/news/view.php?idx=600571",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Apr 2026 20:56:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "영천 농협 , 수출· 금융 ·보험 ‘트리플 달성’",
-        "link": "https://www.ksmnews.co.kr/news/view.php?idx=600668",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Apr 2026 20:48:00 +0900",
+        "pubDate": "Thu, 16 Apr 2026 05:35:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "집있는 세입자, 평균 1.5억 전세대출 받았다",
-        "link": "https://n.news.naver.com/mnews/article/008/0005344866?sid=101",
+        "title": "최대 88조원 달러 공급 효과…고환율 소방수 등판[국민연금의 환헤지 파...",
+        "link": "https://www.etoday.co.kr/news/view/2576041",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 16 Apr 2026 04:03:00 +0900",
+        "pubDate": "Thu, 16 Apr 2026 06:30:00 +0900",
         "summary": "",
+        "term": null
+      },
+      {
+        "title": "신용 940점 넘어야 ‘대출’…고신용자 쏠린 배경은",
+        "link": "https://www.kukinews.com/article/view/kuk202604150143",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 16 Apr 2026 06:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "기술보다 땅…中企대출 70% '부동산 담보'[only이데일리]",
+        "link": "https://n.news.naver.com/mnews/article/018/0006258128?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 16 Apr 2026 05:32:00 +0900",
+        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "가계대출 규제에 PF까지 흔들… 이중 압박받는 ‘풀뿌리 금융’",
+        "link": "https://n.news.naver.com/mnews/article/081/0003635828?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 16 Apr 2026 05:05:00 +0900",
+        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "가계대출 규제에 PF까지 흔들… 이중 압박받는 ‘풀뿌리 금융 ’",
+        "link": "https://n.news.naver.com/mnews/article/081/0003635828?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 16 Apr 2026 05:05:00 +0900",
+        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
         "term": null
       },
       {
@@ -144,14 +160,6 @@
         "source": "네이버뉴스",
         "pubDate": "Thu, 16 Apr 2026 03:44:00 +0900",
         "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
-        "term": null
-      },
-      {
-        "title": "이재명 기조에 부자들 움직인다…\"부동산 대신 금융 자산 선회 1.8배\"",
-        "link": "https://www.apnews.kr/news/articleView.html?idxno=3047874",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 16 Apr 2026 02:36:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
         "term": null
       },
       {
@@ -164,14 +172,6 @@
       },
       {
         "title": "\"대출 막히자 발로 뛴다\"…상호금융, 조합원 확보 '총력전'",
-        "link": "https://n.news.naver.com/mnews/article/629/0000491812?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 16 Apr 2026 00:01:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "\"대출 막히자 발로 뛴다\"…상호 금융 , 조합원 확보 '총력전'",
         "link": "https://n.news.naver.com/mnews/article/629/0000491812?sid=101",
         "source": "네이버뉴스",
         "pubDate": "Thu, 16 Apr 2026 00:01:00 +0900",
