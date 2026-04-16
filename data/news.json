@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-04-16T02:42:26.738Z",
-  "headline": "전남·광주 통합금고, 제한경쟁 수의계약으로 연말까지 운영 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-04-16T05:31:29.586Z",
+  "headline": "경남대 부설 평생교육원, 제1기 동부 새마을금고 주부대학 입교식 개최 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
-        "title": "전남·광주 통합금고, 제한경쟁 수의계약으로 연말까지 운영",
-        "link": "https://n.news.naver.com/mnews/article/001/0016025073?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 16 Apr 2026 11:35:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
         "title": "경남대 부설 평생교육원, 제1기 동부 새마을금고 주부대학 입교식 개최",
-        "link": "https://www.veritas-a.com/news/articleView.html?idxno=606052",
+        "link": "https://www.kyosu.net/news/articleView.html?idxno=203903",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 16 Apr 2026 11:20:00 +0900",
+        "pubDate": "Thu, 16 Apr 2026 13:28:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "' 농협 중앙회장 잔혹사'...강호동 리스크에 '제왕적 권력' 비판론 고조",
-        "link": "http://www.seoulwire.com/news/articleView.html?idxno=717177",
+        "title": "경영평가 '대상' 받은 원광 새마을금고 …재무건정·수익·사회공헌 '전북...",
+        "link": "https://n.news.naver.com/mnews/article/002/0002437642?sid=102",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 16 Apr 2026 11:16:00 +0900",
+        "pubDate": "Thu, 16 Apr 2026 13:20:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "MG 새마을금고 중앙회 'MG온정 나눔 지원사업' 펼쳐",
+        "link": "https://www.dkilbo.com/news/articleView.html?idxno=541326",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 16 Apr 2026 12:16:00 +0900",
         "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
         "term": null
       },
@@ -34,90 +34,101 @@
         "pubDate": "Thu, 16 Apr 2026 11:04:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "\"성과급 7억 받는데 주담대는 막혔다\"…SK하이닉스 금고 의 '역설'",
-        "link": "https://n.news.naver.com/mnews/article/421/0008892596?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 16 Apr 2026 07:09:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "결제는 기본, 경험이 옵션…SOL트래블 카드가 통했다",
-        "link": "https://www.the-pr.co.kr/news/articleView.html?idxno=61131",
+        "title": "NH 농협 생명, 양주 부추 농가 방문해 영농철 일손돕기 실시",
+        "link": "https://www.newsinside.kr/news/articleView.html?idxno=4600237",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 16 Apr 2026 11:40:00 +0900",
+        "pubDate": "Thu, 16 Apr 2026 14:30:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "NH 농협금융 , 생산적·포용적 금융 3개월간 7.5조 공급",
-        "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=78119",
+        "title": "NH농협생명, 양주 부추 농가 방문해 영농철 일손돕기 실시",
+        "link": "https://www.newsinside.kr/news/articleView.html?idxno=4600237",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 16 Apr 2026 11:38:00 +0900",
+        "pubDate": "Thu, 16 Apr 2026 14:30:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[카드] 우리銀, 휴·폐업 법인계좌 관리 강화",
-        "link": "http://www.newsprime.co.kr/news/article.html?no=730513",
+        "title": "우리 은행 , 휴·폐업 법인계좌 관리 강화…\"대포통장 악용 방지\"",
+        "link": "https://www.viva100.com/article/20260416500921",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 16 Apr 2026 11:36:00 +0900",
+        "pubDate": "Thu, 16 Apr 2026 14:30:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "\"생산적 금융 앞장\"...KB국민 은행 , 현장밀착형 금융 지원 강화",
-        "link": "https://thetracker.co.kr/View.aspx?No=4043929",
+        "title": "하나 은행 ·넥스트증권, 외국인 국내 주식 투자 환경 개선 협력",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=213702",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 16 Apr 2026 11:35:00 +0900",
+        "pubDate": "Thu, 16 Apr 2026 14:30:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[카드] 하나 은행 ·넥스트증권, FX·외국인 증권투자 보관업무 MOU",
-        "link": "http://www.newsprime.co.kr/news/article.html?no=730509",
+        "title": "은행 ·보험 자본규제 완화…\"100조원 자금 공급 여력 확보\"",
+        "link": "https://www.ajunews.com/view/20260416141152236",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 16 Apr 2026 11:34:00 +0900",
+        "pubDate": "Thu, 16 Apr 2026 14:30:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "하나 은행 , 넥스트증권과 외국인 국내 주식 투자 환경 개선",
-        "link": "http://www.metroseoul.co.kr/article/20260416500187",
+        "title": "신한 은행 , 주거·플랫폼·여행까지…생활 금융 전방위 강화",
+        "link": "https://sateconomy.co.kr/news/view/1065586545083739",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 16 Apr 2026 11:34:00 +0900",
+        "pubDate": "Thu, 16 Apr 2026 14:30:00 +0900",
+        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "이정환 농협 카드 사장 \"전사적 체질개선\"…1분기 성과분석 보고회 개최",
+        "link": "https://n.news.naver.com/mnews/article/374/0000504859?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 16 Apr 2026 14:17:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "미래에셋자산운용 신한은행 우리은행 外( 금융 레이더)",
-        "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3060909",
+        "title": "금융 소비자 주의보… '종신보험 불완전판매' 주의해야",
+        "link": "https://www.gokorea.kr/news/articleView.html?idxno=863804",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 16 Apr 2026 11:30:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "코미디공장 김우민 감독, ‘ 농협 AI 숏폼 공모전’ 대상 수상",
-        "link": "https://dhnews.co.kr/news/view/1065579309808622",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 16 Apr 2026 11:28:00 +0900",
+        "pubDate": "Thu, 16 Apr 2026 14:16:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "[황병극의 파인앤썰] 물가 전쟁은 이제부터",
-        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4409941",
+        "title": "미일 재무장관, 워싱턴서 회담…\"환율 관련 의사교환\"",
+        "link": "https://n.news.naver.com/mnews/article/422/0000855725?sid=104",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 16 Apr 2026 11:40:00 +0900",
+        "pubDate": "Thu, 16 Apr 2026 14:30:00 +0900",
         "summary": "",
         "term": null
+      },
+      {
+        "title": "구윤철 \"중동전쟁 리스크 해소시 환율 안정…GDP 2% 성장 위해 노력\"",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=512312",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 16 Apr 2026 14:30:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "상호금융 내부통제 ‘총체적 부실’…채용조작·횡령·부당대출 ‘복마...",
+        "link": "https://n.news.naver.com/mnews/article/117/0004054727?sid=103",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 16 Apr 2026 13:39:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
       },
       {
         "title": "상호금융 '이중 압박'…대출 규제·PF 부실에 입지 축소",
