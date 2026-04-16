@@ -1,8 +1,16 @@
 {
-  "updatedAt": "2026-04-16T13:46:10.127Z",
-  "headline": "충북 새마을금고 중앙회 충주·음성 사회복지시설 기부금 전달 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-04-16T16:23:14.594Z",
+  "headline": "농협 중앙회 인천검사국, '2026년 상임감사 업무협의회' 개최 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "농협 중앙회 인천검사국, '2026년 상임감사 업무협의회' 개최",
+        "link": "http://www.fntimes.com/html/view.php?ud=202604162243195361dd55077bc2_18",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 16 Apr 2026 22:46:00 +0900",
+        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
       {
         "title": "충북 새마을금고 중앙회 충주·음성 사회복지시설 기부금 전달",
         "link": "http://www.cctimes.kr/news/articleView.html?idxno=902472",
@@ -58,99 +66,74 @@
         "pubDate": "Thu, 16 Apr 2026 18:08:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "경남대 부설 평생교육원 제1기 동부 새마을금고 주부대학 입교식 개최",
-        "link": "http://www.gndomin.com/news/articleView.html?idxno=472545",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 16 Apr 2026 17:55:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "수출입 은행 , 두산그룹과 전략산업 초격차 경쟁력 확보 위해 협력",
-        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2142032",
+        "title": "이탈리아 나폴리서 대낮 은행 강도…2시간 인질극까지",
+        "link": "https://n.news.naver.com/mnews/article/055/0001349236?sid=104",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 16 Apr 2026 22:44:00 +0900",
+        "pubDate": "Fri, 17 Apr 2026 01:15:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "우리 은행 , 휴·폐업 법인계좌 관리 강화… 금융 사기 사전 차단",
-        "link": "https://n.news.naver.com/mnews/article/468/0001234671?sid=101",
+        "title": "넥스트증권, 정부 'MSCI 편입' 지원 사격…하나銀과 인프라 구축 맞손",
+        "link": "https://www.apnews.kr/news/articleView.html?idxno=3047905",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 16 Apr 2026 22:04:00 +0900",
+        "pubDate": "Fri, 17 Apr 2026 01:00:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[기획] '일하는 AI' 꺼낸 우리은행…\"생산성 격차로 판 뒤집겠다\"",
-        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=610086",
+        "title": "농협금융 , 3개월 만에 '생산적 금융' 7.5조 공급…연 목표 39% 달성",
+        "link": "https://www.apnews.kr/news/articleView.html?idxno=3047875",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 16 Apr 2026 22:00:00 +0900",
+        "pubDate": "Fri, 17 Apr 2026 00:44:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "‘적자’ 지역 농협 경남 20곳…‘사업준비금’ 마저 잠식",
-        "link": "https://n.news.naver.com/mnews/article/056/0012164042?sid=101",
+        "title": "KB국민 은행 , 'SME 현장지원팀' 가동한다…생산적 금융 전방위 확대",
+        "link": "https://www.apnews.kr/news/articleView.html?idxno=3047885",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 16 Apr 2026 21:39:00 +0900",
+        "pubDate": "Fri, 17 Apr 2026 00:42:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "NH 농협 울산노조, 농촌 일손돕기",
-        "link": "http://www.ujeil.com/news/articleView.html?idxno=384376",
+        "title": "이탈리아서 3인조 은행 강도 25명 잡고 2시간 인질극",
+        "link": "https://n.news.naver.com/mnews/article/001/0016026576?sid=104",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 16 Apr 2026 21:34:00 +0900",
+        "pubDate": "Fri, 17 Apr 2026 00:41:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "'한국은행'도 노린다…40개 기관 희망",
-        "link": "https://jtv.co.kr/2021/?c=3/10&uid=2201775",
+        "title": "우리 은행 , '대포통장' 선제 차단한다…휴·폐업 법인계좌 특별관리",
+        "link": "https://www.apnews.kr/news/articleView.html?idxno=3047904",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 16 Apr 2026 21:30:00 +0900",
+        "pubDate": "Fri, 17 Apr 2026 00:38:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "신한은행, 20년 만에 퇴직연금 1위 등극…1분기 시장규모 508조",
-        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=261137",
+        "title": "[HOT 금융 트렌드] 신한카드, 군 장병 공략 강화…복지 확대·카드 혜택...",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=134038",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 16 Apr 2026 21:24:00 +0900",
+        "pubDate": "Fri, 17 Apr 2026 00:36:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "청주시·NH 농협 은행·보건협회 외국인 계절근로자 입국 협력",
-        "link": "http://www.cctimes.kr/news/articleView.html?idxno=902444",
+        "title": "[보험사 이모저모] 신한라이프·NH 농협 생명·ABL생명",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=134023",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 16 Apr 2026 21:22:00 +0900",
+        "pubDate": "Thu, 16 Apr 2026 23:22:00 +0900",
         "summary": "",
         "term": null
       }
     ],
-    "macro": [
-      {
-        "title": "충남신보, '보증통합 전환대출' 시행… 금융 부담 완화",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3559130",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 16 Apr 2026 22:20:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[현장] 이더리움 코리아 컨소시엄 공식 출범…\"소비 시장에서 기여 생태...",
-        "link": "https://www.tokenpost.kr/news/insights/350271",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 16 Apr 2026 22:00:00 +0900",
-        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
-        "term": null
-      }
-    ]
+    "macro": []
   }
 }
