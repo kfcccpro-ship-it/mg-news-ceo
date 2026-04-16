@@ -1,16 +1,8 @@
 {
-  "updatedAt": "2026-04-16T16:23:14.594Z",
-  "headline": "농협 중앙회 인천검사국, '2026년 상임감사 업무협의회' 개최 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-04-16T19:16:08.650Z",
+  "headline": "충북 새마을금고 중앙회 충주·음성 사회복지시설 기부금 전달 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
-      {
-        "title": "농협 중앙회 인천검사국, '2026년 상임감사 업무협의회' 개최",
-        "link": "http://www.fntimes.com/html/view.php?ud=202604162243195361dd55077bc2_18",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 16 Apr 2026 22:46:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
       {
         "title": "충북 새마을금고 중앙회 충주·음성 사회복지시설 기부금 전달",
         "link": "http://www.cctimes.kr/news/articleView.html?idxno=902472",
@@ -66,9 +58,33 @@
         "pubDate": "Thu, 16 Apr 2026 18:08:00 +0900",
         "summary": "",
         "term": null
+      },
+      {
+        "title": "경남대 부설 평생교육원 제1기 동부 새마을금고 주부대학 입교식 개최",
+        "link": "http://www.gndomin.com/news/articleView.html?idxno=472545",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 16 Apr 2026 17:55:00 +0900",
+        "summary": "",
+        "term": null
       }
     ],
     "otherFinance": [
+      {
+        "title": "[굿모닝금융] 농협금융 ·국민은행·카카오뱅크·애큐온캐피탈 등",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=134014",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 17 Apr 2026 03:44:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[굿모닝 금융 ] 농협 금융 ·국민 은행 ·카카오뱅크·애큐온캐피탈 등",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=134014",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 17 Apr 2026 03:44:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "이탈리아 나폴리서 대낮 은행 강도…2시간 인질극까지",
         "link": "https://n.news.naver.com/mnews/article/055/0001349236?sid=104",
@@ -94,46 +110,42 @@
         "term": null
       },
       {
-        "title": "KB국민 은행 , 'SME 현장지원팀' 가동한다…생산적 금융 전방위 확대",
-        "link": "https://www.apnews.kr/news/articleView.html?idxno=3047885",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Apr 2026 00:42:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "이탈리아서 3인조 은행 강도 25명 잡고 2시간 인질극",
-        "link": "https://n.news.naver.com/mnews/article/001/0016026576?sid=104",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Apr 2026 00:41:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "우리 은행 , '대포통장' 선제 차단한다…휴·폐업 법인계좌 특별관리",
-        "link": "https://www.apnews.kr/news/articleView.html?idxno=3047904",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Apr 2026 00:38:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[HOT 금융 트렌드] 신한카드, 군 장병 공략 강화…복지 확대·카드 혜택...",
-        "link": "http://www.bizwnews.com/news/articleView.html?idxno=134038",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Apr 2026 00:36:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
         "title": "[보험사 이모저모] 신한라이프·NH 농협 생명·ABL생명",
         "link": "http://www.bizwnews.com/news/articleView.html?idxno=134023",
         "source": "네이버뉴스",
         "pubDate": "Thu, 16 Apr 2026 23:22:00 +0900",
         "summary": "",
         "term": null
+      },
+      {
+        "title": "2026년 강원 농협 수출협의회 정기총회 개최",
+        "link": "http://www.fntimes.com/html/view.php?ud=202604162305381090dd55077bc2_18",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 16 Apr 2026 23:14:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "농축협 조합장 대상 설문조사...90% 이상 농협 법 개정안 반대",
+        "link": "http://www.fntimes.com/html/view.php?ud=202604162308046449dd55077bc2_18",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 16 Apr 2026 23:14:00 +0900",
+        "summary": "",
+        "term": null
       }
     ],
-    "macro": []
+    "macro": [
+      {
+        "title": "사모대출 ‘부실화 수치’ 나왔다…19년 전 서브프라임 공포 소환",
+        "link": "https://n.news.naver.com/mnews/article/025/0003516868?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 17 Apr 2026 04:00:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      }
+    ]
   }
 }
