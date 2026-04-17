@@ -1,8 +1,16 @@
 {
-  "updatedAt": "2026-04-17T05:28:44.350Z",
-  "headline": "‘가족·지인에 86억 부실대출’ 새마을금고 이사장 징역 3년6개월 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-04-17T07:48:25.124Z",
+  "headline": "[팩트체크] PD수첩이 놓친 맥락... 농협중앙회를 위한 변명 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "[팩트체크] PD수첩이 놓친 맥락... 농협중앙회를 위한 변명",
+        "link": "https://www.farminsight.net/news/articleView.html?idxno=16288",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 17 Apr 2026 14:22:00 +0900",
+        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
       {
         "title": "‘가족·지인에 86억 부실대출’ 새마을금고 이사장 징역 3년6개월",
         "link": "https://n.news.naver.com/mnews/article/022/0004121623?sid=102",
@@ -13,108 +21,92 @@
           "word": "Delinquency",
           "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
         }
-      },
-      {
-        "title": "세종 새마을금고 '사랑의 좀도리 운동' 성금 650만 원 대한적십자사 서울...",
-        "link": "http://www.wsobi.com/news/articleView.html?idxno=310420",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Apr 2026 08:20:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "가족·지인에 86억원 부실 대출… 새마을금고 이사장 실형",
-        "link": "https://n.news.naver.com/mnews/article/021/0002785363?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Apr 2026 06:57:00 +0900",
-        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
       }
     ],
     "otherFinance": [
       {
-        "title": "[단독] 꽃놀이패 쥔 F&F, 테일러메이드 인수 ‘JV 설립’ 카드 만지작?",
-        "link": "https://n.news.naver.com/mnews/article/016/0002631428?sid=101",
+        "title": "“두쫀쿠 무료 클래스 갔다가 ‘사망보험’ 낚였다”",
+        "link": "https://n.news.naver.com/mnews/article/021/0002785567?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Apr 2026 14:26:00 +0900",
+        "pubDate": "Fri, 17 Apr 2026 16:46:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "KB국민 은행 , AI 기반 'KB화상상담서비스' 고도화… 금융 소비자 보호 강화",
-        "link": "https://www.koreaittimes.com/news/articleView.html?idxno=153151",
+        "title": "[ 금융 HOT 뉴스] KB국민 은행 , 화상상담에 실시간 얼굴확인 도입…보안 강...",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=134113",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Apr 2026 14:26:00 +0900",
+        "pubDate": "Fri, 17 Apr 2026 16:44:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "NH 농협 은행 금융 소비자보호부문, 영농철 맞아 배 농가서 농촌일손돕기 ...",
-        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=75759",
+        "title": "우리 은행 , '세이펜'과 자녀들 첫 금융 경험 지원 이벤트 진행",
+        "link": "https://sports.hankooki.com/news/articleView.html?idxno=6931234",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Apr 2026 14:24:00 +0900",
+        "pubDate": "Fri, 17 Apr 2026 16:44:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "NH pay 고도화 앞장…NH 농협 카드 서포터즈 출범",
-        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=301737",
+        "title": "[은행업계 소식] NH 농협 은행, BNK경남은행, Sh수협은행",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=255920",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Apr 2026 14:24:00 +0900",
+        "pubDate": "Fri, 17 Apr 2026 16:42:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "NH농협 은행 금융 소비자보호부문, 영농철 맞아 배 농가서 농촌일손돕기 ...",
-        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=75759",
+        "title": "은행권 '전세· 금융 사기' 피해 예방 나서",
+        "link": "http://www.wsobi.com/news/articleView.html?idxno=310537",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Apr 2026 14:24:00 +0900",
+        "pubDate": "Fri, 17 Apr 2026 16:42:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "KB국민 은행 , AI 기반 '화상상담'으로 ISA·IRP 상담부터 가입까지",
-        "link": "https://n.news.naver.com/mnews/article/421/0008896327?sid=101",
+        "title": "BNK부산 은행 , '지수연동 정기예금' 출시",
+        "link": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=85653",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Apr 2026 14:23:00 +0900",
+        "pubDate": "Fri, 17 Apr 2026 16:42:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "은행 권 '전세· 금융 사기' 피해 예방 나서",
+        "link": "http://www.wsobi.com/news/articleView.html?idxno=310537",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 17 Apr 2026 16:42:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "은행권, 퇴직자 재고용 늘린다…'기업 금융 베테랑'으로 CIB 강화",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1359278",
+        "title": "상법 개정 '또다른 효과' 기대감...반도체·전기·증권주 업고 6600 향해...",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=255854",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Apr 2026 14:22:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "신학기 Sh수협 은행 장, 소통경영으로 조직 경쟁력 강화에 나서",
-        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=200935",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Apr 2026 14:22:00 +0900",
+        "pubDate": "Fri, 17 Apr 2026 16:42:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "이억원 \"철강, 후방산업까지 연쇄 우려…대출·채권 등 3종 지원\"",
-        "link": "https://n.news.naver.com/mnews/article/055/0001349393?sid=101",
+        "title": "수출 대박에도 원화값 '뚝'... 10년 묵은 환율 공식 깬 '서학개미'",
+        "link": "https://www.insight.co.kr/news/550544",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Apr 2026 14:24:00 +0900",
+        "pubDate": "Fri, 17 Apr 2026 16:46:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "곡물·환율 폭등, 사료업계 한계 도달",
-        "link": "https://www.chukkyung.co.kr/news/articleView.html?idxno=80656",
+        "title": "금융 권 경쟁의 축 이동…금리에서 ‘일상’으로",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000095180",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Apr 2026 14:18:00 +0900",
-        "summary": "",
+        "pubDate": "Fri, 17 Apr 2026 16:45:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       },
       {
