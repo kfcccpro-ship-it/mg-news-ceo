@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-17T13:21:37.794Z",
+  "updatedAt": "2026-04-17T16:01:51.474Z",
   "headline": "전북 새마을금고 경영대상에 '원광 새마을금고 '…9곳 우수 성과 인정 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -49,10 +49,45 @@
     ],
     "otherFinance": [
       {
-        "title": "하나 은행 , 한국강소기업협회와 협약…\"강소기업 경쟁력 강화\"",
-        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2144895",
+        "title": "[금주의 금융 톡톡] KB 금융 , 1Q 어닝 서프라이즈 기대감... BNK부산 은행 ,...",
+        "link": "https://www.mediawatch.kr/news/article.html?no=259345",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Apr 2026 22:16:00 +0900",
+        "pubDate": "Sat, 18 Apr 2026 00:34:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "은행 대출 연체율 0.62%, 9개월새 최고…중소법인은 1% 돌파",
+        "link": "https://n.news.naver.com/mnews/article/353/0000055154?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 18 Apr 2026 00:16:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "[ 금융 이모저모] KB국민 은행 , 하나 은행 , BNK경남 은행 , 하나 금융 그룹, BN...",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=83813",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 18 Apr 2026 00:04:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "싱가포르 걸프 은행 , 솔라나 기반 실시간 스테이블코인 결제 출시",
+        "link": "https://www.tokenpost.kr/news/blockchain/350733",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 17 Apr 2026 23:52:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[증권 뉴스브리핑] 거래소, 동전주 회피용 병합·감자 제한/KIC, 주재현 ...",
+        "link": "https://www.asiatime.co.kr/article/20260417500230",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 17 Apr 2026 23:28:00 +0900",
         "summary": "",
         "term": null
       },
@@ -65,37 +100,10 @@
         "term": null
       },
       {
-        "title": "경주 양남농협, ‘보이스피싱 피해 예방 및 대포통장 근절 캠페인’ 펼...",
-        "link": "https://n.news.naver.com/mnews/article/662/0000093329?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Apr 2026 22:03:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "국내 은행 대출 연체율 9개월 만에 최고치, 중소기업·개인사업자 타격",
-        "link": "https://www.tokenpost.kr/news/economy/350671",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Apr 2026 21:48:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
-      },
-      {
         "title": "[보험사 이모저모] DB생명 '창립 헌혈 캠페인 전개', 농협 생명 '온라인 ...",
         "link": "http://www.bizwnews.com/news/articleView.html?idxno=134132",
         "source": "네이버뉴스",
         "pubDate": "Fri, 17 Apr 2026 21:34:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "한국투자공사, CRO 겸 부사장에 주재현 전 한국 은행 외자운용원장",
-        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=352583",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Apr 2026 21:22:00 +0900",
         "summary": "",
         "term": null
       },
@@ -106,17 +114,17 @@
         "pubDate": "Fri, 17 Apr 2026 20:50:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "NH 농협 생명, 고객 소통 강화하고 농가 일손 돕기 나서며 '상생 경영' 박...",
-        "link": "http://www.newstnt.com/news/articleView.html?idxno=607261",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Apr 2026 20:46:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "macro": [
+      {
+        "title": "소비도 K자 양극화, 초저가 아니면 초고가 불티…‘중간’이 없다",
+        "link": "https://n.news.naver.com/mnews/article/353/0000055137?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 18 Apr 2026 00:02:00 +0900",
+        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
+        "term": null
+      },
       {
         "title": "천안시, AI농업·소비·소통·청소년까지…생활밀착 정책 다각화",
         "link": "https://www.aflnews.co.kr/news/articleView.html?idxno=319053",
