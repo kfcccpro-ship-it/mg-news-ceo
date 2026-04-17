@@ -1,8 +1,16 @@
 {
-  "updatedAt": "2026-04-17T07:48:25.124Z",
-  "headline": "[팩트체크] PD수첩이 놓친 맥락... 농협중앙회를 위한 변명 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-04-17T10:14:35.179Z",
+  "headline": "[중기중앙회소식] 납품대금 연동제 세미나 / 국가데이터처 MOU / 노란우산... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "[중기중앙회소식] 납품대금 연동제 세미나 / 국가데이터처 MOU / 노란우산...",
+        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2145699",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 17 Apr 2026 19:00:00 +0900",
+        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
       {
         "title": "[팩트체크] PD수첩이 놓친 맥락... 농협중앙회를 위한 변명",
         "link": "https://www.farminsight.net/news/articleView.html?idxno=16288",
@@ -25,88 +33,104 @@
     ],
     "otherFinance": [
       {
-        "title": "“두쫀쿠 무료 클래스 갔다가 ‘사망보험’ 낚였다”",
-        "link": "https://n.news.naver.com/mnews/article/021/0002785567?sid=101",
+        "title": "은행 대출 연체율 10년만에 최고…구윤철 “추경 조기 집행할것”",
+        "link": "https://n.news.naver.com/mnews/article/020/0003713340?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Apr 2026 16:46:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[ 금융 HOT 뉴스] KB국민 은행 , 화상상담에 실시간 얼굴확인 도입…보안 강...",
-        "link": "http://www.bizwnews.com/news/articleView.html?idxno=134113",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Apr 2026 16:44:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "우리 은행 , '세이펜'과 자녀들 첫 금융 경험 지원 이벤트 진행",
-        "link": "https://sports.hankooki.com/news/articleView.html?idxno=6931234",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Apr 2026 16:44:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[은행업계 소식] NH 농협 은행, BNK경남은행, Sh수협은행",
-        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=255920",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Apr 2026 16:42:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "은행권 '전세· 금융 사기' 피해 예방 나서",
-        "link": "http://www.wsobi.com/news/articleView.html?idxno=310537",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Apr 2026 16:42:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "BNK부산 은행 , '지수연동 정기예금' 출시",
-        "link": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=85653",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Apr 2026 16:42:00 +0900",
+        "pubDate": "Fri, 17 Apr 2026 19:11:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
         }
       },
       {
-        "title": "은행 권 '전세· 금융 사기' 피해 예방 나서",
-        "link": "http://www.wsobi.com/news/articleView.html?idxno=310537",
+        "title": "농협 법 개정안 잇단 발의···국회 심사도 진통 예고",
+        "link": "https://www.agrinet.co.kr/news/articleView.html?idxno=403495",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Apr 2026 16:42:00 +0900",
+        "pubDate": "Fri, 17 Apr 2026 19:00:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "상법 개정 '또다른 효과' 기대감...반도체·전기·증권주 업고 6600 향해...",
-        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=255854",
+        "title": "농협 개혁 '자율성 침해VS기득권 유지' 갈등 격화",
+        "link": "https://www.agrinet.co.kr/news/articleView.html?idxno=403496",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Apr 2026 16:42:00 +0900",
+        "pubDate": "Fri, 17 Apr 2026 19:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "세종공주축산 농협 , 창립 70주년 한마음 전진대회…100년 도약 선언",
+        "link": "https://n.news.naver.com/mnews/article/662/0000093299?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 17 Apr 2026 18:49:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[브리프] 하나 금융 KB국민은행 하나은행 우리은행 NH 농협 은행 外",
+        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=352589",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 17 Apr 2026 18:36:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "NH 농협 은행 지방정착 금융 패키지 마련…국가균형발전 지원",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=85727",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 17 Apr 2026 18:24:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "5대 은행장 이재명 베트남 순방에 총출동, 현지 진출 국내 기업 금융 지...",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=435996",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 17 Apr 2026 18:18:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[보험단신] 롯데손해보험·AIA생명·KB손해보험·NH 농협 생명",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1359455",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 17 Apr 2026 18:14:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "수출 대박에도 원화값 '뚝'... 10년 묵은 환율 공식 깬 '서학개미'",
-        "link": "https://www.insight.co.kr/news/550544",
+        "title": "스위스, 외국인 부동산 매입 엄격히 제한…‘실효성 의문’ 지적도",
+        "link": "https://n.news.naver.com/mnews/article/056/0012164629?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Apr 2026 16:46:00 +0900",
-        "summary": "",
+        "pubDate": "Fri, 17 Apr 2026 19:12:00 +0900",
+        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
         "term": null
       },
       {
-        "title": "금융 권 경쟁의 축 이동…금리에서 ‘일상’으로",
-        "link": "https://www.seoultimes.news/news/article.html?no=2000095180",
+        "title": "부자들 피난처였는데…'외국인 부동산' 빗장 건다",
+        "link": "https://n.news.naver.com/mnews/article/215/0001249408?sid=104",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Apr 2026 16:45:00 +0900",
+        "pubDate": "Fri, 17 Apr 2026 18:58:00 +0900",
+        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "울진군, 더 낮은 금리로 더 넓게 지원한다",
+        "link": "https://www.eroun.net/news/articleView.html?idxno=78486",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 17 Apr 2026 18:46:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "메디콕스, 종속회사 중앙셀 대출연장에 91억원 담보 제공 결정",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=658115",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 17 Apr 2026 18:06:00 +0900",
+        "summary": "",
         "term": null
       },
       {
