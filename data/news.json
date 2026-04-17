@@ -1,8 +1,19 @@
 {
-  "updatedAt": "2026-04-17T02:37:44.549Z",
-  "headline": "세종 새마을금고 '사랑의 좀도리 운동' 성금 650만 원 대한적십자사 서울... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-04-17T05:28:44.350Z",
+  "headline": "‘가족·지인에 86억 부실대출’ 새마을금고 이사장 징역 3년6개월 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "‘가족·지인에 86억 부실대출’ 새마을금고 이사장 징역 3년6개월",
+        "link": "https://n.news.naver.com/mnews/article/022/0004121623?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 17 Apr 2026 13:31:00 +0900",
+        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
       {
         "title": "세종 새마을금고 '사랑의 좀도리 운동' 성금 650만 원 대한적십자사 서울...",
         "link": "http://www.wsobi.com/news/articleView.html?idxno=310420",
@@ -25,99 +36,85 @@
     ],
     "otherFinance": [
       {
-        "title": "하나 은행 , 한국강소기업협회와 업무협약 체결",
-        "link": "https://www.cnbnews.com/news/article.html?no=789784",
+        "title": "[단독] 꽃놀이패 쥔 F&F, 테일러메이드 인수 ‘JV 설립’ 카드 만지작?",
+        "link": "https://n.news.naver.com/mnews/article/016/0002631428?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Apr 2026 11:36:00 +0900",
+        "pubDate": "Fri, 17 Apr 2026 14:26:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[금융가 산책] 이찬우 NH 농협금융 회장, 영농철 일손 돕기 실시",
-        "link": "https://www.newsinside.kr/news/articleView.html?idxno=4601944",
+        "title": "KB국민 은행 , AI 기반 'KB화상상담서비스' 고도화… 금융 소비자 보호 강화",
+        "link": "https://www.koreaittimes.com/news/articleView.html?idxno=153151",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Apr 2026 11:34:00 +0900",
+        "pubDate": "Fri, 17 Apr 2026 14:26:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[ 금융 가 산책] 이찬우 NH농협 금융 회장, 영농철 일손 돕기 실시",
-        "link": "https://www.newsinside.kr/news/articleView.html?idxno=4601944",
+        "title": "NH 농협 은행 금융 소비자보호부문, 영농철 맞아 배 농가서 농촌일손돕기 ...",
+        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=75759",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Apr 2026 11:34:00 +0900",
+        "pubDate": "Fri, 17 Apr 2026 14:24:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "금리도, 시장도 잡는다… BNK부산 은행 , ‘지수연동 정기예금’ 출시",
-        "link": "https://n.news.naver.com/mnews/article/277/0005751050?sid=102",
+        "title": "NH pay 고도화 앞장…NH 농협 카드 서포터즈 출범",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=301737",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Apr 2026 11:33:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
-      },
-      {
-        "title": "2월 은행 대출 연체율 0.62% '오름세'…중소법인 연체율 1% 넘어",
-        "link": "https://n.news.naver.com/mnews/article/469/0000926005?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Apr 2026 11:31:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
-      },
-      {
-        "title": "미래에셋자산운용 BNK부산은행 外( 금융 레이더)",
-        "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3061042",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Apr 2026 11:30:00 +0900",
+        "pubDate": "Fri, 17 Apr 2026 14:24:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[김대종 칼럼] 물가 안정이 곧 민생 안정···한국 은행 의 책무와 과제",
-        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=685668",
+        "title": "NH농협 은행 금융 소비자보호부문, 영농철 맞아 배 농가서 농촌일손돕기 ...",
+        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=75759",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Apr 2026 11:30:00 +0900",
+        "pubDate": "Fri, 17 Apr 2026 14:24:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "금융당국, 저축은행 3곳에 ‘대출순증 0% 제한’ 초강수",
-        "link": "https://n.news.naver.com/mnews/article/016/0002631328?sid=101",
+        "title": "KB국민 은행 , AI 기반 '화상상담'으로 ISA·IRP 상담부터 가입까지",
+        "link": "https://n.news.naver.com/mnews/article/421/0008896327?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Apr 2026 11:22:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "pubDate": "Fri, 17 Apr 2026 14:23:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "은행권, 퇴직자 재고용 늘린다…'기업 금융 베테랑'으로 CIB 강화",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1359278",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 17 Apr 2026 14:22:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "신학기 Sh수협 은행 장, 소통경영으로 조직 경쟁력 강화에 나서",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=200935",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 17 Apr 2026 14:22:00 +0900",
+        "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "경상흑자에도 환율 오르는 이유…\"해외투자·저축 증가 영향\"",
-        "link": "https://n.news.naver.com/mnews/article/079/0004137935?sid=101",
+        "title": "이억원 \"철강, 후방산업까지 연쇄 우려…대출·채권 등 3종 지원\"",
+        "link": "https://n.news.naver.com/mnews/article/055/0001349393?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Apr 2026 11:36:00 +0900",
+        "pubDate": "Fri, 17 Apr 2026 14:24:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "환율 1500원 밑돌자…기업, 달러 사재기",
-        "link": "https://n.news.naver.com/mnews/article/016/0002631350?sid=101",
+        "title": "곡물·환율 폭등, 사료업계 한계 도달",
+        "link": "https://www.chukkyung.co.kr/news/articleView.html?idxno=80656",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Apr 2026 11:30:00 +0900",
+        "pubDate": "Fri, 17 Apr 2026 14:18:00 +0900",
         "summary": "",
-        "term": null
-      },
-      {
-        "title": "[천안 24시] 쌓여만 가던 포인트, 동네서 쓴다…천안, 소비 흐름 바꿀 '...",
-        "link": "https://n.news.naver.com/mnews/article/586/0000127145?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Apr 2026 11:17:00 +0900",
-        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
         "term": null
       },
       {
