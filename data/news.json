@@ -1,8 +1,16 @@
 {
-  "updatedAt": "2026-04-18T15:37:54.074Z",
-  "headline": "전북 새마을금고 경영대상에 '원광 새마을금고 '…9곳 우수 성과 인정 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-04-18T18:53:01.582Z",
+  "headline": "새마을금고 중앙회 충북지역본부. 음성군장애인복지관 지원금 전달 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "새마을금고 중앙회 충북지역본부. 음성군장애인복지관 지원금 전달",
+        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2411130",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 19 Apr 2026 01:54:00 +0900",
+        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
       {
         "title": "전북 새마을금고 경영대상에 '원광 새마을금고 '…9곳 우수 성과 인정",
         "link": "http://www.jeonmin.co.kr/news/articleView.html?idxno=438107",
@@ -40,6 +48,14 @@
       }
     ],
     "otherFinance": [
+      {
+        "title": "천안사랑카드, 'NH포인트'로 충전 가능해진다",
+        "link": "http://www.cctimes.kr/news/articleView.html?idxno=902524",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 19 Apr 2026 01:36:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "인도·베트남, 생산기지 넘어 전략거점으로…4대그룹 총수·은행장 '총출...",
         "link": "https://www.econovill.com/news/articleView.html?idxno=737807",
@@ -95,31 +111,9 @@
         "pubDate": "Sat, 18 Apr 2026 19:32:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "'생산적 금융 ' 속도내는 은행권…중소법인 연체율 '1%' 속앓이",
-        "link": "https://www.newsway.co.kr/news/view?ud=2026041713163696464",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 18 Apr 2026 18:02:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
       }
     ],
     "macro": [
-      {
-        "title": "XRP, 솔라나 디파이 첫 진입…체인 간 유동성 경쟁 확대",
-        "link": "https://www.tokenpost.kr/news/blockchain/351030",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 18 Apr 2026 22:02:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "LCR",
-          "meaning": "단기 유동성 충격 대응 능력을 보여주는 지표"
-        }
-      },
       {
         "title": "메디콕스, 종속회사 중앙셀 대출연장에 91억원 담보 제공 결정",
         "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=658115",
