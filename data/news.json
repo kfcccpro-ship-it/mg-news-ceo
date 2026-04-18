@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-18T02:28:52.820Z",
+  "updatedAt": "2026-04-18T05:06:59.757Z",
   "headline": "전북 새마을금고 경영대상에 '원광 새마을금고 '…9곳 우수 성과 인정 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -41,6 +41,52 @@
     ],
     "otherFinance": [
       {
+        "title": "미래·흥국생명 내리고 흥국화재 올리고…보험사 대출금리 '희비'",
+        "link": "https://www.newsway.co.kr/news/view?ud=2026041710325209961",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 18 Apr 2026 14:04:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "NIM",
+          "meaning": "금리 변화가 금융기관 수익성에 미치는 영향을 보여주는 핵심 지표"
+        }
+      },
+      {
+        "title": "[ 금융 HOT 뉴스] \"지난 2월 은행 대출 연체율 0.62%…중소법인 1% 넘어\"",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=134062",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 18 Apr 2026 13:56:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "우리 은행 , '세이펜 협력' 영유아 금융 첫걸음 지원",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=246812",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 18 Apr 2026 13:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[금주의 증권 톡톡] 미래에셋증권, 1Q 4조 규모 퇴직연금 신규 유입... 한...",
+        "link": "https://www.mediawatch.kr/news/article.html?no=259348",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 18 Apr 2026 12:56:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "고유가에 'K-패스' 뜬다…발급량 증가한 교통 할인카드는?",
+        "link": "https://n.news.naver.com/mnews/article/003/0013895195?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 18 Apr 2026 12:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
         "title": "“현장 외면한 ‘ 농협 법 개정안’ 전면 재검토해야”",
         "link": "https://n.news.naver.com/mnews/article/662/0000093340?sid=102",
         "source": "네이버뉴스",
@@ -57,55 +103,34 @@
         "term": null
       },
       {
-        "title": "[ 금융 HOT 뉴스] 하나 은행 , 한국강소기업협회와 강소기업 글로벌 경쟁력...",
-        "link": "http://www.bizwnews.com/news/articleView.html?idxno=134110",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 18 Apr 2026 10:40:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "“진화하는 전세사기 요즘 수법은” 은행 권, 전세사기 예방 나선다",
-        "link": "https://www.ekn.kr/web/view.php?key=20260418024177920",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 18 Apr 2026 10:28:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "신용융자 33.8조 사상 최대…증권사 금리 3%대 경쟁 불붙어",
-        "link": "https://n.news.naver.com/mnews/article/011/0004612027?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 18 Apr 2026 10:20:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
         "title": "청송 농협 , '2025 NH 농협 손해보험 연도대상' 종합대상 탈환",
         "link": "https://www.seoulfn.com/news/articleView.html?idxno=626873",
         "source": "네이버뉴스",
         "pubDate": "Sat, 18 Apr 2026 10:06:00 +0900",
         "summary": "",
         "term": null
-      },
+      }
+    ],
+    "macro": [
       {
-        "title": "은행권 ELD 상품 출시 경쟁, 금융 소비자 주의할 점은?",
-        "link": "https://www.mediapen.com/news/view/1094159",
+        "title": "“이제 대출 못 받나요”...다주택자 대출 연장 막힌다 [호모 집피엔스...",
+        "link": "https://n.news.naver.com/mnews/article/024/0000104892?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 18 Apr 2026 10:00:00 +0900",
+        "pubDate": "Sat, 18 Apr 2026 13:01:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[슬기로운 저축생활] 은행권, 콜라보 예적금 출시…NC 이기면 '7%' 금리",
-        "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=136910",
+        "title": "기업대출 늘렸지만 연체도 뛰었다…‘생산적 금융 ’ 딜레마",
+        "link": "https://www.ekn.kr/web/view.php?key=20260418027418000",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 18 Apr 2026 09:00:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      }
-    ],
-    "macro": [
+        "pubDate": "Sat, 18 Apr 2026 11:40:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
       {
         "title": "메디콕스, 종속회사 중앙셀 대출연장에 91억원 담보 제공 결정",
         "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=658115",
