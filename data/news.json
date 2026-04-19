@@ -1,8 +1,16 @@
 {
-  "updatedAt": "2026-04-19T18:53:06.352Z",
-  "headline": "중기중앙회, '노란우산 협력은행 감사패 수여식'...시중은행 6곳 감사패... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-04-19T21:37:07.174Z",
+  "headline": "[포토뉴스]춘천중부 새마을금고 , 대한노인회 강원특별자치도연합회에 후... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "[포토뉴스]춘천중부 새마을금고 , 대한노인회 강원특별자치도연합회에 후...",
+        "link": "https://n.news.naver.com/mnews/article/087/0001188026?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 20 Apr 2026 06:01:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "중기중앙회, '노란우산 협력은행 감사패 수여식'...시중은행 6곳 감사패...",
         "link": "http://www.econonews.co.kr/news/articleView.html?idxno=436141",
@@ -38,58 +46,69 @@
     ],
     "otherFinance": [
       {
-        "title": "“ 금융 격차가 삶의 격차… 저신용자도 기본대출·보험 보장돼야”",
-        "link": "https://n.news.naver.com/mnews/article/005/0001844136?sid=101",
+        "title": "스테이블코인에 대한 시각 차이: 국제결제 은행 과 한국의 정책 방향",
+        "link": "https://www.tokenpost.kr/news/cryptocurrency/351250",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 20 Apr 2026 02:20:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "수출입 은행 , 자체 생성형 AI 플랫폼 구축…\"130억 규모, 고객 서비스 향...",
-        "link": "https://www.tfmedia.co.kr/news/article.html?no=203851",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 20 Apr 2026 01:38:00 +0900",
-        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "봉화 춘양 농협 , 보이스피싱 예방 캠페인 펼쳐",
-        "link": "https://n.news.naver.com/mnews/article/662/0000093368?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 19 Apr 2026 21:54:00 +0900",
+        "pubDate": "Mon, 20 Apr 2026 06:18:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "남청송 농협 , 찾아가는 이동상담실 열어",
-        "link": "https://n.news.naver.com/mnews/article/662/0000093363?sid=102",
+        "title": "BIS, 스테이블코인 한계 재확인…신현송 체제 한국 은행 과 온도차",
+        "link": "https://www.tokenpost.kr/news/policy/351249",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 19 Apr 2026 21:31:00 +0900",
+        "pubDate": "Mon, 20 Apr 2026 06:12:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "CET1",
+          "meaning": "손실흡수력을 보여주는 대표적인 자본적정성 지표"
+        }
+      },
+      {
+        "title": "‘생산적 금융 ’ 선봉장 선 IBK기업 은행",
+        "link": "https://www.ekn.kr/web/view.php?key=20260419020427955",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 20 Apr 2026 06:10:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "충북 청주시, 계절노동자 입국 당일 통장·보험 등 원스톱 지원",
-        "link": "https://n.news.naver.com/mnews/article/662/0000093361?sid=102",
+        "title": "농협 개혁, 우려를 넘어 '조합원 주권시대'로 나아가야 할 이유",
+        "link": "https://n.news.naver.com/mnews/article/008/0005346247?sid=110",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 19 Apr 2026 21:23:00 +0900",
+        "pubDate": "Mon, 20 Apr 2026 06:00:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "보이스피싱 막은 농협 직원, 1700만원 피해 예방…경찰 감사장 수여",
-        "link": "https://www.dkilbo.com/news/articleView.html?idxno=541662",
+        "title": "‘속전속결’ 농협 법 개정 우려…“당사자 총의 모아야”",
+        "link": "https://n.news.naver.com/mnews/article/662/0000093415?sid=102",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 19 Apr 2026 19:26:00 +0900",
+        "pubDate": "Mon, 20 Apr 2026 05:02:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[은행 이모저모] 국민은행 'AI 기반 'KB화상상담서비스' 고도화', 농협은...",
-        "link": "http://www.bizwnews.com/news/articleView.html?idxno=134221",
+        "title": "경남 진주서부 농협 , 농협 생명 연도대상 수상 휩쓸어",
+        "link": "https://n.news.naver.com/mnews/article/662/0000093407?sid=102",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 19 Apr 2026 12:26:00 +0900",
+        "pubDate": "Mon, 20 Apr 2026 05:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "점포 줄고, AI에 밀리고… 은행 '취업 문' 더 좁아졌다 [장애인 고용의...",
+        "link": "https://www.etoday.co.kr/news/view/2576941",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 20 Apr 2026 05:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[단독] 의무고용률 오르는데…은행권 장애인 고용률 여전히 1%대 [장애인...",
+        "link": "https://www.etoday.co.kr/news/view/2576719",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 20 Apr 2026 05:00:00 +0900",
         "summary": "",
         "term": null
       }
