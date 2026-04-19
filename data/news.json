@@ -1,8 +1,24 @@
 {
-  "updatedAt": "2026-04-19T05:29:42.106Z",
-  "headline": "영덕 MG영해 새마을금고 , 2026년 중앙회 경영평가연도 대상 수상 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-04-19T07:20:52.469Z",
+  "headline": "천안선영 새마을금고 , 천안시복지재단 2천만원 후원 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "천안선영 새마을금고 , 천안시복지재단 2천만원 후원",
+        "link": "http://www.dynews.co.kr/news/articleView.html?idxno=847254",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 19 Apr 2026 15:34:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "증평 새마을금고 , 회원 330여명과 동해로… '낭만 기차 여행' 성료",
+        "link": "https://www.jbnews.com/news/articleView.html?idxno=1502567",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 19 Apr 2026 15:26:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "영덕 MG영해 새마을금고 , 2026년 중앙회 경영평가연도 대상 수상",
         "link": "https://www.hidomin.com/news/articleView.html?idxno=701925",
@@ -26,30 +42,57 @@
         "pubDate": "Sun, 19 Apr 2026 11:05:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "새마을금고 중앙회 충북지역본부. 음성군장애인복지관 지원금 전달",
-        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2411130",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 19 Apr 2026 01:54:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "수출입 은행 , 자체 생성형 인공지능 플랫폼 'KEXIM AI' 만든다",
-        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=83834",
+        "title": "광주 은행 ‘KIA타이거즈우승기원예금’ 이벤트",
+        "link": "http://www.jndn.com/article.php?aid=1776582637431044095",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 19 Apr 2026 14:16:00 +0900",
-        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
+        "pubDate": "Sun, 19 Apr 2026 16:14:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "우리 은행 , 유망 중견기업에 4,600억 '생산적 금융 ' 지원에 나서",
+        "link": "http://www.newsbrite.net/news/articleView.html?idxno=197603",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 19 Apr 2026 16:04:00 +0900",
+        "summary": "",
         "term": null
       },
       {
-        "title": "우리 은행 , 유망 중견기업 키운다… 35곳에 4600억 '생산적 금융 ' 지원",
-        "link": "https://www.insnews.co.kr/news/articleView.html?idxno=90324",
+        "title": "李대통령, 인도·베트남 순방 출국…재계 총수 동행·5대 은행장 베트남...",
+        "link": "https://www.public25.com/news/articleView.html?idxno=44502",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 19 Apr 2026 14:14:00 +0900",
+        "pubDate": "Sun, 19 Apr 2026 15:38:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "포용 금융 외면하나…5대 은행 중금리 대출 비중 반토막",
+        "link": "https://n.news.naver.com/mnews/article/018/0006261271?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 19 Apr 2026 15:37:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "천안사랑카드, NH포인트 충전 허용…지역소비 '선순환' 본격화",
+        "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1074169",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 19 Apr 2026 15:28:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "포항남부경찰서, 보이스피싱 피해 막은 은행원에 감사장",
+        "link": "https://n.news.naver.com/mnews/article/002/0002438074?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 19 Apr 2026 14:41:00 +0900",
         "summary": "",
         "term": null
       },
@@ -62,61 +105,53 @@
         "term": null
       },
       {
-        "title": "포항남부경찰서, 보이스피싱 피해 예방 은행 원에 감사장 수여",
-        "link": "https://www.hidomin.com/news/articleView.html?idxno=701921",
+        "title": "[은행 이모저모] 국민은행 'AI 기반 'KB화상상담서비스' 고도화', 농협은...",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=134221",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 19 Apr 2026 14:10:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "우리 은행 , 닥터애그·자화전자 등 '라이징 리더스' 7기 35곳 선정…중견...",
-        "link": "https://www.public25.com/news/articleView.html?idxno=44495",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 19 Apr 2026 14:06:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[보험사 브리핑] KB손해보험· 농협 생명·DB생명",
-        "link": "http://www.segyebiz.com/newsView/20260419506194?OutUrl=naver",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 19 Apr 2026 13:38:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "“의무 넘어 상생으로”…보험업계, 사회공헌 보폭 확대",
-        "link": "http://www.segyebiz.com/newsView/20260419506124?OutUrl=naver",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 19 Apr 2026 13:34:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "천안시, 20일부터 천안사랑카드 'NH포인트'로 충전 실시",
-        "link": "https://www.joongdo.co.kr/web/view.php?key=20260419010005416",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 19 Apr 2026 12:56:00 +0900",
+        "pubDate": "Sun, 19 Apr 2026 12:26:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "금감원, 가상계좌 악용한 '신종 금융 사기' 소비자 주의 경보 발령",
-        "link": "http://www.srtimes.kr/news/articleView.html?idxno=201543",
+        "title": "“중견기업이 수출 전사”...35개社에 4600억 지원",
+        "link": "https://n.news.naver.com/mnews/article/009/0005668054?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 19 Apr 2026 14:18:00 +0900",
+        "pubDate": "Sun, 19 Apr 2026 16:11:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "산은, 회수불가 대출 230% 폭증...여신 관리에 ‘빨간불’",
+        "link": "https://n.news.naver.com/mnews/article/011/0004612195?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 19 Apr 2026 16:10:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "세계 경제도 '폭풍전야'…또 노딜 땐 '유가·환율 쇼크'",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1298324&inflow=N",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 19 Apr 2026 16:10:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "\"가상계좌 잘못 넘기면 공범\"…금감원, 소비자경보 발령",
+        "link": "http://www.seoulwire.com/news/articleView.html?idxno=717586",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 19 Apr 2026 16:06:00 +0900",
         "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
         "term": null
       },
       {
-        "title": "대출 연장도 안되는데 안나오는 매물...이유 알고보니?",
-        "link": "https://n.news.naver.com/mnews/article/014/0005509798?sid=101",
+        "title": "경주경찰서-지역 금융 권, 금리 인하·우대 협약 체결",
+        "link": "https://www.hidomin.com/news/articleView.html?idxno=701938",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 19 Apr 2026 14:11:00 +0900",
-        "summary": "",
+        "pubDate": "Sun, 19 Apr 2026 15:22:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       },
       {
