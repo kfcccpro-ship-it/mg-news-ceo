@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-20T10:48:51.773Z",
+  "updatedAt": "2026-04-20T13:43:58.121Z",
   "headline": "[포토뉴스]춘천남부 새마을금고 , 서석 새마을금고 에 물품지원 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -30,109 +30,70 @@
     ],
     "otherFinance": [
       {
-        "title": "NH 농협 생명, 농번기 농촌일손돕기 실시",
-        "link": "http://www.newsdream.kr/news/articleView.html?idxno=111481",
+        "title": "한수원· 은행 ·보증재단 '3각 지원'…소상공인 대출 문턱 낮춘다",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3395102",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 20 Apr 2026 19:30:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "NH농협생명, 농번기 농촌일손돕기 실시",
-        "link": "http://www.newsdream.kr/news/articleView.html?idxno=111481",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 20 Apr 2026 19:30:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "IBK기업 은행 , 국내 스타트업과 투자자 연결 기업설명회",
-        "link": "https://www.dongponews.net/news/articleView.html?idxno=57503",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 20 Apr 2026 19:28:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "정진완 우리 은행 장, 인도 경제사절단 동행…현지 네트워크 확대 ‘속도...",
-        "link": "https://www.todayeconomic.com/news/article.html?no=30284",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 20 Apr 2026 19:18:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "군위 농협 , ‘조합원 한마음대회’… 금융 자산 1조원 달성 ‘다짐’",
-        "link": "https://n.news.naver.com/mnews/article/662/0000093463?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 20 Apr 2026 19:04:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[ 금융 권 소식] 신한은행ㆍBNK경남은행ㆍBNK부산은행ㆍKB국민은행ㆍNH농...",
-        "link": "http://www.weeklytoday.com/news/articleView.html?idxno=771922",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 20 Apr 2026 19:04:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "NH 농협 은행, 외화예금 비대면 서비스 확대...\"퇴근 후 가입\"",
-        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=302036",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 20 Apr 2026 19:02:00 +0900",
+        "pubDate": "Mon, 20 Apr 2026 22:40:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
+        "term": null
       },
       {
-        "title": "농협 상호 금융 , '숨은 금융 자산 찾아주기' 캠페인 실시",
-        "link": "https://n.news.naver.com/mnews/article/022/0004122314?sid=101",
+        "title": "BNK저축 은행 , 소상공인과 사회 취약계층 위한 '동행 금융 ' 프로그램 시작",
+        "link": "https://www.tokenpost.kr/news/economy/351497",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 20 Apr 2026 19:02:00 +0900",
+        "pubDate": "Mon, 20 Apr 2026 22:24:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "李대통령, 신현송 한국 은행 총재 임명안 재가…내일부터 임기 시작",
+        "link": "https://n.news.naver.com/mnews/article/374/0000505567?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 20 Apr 2026 22:06:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "부산 은행 , 국내 첫 ‘선박 에스크로 서비스’ 도입",
+        "link": "https://n.news.naver.com/mnews/article/005/0001844327?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 20 Apr 2026 21:54:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "NH 농협 은행 경남본부, 도민 정착 지원",
+        "link": "http://www.gnmaeil.com/news/articleView.html?idxno=584981",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 20 Apr 2026 21:50:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "기보·우리 은행 중동전쟁 피해 기업 지원",
+        "link": "http://www.gnmaeil.com/news/articleView.html?idxno=584980",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 20 Apr 2026 21:50:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "우리은행 정진완, '인도 경제사절단' 동행...KB국민·신한·하나·NH 농협 ...",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000095211",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 20 Apr 2026 21:44:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "서민 급전창구 '카드론' 잔액 43조 육박",
+        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=545674",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 20 Apr 2026 21:44:00 +0900",
         "summary": "",
         "term": null
       }
     ],
-    "macro": [
-      {
-        "title": "이창용 “통화정책만으론 한계…제도 개선 필요”",
-        "link": "https://n.news.naver.com/mnews/article/658/0000141606?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 20 Apr 2026 19:46:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Forward Guidance",
-          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
-        }
-      },
-      {
-        "title": "인천항만공사, 중동 사태 피해 기업 지원 확대…기업당 5억·1.52% 대출",
-        "link": "https://www.newspim.com/news/view/20260420001254",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 20 Apr 2026 19:45:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[ 금융 HOT 뉴스] \"재료비는 인상됐지만\"…BBQ, 정부 물가 안정 시책에 맞...",
-        "link": "http://www.bizwnews.com/news/articleView.html?idxno=134361",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 20 Apr 2026 19:32:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "4대 금융 , 1분기 순익 5조원 예상…고환율·과징금은 부담",
-        "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=358981",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 20 Apr 2026 18:36:00 +0900",
-        "summary": "",
-        "term": null
-      }
-    ]
+    "macro": []
   }
 }
