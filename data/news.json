@@ -1,8 +1,24 @@
 {
-  "updatedAt": "2026-04-21T05:28:08.409Z",
-  "headline": "새마을금고 중앙회 강원본부 후원금 전달 '온기나눔' 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-04-21T07:51:51.245Z",
+  "headline": "'51조' 서울시금고 선정 본격화...신한 VS 우리 리턴매치 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "'51조' 서울시금고 선정 본격화...신한 VS 우리 리턴매치",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=302166",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 21 Apr 2026 16:46:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "구미원남 새마을금고 K이사장 복귀여부는",
+        "link": "https://www.pennmike.com/news/articleView.html?idxno=119139",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 21 Apr 2026 15:58:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "새마을금고 중앙회 강원본부 후원금 전달 '온기나눔'",
         "link": "https://n.news.naver.com/mnews/article/654/0000176827?sid=102",
@@ -14,84 +30,95 @@
     ],
     "otherFinance": [
       {
-        "title": "신한 은행 , OCI홀딩스와 MOU 체결",
-        "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=311204",
+        "title": "[단독]호르무즈 선박 재보험 지원...보험사 손실 정부가...",
+        "link": "https://n.news.naver.com/mnews/article/011/0004613065?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 21 Apr 2026 14:26:00 +0900",
+        "pubDate": "Tue, 21 Apr 2026 16:49:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "BNK부산 은행 , 국내 은행 권 최초 선박 에스크로 에이전트 서비스 도입",
-        "link": "https://www.thepowernews.co.kr/view.php?ud=202604211115487556de3f0aa1be_7",
+        "title": "NH 농협 은행, 2분기 여신심사부문 '윤리경영 실천 결의대회'",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=302201",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 21 Apr 2026 14:26:00 +0900",
+        "pubDate": "Tue, 21 Apr 2026 16:48:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "증권 전산장애에 금융 민원 12만8천건…가상자산 민원 '폭증'",
-        "link": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005818058",
+        "title": "NH농협 은행 , 2분기 여신심사부문 '윤리경영 실천 결의대회'",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=302201",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 21 Apr 2026 14:26:00 +0900",
+        "pubDate": "Tue, 21 Apr 2026 16:48:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "NH 농협 은행, 기업고객 초청 '농촌체험행사' 실시...도농교류 확대",
-        "link": "https://n.news.naver.com/mnews/article/030/0003420057?sid=101",
+        "title": "하나 은행 , 5월 가정의 달 맞아 '2026 어린이 바둑 페스티벌' 개최",
+        "link": "https://www.kgnews.co.kr/news/article.html?no=892694",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 21 Apr 2026 14:25:00 +0900",
+        "pubDate": "Tue, 21 Apr 2026 16:48:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "NH농협 은행 , 기업고객 초청 '농촌체험행사' 실시...도농교류 확대",
-        "link": "https://n.news.naver.com/mnews/article/030/0003420057?sid=101",
+        "title": "[이슈체크] 李 세일즈 외교 동행하는 5대 은행장…각사 전략은",
+        "link": "https://www.tfmedia.co.kr/news/article.html?no=203924",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 21 Apr 2026 14:25:00 +0900",
+        "pubDate": "Tue, 21 Apr 2026 16:34:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "2분기 은행 가계대출 더 옥죈다…기업 대출수요는 확대",
-        "link": "https://n.news.naver.com/mnews/article/629/0000493326?sid=101",
+        "title": "지역 금융 ·스포츠 손잡았다... 농협 은행-한수원축구단 후원 협약체결",
+        "link": "https://www.hidomin.com/news/articleView.html?idxno=702278",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 21 Apr 2026 14:25:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "신한 은행 , OCI홀딩스와 투자연계 금융 협력…반도체·태양광 지원 확대",
-        "link": "https://www.seoultimes.news/news/article.html?no=2000095230",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 21 Apr 2026 14:23:00 +0900",
+        "pubDate": "Tue, 21 Apr 2026 16:24:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[뱅크 NOW] IBK기업은행·NH 농협 은행·Sh수협은행",
-        "link": "http://www.wikileaks-kr.org/news/articleView.html?idxno=186544",
+        "title": "NH투자증권, '제1회 단체연금 투자대회' 개최…우승 경품 테슬라 Model Y",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=261368",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 21 Apr 2026 14:18:00 +0900",
+        "pubDate": "Tue, 21 Apr 2026 16:16:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[더밸류 브리핑] 생명보험 둘러보기…교보생명·신한라이프·NH 농협 생명",
+        "link": "http://www.thevaluenews.co.kr/news/view.php?idx=198239",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 21 Apr 2026 16:14:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "풍산, K방산 프리미엄으로 1200억 조달",
-        "link": "https://n.news.naver.com/mnews/article/014/0005510995?sid=101",
+        "title": "물가 압박 속 취임하는 신현송 한은 총재, “신중하고 유연한 통화정책...",
+        "link": "https://n.news.naver.com/mnews/article/032/0003441187?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 21 Apr 2026 14:26:00 +0900",
+        "pubDate": "Tue, 21 Apr 2026 16:50:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+        }
+      },
+      {
+        "title": "[오늘Who] ' 금융 안정' 강조한 한은 총재 신현송, 고물가·저성장 이중압...",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=436185",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 21 Apr 2026 16:50:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "신현송 한은 총재, 취임사 핵심 키워드는 '물가· 금융 안정'",
-        "link": "http://www.srtimes.kr/news/articleView.html?idxno=201761",
+        "title": "금감원 불호령에 인력 확충한 KB…빗썸 계약 단축에 관리강화까지",
+        "link": "https://n.news.naver.com/mnews/article/008/0005347243?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 21 Apr 2026 14:24:00 +0900",
+        "pubDate": "Tue, 21 Apr 2026 16:05:00 +0900",
         "summary": "",
         "term": null
       }
