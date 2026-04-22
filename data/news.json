@@ -1,8 +1,24 @@
 {
-  "updatedAt": "2026-04-22T19:14:52.763Z",
-  "headline": "[포토뉴스]문막 새마을금고 장애인의 날 행사 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-04-22T21:51:37.327Z",
+  "headline": "농협 중앙회장은 누가 뽑아야 할까? 농협 개혁, 첨예한 쟁점들! 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "농협 중앙회장은 누가 뽑아야 할까? 농협 개혁, 첨예한 쟁점들!",
+        "link": "https://n.news.naver.com/mnews/article/056/0012167933?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 23 Apr 2026 06:02:00 +0900",
+        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "‘51조’ 서울시금고… 신한 vs 우리 쟁탈전",
+        "link": "https://n.news.naver.com/mnews/article/081/0003637900?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 23 Apr 2026 05:04:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "[포토뉴스]문막 새마을금고 장애인의 날 행사",
         "link": "https://n.news.naver.com/mnews/article/087/0001188839?sid=102",
@@ -50,91 +66,99 @@
         "pubDate": "Wed, 22 Apr 2026 16:44:00 +0900",
         "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
         "term": null
-      },
-      {
-        "title": "전북 경찰· 새마을금고 , 보이스피싱 예방 협력",
-        "link": "https://n.news.naver.com/mnews/article/079/0004139604?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Apr 2026 16:31:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "수원권선경찰서, 보이스피싱 막은 수원 새마을금고 여직원에게 감사장...",
-        "link": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3020582",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Apr 2026 16:12:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "국책 은행 이 오히려 수출을 막는다고?…조선업계 'RG 패러독스'",
-        "link": "https://n.news.naver.com/mnews/article/008/0005348043?sid=101",
+        "title": "[드림&CEO] 이환주 KB국민 은행 장 , 'AI·휴먼터치 결합' 혁신 선도",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=111483",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 23 Apr 2026 04:10:00 +0900",
+        "pubDate": "Thu, 23 Apr 2026 06:40:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[세계 속 K 은행 ] 신한 은행 , 중앙아시아 ' 금융 벨트' 구축…우즈벡 법인...",
-        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=302361",
+        "title": "교보생명 '오너 3세' SBI저축 은행 '시너지팀' 합류",
+        "link": "https://www.asiatime.co.kr/article/20260422500332",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 23 Apr 2026 04:00:00 +0900",
+        "pubDate": "Thu, 23 Apr 2026 06:38:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "국제결제 은행 , \"스테이블코인 전통 결제 수단보다 ETF에 가까워\"",
-        "link": "https://www.khgames.co.kr/news/articleView.html?idxno=303657",
+        "title": "NH 농협 , AI로 467개 항목 분석…기업 선별부터 금리 산정까지",
+        "link": "https://n.news.naver.com/mnews/article/011/0004613682?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 23 Apr 2026 02:52:00 +0900",
+        "pubDate": "Thu, 23 Apr 2026 06:31:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "NH농협, AI로 467개 항목 분석…기업 선별부터 금리 산정까지",
+        "link": "https://n.news.naver.com/mnews/article/011/0004613682?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 23 Apr 2026 06:31:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "1,370만 명 품은 美 대형 은행 뚫었다… 대형 호재 터진 XRP 1.50달러 돌파...",
+        "link": "http://coinreaders.com/232301",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 23 Apr 2026 06:30:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "미국 중앙 은행 의장 지명자,가상화폐 시장에 우호적 발언",
-        "link": "https://www.khgames.co.kr/news/articleView.html?idxno=303656",
+        "title": "약관 심사 마쳤는데…신한카드 이어 토스뱅크도 멈춘 애플페이, 왜?",
+        "link": "https://n.news.naver.com/mnews/article/421/0008906371?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 23 Apr 2026 02:40:00 +0900",
+        "pubDate": "Thu, 23 Apr 2026 06:20:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "미 은행 권, 스테이블코인 규제 일정 제동…GENIUS법 주도권 경쟁 재점화",
-        "link": "https://www.tokenpost.kr/news/policy/352242",
+        "title": "\"어떤게 생산적 금융 인가요?\" 당국도 은행도 모르는 '깜깜이' 금융",
+        "link": "https://n.news.naver.com/mnews/article/018/0006263817?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 23 Apr 2026 02:22:00 +0900",
+        "pubDate": "Thu, 23 Apr 2026 06:01:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "바둑 꿈나무 위한 '하나 은행 어린이 바둑 페스티벌' 열린다",
-        "link": "https://m.sports.naver.com/general/article/445/0000405472",
+        "title": "잠든 돈 깨운 '코스피 6300' 시대…은행권 '썰물', 증시 '밀물' 뚜렷",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=131636",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 23 Apr 2026 02:12:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "\" 농협 , 생산자 협동조합 본연의 역할로\"… 2단계 농협 개혁 본격 시동",
-        "link": "http://www.youngnong.co.kr/news/articleView.html?idxno=58984",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Apr 2026 22:54:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "농소 농협 , 보이스피싱 피해예방 캠페인",
-        "link": "http://www.ujeil.com/news/articleView.html?idxno=384675",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Apr 2026 22:04:00 +0900",
+        "pubDate": "Thu, 23 Apr 2026 06:00:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
+      {
+        "title": "[광화문 뷰] 주춤한다는 강남 집값… 부동산 안정된 거 맞나요",
+        "link": "https://www.ajunews.com/view/20260422102055302",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 23 Apr 2026 06:02:00 +0900",
+        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "[오늘의 주요일정]경기남부(4월23일 목요일)",
+        "link": "https://n.news.naver.com/mnews/article/003/0013904231?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 23 Apr 2026 05:00:00 +0900",
+        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
+        "term": null
+      },
+      {
+        "title": "불황형 대출 급증에… 중저 신용자, 규제 제외 검토",
+        "link": "https://n.news.naver.com/mnews/article/020/0003714659?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 23 Apr 2026 04:35:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "전남 서남부지역 2월 수신 1조 3000억 급증…여신은 감소 전환",
         "link": "http://www.gjdream.com/news/articleView.html?idxno=668876",
@@ -145,14 +169,6 @@
           "word": "Deposit Beta",
           "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
         }
-      },
-      {
-        "title": "2금융 대출제한에 저소득 신용경색 우려… '중금리 완화' 해법되나",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092160772",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Apr 2026 16:08:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
       }
     ]
   }
