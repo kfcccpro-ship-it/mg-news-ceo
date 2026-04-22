@@ -1,22 +1,49 @@
 {
-  "updatedAt": "2026-04-21T21:46:07.001Z",
-  "headline": "'연 25조 금고지기' 누가 선점할까… 농협 vs 광주은행 물밑싸움 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-04-22T02:37:18.082Z",
+  "headline": "지키려는 신한, 뺏으려는 우리 … 서울시금고 둘러싼 은행권 기싸움 한... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
-        "title": "'연 25조 금고지기' 누가 선점할까… 농협 vs 광주은행 물밑싸움",
-        "link": "https://n.news.naver.com/mnews/article/421/0008903902?sid=102",
+        "title": "지키려는 신한, 뺏으려는 우리 … 서울시금고 둘러싼 은행권 기싸움 한...",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/22/2026042200101.html",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Apr 2026 06:15:00 +0900",
+        "pubDate": "Wed, 22 Apr 2026 11:24:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[ 금융 현미경]\"뺏느냐, 지키느냐\"…은행 '지자체 금고' 쟁탈전 본격화",
-        "link": "https://n.news.naver.com/mnews/article/277/0005752859?sid=101",
+        "title": "51조 ‘서울시 금고’ 두고 맞붙은 신한·우리… “수천억 투입” vs “...",
+        "link": "https://n.news.naver.com/mnews/article/366/0001158772?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Apr 2026 06:10:00 +0900",
+        "pubDate": "Wed, 22 Apr 2026 11:01:00 +0900",
         "summary": "",
+        "term": null
+      },
+      {
+        "title": "농협· 새마을금고 이어 신협도…부실채권 정리 위한 자산관리회사 설립",
+        "link": "https://n.news.naver.com/mnews/article/009/0005669614?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 22 Apr 2026 10:37:00 +0900",
+        "summary": "새마을금고 건전성 관리 흐름과 연결해 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "하늘내린 새마을금고 , 인제군 취약계층에 제습기 후원",
+        "link": "https://n.news.naver.com/mnews/article/468/0001235767?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 22 Apr 2026 09:22:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[Who Is ?] 고영철 신용협동조합중앙회 회장",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=436018",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 22 Apr 2026 07:02:00 +0900",
+        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
         "term": null
       },
       {
@@ -42,100 +69,81 @@
         "pubDate": "Tue, 21 Apr 2026 17:39:00 +0900",
         "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
         "term": null
-      },
-      {
-        "title": "구미원남 새마을금고 K이사장 복귀여부는",
-        "link": "https://www.pennmike.com/news/articleView.html?idxno=119139",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 21 Apr 2026 15:58:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "신현송 한국 은행 총재 취임…\"관습적 이론 넘어 실천으로 ‘K-중앙 은행 ...",
-        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065562369842290",
+        "title": "하나 은행 , 민법 개정 맞춤형 '상속·유류분 전략 세미나' 개최",
+        "link": "http://www.queen.co.kr/news/articleView.html?idxno=455549",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Apr 2026 06:44:00 +0900",
+        "pubDate": "Wed, 22 Apr 2026 11:36:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "NH투자증권, 단체연금 투자대회 개최…테슬라·숙박권 경품",
-        "link": "http://www.metroseoul.co.kr/article/20260421500409",
+        "title": "신한 은행 , 고객 참여형 '나라사랑카드 숏폼 공모전' 개최...총상금 1,600...",
+        "link": "http://www.queen.co.kr/news/articleView.html?idxno=455548",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Apr 2026 06:40:00 +0900",
+        "pubDate": "Wed, 22 Apr 2026 11:36:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[실전재테크]고유가 시대…걷고 타며 줄이는 '보험료' 재테크",
-        "link": "https://n.news.naver.com/mnews/article/277/0005752869?sid=101",
+        "title": "NHN KCP, NH 농협 은행과 ‘스테이블코인 결제 시대’ 연다… 차세대 인프...",
+        "link": "https://www.tokenpost.kr/news/blockchain/351976",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Apr 2026 06:40:00 +0900",
+        "pubDate": "Wed, 22 Apr 2026 11:32:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[CEO투데이] 김성주 부산 은행 장 \"산업 금융 으로 체질 전환\"...현장·책임경...",
-        "link": "http://www.seoulwire.com/news/articleView.html?idxno=717896",
+        "title": "NHN KCP, NH농협 은행 과 ‘스테이블코인 결제 시대’ 연다… 차세대 인프...",
+        "link": "https://www.tokenpost.kr/news/blockchain/351976",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Apr 2026 06:30:00 +0900",
+        "pubDate": "Wed, 22 Apr 2026 11:32:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "기업 은행 , AX 조직개편 추진",
-        "link": "https://n.news.naver.com/mnews/article/011/0004613230?sid=101",
+        "title": "은행 연합회, 차량 5부제·재택근무 확대",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2421842",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Apr 2026 06:27:00 +0900",
+        "pubDate": "Wed, 22 Apr 2026 11:31:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "“돌려막을 카드가 없네요”…반년 넘게 밀린 카드빚 4700억 사상최대",
-        "link": "https://n.news.naver.com/mnews/article/009/0005669492?sid=101",
+        "title": "\"사람·돈 없어 쩔쩔매던 증권시스템 현대화 한방에\" 삼성SDS '인더스트...",
+        "link": "https://www.catchnews.kr/news/articleView.html?idxno=123071",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Apr 2026 06:24:00 +0900",
+        "pubDate": "Wed, 22 Apr 2026 11:31:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[브랜드평판] 농협 은행, 정기예금 4월 1위... SBI저축은행, 케이뱅크 뒤...",
-        "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=49139",
+        "title": "순천 농협 금당지점, 보이스피싱 예방... 고객 재산 지켜내",
+        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250442",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Apr 2026 06:18:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
+        "pubDate": "Wed, 22 Apr 2026 11:30:00 +0900",
+        "summary": "",
+        "term": null
       },
       {
-        "title": "고액 주담대 '출연료 부담' 떠안은 은행…금리 선제적 인하",
-        "link": "https://n.news.naver.com/mnews/article/421/0008903863?sid=101",
+        "title": "하나 은행 , '재크의 요술지갑' 어린이 경제 뮤지컬 전국 순회 공연 …AI ...",
+        "link": "https://www.public25.com/news/articleView.html?idxno=44743",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Apr 2026 05:45:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "pubDate": "Wed, 22 Apr 2026 11:30:00 +0900",
+        "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "33조달러 스테이블코인 결제 혁명에서 한국만 소외됐다",
-        "link": "https://n.news.naver.com/mnews/article/018/0006263050?sid=101",
+        "title": "감사원, 금감원 ‘중간 검사결과 발표’ 정조준…내부선 “발언도 부담...",
+        "link": "https://n.news.naver.com/mnews/article/119/0003083127?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Apr 2026 06:35:00 +0900",
+        "pubDate": "Wed, 22 Apr 2026 07:08:00 +0900",
         "summary": "",
-        "term": null
-      },
-      {
-        "title": "부동산과 금융 의 절연이라는 위험한 꿈 [더 머니이스트-심형석의 부동산...",
-        "link": "https://n.news.naver.com/mnews/article/015/0005277956?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Apr 2026 06:31:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
         "term": null
       }
     ]
