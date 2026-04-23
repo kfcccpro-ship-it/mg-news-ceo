@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-23T16:28:35.405Z",
+  "updatedAt": "2026-04-23T19:09:24.570Z",
   "headline": "춘천동남 새마을금고 파크골프클럽 창단식 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -46,15 +46,20 @@
     ],
     "otherFinance": [
       {
-        "title": "한국 은행 , 유동성 조절 위해 6.6조원 통화안정증권 발행 예정",
-        "link": "https://www.tokenpost.kr/news/economy/352683",
+        "title": "비 은행 ·비이자 성장… KB·신한 금융 1Q '역대급 실적'",
+        "link": "https://n.news.naver.com/mnews/article/008/0005348731?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 24 Apr 2026 01:18:00 +0900",
+        "pubDate": "Fri, 24 Apr 2026 04:08:00 +0900",
         "summary": "",
-        "term": {
-          "word": "LCR",
-          "meaning": "단기 유동성 충격 대응 능력을 보여주는 지표"
-        }
+        "term": null
+      },
+      {
+        "title": "이환주號 국민 은행 , 수수료익 38%↑, 수익구조 전환 본격화···이자수익...",
+        "link": "http://www.fntimes.com/html/view.php?ud=2026042320062152615e6e69892f_18",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 24 Apr 2026 03:14:00 +0900",
+        "summary": "",
+        "term": null
       },
       {
         "title": "[ 금융 권 소식] BNK부산은행ㆍNH 농협 은행(4.23)",
@@ -97,14 +102,6 @@
         "term": null
       },
       {
-        "title": "NH 농협 은행 경북본부, 농식품기업 금융 지원 현장 행보 본격화",
-        "link": "https://www.ksmnews.co.kr/news/view.php?idx=602178",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 23 Apr 2026 20:38:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
         "title": "포항시, 5월 카드형·모바일 포항사랑상품권 160억 원 규모 10% 할인 판매",
         "link": "https://www.sentv.co.kr/article/view/sentv202604230181",
         "source": "네이버뉴스",
@@ -114,6 +111,17 @@
       }
     ],
     "macro": [
+      {
+        "title": "美 금융 당국, 사모신용 감시 강화…부실 전이 가능성 점검",
+        "link": "https://n.news.naver.com/mnews/article/374/0000506382?sid=104",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 24 Apr 2026 03:37:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
       {
         "title": "포항시, 내달 4일 160억 규모 상품권 풀어 소비 촉진",
         "link": "https://www.ksmnews.co.kr/news/view.php?idx=602152",
