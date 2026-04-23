@@ -1,8 +1,24 @@
 {
-  "updatedAt": "2026-04-23T13:44:12.951Z",
-  "headline": "울산 동구 일산 새마을금고 , 5년 연속 대상 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-04-23T16:28:35.405Z",
+  "headline": "춘천동남 새마을금고 파크골프클럽 창단식 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "춘천동남 새마을금고 파크골프클럽 창단식",
+        "link": "https://n.news.naver.com/mnews/article/654/0000177340?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 24 Apr 2026 00:06:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "일산 새마을금고 , 2026년 경영평가 대상",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1054978",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 24 Apr 2026 00:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "울산 동구 일산 새마을금고 , 5년 연속 대상",
         "link": "https://www.ulsanpress.net/news/articleView.html?idxno=573906",
@@ -26,62 +42,25 @@
         "pubDate": "Thu, 23 Apr 2026 20:00:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "[은행 이모저모] 기업은행· 새마을금고 ·부산은행·광주은행 등",
-        "link": "http://www.bizwnews.com/news/articleView.html?idxno=134749",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 23 Apr 2026 19:36:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "울산경남 새마을금고 , 경영평가 연도대상 개최",
-        "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=635644",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 23 Apr 2026 19:32:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "전북 은행 , 2026년 1분기 순이익 22.5% 감소... 비용 부담이 관건",
-        "link": "https://www.tokenpost.kr/news/economy/352623",
+        "title": "한국 은행 , 유동성 조절 위해 6.6조원 통화안정증권 발행 예정",
+        "link": "https://www.tokenpost.kr/news/economy/352683",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 23 Apr 2026 22:38:00 +0900",
+        "pubDate": "Fri, 24 Apr 2026 01:18:00 +0900",
         "summary": "",
-        "term": null
+        "term": {
+          "word": "LCR",
+          "meaning": "단기 유동성 충격 대응 능력을 보여주는 지표"
+        }
       },
       {
         "title": "[ 금융 권 소식] BNK부산은행ㆍNH 농협 은행(4.23)",
         "link": "http://www.weeklytoday.com/news/articleView.html?idxno=772644",
         "source": "네이버뉴스",
         "pubDate": "Thu, 23 Apr 2026 22:24:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[ 금융 권 소식] BNK부산 은행 ㆍNH농협 은행 (4.23)",
-        "link": "http://www.weeklytoday.com/news/articleView.html?idxno=772644",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 23 Apr 2026 22:24:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "우리 은행 베트남 비엣텔 협력 강화…글로벌 금융 확장 MOU 체결",
-        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=201245",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 23 Apr 2026 22:22:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "은행 PB센터 다시 붐…고액자산가 몰린다",
-        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=201246",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 23 Apr 2026 22:20:00 +0900",
         "summary": "",
         "term": null
       },
@@ -106,6 +85,30 @@
         "link": "https://n.news.naver.com/mnews/article/002/0002439000?sid=102",
         "source": "네이버뉴스",
         "pubDate": "Thu, 23 Apr 2026 20:55:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "안동 농협 , 소중한 금융 자산 보호 앞장",
+        "link": "https://www.ksmnews.co.kr/news/view.php?idx=602059",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 23 Apr 2026 20:50:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "NH 농협 은행 경북본부, 농식품기업 금융 지원 현장 행보 본격화",
+        "link": "https://www.ksmnews.co.kr/news/view.php?idx=602178",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 23 Apr 2026 20:38:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "포항시, 5월 카드형·모바일 포항사랑상품권 160억 원 규모 10% 할인 판매",
+        "link": "https://www.sentv.co.kr/article/view/sentv202604230181",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 23 Apr 2026 20:16:00 +0900",
         "summary": "",
         "term": null
       }
@@ -134,17 +137,6 @@
         "pubDate": "Thu, 23 Apr 2026 20:12:00 +0900",
         "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
         "term": null
-      },
-      {
-        "title": "전남 서부권 금융기관 예금 늘고 대출 줄었다",
-        "link": "http://www.kjdaily.com/article.php?aid=1776941599677447004",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 23 Apr 2026 19:58:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
       }
     ]
   }
