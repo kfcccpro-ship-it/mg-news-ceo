@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-24T16:04:55.395Z",
+  "updatedAt": "2026-04-24T18:53:48.106Z",
   "headline": "충주시, 칠금신협·문화 새마을금고 와 업무협약 체결 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -22,26 +22,26 @@
     ],
     "otherFinance": [
       {
-        "title": "4대 금융 지주 1분기 5조원 넘게 벌어…증시 호황에 증권사가 효자 역할",
-        "link": "https://n.news.naver.com/mnews/article/353/0000055238?sid=101",
+        "title": "[은행 이모저모] NH 농협 은행 '아그리뱅크와 업무협약', IBK기업은행 '중...",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=134929",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 25 Apr 2026 01:02:00 +0900",
+        "pubDate": "Sat, 25 Apr 2026 01:38:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "제인스트리트, 연간 거래수익 396억달러…월가 대형 은행 웃돌아",
-        "link": "https://www.tokenpost.kr/news/breaking/353121",
+        "title": "[ 은행 이모저모] NH농협 은행 '아그리뱅크와 업무협약', IBK기업 은행 '중...",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=134929",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 25 Apr 2026 00:28:00 +0900",
+        "pubDate": "Sat, 25 Apr 2026 01:38:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "시바이누에 은행 기능까지?...핵심 개발자, '송금' 예고에 투자자 열광",
-        "link": "http://coinreaders.com/232701",
+        "title": "[마켓Q] 윤병운 연임+강호동 측근...NH증권, '어색한 동거' 가시화",
+        "link": "https://www.asiatime.co.kr/article/20260425500002",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 25 Apr 2026 00:02:00 +0900",
+        "pubDate": "Sat, 25 Apr 2026 01:14:00 +0900",
         "summary": "",
         "term": null
       },
@@ -88,10 +88,21 @@
     ],
     "macro": [
       {
-        "title": "국고채 금리 일제 상승, 안전자산 선호 약화 신호?",
-        "link": "https://www.tokenpost.kr/news/economy/353122",
+        "title": "빚 탕감 심사에 '코인'까지 본다...2 금융 권 부실 정리 변수 되나",
+        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=129311",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 25 Apr 2026 00:32:00 +0900",
+        "pubDate": "Sat, 25 Apr 2026 03:34:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "국내 성장 지표 상승에 국고채 금리도 연이은 상승세",
+        "link": "https://www.tokenpost.kr/news/economy/353144",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 25 Apr 2026 01:34:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       }
