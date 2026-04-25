@@ -1,8 +1,16 @@
 {
-  "updatedAt": "2026-04-25T02:30:35.263Z",
-  "headline": "충주시, 칠금신협·문화 새마을금고 와 업무협약 체결 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-04-25T05:12:20.426Z",
+  "headline": "\"회사 돈을 개인 금고처럼\"…돈 필요할 때마다 스페이스X 찾은 머스크 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "\"회사 돈을 개인 금고처럼\"…돈 필요할 때마다 스페이스X 찾은 머스크",
+        "link": "https://n.news.naver.com/mnews/article/277/0005754639?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 25 Apr 2026 13:12:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "충주시, 칠금신협·문화 새마을금고 와 업무협약 체결",
         "link": "https://www.gukjenews.com/news/articleView.html?idxno=3565705",
@@ -14,19 +22,27 @@
     ],
     "otherFinance": [
       {
-        "title": "앞다퉈 200만닉스 외치는 증권가...노무라 \"234만원\"",
-        "link": "https://n.news.naver.com/mnews/article/018/0006265989?sid=101",
+        "title": "저축 은행 업권의 중장기적 발전을 위한 제언",
+        "link": "http://www.ifs.or.kr/bbs/board.php?bo_table=News&wr_id=55730",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 25 Apr 2026 11:20:00 +0900",
+        "pubDate": "Sat, 25 Apr 2026 13:40:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "신현송 한국 은행 총재 취임…“5월 금통위에 쏠리는 눈”[위클리 이슈]",
-        "link": "https://n.news.naver.com/mnews/article/050/0000105346?sid=101",
+        "title": "[다음주 주요 지표]5부제 연계 車 보험료 할인·기업 경기조사…실물·...",
+        "link": "https://n.news.naver.com/mnews/article/243/0000097002?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 25 Apr 2026 11:18:00 +0900",
+        "pubDate": "Sat, 25 Apr 2026 13:31:00 +0900",
         "summary": "",
+        "term": null
+      },
+      {
+        "title": "토큰증권, 조각투자 등 디지털자산의 제도정비 방향과 주요 과제",
+        "link": "http://www.ifs.or.kr/bbs/board.php?bo_table=News&wr_id=55728",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 25 Apr 2026 13:20:00 +0900",
+        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
@@ -54,42 +70,23 @@
         "term": null
       },
       {
-        "title": "영업점 가지 않아도 OK…농협 은행 ‘후계농육성자금’ 무방문 대출",
-        "link": "https://n.news.naver.com/mnews/article/662/0000093850?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 25 Apr 2026 11:00:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "은행 권, 외화채 확보 분주…틈새시장 노려",
-        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=835239",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 25 Apr 2026 11:00:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
         "title": "[은행 이모저모] KB국민은행 'DC 기업 초청 행사', NH 농협 은행 '퇴직연금...",
         "link": "http://www.bizwnews.com/news/articleView.html?idxno=134863",
         "source": "네이버뉴스",
         "pubDate": "Sat, 25 Apr 2026 10:22:00 +0900",
         "summary": "",
         "term": null
+      },
+      {
+        "title": "5대 금융 지주, 증권 질주에 1분기 순익 '신기록'",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=835237",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 25 Apr 2026 10:04:00 +0900",
+        "summary": "",
+        "term": null
       }
     ],
     "macro": [
-      {
-        "title": "“역대급 돈 벌었는데 쓸 돈이 줄었다”…4대 금융 , 고환율에 CET1 ‘흔...",
-        "link": "https://n.news.naver.com/mnews/article/138/0002225877?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 25 Apr 2026 11:00:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "CET1",
-          "meaning": "손실흡수력을 보여주는 대표적인 자본적정성 지표"
-        }
-      },
       {
         "title": "감사원 금감원 감사에 '중간발표 피해 호소'…금융권 이목집중",
         "link": "http://www.newstomato.com/ReadNews.aspx?no=1299007&inflow=N",
