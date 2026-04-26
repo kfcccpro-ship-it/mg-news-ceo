@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-26T15:42:03.125Z",
+  "updatedAt": "2026-04-26T18:56:10.192Z",
   "headline": "새마을금고 ·신협, 年 4% 육박하는 정기예금 잇따라 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -34,14 +34,6 @@
         "term": null
       },
       {
-        "title": "“50조 서울시 금고 잡아라”…진옥동 ‘수성ʼ vs 임종룡 ‘탈환ʼ [은...",
-        "link": "http://www.fntimes.com/html/view.php?ud=202604252209468785dd55077bc2_18",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Apr 2026 00:02:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
         "title": "MG 새마을금고 , 장애인거주시설 ‘애명다온빌’에 온정 나눔",
         "link": "https://www.ksmnews.co.kr/news/view.php?idx=602335",
         "source": "네이버뉴스",
@@ -72,22 +64,38 @@
         "pubDate": "Sun, 26 Apr 2026 21:05:00 +0900",
         "summary": "",
         "term": null
+      },
+      {
+        "title": "신경북 새마을금고 , 천안 인재교육원서 세미나·단합대회 개최",
+        "link": "https://www.dkilbo.com/news/articleView.html?idxno=542460",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 26 Apr 2026 19:10:00 +0900",
+        "summary": "",
+        "term": null
       }
     ],
     "otherFinance": [
+      {
+        "title": "창신대–BNK경남 은행 , 산학협력 협약·발전기금 기탁…지역 인재 양성 ...",
+        "link": "https://www.kukinews.com/article/view/kuk202604270009",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 27 Apr 2026 00:56:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "은행 퇴직연금 적립금 212조 돌파… 경쟁 본격화",
+        "link": "https://n.news.naver.com/mnews/article/005/0001845508?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 27 Apr 2026 00:43:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "청소년 자산도 온라인서 통합 관리… AI가 카드 소비 리포트 제공",
         "link": "https://n.news.naver.com/mnews/article/023/0003973182?sid=101",
         "source": "네이버뉴스",
         "pubDate": "Mon, 27 Apr 2026 00:38:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[KB국민 은행 ] 외국인직접투자∙해외직접투자 설명회 / 상반기 DC 기업 초...",
-        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2154327",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Apr 2026 00:04:00 +0900",
         "summary": "",
         "term": null
       },
@@ -134,12 +142,15 @@
     ],
     "macro": [
       {
-        "title": "반도체 호황의 역설…뛰는 성장률, 금리 인상 압력 키운다",
-        "link": "https://n.news.naver.com/mnews/article/025/0003519020?sid=101",
+        "title": "생계비 250만원 예금 보호 강화…공모펀드 핵심위험 표준안 마련",
+        "link": "https://www.tfmedia.co.kr/news/article.html?no=204046",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Apr 2026 00:03:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
+        "pubDate": "Mon, 27 Apr 2026 01:50:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
       }
     ]
   }
