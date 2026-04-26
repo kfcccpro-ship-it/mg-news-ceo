@@ -1,8 +1,46 @@
 {
-  "updatedAt": "2026-04-26T13:07:39.607Z",
-  "headline": "MG 새마을금고 , 장애인거주시설 ‘애명다온빌’에 온정 나눔 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-04-26T15:42:03.125Z",
+  "headline": "새마을금고 ·신협, 年 4% 육박하는 정기예금 잇따라 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "새마을금고 ·신협, 年 4% 육박하는 정기예금 잇따라",
+        "link": "https://n.news.naver.com/mnews/article/023/0003973183?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 27 Apr 2026 00:38:00 +0900",
+        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "새마을금고·신협, 年 4% 육박하는 정기예금 잇따라",
+        "link": "https://n.news.naver.com/mnews/article/023/0003973183?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 27 Apr 2026 00:38:00 +0900",
+        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "춘천남부 새마을금고 유기견 보호소 봉사활동",
+        "link": "https://n.news.naver.com/mnews/article/654/0000177646?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 27 Apr 2026 00:05:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "“50조 서울시 금고 잡아라”…진옥동 ‘수성ʼ vs 임종룡 ‘탈환ʼ [은...",
+        "link": "http://www.fntimes.com/html/view.php?ud=202604252209468785dd55077bc2_18",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 27 Apr 2026 00:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "MG 새마을금고 , 장애인거주시설 ‘애명다온빌’에 온정 나눔",
         "link": "https://www.ksmnews.co.kr/news/view.php?idx=602335",
@@ -34,36 +72,36 @@
         "pubDate": "Sun, 26 Apr 2026 21:05:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "신경북 새마을금고 , 천안 인재교육원서 세미나·단합대회 개최",
-        "link": "https://www.dkilbo.com/news/articleView.html?idxno=542460",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 26 Apr 2026 19:10:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "하양 새마을금고 , 경산시어르신종합복지관에 기부금 전달",
-        "link": "https://www.dkilbo.com/news/articleView.html?idxno=542459",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 26 Apr 2026 19:10:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "칠곡경찰서-왜관 농협 , 보이스피싱 예방 홍보",
-        "link": "https://www.ksmnews.co.kr/news/view.php?idx=602359",
+        "title": "청소년 자산도 온라인서 통합 관리… AI가 카드 소비 리포트 제공",
+        "link": "https://n.news.naver.com/mnews/article/023/0003973182?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 26 Apr 2026 21:58:00 +0900",
+        "pubDate": "Mon, 27 Apr 2026 00:38:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "신용보증기금-IBK기업 은행 , '혁신창업기업 성장·생산적 금융 활성화 금...",
-        "link": "https://www.ksmnews.co.kr/news/view.php?idx=602268",
+        "title": "[KB국민 은행 ] 외국인직접투자∙해외직접투자 설명회 / 상반기 DC 기업 초...",
+        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2154327",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 27 Apr 2026 00:04:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "외국인 첫 금융 은 '지인 추천'… 은행권 선점 치열",
+        "link": "https://www.insnews.co.kr/news/articleView.html?idxno=90385",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 27 Apr 2026 00:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "칠곡경찰서-왜관 농협 , 보이스피싱 예방 홍보",
+        "link": "https://www.ksmnews.co.kr/news/view.php?idx=602359",
         "source": "네이버뉴스",
         "pubDate": "Sun, 26 Apr 2026 21:58:00 +0900",
         "summary": "",
@@ -78,23 +116,7 @@
         "term": null
       },
       {
-        "title": "“IRP 30% 수익률”…부산 은행 1위, ‘고수익 뒤 변동성’은 과제",
-        "link": "https://www.wikitree.co.kr/articles/1133623",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 26 Apr 2026 21:38:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
         "title": "기업은행 9년만 베트남법인 본인가… 금융 위원장 “현지기업 든든한 거점...",
-        "link": "https://www.inthenews.co.kr/news/article.html?no=86084",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 26 Apr 2026 21:36:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "기업 은행 9년만 베트남법인 본인가… 금융 위원장 “현지기업 든든한 거점...",
         "link": "https://www.inthenews.co.kr/news/article.html?no=86084",
         "source": "네이버뉴스",
         "pubDate": "Sun, 26 Apr 2026 21:36:00 +0900",
@@ -108,31 +130,15 @@
         "pubDate": "Sun, 26 Apr 2026 21:26:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "NH투자증권, 각자대표 체제 전환",
-        "link": "https://www.seoulfn.com/news/articleView.html?idxno=627427",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 26 Apr 2026 19:34:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "macro": [
       {
-        "title": "토스뱅크, 최고 年 10%금리 적금 출시",
-        "link": "https://n.news.naver.com/mnews/article/015/0005279695?sid=101",
+        "title": "반도체 호황의 역설…뛰는 성장률, 금리 인상 압력 키운다",
+        "link": "https://n.news.naver.com/mnews/article/025/0003519020?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 26 Apr 2026 17:33:00 +0900",
+        "pubDate": "Mon, 27 Apr 2026 00:03:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "대전·세종·충남 금융자금 '기업으로 쏠림'…가계대출 증가세는 둔화",
-        "link": "https://n.news.naver.com/mnews/article/656/0000174834?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 26 Apr 2026 16:48:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
         "term": null
       }
     ]
