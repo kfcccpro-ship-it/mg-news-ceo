@@ -1,8 +1,16 @@
 {
-  "updatedAt": "2026-04-25T21:37:19.269Z",
-  "headline": "새마을금고 비회원 주담대 막는다, 다음달 10일까지 마지막 기회 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-04-26T02:46:58.810Z",
+  "headline": "경산시 하양 MG 새마을금고 온정 나눔 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "경산시 하양 MG 새마을금고 온정 나눔",
+        "link": "https://www.kbsm.net/news/view.php?idx=517370",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 26 Apr 2026 10:50:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "새마을금고 비회원 주담대 막는다, 다음달 10일까지 마지막 기회",
         "link": "https://n.news.naver.com/mnews/article/008/0005349313?sid=101",
@@ -22,77 +30,66 @@
     ],
     "otherFinance": [
       {
-        "title": "KB 금융 , 비 은행 이 이끈 ROE 레벨업…구조적 체질 개선 본격화",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=448595",
+        "title": "일본 은행 , 이번주 금리동결 전망..인상 시점은 6월 이후",
+        "link": "https://n.news.naver.com/mnews/article/014/0005513228?sid=104",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 26 Apr 2026 06:28:00 +0900",
+        "pubDate": "Sun, 26 Apr 2026 11:43:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "하나 은행 , 베트남 국책 은행 과 손잡고 인프라 금융 ·결제 서비스 확대",
+        "link": "https://www.tokenpost.kr/news/economy/353480",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 26 Apr 2026 11:34:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "송금은 싸게, 우대금리는 높게… 은행권, 실속 이벤트 확대",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092160903",
+        "title": "NH투자증권, 각자대표 체제 전환…부문별 책임경영 강화",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=202107",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 26 Apr 2026 06:02:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "24개월 최고 연 3.20%…부산은행 '더 특판 정기예금' [이주의 은행 예금...",
-        "link": "http://www.fntimes.com/html/view.php?ud=2026042412143840895e6e69892f_18",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 26 Apr 2026 06:02:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
-      },
-      {
-        "title": "박병희 농협 생명 대표, 사업비 예실차·금리 여파 순익 하락…신계약CS...",
-        "link": "http://www.fntimes.com/html/view.php?ud=2026042521510450068a55064dd1_18",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 26 Apr 2026 06:02:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "\"고유가 반사이익 나눠라\"… 카드사에 쏟아지는 '상생' 화살",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092160954",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 26 Apr 2026 06:02:00 +0900",
+        "pubDate": "Sun, 26 Apr 2026 11:26:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "자금흐름 재편되나… 5대 은행, 기업대출 일제히 증가",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092160935",
+        "title": "하나 은행 ·BIDV·KIND, 해외 인프라 사업 협력을 위한 3자 간 업무 협약",
+        "link": "https://n.news.naver.com/mnews/article/014/0005513221?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 26 Apr 2026 06:02:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "12개월 최고 연 5.00%…세람저축 은행 '펫밀리 정기적금' [이주의 저축은...",
-        "link": "http://www.fntimes.com/html/view.php?ud=2026042602030618707c96e79780_18",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 26 Apr 2026 06:02:00 +0900",
+        "pubDate": "Sun, 26 Apr 2026 11:24:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "12개월 최고 연 3.40%…SC제일 은행 'e-그린세이브예금' [이주의 은행 예...",
-        "link": "http://www.fntimes.com/html/view.php?ud=2026042412131111845e6e69892f_18",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 26 Apr 2026 06:02:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
       }
     ],
     "macro": [
+      {
+        "title": "성장률 '급반등'에 채권시장 또 긴장…연내 기준금리 인상 가능성 부각",
+        "link": "https://n.news.naver.com/mnews/article/079/0004140716?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 26 Apr 2026 11:44:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+        }
+      },
+      {
+        "title": "4월 경기지역 소비 심리 위축 지속",
+        "link": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3020821",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 26 Apr 2026 11:32:00 +0900",
+        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
+        "term": null
+      },
+      {
+        "title": "원화 실질가치 ' 금융 위기 후 최저'…유가·환율 충격",
+        "link": "https://n.news.naver.com/mnews/article/422/0000858915?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 26 Apr 2026 11:23:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "감사원 금감원 감사에 '중간발표 피해 호소'…금융권 이목집중",
         "link": "http://www.newstomato.com/ReadNews.aspx?no=1299007&inflow=N",
