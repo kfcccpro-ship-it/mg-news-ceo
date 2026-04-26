@@ -1,21 +1,10 @@
 {
-  "updatedAt": "2026-04-26T18:56:10.192Z",
+  "updatedAt": "2026-04-26T21:38:31.827Z",
   "headline": "새마을금고 ·신협, 年 4% 육박하는 정기예금 잇따라 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
         "title": "새마을금고 ·신협, 年 4% 육박하는 정기예금 잇따라",
-        "link": "https://n.news.naver.com/mnews/article/023/0003973183?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Apr 2026 00:38:00 +0900",
-        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
-      },
-      {
-        "title": "새마을금고·신협, 年 4% 육박하는 정기예금 잇따라",
         "link": "https://n.news.naver.com/mnews/article/023/0003973183?sid=101",
         "source": "네이버뉴스",
         "pubDate": "Mon, 27 Apr 2026 00:38:00 +0900",
@@ -64,93 +53,90 @@
         "pubDate": "Sun, 26 Apr 2026 21:05:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "신경북 새마을금고 , 천안 인재교육원서 세미나·단합대회 개최",
-        "link": "https://www.dkilbo.com/news/articleView.html?idxno=542460",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 26 Apr 2026 19:10:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "창신대–BNK경남 은행 , 산학협력 협약·발전기금 기탁…지역 인재 양성 ...",
-        "link": "https://www.kukinews.com/article/view/kuk202604270009",
+        "title": "부산 은행 , 5천명 참여 '아이러브 페스티벌' 개최…지역 상생 축제",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=201316",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Apr 2026 00:56:00 +0900",
+        "pubDate": "Mon, 27 Apr 2026 06:34:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "은행 퇴직연금 적립금 212조 돌파… 경쟁 본격화",
-        "link": "https://n.news.naver.com/mnews/article/005/0001845508?sid=101",
+        "title": "하나 은행 , 베트남 공략 속도낸다…인프라 금융 ·QR결제 '투트랙 전략'",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=201314",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Apr 2026 00:43:00 +0900",
+        "pubDate": "Mon, 27 Apr 2026 06:32:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "청소년 자산도 온라인서 통합 관리… AI가 카드 소비 리포트 제공",
-        "link": "https://n.news.naver.com/mnews/article/023/0003973182?sid=101",
+        "title": "금주 한국 은행 및 금융 당국( 금융 위·금감원) 주요 일정",
+        "link": "https://n.news.naver.com/mnews/article/123/0002382035?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Apr 2026 00:38:00 +0900",
+        "pubDate": "Mon, 27 Apr 2026 06:31:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "외국인 첫 금융 은 '지인 추천'… 은행권 선점 치열",
-        "link": "https://www.insnews.co.kr/news/articleView.html?idxno=90385",
+        "title": "[브랜드평판] 토스뱅크, 인터넷 전문 은행 4월 1위... 케이뱅크, 카카오뱅...",
+        "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=49360",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Apr 2026 00:00:00 +0900",
+        "pubDate": "Mon, 27 Apr 2026 06:28:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "칠곡경찰서-왜관 농협 , 보이스피싱 예방 홍보",
-        "link": "https://www.ksmnews.co.kr/news/view.php?idx=602359",
+        "title": "디지털 유로, 비자·마스터카드 대신 유럽 표준 쓴다",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=660366",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 26 Apr 2026 21:58:00 +0900",
+        "pubDate": "Mon, 27 Apr 2026 06:26:00 +0900",
+        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "[은행계 생보사 성적표] 순익 일제히 감소…1위 신한라이프 홀로 1000억...",
+        "link": "https://www.fetv.co.kr/news/articleView.html?idxno=301193",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 27 Apr 2026 06:00:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "충북 서충주 농협 , ‘효실천 사랑나눔 행사’…고령 조합원에 호평",
-        "link": "https://n.news.naver.com/mnews/article/662/0000093869?sid=102",
+        "title": "은행 ‘체력 약화’… 우리·기업, 1분기 역성장",
+        "link": "https://n.news.naver.com/mnews/article/081/0003638849?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 26 Apr 2026 21:53:00 +0900",
+        "pubDate": "Mon, 27 Apr 2026 05:04:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "기업은행 9년만 베트남법인 본인가… 금융 위원장 “현지기업 든든한 거점...",
-        "link": "https://www.inthenews.co.kr/news/article.html?no=86084",
+        "title": "농협 은행, 베트남서 ‘ 금융 협약’",
+        "link": "https://n.news.naver.com/mnews/article/662/0000093900?sid=103",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 26 Apr 2026 21:36:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "증권사, 주가 훈풍에 ‘ 금융 지주 효자’ 부상",
-        "link": "https://n.news.naver.com/mnews/article/032/0003442195?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 26 Apr 2026 21:26:00 +0900",
+        "pubDate": "Mon, 27 Apr 2026 05:02:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "생계비 250만원 예금 보호 강화…공모펀드 핵심위험 표준안 마련",
-        "link": "https://www.tfmedia.co.kr/news/article.html?no=204046",
+        "title": "환율 1500원 시대…외환위기와는 다른데, 더 어렵다 [김상철의 경제 톺...",
+        "link": "https://n.news.naver.com/mnews/article/586/0000127838?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Apr 2026 01:50:00 +0900",
+        "pubDate": "Mon, 27 Apr 2026 06:30:00 +0900",
         "summary": "",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
+        "term": null
+      },
+      {
+        "title": "금감원, 금융 소비자리포터 100여명 모집 ...만 18세 이상 누구나",
+        "link": "https://www.tfmedia.co.kr/news/article.html?no=204049",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 27 Apr 2026 06:20:00 +0900",
+        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
+        "term": null
       }
     ]
   }
