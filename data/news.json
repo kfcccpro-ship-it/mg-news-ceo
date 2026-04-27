@@ -1,8 +1,24 @@
 {
-  "updatedAt": "2026-04-27T05:55:33.356Z",
-  "headline": "[포토뉴스]제2회 양양 새마을금고 이사장배 파크골프대회 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-04-27T08:28:26.762Z",
+  "headline": "[포토뉴스] 새마을금고 중앙회 강원지역본부·새강릉 새마을금고 , 홍제지역... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "[포토뉴스] 새마을금고 중앙회 강원지역본부·새강릉 새마을금고 , 홍제지역...",
+        "link": "https://n.news.naver.com/mnews/article/087/0001189722?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 27 Apr 2026 17:16:00 +0900",
+        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "성주 새마을금고 '성마산악회' 20주년 기념 산행 나서",
+        "link": "https://www.seongjuro.co.kr/news/view.php?idx=59956",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 27 Apr 2026 16:52:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "[포토뉴스]제2회 양양 새마을금고 이사장배 파크골프대회",
         "link": "https://n.news.naver.com/mnews/article/087/0001189654?sid=102",
@@ -18,109 +34,112 @@
         "pubDate": "Mon, 27 Apr 2026 14:04:00 +0900",
         "summary": "",
         "term": null
+      }
+    ],
+    "otherFinance": [
+      {
+        "title": "농협 은행, 비대면으로 후계농육성자금 대출",
+        "link": "https://n.news.naver.com/mnews/article/015/0005280203?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 27 Apr 2026 17:26:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
       },
       {
-        "title": "시장금리 상승에 새마을금고 -신협 등 2금융권·지방은행 예금 금리 연 4...",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=302568",
+        "title": "이환주 KB국민 은행 장 \"KB굿잡 취업박람회, 청년·기업 성장의 만남의 장...",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=261688",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Apr 2026 11:20:00 +0900",
-        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
+        "pubDate": "Mon, 27 Apr 2026 17:26:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "농협 은행 , 비대면으로 후계농육성자금 대출",
+        "link": "https://n.news.naver.com/mnews/article/015/0005280203?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 27 Apr 2026 17:26:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "[포토] 신한 은행 , 베트남 중앙 은행 과 K 금융 협력 확대",
+        "link": "https://n.news.naver.com/mnews/article/015/0005280199?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 27 Apr 2026 17:25:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "IBK기업 은행 , 베트남 법인 본인가 취득…10월 출범 목표",
+        "link": "https://n.news.naver.com/mnews/article/215/0001250345?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 27 Apr 2026 17:25:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[은행업계 소식] KB국민은행, 우리은행, NH 농협 은행, 한국산업은행",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=257003",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 27 Apr 2026 17:24:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[컨콜노트] 은행 서 비 은행 으로… 금융 지주 '축 이동'",
+        "link": "https://www.kbanker.co.kr/news/articleView.html?idxno=224796",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 27 Apr 2026 17:24:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "기업 은행 , 베트남 현지법인 본인가 취득…\"10월 공식 출범\"",
+        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1251847",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 27 Apr 2026 17:24:00 +0900",
+        "summary": "",
+        "term": null
+      }
+    ],
+    "macro": [
+      {
+        "title": "보금자리론 금리, 내달 0.25%P 인상",
+        "link": "https://n.news.naver.com/mnews/article/015/0005280197?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 27 Apr 2026 17:24:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "신한銀, 중기대출 증가폭 1위…생산적 금융 으로 리딩뱅크 탈환 조준",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20260427010008620",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 27 Apr 2026 17:16:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "대구경북 금융기관 수신 5개월 만 증가 전환…여신 2개월째 늘어",
+        "link": "https://n.news.naver.com/mnews/article/079/0004141219?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 27 Apr 2026 17:02:00 +0900",
+        "summary": "",
         "term": {
           "word": "Deposit Beta",
           "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
         }
       },
       {
-        "title": "새마을금고 회원도 1년 지나야 '주담대' 가능…우대금리 대폭 축소",
-        "link": "https://n.news.naver.com/mnews/article/421/0008913042?sid=101",
+        "title": "2월 대구·경북 금융기관 수신 증가 전환…여신도 증가세",
+        "link": "https://n.news.naver.com/mnews/article/003/0013912643?sid=102",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Apr 2026 10:40:00 +0900",
+        "pubDate": "Mon, 27 Apr 2026 17:00:00 +0900",
         "summary": "",
-        "term": null
-      }
-    ],
-    "otherFinance": [
-      {
-        "title": "IBK기업 은행 , 베트남 현지법인 본인가 취득…10월 출범 추진",
-        "link": "https://www.thepowernews.co.kr/view.php?ud=202604271451578345de3f0aa1be_7",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Apr 2026 14:54:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "우리 은행 -삼성월렛머니, 모바일 교통가능 충전 기능 도입",
-        "link": "https://n.news.naver.com/mnews/article/018/0006267627?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Apr 2026 14:53:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "울산원예 농협 , 금융 사기 예방·대포통장 근절 홍보 캠페인",
-        "link": "https://n.news.naver.com/mnews/article/662/0000093968?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Apr 2026 14:52:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "신한 은행 , 베트남 경제사절단 참여-현지 금융 ·산업 기관과 협력 기반 ...",
-        "link": "http://www.techholic.co.kr/news/articleView.html?idxno=220964",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Apr 2026 14:52:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "울산원예농협, 금융 사기 예방·대포통장 근절 홍보 캠페인",
-        "link": "https://n.news.naver.com/mnews/article/662/0000093968?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Apr 2026 14:52:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "NH 농협 은행·기술보증기금, 'K-택소노미'로 뭉쳤다… 중소기업 저탄소 ...",
-        "link": "http://www.dailysmart.co.kr/news/articleView.html?idxno=123281",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Apr 2026 14:50:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "NH농협 은행 ·기술보증기금, 'K-택소노미'로 뭉쳤다… 중소기업 저탄소 ...",
-        "link": "http://www.dailysmart.co.kr/news/articleView.html?idxno=123281",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Apr 2026 14:50:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "정부, 중금리대출 31.9조 확대…카드사도 사잇돌 취급 허용",
-        "link": "https://www.ziksir.com/news/articleView.html?idxno=132161",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Apr 2026 14:50:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      }
-    ],
-    "macro": [
-      {
-        "title": "32조원 풀어 '중금리 대출' 문턱 낮춘다…\"중신용자 제도권으로 포용\"",
-        "link": "https://www.newsway.co.kr/news/view?ud=2026042714440301341",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Apr 2026 14:54:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "日銀, 금리 동결 유력…엔화 160엔 앞두고 우에다 '입'에 쏠린 시장",
-        "link": "https://www.ajunews.com/view/20260427144909971",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Apr 2026 14:52:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
       },
       {
         "title": "대구·경북 수신 한 달 만에 반등…기업대출 확대에 여신 증가세 강화",
