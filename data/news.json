@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-27T16:26:37.806Z",
+  "updatedAt": "2026-04-27T19:23:28.030Z",
   "headline": "농협 중앙회, '1분기 종합경영분석회의' 개최 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -38,6 +38,22 @@
     ],
     "otherFinance": [
       {
+        "title": "전국 금융 산업노동조합 iM뱅크대구 은행 지부 ‘나눔리더스클럽’ 가입",
+        "link": "https://n.news.naver.com/mnews/article/002/0002439446?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 28 Apr 2026 04:11:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "5대 금융 지주 증권 계열사, 1분기 순익 6조 실적 견인",
+        "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=311430",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 28 Apr 2026 02:50:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
         "title": "NH 농협 은행, 기보와 한국형 녹색분류체계 기반 업무협약",
         "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2155297",
         "source": "네이버뉴스",
@@ -46,26 +62,7 @@
         "term": null
       },
       {
-        "title": "NH농협 은행 , 기보와 한국형 녹색분류체계 기반 업무협약",
-        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2155297",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 28 Apr 2026 00:06:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
         "title": "5대 지방은행 연체율, 시중은행 3배 웃돈다",
-        "link": "https://n.news.naver.com/mnews/article/025/0003519347?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 28 Apr 2026 00:03:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
-      },
-      {
-        "title": "5대 지방 은행 연체율, 시중 은행 3배 웃돈다",
         "link": "https://n.news.naver.com/mnews/article/025/0003519347?sid=101",
         "source": "네이버뉴스",
         "pubDate": "Tue, 28 Apr 2026 00:03:00 +0900",
@@ -110,10 +107,40 @@
     ],
     "macro": [
       {
-        "title": "KB 금융 , 새희망홀씨 금리 낮추고 ‘긱워커 금융 ’ 키운다",
-        "link": "https://www.kukinews.com/article/view/kuk202604270219",
+        "title": "중저신용자 대출금리, 최대 5.2%P 낮춘다",
+        "link": "https://n.news.naver.com/mnews/article/008/0005350159?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 28 Apr 2026 01:18:00 +0900",
+        "pubDate": "Tue, 28 Apr 2026 04:19:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "NIM",
+          "meaning": "금리 변화가 금융기관 수익성에 미치는 영향을 보여주는 핵심 지표"
+        }
+      },
+      {
+        "title": "\"공동상속인 장모는 치매\" 사망한 아내 예금, 못 찾는 남편 '허탈'",
+        "link": "https://n.news.naver.com/mnews/article/008/0005350158?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 28 Apr 2026 04:16:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "SNS에 금융 기능 담는 머스크…6% 금리 ‘엑스 머니’ 곧 공개",
+        "link": "https://n.news.naver.com/mnews/article/056/0012170817?sid=104",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 28 Apr 2026 03:23:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "SNS에 금융 기능 담는 머스크...6% 금리 '엑스 머니' 곧 공개",
+        "link": "https://n.news.naver.com/mnews/article/052/0002346484?sid=104",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 28 Apr 2026 03:08:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       },
