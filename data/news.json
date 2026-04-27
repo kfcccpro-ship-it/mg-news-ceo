@@ -1,8 +1,16 @@
 {
-  "updatedAt": "2026-04-27T13:55:08.338Z",
-  "headline": "새마을금고 , 1년 미만 회원 주담대 막는다…우대금리도 축소 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-04-27T16:26:37.806Z",
+  "headline": "농협 중앙회, '1분기 종합경영분석회의' 개최 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "농협 중앙회, '1분기 종합경영분석회의' 개최",
+        "link": "http://www.fntimes.com/html/view.php?ud=2026042723172795dd55077bc2_18",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 27 Apr 2026 23:22:00 +0900",
+        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
       {
         "title": "새마을금고 , 1년 미만 회원 주담대 막는다…우대금리도 축소",
         "link": "https://n.news.naver.com/mnews/article/374/0000506949?sid=101",
@@ -30,10 +38,56 @@
     ],
     "otherFinance": [
       {
-        "title": "\"현금 넣어두면 이자 6%\"…머스크 은행 'X 머니' 나온다",
-        "link": "https://n.news.naver.com/mnews/article/018/0006267872?sid=104",
+        "title": "NH 농협 은행, 기보와 한국형 녹색분류체계 기반 업무협약",
+        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2155297",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Apr 2026 22:42:00 +0900",
+        "pubDate": "Tue, 28 Apr 2026 00:06:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "NH농협 은행 , 기보와 한국형 녹색분류체계 기반 업무협약",
+        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2155297",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 28 Apr 2026 00:06:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "5대 지방은행 연체율, 시중은행 3배 웃돈다",
+        "link": "https://n.news.naver.com/mnews/article/025/0003519347?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 28 Apr 2026 00:03:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "5대 지방 은행 연체율, 시중 은행 3배 웃돈다",
+        "link": "https://n.news.naver.com/mnews/article/025/0003519347?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 28 Apr 2026 00:03:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "[ 금융 게시판] 은행권, 생활·시니어·영농·글로벌 금융 …우리·KB· 농협 ...",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=201387",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 27 Apr 2026 23:56:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "농협 경제지주, 영농철 일손돕기 본격 실시",
+        "link": "http://www.fntimes.com/html/view.php?ud=202604272306151793dd55077bc2_18",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 27 Apr 2026 23:10:00 +0900",
         "summary": "",
         "term": null
       },
@@ -52,49 +106,17 @@
         "pubDate": "Mon, 27 Apr 2026 22:15:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "NH농협 금융 새 사외이사 류준열 한국전문경영인학회장",
-        "link": "https://n.news.naver.com/mnews/article/374/0000506976?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Apr 2026 22:15:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "지역 화폐의 진화…“‘신용카드 포인트’로 충전해요”",
-        "link": "https://n.news.naver.com/mnews/article/056/0012170765?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Apr 2026 22:14:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[은행 이모저모] 농협 은행·산업은행·경남은행·광주은행 등",
-        "link": "http://www.bizwnews.com/news/articleView.html?idxno=135135",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Apr 2026 22:12:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[ 은행 이모저모] 농협 은행 ·산업 은행 ·경남 은행 ·광주 은행 등",
-        "link": "http://www.bizwnews.com/news/articleView.html?idxno=135135",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Apr 2026 22:12:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "IBK기업 은행 , 베트남 현지법인 본인가 취득…9년 만의 성과",
-        "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=657377",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Apr 2026 22:08:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "macro": [
+      {
+        "title": "KB 금융 , 새희망홀씨 금리 낮추고 ‘긱워커 금융 ’ 키운다",
+        "link": "https://www.kukinews.com/article/view/kuk202604270219",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 28 Apr 2026 01:18:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
       {
         "title": "대구경북 금융기관 수신 5개월 만 증가 전환…여신 2개월째 늘어",
         "link": "https://n.news.naver.com/mnews/article/079/0004141219?sid=102",
