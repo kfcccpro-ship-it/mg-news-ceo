@@ -1,15 +1,26 @@
 {
-  "updatedAt": "2026-04-27T19:23:28.030Z",
-  "headline": "농협 중앙회, '1분기 종합경영분석회의' 개최 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-04-27T21:53:52.707Z",
+  "headline": "51조 서울시 금고지기 누구? …신한은행 '방패', 우리은행 '창' 대결 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
-        "title": "농협 중앙회, '1분기 종합경영분석회의' 개최",
-        "link": "http://www.fntimes.com/html/view.php?ud=2026042723172795dd55077bc2_18",
+        "title": "51조 서울시 금고지기 누구? …신한은행 '방패', 우리은행 '창' 대결",
+        "link": "https://n.news.naver.com/mnews/article/018/0006267905?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Apr 2026 23:22:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
+        "pubDate": "Tue, 28 Apr 2026 06:01:00 +0900",
+        "summary": "",
         "term": null
+      },
+      {
+        "title": "새마을금고 , 연체율 낮추고 데이터로 관리…'NEW MG' 전환 속도",
+        "link": "http://www.kdfnews.com/news/articleView.html?idxno=182690",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 28 Apr 2026 06:00:00 +0900",
+        "summary": "새마을금고 건전성 관리 흐름과 연결해 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
       },
       {
         "title": "새마을금고 , 1년 미만 회원 주담대 막는다…우대금리도 축소",
@@ -26,122 +37,84 @@
         "pubDate": "Mon, 27 Apr 2026 17:16:00 +0900",
         "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
         "term": null
-      },
-      {
-        "title": "성주 새마을금고 '성마산악회' 20주년 기념 산행 나서",
-        "link": "https://www.seongjuro.co.kr/news/view.php?idx=59956",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Apr 2026 16:52:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "전국 금융 산업노동조합 iM뱅크대구 은행 지부 ‘나눔리더스클럽’ 가입",
-        "link": "https://n.news.naver.com/mnews/article/002/0002439446?sid=102",
+        "title": "은행 연체율 '동시다발 최고치'…금리보다 무서운 '부실 확산'",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1706820",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 28 Apr 2026 04:11:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "5대 금융 지주 증권 계열사, 1분기 순익 6조 실적 견인",
-        "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=311430",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 28 Apr 2026 02:50:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "NH 농협 은행, 기보와 한국형 녹색분류체계 기반 업무협약",
-        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2155297",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 28 Apr 2026 00:06:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "5대 지방은행 연체율, 시중은행 3배 웃돈다",
-        "link": "https://n.news.naver.com/mnews/article/025/0003519347?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 28 Apr 2026 00:03:00 +0900",
-        "summary": "",
+        "pubDate": "Tue, 28 Apr 2026 06:48:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": {
           "word": "Delinquency",
           "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
         }
       },
       {
-        "title": "[ 금융 게시판] 은행권, 생활·시니어·영농·글로벌 금융 …우리·KB· 농협 ...",
-        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=201387",
+        "title": "한국 은행 , 1분기 순이익 3배 증가...고환율 덕 본다",
+        "link": "https://www.tokenpost.kr/news/economy/353932",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Apr 2026 23:56:00 +0900",
+        "pubDate": "Tue, 28 Apr 2026 06:24:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "농협 경제지주, 영농철 일손돕기 본격 실시",
-        "link": "http://www.fntimes.com/html/view.php?ud=202604272306151793dd55077bc2_18",
+        "title": "[기자수첩] 영원한 1위 없다…은행 경쟁 '춘추전국'으로",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=135154",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Apr 2026 23:10:00 +0900",
+        "pubDate": "Tue, 28 Apr 2026 06:22:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "송미령 \" 농협 개혁안 내달 처리 희망…국민 95%가 공감\"",
-        "link": "https://n.news.naver.com/mnews/article/374/0000506977?sid=101",
+        "title": "[기자수첩] 영원한 1위 없다… 은행 경쟁 '춘추전국'으로",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=135154",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Apr 2026 22:26:00 +0900",
+        "pubDate": "Tue, 28 Apr 2026 06:22:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "NH 농협금융 새 사외이사 류준열 한국전문경영인학회장",
-        "link": "https://n.news.naver.com/mnews/article/374/0000506976?sid=101",
+        "title": "[스몰캡 증권사 서바이벌 ④] 군살 빼고 환골탈태한 SK증권, '글로벌·디...",
+        "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=754736",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Apr 2026 22:15:00 +0900",
+        "pubDate": "Tue, 28 Apr 2026 06:16:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[보험사 1분기 GA채널 매출 분석] ⓵생명보험사",
+        "link": "http://www.fins.co.kr/news/articleView.html?idxno=108345",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 28 Apr 2026 06:10:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "'K-증시' 호황에 금융지주 지각변동… 농협금융 , 우리금융 제치고 '4위'",
+        "link": "https://n.news.naver.com/mnews/article/421/0008914946?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 28 Apr 2026 06:10:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "'K-증시' 호황에 금융 지주 지각변동…농협 금융 , 우리 금융 제치고 '4위'",
+        "link": "https://n.news.naver.com/mnews/article/421/0008914946?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 28 Apr 2026 06:10:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "중저신용자 대출금리, 최대 5.2%P 낮춘다",
-        "link": "https://n.news.naver.com/mnews/article/008/0005350159?sid=101",
+        "title": "\"가계 묶자 기업으로\"…4대 금융 , 대출 성장축 이동 본격화",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=738861",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 28 Apr 2026 04:19:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "NIM",
-          "meaning": "금리 변화가 금융기관 수익성에 미치는 영향을 보여주는 핵심 지표"
-        }
-      },
-      {
-        "title": "\"공동상속인 장모는 치매\" 사망한 아내 예금, 못 찾는 남편 '허탈'",
-        "link": "https://n.news.naver.com/mnews/article/008/0005350158?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 28 Apr 2026 04:16:00 +0900",
+        "pubDate": "Tue, 28 Apr 2026 06:22:00 +0900",
         "summary": "",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
-      },
-      {
-        "title": "SNS에 금융 기능 담는 머스크…6% 금리 ‘엑스 머니’ 곧 공개",
-        "link": "https://n.news.naver.com/mnews/article/056/0012170817?sid=104",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 28 Apr 2026 03:23:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "SNS에 금융 기능 담는 머스크...6% 금리 '엑스 머니' 곧 공개",
-        "link": "https://n.news.naver.com/mnews/article/052/0002346484?sid=104",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 28 Apr 2026 03:08:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       },
       {
