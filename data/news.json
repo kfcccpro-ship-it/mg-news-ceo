@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-28T11:06:10.062Z",
+  "updatedAt": "2026-04-28T16:52:15.490Z",
   "headline": "결혼/황원섭(옥천 새마을금고 이사장)씨 여혼 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -10,95 +10,106 @@
         "pubDate": "Tue, 28 Apr 2026 19:38:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "새마을금고 중앙회 구미시협의회, 장애인체육관에 1000만원 후원",
-        "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4071423",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 28 Apr 2026 18:04:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "양극화·고금리에 은행 연체율 ‘역대 최고’ 속출",
-        "link": "https://n.news.naver.com/mnews/article/022/0004124416?sid=101",
+        "title": "일본 은행 , 금리 0.75% 동결...중동 정세와 물가 추이에 주목",
+        "link": "https://www.tokenpost.kr/news/economy/354303",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 28 Apr 2026 20:02:00 +0900",
+        "pubDate": "Wed, 29 Apr 2026 00:54:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "[사설] 은행 연체율 악화일로, ‘중동 쇼크’ 증폭 예방을",
+        "link": "https://n.news.naver.com/mnews/article/011/0004615698?sid=110",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 29 Apr 2026 00:01:00 +0900",
+        "summary": "",
         "term": {
           "word": "Delinquency",
           "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
         }
       },
       {
-        "title": "iM 금융 , 1Q 순익 1545억원…비 은행 비중 34%로 '확대'",
-        "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=657438",
+        "title": "NH 농협금융 , 1분기 \"은행 버티고 증권 날았다\"…수익성 개선세 지속될까",
+        "link": "https://n.news.naver.com/mnews/article/629/0000495472?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 28 Apr 2026 20:02:00 +0900",
+        "pubDate": "Wed, 29 Apr 2026 00:00:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "iM뱅크, '국내 최초 은행 주도' 양자내성 블록체인 PoC 추진",
-        "link": "https://www.dkilbo.com/news/articleView.html?idxno=542808",
+        "title": "NH농협 금융 , 1분기 \" 은행 버티고 증권 날았다\"…수익성 개선세 지속될까",
+        "link": "https://n.news.naver.com/mnews/article/629/0000495472?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 28 Apr 2026 19:56:00 +0900",
+        "pubDate": "Wed, 29 Apr 2026 00:00:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "iM 금융 그룹, 1분기 순이익 1545억…비 은행 부문 성장세 '뚜렷'",
-        "link": "https://www.dkilbo.com/news/articleView.html?idxno=542807",
+        "title": "농협 상호 금융 , 한패스와 외국인 금융 서비스 확대",
+        "link": "https://www.kdpress.co.kr/news/articleView.html?idxno=204796",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 28 Apr 2026 19:56:00 +0900",
+        "pubDate": "Tue, 28 Apr 2026 23:58:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "일본 은행 , 기준금리 0.75%로 동결·성장 전망은 '반토막'...중동 정세 불...",
-        "link": "https://www.betanews.net/article/view/beta202604280090",
+        "title": "NH 농협 생명, 신규직원 대상 데이터 분석 역량 강화 OLAP 교육 실시",
+        "link": "http://www.lawissue.co.kr/view.php?ud=2026042823532895719817d053b9_12",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 28 Apr 2026 19:54:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Forward Guidance",
-          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
-        }
-      },
-      {
-        "title": "IBK기업 은행 , SLL중앙과 K-콘텐츠 동맹... 스포츠 ESG까지 확장한 상생 ...",
-        "link": "https://m.sports.naver.com/general/article/450/0000151259",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 28 Apr 2026 19:49:00 +0900",
+        "pubDate": "Tue, 28 Apr 2026 23:54:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "KB국민 은행 , 글로벌 채권 발행 성공... 역대 최저 가산금리 기록",
-        "link": "https://www.tokenpost.kr/news/economy/354222",
+        "title": "농협 상호 금융 , 한패스와 MOU 체결…외국인 금융 접근성 확대",
+        "link": "http://www.lawissue.co.kr/view.php?ud=2026042823482715439817d053b9_12",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 28 Apr 2026 19:44:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "pubDate": "Tue, 28 Apr 2026 23:50:00 +0900",
+        "summary": "",
         "term": null
       },
       {
-        "title": "농협 경제지주, '도매시장 입주 공판장 사업 활성화 회의' 개최",
-        "link": "http://www.fntimes.com/html/view.php?ud=20260428184220800dd55077bc2_18",
+        "title": "NH 농협 은행 기업 금융 부문, 2분기 사업추진 결의대회 개최",
+        "link": "http://www.lawissue.co.kr/view.php?ud=2026042823472487149817d053b9_12",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 28 Apr 2026 19:40:00 +0900",
+        "pubDate": "Tue, 28 Apr 2026 23:48:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "사업비 1.4조 '용인 AI 데이터센터' 다음달 첫삽…7100억 본PF 조달",
-        "link": "https://n.news.naver.com/mnews/article/018/0006268617?sid=101",
+        "title": "대출금리 오르는데 예금금리는 ‘뚝’… 가계 이자부담만 커졌다",
+        "link": "https://n.news.naver.com/mnews/article/020/0003715995?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 28 Apr 2026 20:01:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
+        "pubDate": "Wed, 29 Apr 2026 00:32:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "NIM",
+          "meaning": "금리 변화가 금융기관 수익성에 미치는 영향을 보여주는 핵심 지표"
+        }
+      },
+      {
+        "title": "커져가는 영끌족 비명… 서울 주담대 연체율 최고점 육박",
+        "link": "https://n.news.naver.com/mnews/article/005/0001845991?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 29 Apr 2026 00:11:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "전남 서남부, 조선 호황 속 체감경기는 '냉기'…내수 양극화 심화",
+        "link": "http://www.gjdream.com/news/articleView.html?idxno=669017",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 29 Apr 2026 00:02:00 +0900",
+        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
         "term": null
       },
       {
