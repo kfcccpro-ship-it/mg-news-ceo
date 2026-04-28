@@ -1,13 +1,21 @@
 {
-  "updatedAt": "2026-04-28T19:42:20.228Z",
-  "headline": "독일 760조 ‘황금 금고’ 열리나… 경제난 속 금 보유고 매각론 ‘확산... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-04-28T21:58:39.923Z",
+  "headline": "시중은행 금고지기 쟁탈전 총력… 눈물겨운 공공자금 확보전 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
-        "title": "독일 760조 ‘황금 금고’ 열리나… 경제난 속 금 보유고 매각론 ‘확산...",
-        "link": "https://www.g-enews.com/view.php?ud=202604282142184582bd56fbc3c_1",
+        "title": "시중은행 금고지기 쟁탈전 총력… 눈물겨운 공공자금 확보전",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092161141",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 29 Apr 2026 03:50:00 +0900",
+        "pubDate": "Wed, 29 Apr 2026 06:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "새마을금고 재단, 전국 80개 사회복지시설에 4억원 지원",
+        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=687336",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 29 Apr 2026 06:00:00 +0900",
         "summary": "",
         "term": null
       },
@@ -22,26 +30,10 @@
     ],
     "otherFinance": [
       {
-        "title": "월가 은행 들, 美 국채 '싹쓸이' 나섰다… 내 계좌 흔들 '규제 변화'의 정...",
-        "link": "https://www.g-enews.com/view.php?ud=202604281727002302fbbec65dfb_1",
+        "title": "기업 은행 中企 부동산업 연체율 13년 만에 최고",
+        "link": "https://n.news.naver.com/mnews/article/374/0000507281?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 29 Apr 2026 03:16:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "사망 증명 못 하면 돈 못 준다는 은행 …결국 누나 유골 꺼내들었다",
-        "link": "https://n.news.naver.com/mnews/article/011/0004615707?sid=104",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 29 Apr 2026 03:11:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[사설] 은행 연체율 악화일로, ‘중동 쇼크’ 증폭 예방을",
-        "link": "https://n.news.naver.com/mnews/article/011/0004615698?sid=110",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 29 Apr 2026 00:01:00 +0900",
+        "pubDate": "Wed, 29 Apr 2026 06:42:00 +0900",
         "summary": "",
         "term": {
           "word": "Delinquency",
@@ -49,47 +41,71 @@
         }
       },
       {
-        "title": "NH 농협금융 , 1분기 \"은행 버티고 증권 날았다\"…수익성 개선세 지속될까",
-        "link": "https://n.news.naver.com/mnews/article/629/0000495472?sid=101",
+        "title": "'개혁'과 '관치 금융 ' 사이 놓인 농협 법",
+        "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=234052",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 29 Apr 2026 00:00:00 +0900",
+        "pubDate": "Wed, 29 Apr 2026 06:34:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "농협 상호 금융 , 한패스와 외국인 금융 서비스 확대",
-        "link": "https://www.kdpress.co.kr/news/articleView.html?idxno=204796",
+        "title": "우리투자증권, 1조 증자로 종투사 속도…수익성은 과제",
+        "link": "https://www.ngetnews.com/news/articleView.html?idxno=550079",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 28 Apr 2026 23:58:00 +0900",
+        "pubDate": "Wed, 29 Apr 2026 06:26:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "NH 농협 생명, 신규직원 대상 데이터 분석 역량 강화 OLAP 교육 실시",
-        "link": "http://www.lawissue.co.kr/view.php?ud=2026042823532895719817d053b9_12",
+        "title": "“투자도 어렵네”… 금융 지주 보험계열사 실적 ‘뚝’",
+        "link": "https://www.kukinews.com/article/view/kuk202604280213",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 28 Apr 2026 23:54:00 +0900",
+        "pubDate": "Wed, 29 Apr 2026 06:02:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "농협 상호 금융 , 한패스와 MOU 체결…외국인 금융 접근성 확대",
-        "link": "http://www.lawissue.co.kr/view.php?ud=2026042823482715439817d053b9_12",
+        "title": "베트남 공략하는 韓 은행… “이자 수익 의존도 너무 높아” 지적도",
+        "link": "https://n.news.naver.com/mnews/article/366/0001160518?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 28 Apr 2026 23:50:00 +0900",
+        "pubDate": "Wed, 29 Apr 2026 06:01:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "NH 농협 은행 기업 금융 부문, 2분기 사업추진 결의대회 개최",
-        "link": "http://www.lawissue.co.kr/view.php?ud=2026042823472487149817d053b9_12",
+        "title": "\"변호사 합격하자마자 1억 마통\"…은행들 전문직 고객 잡기 '특판 경쟁...",
+        "link": "https://n.news.naver.com/mnews/article/421/0008917549?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 28 Apr 2026 23:48:00 +0900",
+        "pubDate": "Wed, 29 Apr 2026 06:01:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "“빚갚을 여력 없어요” 밑바닥서 위험신호 울린다···카드론 넘어 은...",
+        "link": "https://n.news.naver.com/mnews/article/032/0003442734?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 29 Apr 2026 06:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[은행계 생보사 성적표] KB라이프, K-ICS 278% 고공행진…동양도 상승세",
+        "link": "https://www.fetv.co.kr/news/articleView.html?idxno=301195",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 29 Apr 2026 06:00:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
+      {
+        "title": "'중동발 위기 선제 대응' 옥천군, 기업 대출 '1년 유예·이자 3% 지원'",
+        "link": "https://www.bzeronews.com/news/articleView.html?idxno=816807",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 29 Apr 2026 06:54:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "대출금리 오르는데 예금금리는 ‘뚝’… 가계 이자부담만 커졌다",
         "link": "https://n.news.naver.com/mnews/article/020/0003715995?sid=101",
