@@ -1,18 +1,10 @@
 {
-  "updatedAt": "2026-04-30T16:19:19.967Z",
+  "updatedAt": "2026-04-30T19:22:44.047Z",
   "headline": "'51조 서울시 금고' 두고 신한·우리은행 맞대결 예고 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
         "title": "'51조 서울시 금고' 두고 신한·우리은행 맞대결 예고",
-        "link": "https://www.theguru.co.kr/news/article.html?no=101034",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 01 May 2026 00:02:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "'51조 서울시 금고' 두고 신한·우리 은행 맞대결 예고",
         "link": "https://www.theguru.co.kr/news/article.html?no=101034",
         "source": "네이버뉴스",
         "pubDate": "Fri, 01 May 2026 00:02:00 +0900",
@@ -54,10 +46,18 @@
     ],
     "otherFinance": [
       {
-        "title": "우리 은행 인니, 현지 국군과 협력 연장…기관 금융 확대",
-        "link": "https://www.theguru.co.kr/news/article.html?no=101023",
+        "title": "미래에셋·한국투자증권, 종합투자계좌 성과 공개…기업 금융 자산 투자...",
+        "link": "https://www.tokenpost.kr/news/economy/355240",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 01 May 2026 00:02:00 +0900",
+        "pubDate": "Fri, 01 May 2026 03:42:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "문페이·우리 은행 , 원화 스테이블코인 인프라 조성 협력을 위한 MOU 체결",
+        "link": "https://n.news.naver.com/mnews/article/144/0001113060?sid=105",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 01 May 2026 03:18:00 +0900",
         "summary": "",
         "term": null
       },
@@ -112,19 +112,22 @@
     ],
     "macro": [
       {
+        "title": "美연준 “인플레 수준 높다” 3연속 금리동결",
+        "link": "https://n.news.naver.com/mnews/article/020/0003716610?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 01 May 2026 01:43:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+        }
+      },
+      {
         "title": "라가르드 \"정보 불충분…금리 인상 가능성 장시간 심도 있게 논의\"",
         "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4412787",
         "source": "네이버뉴스",
         "pubDate": "Fri, 01 May 2026 01:06:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "160엔 넘은 달러·엔 환율…엔화약세 지속 땐 원화 부담",
-        "link": "https://n.news.naver.com/mnews/article/025/0003520403?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 01 May 2026 00:01:00 +0900",
-        "summary": "",
         "term": null
       },
       {
