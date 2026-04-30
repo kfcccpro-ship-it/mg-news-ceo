@@ -1,182 +1,178 @@
 {
-  "updatedAt": "2026-04-29T21:58:52.707Z",
-  "headline": "괴산군, 새마을금고 ·신협과 지방보조금 전용계좌 협약 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-04-30T02:56:29.461Z",
+  "headline": "[금융권 책무구조도] '단임제 개정' 새마을금고 중앙회 \"부실가능성 선제... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
-        "title": "괴산군, 새마을금고 ·신협과 지방보조금 전용계좌 협약",
-        "link": "http://www.lawissue.co.kr/view.php?ud=202604291606388499edd30pn2gj_12",
+        "title": "[금융권 책무구조도] '단임제 개정' 새마을금고 중앙회 \"부실가능성 선제...",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7161990",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Apr 2026 02:22:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "포항 양학동 신포항 새마을금고 , 따뜻한 온기 전달",
-        "link": "https://www.ksmnews.co.kr/news/view.php?idx=603070",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 29 Apr 2026 20:44:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "MG양곡 새마을금고 , 울·경 경영평가 '혁신경영 우수상' 수상",
-        "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=636039",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 29 Apr 2026 20:10:00 +0900",
+        "pubDate": "Thu, 30 Apr 2026 11:44:00 +0900",
         "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "새마을금고 , 보안 고도화 속 AI 탐지 확대…기존 시스템에 '지능형 대응...",
+        "link": "https://www.e-science.co.kr/news/articleView.html?idxno=129626",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 30 Apr 2026 11:44:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "괴산군 개별공시지가 결정 공시… 최고가 괴산읍 새마을금고 부지",
+        "link": "https://www.jbnews.com/news/articleView.html?idxno=1503306",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 30 Apr 2026 11:36:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "새마을금고 재단, 복지시설 80곳에 4억 지원…'맞춤형 복지' 운영",
+        "link": "https://n.news.naver.com/mnews/article/018/0006269874?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 30 Apr 2026 11:09:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "서울누리 새마을금고 , 돈암2동 어르신 300명에 삼계탕 나눔",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3570329",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 30 Apr 2026 10:04:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "\"어르신들 위해 새마을금고 가 나섰다\" 성북구 서울누리 새마을금고 , 28일...",
+        "link": "https://www.cnbizm.com/news/articleView.html?idxno=301749",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 30 Apr 2026 10:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "\"서민금융 늘리면 예대율 푼다\"…정부, 새마을금고 ·농협에 '규제 인센...",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=265619",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 30 Apr 2026 09:26:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "새마을금고 '서민금융' 마비…가계대출 규제 직격탄",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=515937",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 30 Apr 2026 08:36:00 +0900",
+        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
         "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "[굿모닝 금융 ] 신한 금융 ·우리 금융 ·산업 은행 ·기업 은행 등",
-        "link": "http://www.bizwnews.com/news/articleView.html?idxno=135429",
+        "title": "[NH증권 리더십 재편] 지난 CEO 면면 보니 '확장형' 연속",
+        "link": "https://n.news.naver.com/mnews/article/293/0000083764?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Apr 2026 06:48:00 +0900",
+        "pubDate": "Thu, 30 Apr 2026 11:52:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "“코스피 7000 이상 더 간다”…ISA 국내주식 비중 늘리는 은행 권",
-        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202604291356519630138",
+        "title": "우리 은행 , '미국 투자설명회' 개최…K-기업 해외진출 성공 공식 쓴다",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=265656",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Apr 2026 06:40:00 +0900",
+        "pubDate": "Thu, 30 Apr 2026 11:52:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "대기업 늘리고 중기 줄이고…은행권 기업대출 전략 ‘온도 차’",
-        "link": "https://www.kukinews.com/article/view/kuk202604290240",
+        "title": "연준 균열에 금리 상승 압력 … 카드채 4%돌파·만기 17조 '이중 부담'",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/30/2026043000142.html",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Apr 2026 06:28:00 +0900",
+        "pubDate": "Thu, 30 Apr 2026 11:50:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+        }
+      },
+      {
+        "title": "농협 상호 금융 , 2개월간 ATM 수수료 전면 면제",
+        "link": "https://www.m-economynews.com/news/article.html?no=66884",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 30 Apr 2026 11:48:00 +0900",
+        "summary": "",
         "term": null
       },
       {
-        "title": "대기업 늘리고 중기 줄이고… 은행 권 기업대출 전략 ‘온도 차’",
-        "link": "https://www.kukinews.com/article/view/kuk202604290240",
+        "title": "인터넷은행, 정기예금 금리 3%대 재진입…시중 자금 흡수할까",
+        "link": "https://www.mediapen.com/news/view/1096561",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Apr 2026 06:28:00 +0900",
+        "pubDate": "Thu, 30 Apr 2026 11:44:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
       },
       {
-        "title": "[소비자분쟁 The50 ⑰] 실손보험료 3년 만에 3배 인상 '분노'...해지할 수...",
-        "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=755035",
+        "title": "NH 농협 은행, 변동성 장세 속 '4000억원' 영구채 발행 성공",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=253890",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Apr 2026 06:20:00 +0900",
+        "pubDate": "Thu, 30 Apr 2026 11:40:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[2026 저축 은행 ] 웰컴저축 은행 손대희·박종성 체제, 투자 금융 ·AI대전환...",
-        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=353329",
+        "title": "[은행가] 하나은행 HD건설기계-신용보증기금 업무협약 外",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=736007",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Apr 2026 06:18:00 +0900",
+        "pubDate": "Thu, 30 Apr 2026 11:38:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "1분기 삐끗한 우리 은행 ·기업 은행 …'비 은행 ·글로벌'로 승부수 던진다",
-        "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=755020",
+        "title": "NH 농협 은행, 우리쌀 소비 촉진 위한 '농식품 바우처 따뜻한 쌀밥 2만 그...",
+        "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=424531",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Apr 2026 06:10:00 +0900",
+        "pubDate": "Thu, 30 Apr 2026 11:34:00 +0900",
         "summary": "",
-        "term": null
-      },
-      {
-        "title": "인뱅 금리가 더 비싸네...주담대 금리 최고 4.85%, 시중 은행 보다 높아",
-        "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=754948",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Apr 2026 06:10:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "[DCM] 이마트 3.6%, SK지오센트릭 4.2%…같은 AA-인데 금리가 다른 이유 ...",
-        "link": "http://www.fntimes.com/html/view.php?ud=202604291752596307141825007d_18",
+        "title": "한은 \"차기 연준 의장 취임 이후 美 통화정책 경로 불확실성 높아져\"",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4412640",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Apr 2026 06:22:00 +0900",
+        "pubDate": "Thu, 30 Apr 2026 11:52:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "유동성 말라버린 비트코인, 5월 추가 폭락의 전조현상인가",
-        "link": "http://coinreaders.com/233703",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Apr 2026 06:16:00 +0900",
-        "summary": "",
         "term": {
-          "word": "LCR",
-          "meaning": "단기 유동성 충격 대응 능력을 보여주는 지표"
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
         }
       },
       {
-        "title": "신용대출 막히니 결국...급전·빚투에 청약통장 담보대출 4조 넘어",
-        "link": "https://n.news.naver.com/mnews/article/009/0005673474?sid=101",
+        "title": "美 금리 동결 속 중동 리스크 고조…정부 \"24시간 시장 대응체계 가동\"",
+        "link": "https://n.news.naver.com/mnews/article/088/0001007911?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Apr 2026 06:04:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "포용적 금융 늘린 상호금융 조합, 대출 규제 완화해준다",
-        "link": "https://n.news.naver.com/mnews/article/366/0001160915?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Apr 2026 06:01:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "포용적 금융 늘린 상호 금융 조합, 대출 규제 완화해준다",
-        "link": "https://n.news.naver.com/mnews/article/366/0001160915?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Apr 2026 06:01:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "부동산에 쏠린 상호금융, 지역·서민 대출 늘리면 규제 완화",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1707121",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Apr 2026 06:00:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "'가계대출 셧다운' 상호금융에 포용금융 압박…\"인센티브 늘려야\"",
-        "link": "https://n.news.naver.com/mnews/article/421/0008920014?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Apr 2026 06:00:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "금융 위, 상호 금융 규제비율 산정시 서민 대출 인센티브 검토",
-        "link": "https://n.news.naver.com/mnews/article/001/0016051534?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Apr 2026 06:00:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "'가계대출 셧다운' 상호 금융 에 포용 금융 압박…\"인센티브 늘려야\"",
-        "link": "https://n.news.naver.com/mnews/article/421/0008920014?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Apr 2026 06:00:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "\"이자 한 푼이라도 아끼자\"…10명 중 6명은 '변동금리'",
-        "link": "https://n.news.naver.com/mnews/article/003/0013918464?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Apr 2026 06:00:00 +0900",
+        "pubDate": "Thu, 30 Apr 2026 11:50:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
+      },
+      {
+        "title": "2월 경남 금융기관 여수신 모두 증가",
+        "link": "https://www.knnews.co.kr/news/articleView.php?idxno=1540708",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 30 Apr 2026 11:02:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
       }
     ]
   }
