@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-30T19:22:44.047Z",
+  "updatedAt": "2026-04-30T21:56:03.254Z",
   "headline": "'51조 서울시 금고' 두고 신한·우리은행 맞대결 예고 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -46,19 +46,54 @@
     ],
     "otherFinance": [
       {
-        "title": "미래에셋·한국투자증권, 종합투자계좌 성과 공개…기업 금융 자산 투자...",
-        "link": "https://www.tokenpost.kr/news/economy/355240",
+        "title": "웰컴저축 은행 “생계비통장, 비대면으로 가입”",
+        "link": "https://www.g-enews.com/view.php?ud=202604301659515855a6e8311f64_1",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 01 May 2026 03:42:00 +0900",
+        "pubDate": "Fri, 01 May 2026 06:26:00 +0900",
+        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "저축 은행 '가짜 1000억 매출채권' 사기…상생 금융 시스템 허점 뚫렸다",
+        "link": "https://www.newspim.com/news/view/20260430001294",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 01 May 2026 06:09:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "문페이·우리 은행 , 원화 스테이블코인 인프라 조성 협력을 위한 MOU 체결",
-        "link": "https://n.news.naver.com/mnews/article/144/0001113060?sid=105",
+        "title": "“딸 어린이집 하원 챙기고, 러닝모임 참석” 은행 주4.9일제가 만든 ‘...",
+        "link": "https://n.news.naver.com/mnews/article/018/0006270898?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 01 May 2026 03:18:00 +0900",
+        "pubDate": "Fri, 01 May 2026 06:01:00 +0900",
         "summary": "",
+        "term": null
+      },
+      {
+        "title": "증권가, 커지는 '연내 기준금리 인상' 전망…\"2회 상향도\"",
+        "link": "https://n.news.naver.com/mnews/article/001/0016054087?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 01 May 2026 06:01:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+        }
+      },
+      {
+        "title": "중국 금융 당국 “증권사 성과급 40% 나중에 지급하라”···보너스 과열...",
+        "link": "https://n.news.naver.com/mnews/article/011/0004616595?sid=104",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 01 May 2026 06:01:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "은행 예대금리차 1.41~1.64%P… 최근 1년 사이 최대 수준 격차 [경제 레이...",
+        "link": "https://n.news.naver.com/mnews/article/022/0004125038?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 01 May 2026 05:02:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
@@ -76,58 +111,34 @@
         "pubDate": "Thu, 30 Apr 2026 22:44:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "농협 은행 경북본부, ‘미래 향해 달리는 따뜻한 경제버스’ 운영",
-        "link": "https://n.news.naver.com/mnews/article/662/0000094289?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Apr 2026 22:34:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "농협 문경시지부, 보이스피싱 피해 예방교육",
-        "link": "https://n.news.naver.com/mnews/article/662/0000094287?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Apr 2026 22:30:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "남동 농협 영농지원 및 농촌일손돕기봉사단 발대식 개최",
-        "link": "http://www.fntimes.com/html/view.php?ud=202604302203082820dd55077bc2_18",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Apr 2026 22:16:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "인천 농협 여직원 모임, 사랑의 빵·우리 쌀 나눔 실천",
-        "link": "http://www.fntimes.com/html/view.php?ud=202604302208255911dd55077bc2_18",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Apr 2026 22:12:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "macro": [
       {
-        "title": "美연준 “인플레 수준 높다” 3연속 금리동결",
-        "link": "https://n.news.naver.com/mnews/article/020/0003716610?sid=101",
+        "title": "한은, 하반기 금리인상 부상...미·일 동결에 긴축신호 강화",
+        "link": "https://www.newspim.com/news/view/20260430001303",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 01 May 2026 01:43:00 +0900",
+        "pubDate": "Fri, 01 May 2026 06:21:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": {
-          "word": "Forward Guidance",
-          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+          "word": "Terminal Rate",
+          "meaning": "기준금리 인상 사이클의 최종 수준에 대한 시장 기대"
         }
       },
       {
-        "title": "라가르드 \"정보 불충분…금리 인상 가능성 장시간 심도 있게 논의\"",
-        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4412787",
+        "title": "가계대출 막고 서민대출은 늘려라?… 당국 ‘엇박자 규제’에 상호금융...",
+        "link": "https://n.news.naver.com/mnews/article/081/0003640365?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 01 May 2026 01:06:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "pubDate": "Fri, 01 May 2026 05:05:00 +0900",
+        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "가계대출 막고 서민대출은 늘려라?… 당국 ‘엇박자 규제’에 상호 금융 ...",
+        "link": "https://n.news.naver.com/mnews/article/081/0003640365?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 01 May 2026 05:05:00 +0900",
+        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
         "term": null
       },
       {
