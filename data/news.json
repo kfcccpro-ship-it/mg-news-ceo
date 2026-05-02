@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-02T05:37:29.649Z",
+  "updatedAt": "2026-05-02T07:45:05.044Z",
   "headline": "울산미래 새마을금고 , 새마을금고 기본이념 실천 제2기ESG운영위원회 발... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -22,42 +22,21 @@
     ],
     "otherFinance": [
       {
-        "title": "日 대미투자 첫발부터 민간 은행 부담 부각",
-        "link": "https://www.m-i.kr/news/articleView.html?idxno=1369535",
+        "title": "32년 은행 맨이 왜 이런 일을? “뭘 모르네” 월 300 인생 직장",
+        "link": "https://n.news.naver.com/mnews/article/025/0003520613?sid=102",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 02 May 2026 14:36:00 +0900",
+        "pubDate": "Sat, 02 May 2026 16:26:00 +0900",
         "summary": "",
-        "term": null
+        "term": {
+          "word": "LCR",
+          "meaning": "단기 유동성 충격 대응 능력을 보여주는 지표"
+        }
       },
       {
-        "title": "탄소배출권도 블록체인으로…토큰증권 새 먹거리 되나",
-        "link": "https://www.newsway.co.kr/news/view?ud=2026043010362903042",
+        "title": "한국투자증권, 디폴트옵션 수익률 '독주'...3년 성과 90% 돌파",
+        "link": "https://www.g-enews.com/view.php?ud=20260502160010764df2f5bc1bc_1",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 02 May 2026 14:04:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "\"용돈으로 주식 사는 시대\"…증권사, 어린이 고객 잡기 '분주'",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1363295",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 02 May 2026 14:00:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "SBI저축 은행 , 사이다뱅크 개편…고객 편의성 강화",
-        "link": "https://n.news.naver.com/mnews/article/003/0013922380?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 02 May 2026 14:00:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "'생산적 금융 '의 역설…대기업만 찾는 은행 , 건전성 오히려 '빨간불'",
-        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=839588",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 02 May 2026 14:00:00 +0900",
+        "pubDate": "Sat, 02 May 2026 16:08:00 +0900",
         "summary": "",
         "term": null
       },
@@ -84,15 +63,58 @@
         "pubDate": "Sat, 02 May 2026 09:00:00 +0900",
         "summary": "",
         "term": null
+      },
+      {
+        "title": "[기획] 은행권, 베트남 금융 시장 공략 속도…QR결제·인프라 금융 전방위...",
+        "link": "https://www.sentv.co.kr/article/view/sentv202604300090",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 02 May 2026 07:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "‘급전 창구’ 막혔다…당국 압박에 보험 약관대출 8000억 증발",
+        "link": "https://www.ceoscoredaily.com/page/view/2026042709142344620",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 02 May 2026 07:00:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "경남 북창원 농협 , ‘치매극복선도단체’ 선정",
+        "link": "https://n.news.naver.com/mnews/article/662/0000094321?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 02 May 2026 06:01:00 +0900",
+        "summary": "",
+        "term": null
       }
     ],
     "macro": [
       {
-        "title": "중동분쟁에도 '증시 불장'···체감경기와 온도차",
-        "link": "https://www.smartbizn.com/news/articleView.html?idxno=143055",
+        "title": "\"연말 日 기준금리 1.25%→1.50%…거세지는 인플레 압박\"[주末머니]",
+        "link": "https://n.news.naver.com/mnews/article/277/0005757723?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 02 May 2026 14:00:00 +0900",
-        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
+        "pubDate": "Sat, 02 May 2026 15:03:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+        }
+      },
+      {
+        "title": "다음 주 물가 발표… 유가 상승분 현실화되나",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3397961",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 02 May 2026 15:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[2026 1분기실적] 케이뱅크 순익 2배↑…기업대출 호조에 이자익 ‘쑥’",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=86373",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 02 May 2026 14:50:00 +0900",
+        "summary": "",
         "term": null
       },
       {
