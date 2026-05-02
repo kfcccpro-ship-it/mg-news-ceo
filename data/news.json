@@ -1,18 +1,41 @@
 {
-  "updatedAt": "2026-05-02T13:13:04.842Z",
-  "headline": "울산미래 새마을금고 , 새마을금고 기본이념 실천 제2기ESG운영위원회 발... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-05-02T15:47:17.733Z",
+  "headline": "[ 은행 이모저모] 산업 은행 ·기업 은행 ·광주 은행 등 등 타 금융권 동향을 비교해볼 필요가 있습니다.",
   "categories": {
-    "mg": [
+    "mg": [],
+    "otherFinance": [
       {
-        "title": "울산미래 새마을금고 , 새마을금고 기본이념 실천 제2기ESG운영위원회 발...",
-        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1055655",
+        "title": "[ 은행 이모저모] 산업 은행 ·기업 은행 ·광주 은행 등",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=135564",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Apr 2026 21:32:00 +0900",
+        "pubDate": "Sun, 03 May 2026 00:36:00 +0900",
         "summary": "",
         "term": null
-      }
-    ],
-    "otherFinance": [
+      },
+      {
+        "title": "은행 권, 청년층 취업난 해소 나섰다…인재양성· 금융 지원 초점",
+        "link": "https://www.theguru.co.kr/news/article.html?no=101159",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 03 May 2026 00:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "은행 vs 크립토 싸움 끝...이쟈는 법안 처리 시간 문제",
+        "link": "http://coinreaders.com/234226",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 02 May 2026 23:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "KB국민 은행 , 요양기관 디지털 혁신 돕는다",
+        "link": "https://www.kgnews.co.kr/news/article.html?no=894088",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 02 May 2026 22:36:00 +0900",
+        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
+        "term": null
+      },
       {
         "title": "문페이-우리 은행 , 원화 스테이블코인 인프라 조성 협력 MOU 체결",
         "link": "https://www.hellot.net/news/article.html?no=112403",
@@ -26,30 +49,6 @@
         "link": "https://n.news.naver.com/mnews/article/056/0012173978?sid=101",
         "source": "네이버뉴스",
         "pubDate": "Sat, 02 May 2026 21:35:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[ 금융 신상] 국민 은행 '종합소득세 신고 지원 서비스' 출시, iM뱅크 'iM뱅...",
-        "link": "http://www.bizwnews.com/news/articleView.html?idxno=135558",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 02 May 2026 21:22:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "핀테크 코인 투자, XRP와 하이퍼리퀴드 중 승자는?",
-        "link": "http://coinreaders.com/234206",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 02 May 2026 20:30:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "KB국민 은행 -효성에프엠에스, 소상공인 포용 금융 실천에 ‘맞손’",
-        "link": "https://www.kgnews.co.kr/news/article.html?no=894082",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 02 May 2026 20:26:00 +0900",
         "summary": "",
         "term": null
       },
@@ -68,28 +67,9 @@
         "pubDate": "Sat, 02 May 2026 18:12:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "'1석 2조' 예·적금 통장 선물하세요···은행권, 어린이 특화상품 '봇...",
-        "link": "https://www.seoulfn.com/news/articleView.html?idxno=627803",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 02 May 2026 13:00:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "macro": [
-      {
-        "title": "통화정책 변수로 떠오른 국제 유가",
-        "link": "https://www.bigtanews.co.kr/article/view/big202605020004",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 02 May 2026 20:32:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Forward Guidance",
-          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
-        }
-      },
       {
         "title": "\"지금이 목돈 예치 적기?\"…2금융권 연 4% 예금 눈앞",
         "link": "https://www.asiatime.co.kr/article/20260427500394",
@@ -107,14 +87,6 @@
         "source": "네이버뉴스",
         "pubDate": "Sat, 02 May 2026 10:00:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "가계대출 막고 서민대출은 늘려라?… 당국 ‘엇박자 규제’에 상호금융...",
-        "link": "https://n.news.naver.com/mnews/article/081/0003640365?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 01 May 2026 05:05:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
         "term": null
       }
     ]
