@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-02T07:45:05.044Z",
+  "updatedAt": "2026-05-02T09:58:21.479Z",
   "headline": "울산미래 새마을금고 , 새마을금고 기본이념 실천 제2기ESG운영위원회 발... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -22,6 +22,30 @@
     ],
     "otherFinance": [
       {
+        "title": "[카드레터] 삼성카드 '농가 일손돕기 봉사활동', 신한카드 '솔라나와 업...",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=135585",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 02 May 2026 18:42:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "괴산 불정 농협 금융 사기예방 합동 캠페인",
+        "link": "http://www.cctimes.kr/news/articleView.html?idxno=904835",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 02 May 2026 18:12:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "김용범 \" 금융 은 도넛구조… 은행 회피전략이 만든 기형적 시장\"",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4412879",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 02 May 2026 16:52:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
         "title": "32년 은행 맨이 왜 이런 일을? “뭘 모르네” 월 300 인생 직장",
         "link": "https://n.news.naver.com/mnews/article/025/0003520613?sid=102",
         "source": "네이버뉴스",
@@ -31,14 +55,6 @@
           "word": "LCR",
           "meaning": "단기 유동성 충격 대응 능력을 보여주는 지표"
         }
-      },
-      {
-        "title": "한국투자증권, 디폴트옵션 수익률 '독주'...3년 성과 90% 돌파",
-        "link": "https://www.g-enews.com/view.php?ud=20260502160010764df2f5bc1bc_1",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 02 May 2026 16:08:00 +0900",
-        "summary": "",
-        "term": null
       },
       {
         "title": "'1석 2조' 예·적금 통장 선물하세요···은행권, 어린이 특화상품 '봇...",
@@ -71,50 +87,15 @@
         "pubDate": "Sat, 02 May 2026 07:02:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "‘급전 창구’ 막혔다…당국 압박에 보험 약관대출 8000억 증발",
-        "link": "https://www.ceoscoredaily.com/page/view/2026042709142344620",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 02 May 2026 07:00:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "경남 북창원 농협 , ‘치매극복선도단체’ 선정",
-        "link": "https://n.news.naver.com/mnews/article/662/0000094321?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 02 May 2026 06:01:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "macro": [
       {
-        "title": "\"연말 日 기준금리 1.25%→1.50%…거세지는 인플레 압박\"[주末머니]",
-        "link": "https://n.news.naver.com/mnews/article/277/0005757723?sid=101",
+        "title": "김용범 \"아래는 깎아지른 듯한 고금리 절벽\"… 금융 시스템 성찰론",
+        "link": "https://n.news.naver.com/mnews/article/119/0003086784?sid=100",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 02 May 2026 15:03:00 +0900",
+        "pubDate": "Sat, 02 May 2026 17:42:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Forward Guidance",
-          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
-        }
-      },
-      {
-        "title": "다음 주 물가 발표… 유가 상승분 현실화되나",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3397961",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 02 May 2026 15:00:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[2026 1분기실적] 케이뱅크 순익 2배↑…기업대출 호조에 이자익 ‘쑥’",
-        "link": "https://www.inthenews.co.kr/news/article.html?no=86373",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 02 May 2026 14:50:00 +0900",
-        "summary": "",
         "term": null
       },
       {
