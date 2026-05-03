@@ -1,11 +1,27 @@
 {
-  "updatedAt": "2026-05-03T06:08:32.951Z",
-  "headline": "2026 강원 새마을금고 경영평가 연도대상 개최…춘천동부 새마을금고 대... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-05-03T10:05:04.977Z",
+  "headline": "2026 광주전남 새마을금고 경영평가 연도대상 개최 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
+        "title": "2026 광주전남 새마을금고 경영평가 연도대상 개최",
+        "link": "http://www.kwangju.co.kr/article.php?aid=1777794300798431028",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 03 May 2026 16:48:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[포토뉴스]춘천동부 새마을금고 , 경영평가 연도대상 수상",
+        "link": "https://n.news.naver.com/mnews/article/087/0001190742?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 03 May 2026 15:25:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
         "title": "2026 강원 새마을금고 경영평가 연도대상 개최…춘천동부 새마을금고 대...",
-        "link": "https://n.news.naver.com/mnews/article/087/0001190733?sid=101",
+        "link": "https://n.news.naver.com/mnews/article/087/0001190733?sid=102",
         "source": "네이버뉴스",
         "pubDate": "Sun, 03 May 2026 14:20:00 +0900",
         "summary": "",
@@ -14,18 +30,37 @@
     ],
     "otherFinance": [
       {
-        "title": "KB 금융 , 美 블록체인 전문 펀드 판테라 캐피탈과 전략적 협업",
-        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=303684",
+        "title": "NH 농협 생명, 봉사 릴레이로 '상생 금융 ' 열기",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=301560",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 03 May 2026 15:02:00 +0900",
+        "pubDate": "Sun, 03 May 2026 18:54:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "카드론 막히고 비용은 그대로…카드사, 대출 규제·연체 리스크에 2분기...",
-        "link": "http://www.segyebiz.com/newsView/20260503506508?OutUrl=naver",
+        "title": "대출 미끼로 입금 유도… 예금주에 ○○ 은행 버젓이 [조선피싱실록]",
+        "link": "https://n.news.naver.com/mnews/article/014/0005516614?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 03 May 2026 15:00:00 +0900",
+        "pubDate": "Sun, 03 May 2026 18:48:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "우리 은행 , 美 가스복합화력발전소에 1.1조 금융 주선 성공",
+        "link": "https://n.news.naver.com/mnews/article/421/0008924639?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 03 May 2026 18:43:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "경남은행 1분기 순이익 감소·기업 대출 연체도 늘어",
+        "link": "https://www.idomin.com/news/articleView.html?idxno=2004869",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 03 May 2026 18:12:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": {
           "word": "Delinquency",
@@ -33,88 +68,75 @@
         }
       },
       {
-        "title": "삼성카드, 모바일 신분증 참여…채널 12개로 확대",
-        "link": "http://www.srtimes.kr/news/articleView.html?idxno=202564",
+        "title": "겁없는 시니어들 … 신용융자·마통·카드론 아슬아슬한 '3중 빚투'",
+        "link": "https://n.news.naver.com/mnews/article/009/0005674762?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 03 May 2026 14:48:00 +0900",
+        "pubDate": "Sun, 03 May 2026 17:44:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "NH 농협 생명 경영기획본부, 화성 농가서 영농지원 활동",
-        "link": "https://www.ziksir.com/news/articleView.html?idxno=132778",
+        "title": "NH 농협 생명, 화성 농가서 모판 나르기 농촌일손돕기 실시",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=516505",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 03 May 2026 13:18:00 +0900",
+        "pubDate": "Sun, 03 May 2026 17:32:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "대출 막히자…5대 은행 예대율 2년 만에 최저 수준 ‘뚝’",
-        "link": "https://n.news.naver.com/mnews/article/009/0005674629?sid=101",
+        "title": "갈수록 벌어지는 예대금리차에…은행은 웃고 차주는 울상",
+        "link": "https://n.news.naver.com/mnews/article/029/0003024879?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 03 May 2026 13:18:00 +0900",
+        "pubDate": "Sun, 03 May 2026 17:32:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "은행 예대율 2년 만에 최저…\"대출 둔화에 예대금리차 확대 가능성\"",
-        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1253174",
+        "title": "농협 상호 금융 , ATM 수수료 전면 면제",
+        "link": "http://www.bokuennews.com/news/article.html?no=277629",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 03 May 2026 12:24:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "pubDate": "Sun, 03 May 2026 17:14:00 +0900",
+        "summary": "",
         "term": null
-      },
-      {
-        "title": "24개월 최고 연 3.20%…부산은행 '더 특판 정기예금' [이주의 은행 예금...",
-        "link": "http://www.fntimes.com/html/view.php?ud=2026043010585578401b5a221379_18",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 03 May 2026 12:16:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
       }
     ],
     "macro": [
       {
-        "title": "광주시, 중동사태 피해 수출입기업에 100억 지원",
-        "link": "https://n.news.naver.com/mnews/article/021/0002788899?sid=102",
+        "title": "\"韓, 부동산에 자금 묶여… 주식·채권으로 산업투자 전환해야\" [FIND 인...",
+        "link": "https://n.news.naver.com/mnews/article/014/0005516624?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 03 May 2026 15:06:00 +0900",
-        "summary": "",
+        "pubDate": "Sun, 03 May 2026 18:55:00 +0900",
+        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
         "term": null
       },
       {
-        "title": "4대 금융 회수 포기 대출 3조원 육박…전분기 대비 17% 증가",
-        "link": "https://n.news.naver.com/mnews/article/025/0003520684?sid=101",
+        "title": "김용범 \"언제까지 연체 기록만 볼건가\"",
+        "link": "https://n.news.naver.com/mnews/article/014/0005516622?sid=100",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 03 May 2026 15:03:00 +0900",
+        "pubDate": "Sun, 03 May 2026 18:49:00 +0900",
         "summary": "",
-        "term": null
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
       },
       {
-        "title": "[채권-주간] 비관 속 4월 소비자물가·RBA 결정 주시",
-        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4412916",
+        "title": "저축銀 “자금이탈 막자”…예금 금리 줄줄이 인상",
+        "link": "https://n.news.naver.com/mnews/article/011/0004616980?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 03 May 2026 15:02:00 +0900",
+        "pubDate": "Sun, 03 May 2026 15:54:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "파주시 건설기계 임대사업자, 굴착기협의회 경기 북부협의회 창립",
+        "link": "https://www.kgnews.co.kr/news/article.html?no=894139",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 03 May 2026 15:50:00 +0900",
         "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
-        "term": null
-      },
-      {
-        "title": "굴착기 경기북부협의회 창립, 공정단가와 지역 장비 우선 사용 쟁취할 ...",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363724458",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 03 May 2026 12:46:00 +0900",
-        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
-        "term": null
-      },
-      {
-        "title": "\"집값 부풀려 242억원 불법대출\"...전국 곳곳 누비며 '계약서' 찾았다",
-        "link": "https://n.news.naver.com/mnews/article/008/0005352357?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 03 May 2026 09:28:00 +0900",
-        "summary": "",
         "term": null
       }
     ]
