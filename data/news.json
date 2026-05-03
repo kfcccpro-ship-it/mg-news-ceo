@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-03T15:48:44.753Z",
+  "updatedAt": "2026-05-03T19:00:19.995Z",
   "headline": "[포토뉴스] 농협 중앙회 상호 금융 사업지원본부, 영월에서 농촌 일손 돕기 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -37,6 +37,30 @@
       }
     ],
     "otherFinance": [
+      {
+        "title": "가나, 금(金) 국유화로 경제 돌파구… 다망 광산 첫 110kg 중앙 은행 인도",
+        "link": "https://www.g-enews.com/view.php?ud=2026050323043965442bd56fbc3c_1",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 04 May 2026 03:30:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "세계 은행 , 시장·거래상대 리스크 국장에 한국인 민진아 선임",
+        "link": "https://n.news.naver.com/mnews/article/005/0001846857?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 04 May 2026 01:36:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "우리 은행 , 美 가스복합발전소 1조1000억원 금융 재조달 주선 성공",
+        "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=80655",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 04 May 2026 00:58:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "NH 농협 캐피탈, 노사 공동 범 농협 ‘아침밥 캠페인ʼ",
         "link": "http://www.fntimes.com/html/view.php?ud=202605030226251910dd55077bc2_18",
@@ -80,11 +104,11 @@
     ],
     "macro": [
       {
-        "title": "[부동산 100자 정보] 4600억원 美 태양광 사업 금융 약정 외",
-        "link": "https://n.news.naver.com/mnews/article/023/0003974433?sid=101",
+        "title": "[단독] 다시 떠오른 ‘금감원 독립론’… 감독 체계 개편 재점화하나",
+        "link": "https://n.news.naver.com/mnews/article/005/0001846865?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 04 May 2026 00:38:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
+        "pubDate": "Mon, 04 May 2026 02:17:00 +0900",
+        "summary": "",
         "term": null
       },
       {
@@ -104,14 +128,6 @@
         "term": null
       },
       {
-        "title": "이 대통령, 이젠 대출 정조준…“불법 대부, 갚지 않아도 무방”",
-        "link": "https://n.news.naver.com/mnews/article/025/0003520779?sid=100",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 04 May 2026 00:03:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
         "title": "저축銀 “자금이탈 막자”…예금 금리 줄줄이 인상",
         "link": "https://n.news.naver.com/mnews/article/011/0004616980?sid=101",
         "source": "네이버뉴스",
@@ -121,14 +137,6 @@
           "word": "Deposit Beta",
           "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
         }
-      },
-      {
-        "title": "파주시 건설기계 임대사업자, 굴착기협의회 경기 북부협의회 창립",
-        "link": "https://www.kgnews.co.kr/news/article.html?no=894139",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 03 May 2026 15:50:00 +0900",
-        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
-        "term": null
       }
     ]
   }
