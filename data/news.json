@@ -1,79 +1,74 @@
 {
-  "updatedAt": "2026-05-03T02:56:37.247Z",
-  "headline": "농협 중앙회, 청년 시각에서 '디지털 영농' 키운다 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-05-03T06:08:32.951Z",
+  "headline": "2026 강원 새마을금고 경영평가 연도대상 개최…춘천동부 새마을금고 대... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
-        "title": "농협 중앙회, 청년 시각에서 '디지털 영농' 키운다",
-        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=301540",
+        "title": "2026 강원 새마을금고 경영평가 연도대상 개최…춘천동부 새마을금고 대...",
+        "link": "https://n.news.naver.com/mnews/article/087/0001190733?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 03 May 2026 09:36:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
+        "pubDate": "Sun, 03 May 2026 14:20:00 +0900",
+        "summary": "",
         "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "KB국민 은행 , 'KB유니콘클럽'6기 발대식…\"포용 금융 실천\"",
-        "link": "http://www.smarttimes.co.kr/news/articleView.html?idxno=45243",
+        "title": "KB 금융 , 美 블록체인 전문 펀드 판테라 캐피탈과 전략적 협업",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=303684",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 03 May 2026 11:44:00 +0900",
+        "pubDate": "Sun, 03 May 2026 15:02:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "KB 금융 , 美 블록체인 전문 ‘판테라 캐피탈’과 협업 논의",
-        "link": "https://n.news.naver.com/mnews/article/138/0002226730?sid=101",
+        "title": "카드론 막히고 비용은 그대로…카드사, 대출 규제·연체 리스크에 2분기...",
+        "link": "http://www.segyebiz.com/newsView/20260503506508?OutUrl=naver",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 03 May 2026 11:43:00 +0900",
+        "pubDate": "Sun, 03 May 2026 15:00:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "삼성카드, 모바일 신분증 참여…채널 12개로 확대",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=202564",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 03 May 2026 14:48:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "금리 효과에도 못 웃은 지방 은행 …비이자이익 발목",
-        "link": "https://www.ekn.kr/web/view.php?key=20260503028471652",
+        "title": "NH 농협 생명 경영기획본부, 화성 농가서 영농지원 활동",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=132778",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 03 May 2026 11:40:00 +0900",
+        "pubDate": "Sun, 03 May 2026 13:18:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "대출 막히자…5대 은행 예대율 2년 만에 최저 수준 ‘뚝’",
+        "link": "https://n.news.naver.com/mnews/article/009/0005674629?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 03 May 2026 13:18:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "NH 농협 생명, 화성시 농가 방문해 농촌일손돕기 실시",
-        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=358415",
+        "title": "은행 예대율 2년 만에 최저…\"대출 둔화에 예대금리차 확대 가능성\"",
+        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1253174",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 03 May 2026 11:30:00 +0900",
-        "summary": "",
+        "pubDate": "Sun, 03 May 2026 12:24:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "거창경찰서, 보이스피싱 예방 은행 직원 감사장 수여",
-        "link": "https://www.newsgn.com/news/articleView.html?idxno=549918",
+        "title": "24개월 최고 연 3.20%…부산은행 '더 특판 정기예금' [이주의 은행 예금...",
+        "link": "http://www.fntimes.com/html/view.php?ud=2026043010585578401b5a221379_18",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 03 May 2026 11:24:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "농협 은행 인천본부, '사랑의 제빵' 봉사…아동복지시설에 빵·쌀 전달",
-        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5017053",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 03 May 2026 10:20:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[은행가] 국민銀, 청년창업가 육성 'KB유니콘클럽' 6기 발대식 外",
-        "link": "https://www.slist.kr/news/articleView.html?idxno=736527",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 03 May 2026 10:16:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "\"예금은 늘고 대출은 둔화\"…5대 은행 예대율 2년 만에 최저",
-        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=836633",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 03 May 2026 10:04:00 +0900",
+        "pubDate": "Sun, 03 May 2026 12:16:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": {
           "word": "Deposit Beta",
@@ -83,34 +78,36 @@
     ],
     "macro": [
       {
-        "title": "힘 받는 하반기 금리인상론...\"두차례 올릴 수도\"",
-        "link": "http://www.nongaek.com/news/articleView.html?idxno=95269",
+        "title": "광주시, 중동사태 피해 수출입기업에 100억 지원",
+        "link": "https://n.news.naver.com/mnews/article/021/0002788899?sid=102",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 03 May 2026 11:42:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Terminal Rate",
-          "meaning": "기준금리 인상 사이클의 최종 수준에 대한 시장 기대"
-        }
-      },
-      {
-        "title": "4대 금융 회수 포기 대출 3조원 규모…고금리에 역대 최대",
-        "link": "https://n.news.naver.com/mnews/article/421/0008923942?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 03 May 2026 10:43:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "pubDate": "Sun, 03 May 2026 15:06:00 +0900",
+        "summary": "",
         "term": null
       },
       {
-        "title": "예금 쌓이고 대출은 주춤… 5대 시중銀 예대율, 2년 만에 최저",
-        "link": "https://n.news.naver.com/mnews/article/366/0001161511?sid=101",
+        "title": "4대 금융 회수 포기 대출 3조원 육박…전분기 대비 17% 증가",
+        "link": "https://n.news.naver.com/mnews/article/025/0003520684?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 03 May 2026 09:42:00 +0900",
+        "pubDate": "Sun, 03 May 2026 15:03:00 +0900",
         "summary": "",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
+        "term": null
+      },
+      {
+        "title": "[채권-주간] 비관 속 4월 소비자물가·RBA 결정 주시",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4412916",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 03 May 2026 15:02:00 +0900",
+        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
+        "term": null
+      },
+      {
+        "title": "굴착기 경기북부협의회 창립, 공정단가와 지역 장비 우선 사용 쟁취할 ...",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363724458",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 03 May 2026 12:46:00 +0900",
+        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
+        "term": null
       },
       {
         "title": "\"집값 부풀려 242억원 불법대출\"...전국 곳곳 누비며 '계약서' 찾았다",
