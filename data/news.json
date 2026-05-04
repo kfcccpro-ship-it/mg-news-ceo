@@ -1,32 +1,8 @@
 {
-  "updatedAt": "2026-05-04T06:14:24.868Z",
-  "headline": "전남광주통합특별시 첫 금고 22일 선정…광주은행· 농협 은행 2파전 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-05-04T11:05:37.494Z",
+  "headline": "신협중앙회, 2026년 하반기 신입·경력 공개채용 실시 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
-      {
-        "title": "전남광주통합특별시 첫 금고 22일 선정…광주은행· 농협 은행 2파전",
-        "link": "https://n.news.naver.com/mnews/article/079/0004143380?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 04 May 2026 15:07:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "전남광주통합특별시 첫 금고 22일 선정…광주 은행 ·농협 은행 2파전",
-        "link": "https://n.news.naver.com/mnews/article/079/0004143380?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 04 May 2026 15:07:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "전남광주통합특별시 첫 금고 운영기관, 오는 22일 결정",
-        "link": "https://ysmbc.co.kr/NewsArticle/1517095",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 04 May 2026 15:06:00 +0900",
-        "summary": "",
-        "term": null
-      },
       {
         "title": "신협중앙회, 2026년 하반기 신입·경력 공개채용 실시",
         "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=257766",
@@ -50,112 +26,130 @@
         "pubDate": "Mon, 04 May 2026 12:38:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "새마을금고 의 지역공헌...사회복지시설에 4억 지원",
-        "link": "https://n.news.naver.com/mnews/article/011/0004617139?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 04 May 2026 07:43:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "신한 은행 , 한 발 앞선 '기후 리스크' 대응…관전포인트는 'RWA'",
-        "link": "https://n.news.naver.com/mnews/article/293/0000083930?sid=101",
+        "title": "4월 5대 은행 주담대 1.9조 ↑… 8개월 만에 최대폭 증가 기록",
+        "link": "https://n.news.naver.com/mnews/article/022/0004125704?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 04 May 2026 15:10:00 +0900",
+        "pubDate": "Mon, 04 May 2026 19:57:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "중저신용자 금융 확대 속도…KB국민 은행 , 중금리 대출 1.5조 공급",
-        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=730150",
+        "title": "BNK경남 은행 , 지역 중소기업 자금 출연",
+        "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=636246",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 04 May 2026 15:08:00 +0900",
+        "pubDate": "Mon, 04 May 2026 19:56:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "불법 금융 은 '시민과 차단'…카드사는 '고객과 개선'",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=135722",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 04 May 2026 19:22:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[브리프] 국민카드 신한카드 하나카드 우리카드 현대카드 삼성카드",
+        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=353509",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 04 May 2026 18:58:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[브리프] KB 금융 신한 금융 하나 금융 국민은행 신한은행 하나은행 外",
+        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=353504",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 04 May 2026 18:56:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "NH 농협 은행, 'AI-Driven Hub' 오픈...AI 활용 IT 개발 혁신",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=248473",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 04 May 2026 18:48:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "4월 5대 은행 주담대 1조9104억원 증가… 8개월 만에 최대치",
+        "link": "https://n.news.naver.com/mnews/article/366/0001161831?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 04 May 2026 18:47:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "5대 은행 주택대출 1.9조 증가, 작년 8월 이후 최대폭↑",
+        "link": "https://n.news.naver.com/mnews/article/018/0006273299?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 04 May 2026 18:36:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "공급망 재편 대응 나선 수출입 은행 …ADB와 5억달러 핵심광물 금융 협력",
-        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=730157",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 04 May 2026 15:08:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "4월 5대 은행 주담대 1조9104억원↑…8개월 만에 최대 증가",
-        "link": "http://www.seouleconews.com/news/articleView.html?idxno=91027",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 04 May 2026 15:04:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "5대 은행 4월 주담대 1조9104억 증가…8개월 만에 최대",
-        "link": "https://www.joongangenews.com/news/articleView.html?idxno=516727",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 04 May 2026 15:02:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "농협 은행 강원본부, 대학서 금융 사기 예방 캠페인",
-        "link": "https://n.news.naver.com/mnews/article/001/0016057808?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 04 May 2026 14:57:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[ 금융 권 소식] KB국민은행ㆍ신한은행ㆍNH 농협 은행(5.4)",
-        "link": "http://www.weeklytoday.com/news/articleView.html?idxno=774099",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 04 May 2026 14:54:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "4월 5대 은행 주담대 1조 9천104억 원↑…8개월 만에 최대",
-        "link": "https://n.news.naver.com/mnews/article/055/0001353426?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 04 May 2026 14:54:00 +0900",
-        "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "[이슈] 4대 금융 그룹 추정손실 3조원 육박…고금리 여파에 부실 확대",
-        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=730142",
+        "title": "주택담보대출 급증, 가계대출 반년 만에 대폭 증가",
+        "link": "https://www.tokenpost.kr/news/economy/356129",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 04 May 2026 15:08:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
+        "pubDate": "Mon, 04 May 2026 19:44:00 +0900",
+        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
+        "term": null
       },
       {
-        "title": "[이슈] 글로벌 IB, 한국 성장률 줄상향…물가 상승 압력은 변수",
-        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=730147",
+        "title": "성장률 안 떨어지고 물가상승…유상대 한은 부총재 “금리 인상 고민할...",
+        "link": "https://n.news.naver.com/mnews/article/658/0000142873?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 04 May 2026 15:08:00 +0900",
+        "pubDate": "Mon, 04 May 2026 19:25:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "KB·신한·우리, 미국 SEC에 \"건전성 우려\" 전달",
+        "link": "https://www.ajunews.com/view/20260504183653609",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 04 May 2026 18:40:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "금융권 예금금리 잇달아 인상.. 전북도 1년 만기 3.71%",
-        "link": "https://n.news.naver.com/mnews/article/659/0000043375?sid=102",
+        "title": "금감원 공동검사권 유명무실…무보·교직원공제회 등도 사각지대",
+        "link": "https://n.news.naver.com/mnews/article/011/0004617334?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 04 May 2026 11:45:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
+        "pubDate": "Mon, 04 May 2026 17:40:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "대출 틀어막고 인센티브?…상호금융 '포용금융' 실효성 실종",
+        "link": "https://n.news.naver.com/mnews/article/119/0003087207?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 04 May 2026 16:40:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "정부가 겨냥한 상호금융… '상호부조'라더니 가계 신용대출 10%뿐",
+        "link": "https://n.news.naver.com/mnews/article/008/0005352876?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 04 May 2026 15:47:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "靑 “고신용자 위주 대출 흔들어야”... 중저신용 의무비율 더 높아지나",
+        "link": "https://n.news.naver.com/mnews/article/366/0001161777?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 04 May 2026 15:15:00 +0900",
+        "summary": "",
+        "term": null
       }
     ]
   }
