@@ -1,16 +1,8 @@
 {
-  "updatedAt": "2026-05-04T19:41:02.518Z",
-  "headline": "전남광주통합특별시 첫 금고 운영기관, 오는 22일 결정 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-05-04T22:01:22.771Z",
+  "headline": "신협중앙회, 2026년 하반기 신입·경력 공개채용 실시 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
-      {
-        "title": "전남광주통합특별시 첫 금고 운영기관, 오는 22일 결정",
-        "link": "https://kjmbc.co.kr/NewsArticle/1517190",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 04 May 2026 20:40:00 +0900",
-        "summary": "",
-        "term": null
-      },
       {
         "title": "신협중앙회, 2026년 하반기 신입·경력 공개채용 실시",
         "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=257766",
@@ -22,107 +14,102 @@
     ],
     "otherFinance": [
       {
-        "title": "반도체 '피크아웃' 우려에… '포스트 반도체'로 떠오른 증권주",
-        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=303826",
+        "title": "카드업계, '300만 외국인' 시장 공략 나선다",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1363423",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 05 May 2026 04:00:00 +0900",
+        "pubDate": "Tue, 05 May 2026 07:00:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "한국 은행 부총재 발언에 채권 금리 급등, 시장 불안 가중",
-        "link": "https://www.tokenpost.kr/news/economy/356219",
+        "title": "전대미문 코스피 불장에…은행 투자대기 자금 '재이탈'",
+        "link": "https://n.news.naver.com/mnews/article/003/0013925785?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 05 May 2026 01:04:00 +0900",
+        "pubDate": "Tue, 05 May 2026 07:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "전대미문 코스피 불장에… 은행 투자대기 자금 '재이탈'",
+        "link": "https://n.news.naver.com/mnews/article/003/0013925785?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 05 May 2026 07:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[고금리 그늘] 자영업·중기·PF 못갚는 빚 3조 육박… 은행 기업대출 부...",
+        "link": "https://www.g-enews.com/view.php?ud=202605041040593118e30fcb1ba8_1",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 05 May 2026 06:56:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "은행보다 돈 더 버는 증권사… 금융 권 '수익 판도' 뒤집혔다",
-        "link": "https://www.theguru.co.kr/news/article.html?no=101086",
+        "title": "어린이날 선물, 통장 어때요?…은행권, ‘미래 고객’ 잡기 총출동",
+        "link": "https://www.kukinews.com/article/view/kuk202605040149",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 05 May 2026 00:02:00 +0900",
+        "pubDate": "Tue, 05 May 2026 06:02:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "NH 농협 은행 AI회의록···은행권 백오피스 자동화 첫발",
-        "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=49677",
+        "title": "靑 \"잔인한 은행\" 호통 쳤지만 … 추정손실 3조 육박, 은행권 '진퇴양난...",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/05/04/2026050400131.html",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 04 May 2026 23:44:00 +0900",
+        "pubDate": "Tue, 05 May 2026 06:00:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "주담대 다시 불붙자 농협 銀 '선제 제동'?…MCI 제한 카드 꺼냈다",
-        "link": "https://www.econovill.com/news/articleView.html?idxno=739428",
+        "title": "시중은행, 파킹형 통장 금리경쟁 치열",
+        "link": "https://www.smartbizn.com/news/articleView.html?idxno=143044",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 04 May 2026 21:34:00 +0900",
-        "summary": "",
-        "term": null
+        "pubDate": "Tue, 05 May 2026 06:00:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
       },
       {
-        "title": "[어린이날] 금융 교육 골든타임 7세, '마시멜로' 대신 '체크카드'",
-        "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=253297",
+        "title": "시중은행도 중금리대출 ‘속도’… 국민은행 1.5조 푼다",
+        "link": "https://n.news.naver.com/mnews/article/081/0003641040?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 04 May 2026 21:32:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[은행 이모저모] 신한은행· 농협 은행·수출입은행 등",
-        "link": "http://www.bizwnews.com/news/articleView.html?idxno=135696",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 04 May 2026 21:00:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "4월 5대 은행 주담대 1조9000억 ↑",
-        "link": "https://n.news.naver.com/mnews/article/022/0004125704?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 04 May 2026 19:57:00 +0900",
-        "summary": "",
+        "pubDate": "Tue, 05 May 2026 05:04:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "\"왜 절박할수록 금리 비싼가\"… 청와대가 불붙인 금리 논란, 대출 관행...",
-        "link": "https://n.news.naver.com/mnews/article/469/0000929028?sid=101",
+        "title": "\"금 24시간 거래하고 대출까지\"…한컴위드, 실물자산 토큰화 생태계 띄...",
+        "link": "https://n.news.naver.com/mnews/article/008/0005353023?sid=105",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 05 May 2026 04:30:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "pubDate": "Tue, 05 May 2026 07:00:00 +0900",
+        "summary": "",
         "term": null
       },
       {
-        "title": "\"언제까지 연체 기록만 볼 건가\"…靑 '포용 금융 론'에 고신용자 역차별 ...",
-        "link": "https://n.news.naver.com/mnews/article/119/0003087255?sid=100",
+        "title": "한은 금리 인상 공식화…연내 기준금리 3% 전망",
+        "link": "https://n.news.naver.com/mnews/article/011/0004617452?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 05 May 2026 04:00:00 +0900",
-        "summary": "",
+        "pubDate": "Tue, 05 May 2026 07:00:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
         }
       },
       {
-        "title": "부동산 대출 규제 강화, 투기 차단 나선 대통령실",
-        "link": "https://www.tokenpost.kr/news/policy/356236",
+        "title": "李 지적 이후 뒤집힌 대출금리… '고신용고금리' 구조 고착화?",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092161478",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 05 May 2026 02:44:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "물가상승 압력에… 한은 부총재 “금리인상 고민할때”",
-        "link": "https://n.news.naver.com/mnews/article/020/0003717193?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 05 May 2026 01:41:00 +0900",
+        "pubDate": "Tue, 05 May 2026 06:00:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": {
-          "word": "Terminal Rate",
-          "meaning": "기준금리 인상 사이클의 최종 수준에 대한 시장 기대"
+          "word": "NIM",
+          "meaning": "금리 변화가 금융기관 수익성에 미치는 영향을 보여주는 핵심 지표"
         }
       },
       {
