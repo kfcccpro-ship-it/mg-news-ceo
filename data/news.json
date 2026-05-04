@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-04T14:02:37.270Z",
+  "updatedAt": "2026-05-04T16:46:09.809Z",
   "headline": "전남광주통합특별시 첫 금고 운영기관, 오는 22일 결정 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -18,43 +18,35 @@
         "pubDate": "Mon, 04 May 2026 15:00:00 +0900",
         "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
         "term": null
-      },
-      {
-        "title": "한밭 새마을금고 , '어린이날 큰잔치 행사' 참여... 체험부스 선봬",
-        "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=886628",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 04 May 2026 14:10:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "LIV 골프, 장기 자본 전략 추진… 투자 은행 듀세라 파트너로 선정",
-        "link": "https://www.thegolftimes.co.kr/news/articleView.html?idxno=81002",
+        "title": "한국 은행 부총재 발언에 채권 금리 급등, 시장 불안 가중",
+        "link": "https://www.tokenpost.kr/news/economy/356219",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 04 May 2026 22:42:00 +0900",
+        "pubDate": "Tue, 05 May 2026 01:04:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "은행보다 돈 더 버는 증권사… 금융 권 '수익 판도' 뒤집혔다",
+        "link": "https://www.theguru.co.kr/news/article.html?no=101086",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 05 May 2026 00:02:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "‘AI가 읽는’ ESG 보고서…신한 은행 , 데이터· 금융 전략 연계 강화",
-        "link": "https://www.betanews.net/article/view/beta202605040026",
+        "title": "NH 농협 은행 AI회의록···은행권 백오피스 자동화 첫발",
+        "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=49677",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 04 May 2026 22:10:00 +0900",
+        "pubDate": "Mon, 04 May 2026 23:44:00 +0900",
         "summary": "",
         "term": null
       },
       {
         "title": "주담대 다시 불붙자 농협 銀 '선제 제동'?…MCI 제한 카드 꺼냈다",
-        "link": "https://www.econovill.com/news/articleView.html?idxno=739428",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 04 May 2026 21:34:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "주담대 다시 불붙자 농협銀 '선제 제동'?…MCI 제한 카드 꺼냈다",
         "link": "https://www.econovill.com/news/articleView.html?idxno=739428",
         "source": "네이버뉴스",
         "pubDate": "Mon, 04 May 2026 21:34:00 +0900",
@@ -86,30 +78,44 @@
         "term": null
       },
       {
-        "title": "불법 금융 은 '시민과 차단'…카드사는 '고객과 개선'",
-        "link": "http://www.bizwnews.com/news/articleView.html?idxno=135722",
+        "title": "김용범이 쏘아올린 공, ‘중·저신용자 은행 대출’ 늘릴 수 있을까",
+        "link": "https://n.news.naver.com/mnews/article/032/0003443736?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 04 May 2026 19:22:00 +0900",
-        "summary": "",
+        "pubDate": "Mon, 04 May 2026 17:51:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "경기도, 고유가 피해지원금 1차 접수 8일 마감...접수 일주일 만에 신청...",
-        "link": "https://www.ajunews.com/view/20260504103608985",
+        "title": "물가상승 압력에… 한은 부총재 “금리인상 고민할때”",
+        "link": "https://n.news.naver.com/mnews/article/020/0003717193?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 04 May 2026 21:36:00 +0900",
-        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
+        "pubDate": "Tue, 05 May 2026 01:41:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Terminal Rate",
+          "meaning": "기준금리 인상 사이클의 최종 수준에 대한 시장 기대"
+        }
+      },
+      {
+        "title": "한은 연내 금리 올리나… 유상대 부총재 “고민할 때 됐다”",
+        "link": "https://n.news.naver.com/mnews/article/005/0001847056?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 05 May 2026 00:20:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "주택담보대출 급증, 가계대출 반년 만에 대폭 증가",
-        "link": "https://www.tokenpost.kr/news/economy/356129",
+        "title": "전체 대출금리 떨어졌는데…주담대·신용대출 올랐다 왜",
+        "link": "https://n.news.naver.com/mnews/article/629/0000496675?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 04 May 2026 19:44:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
-        "term": null
+        "pubDate": "Tue, 05 May 2026 00:01:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "NIM",
+          "meaning": "금리 변화가 금융기관 수익성에 미치는 영향을 보여주는 핵심 지표"
+        }
       },
       {
         "title": "금감원 공동검사권 유명무실…무보·교직원공제회 등도 사각지대",
