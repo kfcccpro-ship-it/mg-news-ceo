@@ -1,24 +1,8 @@
 {
-  "updatedAt": "2026-05-05T05:43:59.744Z",
-  "headline": "[서울시금고 쟁탈전] 복수금고제 8년…독점서 경쟁으로 바뀐 시금고 유... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-05-05T08:10:35.445Z",
+  "headline": "[서울시금고 쟁탈전] 서울은 ‘서막’일 뿐…지자체 곳간 ‘총성 없는 ... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
-      {
-        "title": "[서울시금고 쟁탈전] 복수금고제 8년…독점서 경쟁으로 바뀐 시금고 유...",
-        "link": "http://www.segyebiz.com/newsView/20260505507211?OutUrl=naver",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 05 May 2026 14:40:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[서울시금고 쟁탈전] \"우리 vs 신한銀… 평가 지표 중심 구조적 경쟁\"",
-        "link": "http://www.segyebiz.com/newsView/20260505507140?OutUrl=naver",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 05 May 2026 14:32:00 +0900",
-        "summary": "",
-        "term": null
-      },
       {
         "title": "[서울시금고 쟁탈전] 서울은 ‘서막’일 뿐…지자체 곳간 ‘총성 없는 ...",
         "link": "http://www.segyebiz.com/newsView/20260505506881?OutUrl=naver",
@@ -38,42 +22,37 @@
     ],
     "otherFinance": [
       {
-        "title": "김해시 가장 비싼 땅, 부원동 경남 은행 김해 금융 센터 터",
-        "link": "https://www.idomin.com/news/articleView.html?idxno=2004906",
+        "title": "수출입 은행 , AI 워크스페이스 도입...업무 자동화 본격화",
+        "link": "https://n.news.naver.com/mnews/article/030/0003424328?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 05 May 2026 14:32:00 +0900",
+        "pubDate": "Tue, 05 May 2026 17:01:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "어린이도 '내 체크카드' 시대...초등학생 금융 활동 본격화",
-        "link": "https://www.ngonews.kr/news/articleView.html?idxno=229443",
+        "title": "수출입 은행 , 우즈벡 투자부와 '전략적 협력 강화' 업무협약",
+        "link": "https://n.news.naver.com/mnews/article/008/0005353194?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 05 May 2026 14:24:00 +0900",
+        "pubDate": "Tue, 05 May 2026 17:00:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "이환주 KB국민 은행 장의 '어린이 사랑'…선물 전달하며 가족친화 문화 앞...",
-        "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=58961",
+        "title": "[글로벌이코노믹 사설] 주요 은행 부실채권 3조원 시대",
+        "link": "https://www.g-enews.com/view.php?ud=20260505155015717435e857d010_1",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 05 May 2026 14:20:00 +0900",
+        "pubDate": "Tue, 05 May 2026 15:54:00 +0900",
         "summary": "",
-        "term": null
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
       },
       {
-        "title": "농협 아산시지부,아산 이순신축제 홍보부스 운영",
-        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2414033",
+        "title": "[단독] 5세대 실손 출시...보험사들, GA 판매 '신중모드'",
+        "link": "https://n.news.naver.com/mnews/article/015/0005283154?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 05 May 2026 13:02:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "인천 중구 농협 정선근 조합장'인천 농협 베스트 혁신리더상'수상",
-        "link": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3021692",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 05 May 2026 13:00:00 +0900",
+        "pubDate": "Tue, 05 May 2026 15:07:00 +0900",
         "summary": "",
         "term": null
       },
@@ -88,20 +67,31 @@
     ],
     "macro": [
       {
-        "title": "물가·환율·성장 불안… 금리 7연속 동결",
-        "link": "https://www.yonhapmidas.com/news/articleView.html?idxno=10311",
+        "title": "금리 인상론 고개…사상 최고 코스피, 실적 장세 시험대",
+        "link": "https://n.news.naver.com/mnews/article/018/0006273587?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 05 May 2026 14:34:00 +0900",
+        "pubDate": "Tue, 05 May 2026 17:06:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "가계대출 한달새 1.5조원↑…이사철 수요에 주담대 '쑥",
-        "link": "http://www.metroseoul.co.kr/article/20260505500035",
+        "title": "주식·부동산부터 연금까지 … 재테크 고수의 꿀팁을 내 것으로",
+        "link": "https://n.news.naver.com/mnews/article/009/0005675487?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 05 May 2026 11:14:00 +0900",
+        "pubDate": "Tue, 05 May 2026 16:06:00 +0900",
         "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
         "term": null
+      },
+      {
+        "title": "5대銀 기업대출 두달 연속 5조원 이상 급등… 중기·대기업 모두 부실 위...",
+        "link": "https://www.ajunews.com/view/20260505111457908",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 05 May 2026 15:02:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
       },
       {
         "title": "(단독)‘금융법리 무너질라’ 학계 이례적 등판…“신탁사 PF 전액 배상...",
