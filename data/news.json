@@ -1,13 +1,21 @@
 {
-  "updatedAt": "2026-05-05T08:10:35.445Z",
-  "headline": "[서울시금고 쟁탈전] 서울은 ‘서막’일 뿐…지자체 곳간 ‘총성 없는 ... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-05-05T10:46:54.529Z",
+  "headline": "市금고 둘러싼 출혈경쟁… 탈환해도 수성해도 '속내 복잡' 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
-        "title": "[서울시금고 쟁탈전] 서울은 ‘서막’일 뿐…지자체 곳간 ‘총성 없는 ...",
-        "link": "http://www.segyebiz.com/newsView/20260505506881?OutUrl=naver",
+        "title": "市금고 둘러싼 출혈경쟁… 탈환해도 수성해도 '속내 복잡'",
+        "link": "https://n.news.naver.com/mnews/article/014/0005517362?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 05 May 2026 14:10:00 +0900",
+        "pubDate": "Tue, 05 May 2026 18:40:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "\"서울·인천 市금고 잡아라\"… 은행권, 71조 자금운용 입찰경쟁",
+        "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260506010000712",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 05 May 2026 18:06:00 +0900",
         "summary": "",
         "term": null
       },
@@ -22,76 +30,119 @@
     ],
     "otherFinance": [
       {
-        "title": "수출입 은행 , AI 워크스페이스 도입...업무 자동화 본격화",
-        "link": "https://n.news.naver.com/mnews/article/030/0003424328?sid=101",
+        "title": "BNK경남 은행 -기술보증기금, 중기 M&A 돕는다",
+        "link": "http://www.ujeil.com/news/articleView.html?idxno=385236",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 05 May 2026 17:01:00 +0900",
+        "pubDate": "Tue, 05 May 2026 19:24:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "수출입 은행 , 우즈벡 투자부와 '전략적 협력 강화' 업무협약",
-        "link": "https://n.news.naver.com/mnews/article/008/0005353194?sid=101",
+        "title": "KB 금융 , 美 블록체인 투자 선두 '판테라 캐피탈'과 협업…디지털 자산 ...",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=201671",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 05 May 2026 17:00:00 +0900",
+        "pubDate": "Tue, 05 May 2026 19:12:00 +0900",
+        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "김용범 “ 은행 은 준공공기관… 사회적 역할 해야”",
+        "link": "https://n.news.naver.com/mnews/article/366/0001162021?sid=100",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 05 May 2026 18:51:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[글로벌이코노믹 사설] 주요 은행 부실채권 3조원 시대",
-        "link": "https://www.g-enews.com/view.php?ud=20260505155015717435e857d010_1",
+        "title": "제주고산 농협 , 보이스피싱·대포통장 근절 예방 캠페인 전개",
+        "link": "https://n.news.naver.com/mnews/article/662/0000094495?sid=102",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 05 May 2026 15:54:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
-      },
-      {
-        "title": "[단독] 5세대 실손 출시...보험사들, GA 판매 '신중모드'",
-        "link": "https://n.news.naver.com/mnews/article/015/0005283154?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 05 May 2026 15:07:00 +0900",
+        "pubDate": "Tue, 05 May 2026 18:45:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "김용범이 쏘아올린 공, ‘중·저신용자 은행 대출’ 늘릴 수 있을까",
-        "link": "https://n.news.naver.com/mnews/article/032/0003443736?sid=101",
+        "title": "파주 농협 , 조합원 자녀에 장학금 지원",
+        "link": "https://n.news.naver.com/mnews/article/662/0000094491?sid=102",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 04 May 2026 17:51:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "pubDate": "Tue, 05 May 2026 18:28:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[은행 이모저모] 국민은행·신한은행· 농협 은행 등",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=135732",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 05 May 2026 18:26:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "진주문산 농협 \"든든한 농협 \" 실현…종합경영평가 1등급",
+        "link": "http://www.gndomin.com/news/articleView.html?idxno=474606",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 05 May 2026 18:06:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "보험료 낮춘 5세대 실손 출격…초기 확산은 '미지수'",
+        "link": "https://www.ajunews.com/view/20260505144209127",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 05 May 2026 18:02:00 +0900",
+        "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "금리 인상론 고개…사상 최고 코스피, 실적 장세 시험대",
-        "link": "https://n.news.naver.com/mnews/article/018/0006273587?sid=101",
+        "title": "불장이 금융 판 바꿨다…예금 떠나 주식으로 가는 '머니무브' 가속화",
+        "link": "https://n.news.naver.com/mnews/article/088/0001008534?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 05 May 2026 17:06:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "주식·부동산부터 연금까지 … 재테크 고수의 꿀팁을 내 것으로",
-        "link": "https://n.news.naver.com/mnews/article/009/0005675487?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 05 May 2026 16:06:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "5대銀 기업대출 두달 연속 5조원 이상 급등… 중기·대기업 모두 부실 위...",
-        "link": "https://www.ajunews.com/view/20260505111457908",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 05 May 2026 15:02:00 +0900",
+        "pubDate": "Tue, 05 May 2026 19:44:00 +0900",
         "summary": "",
         "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
         }
+      },
+      {
+        "title": "“저금보다 투자” 1억 이하 정기예금 6년 반 만에 최저",
+        "link": "https://n.news.naver.com/mnews/article/658/0000142972?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 05 May 2026 19:28:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "3조달러 시한폭탄 美 사모대출…\"유동성 균열 vs 구조적 기회\" 韓 영향은...",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=739438",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 05 May 2026 19:06:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "LCR",
+          "meaning": "단기 유동성 충격 대응 능력을 보여주는 지표"
+        }
+      },
+      {
+        "title": "국민의힘 경기도당, 수원·성남 등 지역구 광역의원·기초의원 발표",
+        "link": "https://n.news.naver.com/mnews/article/666/0000105903?sid=100",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 05 May 2026 18:52:00 +0900",
+        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
+        "term": null
+      },
+      {
+        "title": "하워드 막스 \"사모대출 시장 위기? 옥석 가려질 것\"",
+        "link": "https://n.news.naver.com/mnews/article/015/0005283317?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 05 May 2026 18:52:00 +0900",
+        "summary": "",
+        "term": null
       },
       {
         "title": "(단독)‘금융법리 무너질라’ 학계 이례적 등판…“신탁사 PF 전액 배상...",
