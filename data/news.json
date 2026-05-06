@@ -1,8 +1,16 @@
 {
-  "updatedAt": "2026-05-06T19:46:38.989Z",
-  "headline": "[기업] \"저출생 극복\" 새마을금고 적토마적금 8천 계좌 판매 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-05-06T21:57:28.271Z",
+  "headline": "전남광주특별시 금고, 광주은행· 농협 2파전 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "전남광주특별시 금고, 광주은행· 농협 2파전",
+        "link": "https://n.news.naver.com/mnews/article/022/0004126286?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 07 May 2026 05:41:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "[기업] \"저출생 극복\" 새마을금고 적토마적금 8천 계좌 판매",
         "link": "https://n.news.naver.com/mnews/article/052/0002349634?sid=101",
@@ -18,136 +26,127 @@
         "pubDate": "Wed, 06 May 2026 23:22:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "산청군, 새마을금고와 협약식 지방보조금 계좌 확대 개설",
-        "link": "http://www.gnmaeil.com/news/articleView.html?idxno=586063",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 06 May 2026 23:22:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "산청군, 새마을금고 와 협력…보조금 관리 투명성 강화",
-        "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=383869",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 06 May 2026 17:38:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "산청군· 새마을금고 , 지방보조금 전용계좌 확대 개설 협약",
-        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1253932",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 06 May 2026 17:34:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "우리은행도 금요일 1시간 조기퇴근",
-        "link": "https://n.news.naver.com/mnews/article/020/0003717694?sid=101",
+        "title": "2금융권 예금 금리 일제히 상승…저축은행 16개월 만에 최고",
+        "link": "https://n.news.naver.com/mnews/article/374/0000508537?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 07 May 2026 00:31:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "무안 농협 종합청사·유통센터 준공",
-        "link": "https://mpmbc.co.kr/NewsArticle/1517468",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 06 May 2026 21:18:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "청주 내수 농협 , 충북 농축협 베스트 사무소상 수상",
-        "link": "http://www.cctimes.kr/news/articleView.html?idxno=905352",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 06 May 2026 20:44:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "남청주 농협 이길웅 조합장, '새로운 충북 농협 조합장상' 수상",
-        "link": "http://www.cctimes.kr/news/articleView.html?idxno=905353",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 06 May 2026 20:44:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[ 금융 이모저모] KB 금융 , KB 금융 공익재단, KB국민은행, 하나은행, BNK부산...",
-        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=84369",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 06 May 2026 20:30:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "가계대출 관리 '비상' 걸린 은행권, 주담대 총량 고삐 한층 더 조인다",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=437183",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 06 May 2026 17:34:00 +0900",
+        "pubDate": "Thu, 07 May 2026 06:55:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "2 금융 권 예금 금리 일제히 상승…저축 은행 16개월 만에 최고",
+        "link": "https://n.news.naver.com/mnews/article/374/0000508537?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 07 May 2026 06:55:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "2금융권 예금 금리 일제히 상승…저축은행 16개월만 최고",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=737260",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 07 May 2026 06:46:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "보험사 해외 순익 24% 늘었지만…\"신규 편입 빼면 성장 둔화\"",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=301806",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 07 May 2026 06:46:00 +0900",
+        "summary": "",
         "term": null
       },
       {
-        "title": "MG신용정보, 부국증권·리딩투자증권과 업무협약 체결…증권사 PF 정상화...",
-        "link": "http://www.fntimes.com/html/view.php?ud=2026050614520854387c96e79780_18",
+        "title": "2 금융 권 예금 금리 일제히 상승…저축 은행 16개월만 최고",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=737260",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 06 May 2026 17:28:00 +0900",
+        "pubDate": "Thu, 07 May 2026 06:46:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "집 나갔던 은행 예금 돌아왔다더니, 일회성 기업자금이었네",
+        "link": "https://n.news.naver.com/mnews/article/018/0006274426?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 07 May 2026 06:31:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "농협 , 어떻게 바꿀까··· 홍동 농협 이 주는 힌트",
+        "link": "https://n.news.naver.com/mnews/article/308/0000038232?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 07 May 2026 06:31:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "농협 은행장 연임 잔혹사…사상 최대 실적에도 못 웃는 강태영",
+        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5017790",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 07 May 2026 06:06:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "아폴로, 사모대출 시장 신뢰 회복 위한 일일 가격 공개 전격 결정",
-        "link": "https://www.tokenpost.kr/news/economy/356966",
+        "title": "주식으로 돈 몰리자…2금융권 다시 고금리 예금 경쟁 불붙었다",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1707777",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 07 May 2026 04:24:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "'분기 최고실적' 찍은 카뱅, 중저신용대출 16조 공급",
-        "link": "https://n.news.naver.com/mnews/article/008/0005353857?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 07 May 2026 04:18:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "\"물가 더 뛴다\" 한은, 금리인상 깜빡이",
-        "link": "https://n.news.naver.com/mnews/article/008/0005353844?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 07 May 2026 04:07:00 +0900",
+        "pubDate": "Thu, 07 May 2026 06:50:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Terminal Rate",
-          "meaning": "기준금리 인상 사이클의 최종 수준에 대한 시장 기대"
-        }
-      },
-      {
-        "title": "[사설]물가 21개월중 최고, 금리·민생 함께 봐야",
-        "link": "https://n.news.naver.com/mnews/article/008/0005353843?sid=110",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 07 May 2026 04:05:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "환율 고점 찍고 내려오자 달러예금 회복세 보여",
-        "link": "https://n.news.naver.com/mnews/article/022/0004126234?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 06 May 2026 20:17:00 +0900",
-        "summary": "",
         "term": {
           "word": "Deposit Beta",
           "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
         }
+      },
+      {
+        "title": "주식으로 돈 몰리자…2 금융 권 다시 고금리 예금 경쟁 불붙었다",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1707777",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 07 May 2026 06:50:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "美운용사 아폴로 CEO, 사모대출 우려에 \"펀드 가격정보 매일 제공할 것...",
+        "link": "https://www.tfmedia.co.kr/news/article.html?no=204330",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 07 May 2026 06:46:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "2금융권, 금리 인상으로 '머니 무브' 대응... 자금 유출 막기 총력전",
+        "link": "https://www.tokenpost.kr/news/economy/356995",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 07 May 2026 06:32:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
       }
     ]
   }
