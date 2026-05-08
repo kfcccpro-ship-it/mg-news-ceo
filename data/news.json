@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-08T19:18:59.139Z",
+  "updatedAt": "2026-05-08T21:58:59.392Z",
   "headline": "새마을금고 , 서민금융 지원 강화...\"1분기 정책대출 943억 취급\" 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -70,43 +70,19 @@
     ],
     "otherFinance": [
       {
-        "title": "JP모건부터 마스터카드까지...글로벌 기업들, 줄줄이 XRP 결제망 합류",
-        "link": "http://coinreaders.com/235430",
+        "title": "[단독] “ 금융 공공성 취약” 질타에…하나 은행 세무조사 착수",
+        "link": "https://n.news.naver.com/mnews/article/056/0012177879?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 09 May 2026 04:02:00 +0900",
+        "pubDate": "Sat, 09 May 2026 06:42:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "국세청, 하나 금융 · 은행 세무조사 착수",
-        "link": "https://n.news.naver.com/mnews/article/079/0004145027?sid=101",
+        "title": "\"증시로 쏠리는 돈 잡아라\"… 은행권 고금리 유혹",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092161787",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 09 May 2026 02:40:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "국세청, ‘탈세 혐의’ 하나 금융 · 은행 세무조사 착수",
-        "link": "https://n.news.naver.com/mnews/article/025/0003522007?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 09 May 2026 01:30:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "국세청, '탈세 혐의' 하나 금융 · 은행 세무조사 착수",
-        "link": "https://n.news.naver.com/mnews/article/001/0016066805?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 09 May 2026 00:57:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[ 금융 이모저모] KB 금융 , 하나 금융 , KB국민 은행 , BNK부산 은행 , BNK경남은...",
-        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=84430",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 09 May 2026 00:56:00 +0900",
-        "summary": "",
+        "pubDate": "Sat, 09 May 2026 06:00:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
@@ -132,8 +108,49 @@
         "pubDate": "Fri, 08 May 2026 21:04:00 +0900",
         "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
         "term": null
+      },
+      {
+        "title": "서귀포 농협 , 전기통신 금융 사기 예방 가두캠페인",
+        "link": "https://n.news.naver.com/mnews/article/662/0000094773?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 08 May 2026 20:46:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "NH 농협 생명 경기총국, ‘NH올원더풀간병안심요양보험’ 1호 가입 행사",
+        "link": "http://www.fntimes.com/html/view.php?ud=202605082025087204dd55077bc2_18",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 08 May 2026 20:30:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "NH 농협 생명 북부사업국, 신상품 1호 가입행사 실시",
+        "link": "http://www.fntimes.com/html/view.php?ud=202605082019183263dd55077bc2_18",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 08 May 2026 20:26:00 +0900",
+        "summary": "",
+        "term": null
       }
     ],
-    "macro": []
+    "macro": [
+      {
+        "title": "‘ETF發 자본유출’ 우려에 한은 “대외건전성 강건”",
+        "link": "https://n.news.naver.com/mnews/article/016/0002640976?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 09 May 2026 06:22:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "\"대출부터 교육까지\"…금융권, 서민·소상공인 지원 '포용금융' 강화",
+        "link": "http://www.kdfnews.com/news/articleView.html?idxno=183040",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 09 May 2026 06:00:00 +0900",
+        "summary": "",
+        "term": null
+      }
+    ]
   }
 }
