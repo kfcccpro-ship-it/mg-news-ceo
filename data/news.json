@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-09T10:05:10.664Z",
+  "updatedAt": "2026-05-09T13:18:37.817Z",
   "headline": "새마을금고 , 올 1분기 햇살론 등 정책자금대출 상품 934억원 공급 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -54,18 +54,10 @@
     ],
     "otherFinance": [
       {
-        "title": "[ 은행 이모저모] 국민 은행 ·부산 은행 ·토스뱅크 등",
-        "link": "http://www.bizwnews.com/news/articleView.html?idxno=136099",
+        "title": "\"CBDC, 토큰화할 것인가 말 것인가\" 캐나다 중앙 은행 의 답",
+        "link": "https://www.tokenpost.kr/news/insights/357947",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 09 May 2026 19:04:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "하나 금융 하나 은행 '세금탈루' 혐의 국세청 조사 착수",
-        "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4082646",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 09 May 2026 18:02:00 +0900",
+        "pubDate": "Sat, 09 May 2026 21:54:00 +0900",
         "summary": "",
         "term": null
       },
@@ -123,10 +115,29 @@
     ],
     "macro": [
       {
-        "title": "골드만, 금리인하 늦춘다",
-        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=837789",
+        "title": "무디스, 스테이블코인 신용등급 평가 준비 중...유동성 리스크 평가",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=664281",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 09 May 2026 18:54:00 +0900",
+        "pubDate": "Sat, 09 May 2026 21:22:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "LCR",
+          "meaning": "단기 유동성 충격 대응 능력을 보여주는 지표"
+        }
+      },
+      {
+        "title": "카카오뱅크, 중·저신용 대출 16조 공급…포용 금융 확대 눈길",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=136086",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 09 May 2026 20:52:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "강남 재건축 따내려 '마이너스 금리'…구청도 제동",
+        "link": "https://n.news.naver.com/mnews/article/448/0000610043?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 09 May 2026 19:31:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       },
