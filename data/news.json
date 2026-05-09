@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-09T13:18:37.817Z",
+  "updatedAt": "2026-05-09T15:53:19.191Z",
   "headline": "새마을금고 , 올 1분기 햇살론 등 정책자금대출 상품 934억원 공급 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -53,6 +53,14 @@
       }
     ],
     "otherFinance": [
+      {
+        "title": "[ 은행 이모저모] 신한 은행 ·기업 은행 ·경남 은행 등",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=136097",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 10 May 2026 00:14:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "\"CBDC, 토큰화할 것인가 말 것인가\" 캐나다 중앙 은행 의 답",
         "link": "https://www.tokenpost.kr/news/insights/357947",
@@ -115,6 +123,14 @@
     ],
     "macro": [
       {
+        "title": "[박근종 칼럼] 이달부터 본격화하는 중동발 고물가 쇼크, 경각심을 갖고...",
+        "link": "https://www.mhns.co.kr/news/articleView.html?idxno=746986",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 10 May 2026 00:24:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
         "title": "무디스, 스테이블코인 신용등급 평가 준비 중...유동성 리스크 평가",
         "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=664281",
         "source": "네이버뉴스",
@@ -124,22 +140,6 @@
           "word": "LCR",
           "meaning": "단기 유동성 충격 대응 능력을 보여주는 지표"
         }
-      },
-      {
-        "title": "카카오뱅크, 중·저신용 대출 16조 공급…포용 금융 확대 눈길",
-        "link": "http://www.bizwnews.com/news/articleView.html?idxno=136086",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 09 May 2026 20:52:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "강남 재건축 따내려 '마이너스 금리'…구청도 제동",
-        "link": "https://n.news.naver.com/mnews/article/448/0000610043?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 09 May 2026 19:31:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
       },
       {
         "title": "[금쪽상식] 예금자보호 1억원 시대···내 돈은 안전할까?",
