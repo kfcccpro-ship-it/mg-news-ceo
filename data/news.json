@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-10T15:55:00.652Z",
+  "updatedAt": "2026-05-10T19:05:13.165Z",
   "headline": "영월군, 영월신용협동조합·영월 새마을금고 와지방보조금 전용계좌 확대... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -54,6 +54,22 @@
     ],
     "otherFinance": [
       {
+        "title": "인터넷 은행 , 서민 신용 개선 '디딤돌' 됐다",
+        "link": "https://n.news.naver.com/mnews/article/008/0005355349?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 11 May 2026 04:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "미국 상원 은행 위, 이번 주 가상화폐 시장 구조 법안 수정 및 표결 전망",
+        "link": "https://www.khgames.co.kr/news/articleView.html?idxno=304200",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 11 May 2026 02:38:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
         "title": "“VVIP 상품 있다” 고객 속여 5억 챙긴 30년 경력 은행 원, 징역 2년",
         "link": "https://n.news.naver.com/mnews/article/021/0002790279?sid=101",
         "source": "네이버뉴스",
@@ -88,47 +104,15 @@
     ],
     "macro": [
       {
-        "title": "‘유언 대용 신탁’ 정기예금 고객 간편 가입… 사전 AI 치매 검사 서비...",
-        "link": "https://n.news.naver.com/mnews/article/023/0003975644?sid=101",
+        "title": "워시의 QT가 온다\"… 美 재무부, 1288조 유동성 방어선 구축",
+        "link": "https://www.g-enews.com/view.php?ud=20260510183131394fbbec65dfb_1",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 11 May 2026 00:38:00 +0900",
+        "pubDate": "Mon, 11 May 2026 03:46:00 +0900",
         "summary": "",
         "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+          "word": "LCR",
+          "meaning": "단기 유동성 충격 대응 능력을 보여주는 지표"
         }
-      },
-      {
-        "title": "금리 3% 정책 자금, 가맹점에 18% 대출 못한다",
-        "link": "https://n.news.naver.com/mnews/article/023/0003975632?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 11 May 2026 00:33:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "공정위 “명륜진사갈비, 가맹점주에 고리 대출” 심의 회부",
-        "link": "https://n.news.naver.com/mnews/article/020/0003718485?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 11 May 2026 00:32:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "소비쿠폰보다 좁아진 고유가 피해지원금, 누가 받을 수 있나",
-        "link": "https://www.bizhankook.com/bk/article/32209",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 11 May 2026 00:26:00 +0900",
-        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
-        "term": null
-      },
-      {
-        "title": "[사설] 금리 인상 신호에도 역대급 빚투, 선제적 위험관리 나서야",
-        "link": "https://n.news.naver.com/mnews/article/011/0004619262?sid=110",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 11 May 2026 00:06:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
       }
     ]
   }
