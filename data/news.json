@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T17:25:05.934Z",
+  "updatedAt": "2026-05-11T19:47:33.937Z",
   "headline": "춘천소양강 새마을금고 파크골프 월례대회 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -22,39 +22,36 @@
     ],
     "otherFinance": [
       {
+        "title": "BNK부산 은행 , ‘AI 네이티브 은행 ’ 전환 시동",
+        "link": "https://www.wikitree.co.kr/articles/1135993",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 12 May 2026 04:20:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "한국사회복지협의회, 수출입 은행 ·대상과 5.5억 규모 '그냥드림' 매칭 기...",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=705218",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 12 May 2026 04:10:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "환율·원자재 급등에 숨 막힌 지역기업…부산 은행 , 1000억 특별 금융 지...",
+        "link": "https://www.wikitree.co.kr/articles/1135985",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 12 May 2026 02:40:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
         "title": "농협 상호 금융 , 무럭무럭 친구들 캐릭터 활용 AI 홍보영상으로‘NH 콕뱅...",
         "link": "https://weeklytrade.co.kr/news/view.html?section=1&category=160&item=&no=99742",
         "source": "네이버뉴스",
         "pubDate": "Tue, 12 May 2026 01:32:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "은행 연합회, 신임 금통위원으로 김진일 교수 추천",
-        "link": "http://www.bizwnews.com/news/articleView.html?idxno=136264",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 12 May 2026 01:24:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "美 상원의원 \" 은행 권, 암호화폐 명확성법에 패닉\"",
-        "link": "https://www.tokenpost.kr/news/breaking/358560",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 12 May 2026 01:06:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[여의춘추] 뉴욕 연준 은행 금괴 인출사건",
-        "link": "https://n.news.naver.com/mnews/article/005/0001848350?sid=110",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 12 May 2026 00:40:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Forward Guidance",
-          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
-        }
       },
       {
         "title": "더 세진 ‘총량 관리’…1분기 은행 가계대출 큰폭 감소",
@@ -76,31 +73,23 @@
         }
       },
       {
-        "title": "순천 농협 , 직원들 기지로 2000만원 보이스피싱 막아",
-        "link": "https://n.news.naver.com/mnews/article/022/0004127412?sid=102",
+        "title": "5대 은행 가계대출 1분기 일제히 감소",
+        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=547716",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 11 May 2026 23:02:00 +0900",
-        "summary": "",
+        "pubDate": "Mon, 11 May 2026 21:44:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "NH 농협 생명, 간병비·장기요양 보장 보험 울산1호 계약",
-        "link": "http://www.ujeil.com/news/articleView.html?idxno=385535",
+        "title": "시민이 은행 세운 이탈리아, 60년 금융규제에 발목 잡힌 한국 [소셜 코리...",
+        "link": "https://n.news.naver.com/mnews/article/047/0002515264?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 11 May 2026 22:10:00 +0900",
+        "pubDate": "Mon, 11 May 2026 20:06:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
-      {
-        "title": "뛰는 물가 잡으려다 나는 증시 꺾을라… 고민 깊어지는 한은",
-        "link": "https://n.news.naver.com/mnews/article/005/0001848380?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 12 May 2026 02:06:00 +0900",
-        "summary": "",
-        "term": null
-      },
       {
         "title": "주담대 고정금리 7% 육박…당장은 싼 변동금리로 쏠린다",
         "link": "https://n.news.naver.com/mnews/article/025/0003522512?sid=101",
