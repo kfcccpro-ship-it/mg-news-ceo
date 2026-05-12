@@ -1,8 +1,16 @@
 {
-  "updatedAt": "2026-05-12T17:11:39.497Z",
-  "headline": "새청주 새마을금고 좀도리부녀회, 취약계층에 열무김치 후원 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-05-12T19:53:16.551Z",
+  "headline": "신한 은행 , 51조 서울시금고 다시 맡았다 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "신한 은행 , 51조 서울시금고 다시 맡았다",
+        "link": "https://n.news.naver.com/mnews/article/008/0005356709?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 13 May 2026 04:23:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "새청주 새마을금고 좀도리부녀회, 취약계층에 열무김치 후원",
         "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1077909",
@@ -30,22 +38,27 @@
     ],
     "otherFinance": [
       {
-        "title": "카드대란 부실채권 23년 간 보유, '상록수' 청산‥11만 명 추심 벗어나",
-        "link": "https://n.news.naver.com/mnews/article/214/0001498526?sid=101",
+        "title": "은행 권, 스테이블코인 이자 전쟁에 쇼크...\"9월 30일 전 판 뒤집힌다\"",
+        "link": "http://coinreaders.com/236093",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 13 May 2026 01:26:00 +0900",
+        "pubDate": "Wed, 13 May 2026 04:22:00 +0900",
         "summary": "",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
+        "term": null
       },
       {
-        "title": "핀테크, 금융 서 택배로 사업 확장… 은행 들은 배달앱 진출",
-        "link": "https://n.news.naver.com/mnews/article/020/0003719088?sid=101",
+        "title": "[직장 돋보기 분석] 교보생명, SBI저축 은행 품고 종합 금융 그룹 전환... ...",
+        "link": "https://www.news2day.co.kr/article/20260511500005",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 13 May 2026 00:32:00 +0900",
-        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
+        "pubDate": "Wed, 13 May 2026 03:52:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "미국 은행 업계, '클라리티' 표결 앞두고 스테이블코인 규제 압박",
+        "link": "https://www.khgames.co.kr/news/articleView.html?idxno=304276",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 13 May 2026 03:46:00 +0900",
+        "summary": "",
         "term": null
       },
       {
@@ -91,15 +104,12 @@
     ],
     "macro": [
       {
-        "title": "상록수, 5천억 장기 연체채권 캠코 새도약기금에 매각",
-        "link": "https://www.tokenpost.kr/news/economy/358955",
+        "title": "[박근종 칼럼] 금리 인상 신호에도 역대급 '빚투' 지속, 경각심을 갖고...",
+        "link": "https://www.mhns.co.kr/news/articleView.html?idxno=747278",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 13 May 2026 01:00:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
+        "pubDate": "Wed, 13 May 2026 03:18:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
       },
       {
         "title": "\"가계대출 조이고 금리는 오르고\"…실수요자 '이중고'",
@@ -114,14 +124,6 @@
         "link": "https://www.inthenews.co.kr/news/article.html?no=86742",
         "source": "네이버뉴스",
         "pubDate": "Tue, 12 May 2026 21:52:00 +0900",
-        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
-        "term": null
-      },
-      {
-        "title": "장애인들 일상 속 현명한 소비 습관 기른다",
-        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=547874",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 12 May 2026 21:44:00 +0900",
         "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
         "term": null
       }
