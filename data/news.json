@@ -1,8 +1,16 @@
 {
-  "updatedAt": "2026-05-13T17:16:34.807Z",
-  "headline": "춘천중부 새마을금고 역사탐방 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-05-13T19:55:20.526Z",
+  "headline": "농협 중앙회, 공금 유용 의혹으로 경찰 수사...임직원 개인 변호사비 논... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "농협 중앙회, 공금 유용 의혹으로 경찰 수사...임직원 개인 변호사비 논...",
+        "link": "https://www.tokenpost.kr/news/society/359382",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 14 May 2026 03:40:00 +0900",
+        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
       {
         "title": "춘천중부 새마을금고 역사탐방",
         "link": "https://n.news.naver.com/mnews/article/654/0000180457?sid=101",
@@ -58,38 +66,22 @@
         "pubDate": "Wed, 13 May 2026 21:45:00 +0900",
         "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
         "term": null
-      },
-      {
-        "title": "서원 새마을금고 , 열무김치 기탁",
-        "link": "http://www.cctimes.kr/news/articleView.html?idxno=906633",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 13 May 2026 21:36:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
+      {
+        "title": "은행 망 한 번에 연결… XRP 대확장 시나리오 주목을",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=452517",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 14 May 2026 04:52:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "[ 금융 신상] 우리은행 '놀 월드 카드', 농협 은행 'NH올원더풀행복동행예...",
         "link": "http://www.bizwnews.com/news/articleView.html?idxno=136438",
         "source": "네이버뉴스",
         "pubDate": "Thu, 14 May 2026 01:46:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[ 금융 신상] 우리 은행 '놀 월드 카드', 농협 은행 'NH올원더풀행복동행예...",
-        "link": "http://www.bizwnews.com/news/articleView.html?idxno=136438",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 14 May 2026 01:46:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "KB국민 은행 , K-콘텐츠기업 성장 금융 지원 협약 체결",
-        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160276970505177",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 14 May 2026 00:24:00 +0900",
         "summary": "",
         "term": null
       },
@@ -127,16 +119,28 @@
         "pubDate": "Wed, 13 May 2026 21:42:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "청량·서생 농협 , '새로운 울산 농협 조합장상' 영예",
-        "link": "http://www.ujeil.com/news/articleView.html?idxno=385686",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 13 May 2026 21:34:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
-    "macro": []
+    "macro": [
+      {
+        "title": "케빈 워시, 새 연준 의장으로 취임...미 통화정책 방향 주목",
+        "link": "https://www.tokenpost.kr/news/economy/359395",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 14 May 2026 04:50:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+        }
+      },
+      {
+        "title": "“美장기채 사려면 5%는 줘야”…30년물 금리 금융 위기 이후 최고",
+        "link": "https://n.news.naver.com/mnews/article/018/0006280526?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 14 May 2026 04:03:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      }
+    ]
   }
 }
