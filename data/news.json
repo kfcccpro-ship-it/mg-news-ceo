@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-15T19:38:47.830Z",
+  "updatedAt": "2026-05-15T21:59:44.699Z",
   "headline": "[속보] 영양청송 새마을금고 투표권 논란 일단락…법원 \"청송에 투표소 ... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -30,18 +30,26 @@
     ],
     "otherFinance": [
       {
-        "title": "[ 금융 이모저모] 하나 은행 , 日부동산 전문기업과 '글로벌 부동산 투자자...",
-        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=84649",
+        "title": "하나 은행 , 두나무에 1조 투자… 3년 만에 차익실현 한 ‘카카오’",
+        "link": "https://n.news.naver.com/mnews/article/022/0004128506?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 16 May 2026 02:16:00 +0900",
+        "pubDate": "Sat, 16 May 2026 06:21:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[증권 뉴스브리핑] \"단일종목 레버리지, 하루 60% 손실 가능...'음의 복리...",
-        "link": "https://www.asiatime.co.kr/article/20260516500002",
+        "title": "부동산·국채까지 쪼개 판다…급성장하는 토큰증권 시장",
+        "link": "https://www.mediapen.com/news/view/1099238",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 16 May 2026 01:52:00 +0900",
+        "pubDate": "Sat, 16 May 2026 06:12:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "‘분기 1조 클럽’ 은행 넘어선 증권사…“사업 포트폴리오 다변화 필요...",
+        "link": "https://www.kukinews.com/article/view/kuk202605150133",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 16 May 2026 06:02:00 +0900",
         "summary": "",
         "term": null
       },
@@ -76,51 +84,43 @@
         "pubDate": "Fri, 15 May 2026 22:10:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "제주 ‘마늘수확 전쟁’… 농협 , 올 ‘6만명’ 지원체계 발동",
-        "link": "https://n.news.naver.com/mnews/article/662/0000095321?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 15 May 2026 20:03:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "전남·광주 농협 , 사회공헌 활동 규모 ‘1100억원’",
-        "link": "https://n.news.naver.com/mnews/article/662/0000095316?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 15 May 2026 19:45:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "macro": [
       {
-        "title": "글로벌 인플레 우려에 전 세계 국채 동반 급락...\"미 12월 금리 인상\"",
-        "link": "https://n.news.naver.com/mnews/article/014/0005522269?sid=101",
+        "title": "“12월 금리인상 할수도”…美시장, 연준 긴축 재개 가능성 반영",
+        "link": "https://n.news.naver.com/mnews/article/018/0006282784?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 16 May 2026 04:17:00 +0900",
+        "pubDate": "Sat, 16 May 2026 06:31:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Terminal Rate",
+          "meaning": "기준금리 인상 사이클의 최종 수준에 대한 시장 기대"
+        }
+      },
+      {
+        "title": "글로벌 채권시장 패닉…美·日·英 장기금리 동반 급등",
+        "link": "https://n.news.naver.com/mnews/article/018/0006282783?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 16 May 2026 06:16:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "뉴욕증시, 이란 전쟁과 물가 상승 우려에 급락세",
-        "link": "https://www.tokenpost.kr/news/market/360253",
+        "title": "두달만에 7%대 주택대출 다시 등장… 추가 인상 가능성도",
+        "link": "https://n.news.naver.com/mnews/article/366/0001164827?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 16 May 2026 03:50:00 +0900",
+        "pubDate": "Sat, 16 May 2026 06:01:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "금융 시장 \"연준, 다음 행보는 금리 인상…12월 0.25%p↑\"",
-        "link": "https://n.news.naver.com/mnews/article/014/0005522267?sid=101",
+        "title": "고금리도 '이유' 있어야 통한다… 생활적금 대세",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092162198",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 16 May 2026 03:20:00 +0900",
+        "pubDate": "Sat, 16 May 2026 06:00:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Forward Guidance",
-          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
-        }
+        "term": null
       },
       {
         "title": "[오늘의 ABC 뉴스룸] \"상호금융에서 15조가 사라졌다?\" 예금 깨서 주식으...",
