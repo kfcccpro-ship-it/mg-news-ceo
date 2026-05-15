@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-15T16:51:30.737Z",
+  "updatedAt": "2026-05-15T19:38:47.830Z",
   "headline": "[속보] 영양청송 새마을금고 투표권 논란 일단락…법원 \"청송에 투표소 ... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -30,34 +30,26 @@
     ],
     "otherFinance": [
       {
+        "title": "[ 금융 이모저모] 하나 은행 , 日부동산 전문기업과 '글로벌 부동산 투자자...",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=84649",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 16 May 2026 02:16:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[증권 뉴스브리핑] \"단일종목 레버리지, 하루 60% 손실 가능...'음의 복리...",
+        "link": "https://www.asiatime.co.kr/article/20260516500002",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 16 May 2026 01:52:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
         "title": "[ 농협 단신] 농협 경제지주, 영농철 인력난 해소 '릴레이 일손돕기' 총력",
         "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=84646",
         "source": "네이버뉴스",
         "pubDate": "Sat, 16 May 2026 01:04:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "하나 금융 , 두나무에 1조 투자… 은행 ·가상자산 첫 동맹",
-        "link": "https://n.news.naver.com/mnews/article/023/0003976759?sid=105",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 16 May 2026 00:46:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "한국씨티 은행 , 기업 금융 수익 급증으로 1분기 순이익 61% 성장",
-        "link": "https://www.tokenpost.kr/news/economy/360211",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 16 May 2026 00:40:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "한국 금융 지주, 증권업 호황 타고 재평가…\"실적 체력 달라졌다\"",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=453084",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 16 May 2026 00:16:00 +0900",
         "summary": "",
         "term": null
       },
@@ -92,16 +84,43 @@
         "pubDate": "Fri, 15 May 2026 20:03:00 +0900",
         "summary": "",
         "term": null
+      },
+      {
+        "title": "전남·광주 농협 , 사회공헌 활동 규모 ‘1100억원’",
+        "link": "https://n.news.naver.com/mnews/article/662/0000095316?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 15 May 2026 19:45:00 +0900",
+        "summary": "",
+        "term": null
       }
     ],
     "macro": [
       {
-        "title": "생산적 금융 대전환, 부동산 신화부터 깨야",
-        "link": "https://n.news.naver.com/mnews/article/353/0000055445?sid=101",
+        "title": "글로벌 인플레 우려에 전 세계 국채 동반 급락...\"미 12월 금리 인상\"",
+        "link": "https://n.news.naver.com/mnews/article/014/0005522269?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 16 May 2026 00:46:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
+        "pubDate": "Sat, 16 May 2026 04:17:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
+      },
+      {
+        "title": "뉴욕증시, 이란 전쟁과 물가 상승 우려에 급락세",
+        "link": "https://www.tokenpost.kr/news/market/360253",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 16 May 2026 03:50:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "금융 시장 \"연준, 다음 행보는 금리 인상…12월 0.25%p↑\"",
+        "link": "https://n.news.naver.com/mnews/article/014/0005522267?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 16 May 2026 03:20:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+        }
       },
       {
         "title": "[오늘의 ABC 뉴스룸] \"상호금융에서 15조가 사라졌다?\" 예금 깨서 주식으...",
