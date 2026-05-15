@@ -1,8 +1,16 @@
 {
-  "updatedAt": "2026-05-15T08:49:18.087Z",
-  "headline": "[단독] \"피해자인데 계좌가 묶였다\"… 새마을금고 ·우리은행 보이스피싱... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-05-15T11:21:31.554Z",
+  "headline": "[속보] 영양청송 새마을금고 투표권 논란 일단락…법원 \"청송에 투표소 ... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "[속보] 영양청송 새마을금고 투표권 논란 일단락…법원 \"청송에 투표소 ...",
+        "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4072930",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 15 May 2026 18:04:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "[단독] \"피해자인데 계좌가 묶였다\"… 새마을금고 ·우리은행 보이스피싱...",
         "link": "https://news.ifm.kr/news/articleView.html?idxno=471059",
@@ -18,91 +26,108 @@
         "pubDate": "Fri, 15 May 2026 15:24:00 +0900",
         "summary": "새마을금고 건전성 관리 흐름과 연결해 볼 수 있는 기사입니다.",
         "term": null
-      },
-      {
-        "title": "김인 새마을금고 회장 \"LTV 차별화 필요\"…PF 부담 속 규제 완화 공식화",
-        "link": "https://www.the-pr.co.kr/news/articleView.html?idxno=61338",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 15 May 2026 11:56:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "李대통령에 ‘LTV 규제 완화’ 건의한 김인 새마을금고 회장 “은행과 ...",
-        "link": "https://n.news.naver.com/mnews/article/009/0005680506?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 15 May 2026 11:10:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "[ 금융 소식] NH 농협 치매안심신탁 / NH 농협 생명 공모전 / NH 농협 가족봉사...",
-        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2174052",
+        "title": "은행 ·디지털자산 '동맹'…하나 금융 , 두나무에 1조원 규모 지분투자",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7164491",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 15 May 2026 17:48:00 +0900",
+        "pubDate": "Fri, 15 May 2026 20:18:00 +0900",
+        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "우리 은행 , 서금원과 불법사 금융 피해 예방 캠페인 실시… 금융 사각지대...",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=304651",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 15 May 2026 20:08:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[은행 뉴스브리핑] 하나 금융 1조원 규모 두나무 지분 취득",
-        "link": "https://www.asiatime.co.kr/article/20260515500281",
+        "title": "제주 ‘마늘수확 전쟁’… 농협 , 올 ‘6만명’ 지원체계 발동",
+        "link": "https://n.news.naver.com/mnews/article/662/0000095321?sid=102",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 15 May 2026 17:48:00 +0900",
+        "pubDate": "Fri, 15 May 2026 20:03:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "한국씨티 은행 , 1분기 당기순이익 1328억...8년 만에 최대",
-        "link": "https://www.g-enews.com/view.php?ud=202605151727249221bb91c46fcd_1",
+        "title": "한국투자증권, 코인원 지분 인수하나…시장 재편 신호탄",
+        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=353894",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 15 May 2026 17:48:00 +0900",
+        "pubDate": "Fri, 15 May 2026 20:00:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[ 금융 소식] NH농협 치매안심신탁 / NH농협생명 공모전 / NH농협 가족봉사...",
-        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2174052",
+        "title": "장학사업 빛난 IBK기업 은행 , 中企 가정에 희망 전달",
+        "link": "http://www.00news.co.kr/news/articleView.html?idxno=103853",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 15 May 2026 17:48:00 +0900",
+        "pubDate": "Fri, 15 May 2026 20:00:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[ 은행 뉴스브리핑] 하나 금융 1조원 규모 두나무 지분 취득",
-        "link": "https://www.asiatime.co.kr/article/20260515500281",
+        "title": "SC제일 은행 1Q 당기순익 1049억…전년동기比 6.3%↓",
+        "link": "https://n.news.naver.com/mnews/article/018/0006282732?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 15 May 2026 17:48:00 +0900",
+        "pubDate": "Fri, 15 May 2026 19:58:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "김진일 신임 금통위원 \"금리는 일종의 보험\"",
-        "link": "https://n.news.naver.com/mnews/article/215/0001252304?sid=101",
+        "title": "전남·광주 농협 , 사회공헌 활동 규모 ‘1100억원’",
+        "link": "https://n.news.naver.com/mnews/article/662/0000095316?sid=102",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 15 May 2026 17:45:00 +0900",
+        "pubDate": "Fri, 15 May 2026 19:45:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "전주 농협 , 전북 첫 상호 금융 대출 1조5000억원 달성",
+        "link": "https://www.agrinet.co.kr/news/articleView.html?idxno=404098",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 15 May 2026 19:39:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "하나 은행 은 왜 두나무에 투자했을까",
-        "link": "https://byline.network/?p=9004111222603299",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 15 May 2026 17:44:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "이찬우 농협금융 회장, 농촌 수확체험 및 플로깅 실시",
-        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2430008",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 15 May 2026 17:41:00 +0900",
-        "summary": "",
         "term": null
       }
     ],
     "macro": [
+      {
+        "title": "김진일 한은 금융 통화위원 \"기준금리 다소 높게 선호\"",
+        "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000035424",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 15 May 2026 20:06:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+        }
+      },
+      {
+        "title": "[오늘의 ABC 뉴스룸] \"상호금융에서 15조가 사라졌다?\" 예금 깨서 주식으...",
+        "link": "https://www.ajunews.com/view/20260515142110272",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 15 May 2026 17:56:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "[오늘의 ABC 뉴스룸] \"상호 금융 에서 15조가 사라졌다?\" 예금 깨서 주식으...",
+        "link": "https://www.ajunews.com/view/20260515142110272",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 15 May 2026 17:56:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
       {
         "title": "세민개발, 양동구역 제11·12지구 오피스 개발 PF 조달",
         "link": "https://n.news.naver.com/mnews/article/293/0000084753?sid=101",
