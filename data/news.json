@@ -1,8 +1,24 @@
 {
-  "updatedAt": "2026-05-17T13:21:24.042Z",
-  "headline": "체육행사/ MG 새마을금고 파크골프 어울림 한마당 대회 외 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-05-17T15:59:06.345Z",
+  "headline": "정읍 연지 새마을금고 , 영무예다움 경로당 에어컨 기증 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "정읍 연지 새마을금고 , 영무예다움 경로당 에어컨 기증",
+        "link": "http://www.jeonmin.co.kr/news/articleView.html?idxno=439947",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 18 May 2026 00:16:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "생산적 금융 놓고 '동상이몽'… 새마을금고 , 체질개선-수익성 해법 찾기...",
+        "link": "https://n.news.naver.com/mnews/article/629/0000499894?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 18 May 2026 00:01:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "체육행사/ MG 새마을금고 파크골프 어울림 한마당 대회 외",
         "link": "http://www.dynews.co.kr/news/articleView.html?idxno=850638",
@@ -10,54 +26,38 @@
         "pubDate": "Sun, 17 May 2026 16:39:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "【포토뉴스】늘푸른 새마을금고 기탁",
-        "link": "https://n.news.naver.com/mnews/article/087/0001193526?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 17 May 2026 11:39:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[속보] 영양청송 새마을금고 대의원 투표소 청송에 설치… 법원 조정안",
-        "link": "https://www.idaegu.com/news/articleView.html?idxno=662274",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 17 May 2026 11:30:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "우리 은행 , '우리 이음상담센터' 신설…골목상권 밀착 금융 상담 강화",
-        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=202222",
+        "title": "코스피 불장에 역대급 빚투… 은행 신용대출 이달 1.8조 늘었다",
+        "link": "https://n.news.naver.com/mnews/article/020/0003720205?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 17 May 2026 22:16:00 +0900",
+        "pubDate": "Mon, 18 May 2026 00:31:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "은행권 '무상보험' 확대, 포용 금융 넘어 생활밀착 혜택으로",
+        "link": "https://www.insnews.co.kr/news/articleView.html?idxno=90788",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 18 May 2026 00:00:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "울산시민의 소중한 3천만원 지킨 은행 원",
-        "link": "http://www.ujeil.com/news/articleView.html?idxno=385831",
+        "title": "NH 농협 은행-강원테크노파크, 춘천 농촌 일손돕기 실시…지역 상생 ESG 강...",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=202226",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 17 May 2026 22:12:00 +0900",
+        "pubDate": "Sun, 17 May 2026 23:36:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "\"연금 계좌 변경도 스마트하게\"… 우리 은행 , 4대 공적연금 '비대면 영토...",
-        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=353795",
+        "title": "농협 , '낙하산 인사' 차단 위해 인사권 독립 강화… \"자율 개혁 가시화...",
+        "link": "http://www.youngnong.co.kr/news/articleView.html?idxno=59592",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 17 May 2026 21:48:00 +0900",
-        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "우리 은행 , 남대문 상권에 금융 상담 거점…지역 밀착 채널 확대",
-        "link": "https://www.betanews.net/article/view/beta202605170020",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 17 May 2026 21:46:00 +0900",
+        "pubDate": "Sun, 17 May 2026 23:36:00 +0900",
         "summary": "",
         "term": null
       },
@@ -70,48 +70,56 @@
         "term": null
       },
       {
-        "title": "강태영 농협 은행 장, 강원 농촌 현장 찾아 일손 지원",
-        "link": "https://www.betanews.net/article/view/beta202605170019",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 17 May 2026 21:36:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "KB국민 은행 , 아시안뱅커지 선정 '대한민국 최우수 수탁 은행 ' 12년 연속 ...",
-        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=353905",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 17 May 2026 21:34:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
         "title": "[iN The Scene] NH 농협 은행 춘천 구암마을서 농번기 일손돕기",
         "link": "https://www.inthenews.co.kr/news/article.html?no=86922",
         "source": "네이버뉴스",
         "pubDate": "Sun, 17 May 2026 20:10:00 +0900",
         "summary": "",
         "term": null
+      },
+      {
+        "title": "부안 농협 , 부안남초등학교 관악부 후원금 전달",
+        "link": "https://sjbnews.com/news/news.php?number=878633",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 17 May 2026 19:43:00 +0900",
+        "summary": "",
+        "term": null
       }
     ],
     "macro": [
       {
-        "title": "고신용자가 이자 더 낸다… 마통대출 '금리 역전' 현상",
-        "link": "https://n.news.naver.com/mnews/article/014/0005522549?sid=101",
+        "title": "[오늘의 경기] 2026년 5월 18일",
+        "link": "https://m.sports.naver.com/general/article/023/0003976953",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 17 May 2026 18:13:00 +0900",
+        "pubDate": "Mon, 18 May 2026 00:43:00 +0900",
+        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
+        "term": null
+      },
+      {
+        "title": "‘연봉 100%’ 신용 대출 한도 갇힌 중금리대출",
+        "link": "https://n.news.naver.com/mnews/article/023/0003976935?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 18 May 2026 00:33:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "증시 훈풍에 상호금융 수신 '썰물'…5개월새 20조 감소",
-        "link": "https://n.news.naver.com/mnews/article/018/0006283539?sid=101",
+        "title": "금리 인상 가능성에 4대 금융 순이익 추정치 20조원 육박",
+        "link": "https://n.news.naver.com/mnews/article/005/0001849472?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 17 May 2026 12:40:00 +0900",
+        "pubDate": "Mon, 18 May 2026 00:27:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "이대통령 비판 하루 만에… 금융 권, 장기 연체채권 정리 수순",
+        "link": "https://n.news.naver.com/mnews/article/005/0001849471?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 18 May 2026 00:26:00 +0900",
         "summary": "",
         "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
         }
       }
     ]
