@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-19T15:22:48.207Z",
+  "updatedAt": "2026-05-19T19:52:20.549Z",
   "headline": "선거 도우려 지인 명의 동원한 새마을금고 이사장 2심도 집유 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -10,43 +10,51 @@
         "pubDate": "Tue, 19 May 2026 21:46:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "57명 신분증·도장 모아 당선 밀어주기… 새마을금고 이사장 항소심도 집...",
-        "link": "https://n.news.naver.com/mnews/article/658/0000144341?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 19 May 2026 19:22:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "G7 재무·중앙 은행 총재 \"중동 분쟁에 성장·물가 위험 고조\"",
-        "link": "https://n.news.naver.com/mnews/article/052/0002355288?sid=104",
+        "title": "볼리비아 반정부시위 격화…생필품 가격 폭등· 은행 영업 중단",
+        "link": "https://n.news.naver.com/mnews/article/056/0012184459?sid=104",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 20 May 2026 00:10:00 +0900",
+        "pubDate": "Wed, 20 May 2026 04:06:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "하나 은행 원주지점 3곳 후원금 전달",
-        "link": "https://n.news.naver.com/mnews/article/654/0000181374?sid=102",
+        "title": "[사설] 은행 들도 우려하는 포용 금융 그늘",
+        "link": "https://n.news.naver.com/mnews/article/008/0005360209?sid=110",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 20 May 2026 00:07:00 +0900",
+        "pubDate": "Wed, 20 May 2026 04:05:00 +0900",
         "summary": "",
+        "term": null
+      },
+      {
+        "title": "'생산적 금융 '의 함정… 은행돈 2400억, 다원시스에 물렸다",
+        "link": "https://n.news.naver.com/mnews/article/008/0005360206?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 20 May 2026 04:04:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "'생산적 금융 '의 함정… 은행 돈 2400억, 다원시스에 물렸다",
+        "link": "https://n.news.naver.com/mnews/article/008/0005360206?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 20 May 2026 04:04:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "은행 대출 줄었는데… 1분기 가계빚 14조 늘었다",
+        "link": "https://n.news.naver.com/mnews/article/008/0005360199?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 20 May 2026 04:02:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
         "title": "가계빚 2000조 코앞…비은행권으로 '풍선효과' 뚜렷",
-        "link": "http://www.gjdream.com/news/articleView.html?idxno=669542",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 20 May 2026 00:04:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "가계빚 2000조 코앞…비 은행 권으로 '풍선효과' 뚜렷",
         "link": "http://www.gjdream.com/news/articleView.html?idxno=669542",
         "source": "네이버뉴스",
         "pubDate": "Wed, 20 May 2026 00:04:00 +0900",
@@ -68,47 +76,39 @@
         "pubDate": "Tue, 19 May 2026 21:54:00 +0900",
         "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
         "term": null
-      },
-      {
-        "title": "[은행 이모저모] 우리은행· 농협 은행·부산은행 등",
-        "link": "http://www.bizwnews.com/news/articleView.html?idxno=136958",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 19 May 2026 21:16:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "가계빚 1993조원 또 최대…비은행 주담대 급증에 '영끌·빚투' 확산",
-        "link": "https://www.econovill.com/news/articleView.html?idxno=740435",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 19 May 2026 20:18:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "macro": [
+      {
+        "title": "원유수입국, 美국채 팔아 '환율 방어'",
+        "link": "https://n.news.naver.com/mnews/article/008/0005360208?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 20 May 2026 04:05:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "미국 장기 국채 금리 19년 만에 최고치, 글로벌 채권시장 흔들림 주목",
+        "link": "https://www.tokenpost.kr/news/economy/361334",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 20 May 2026 03:30:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "3분기 만에 반등한 가계 대출, 13조 늘었다",
+        "link": "https://n.news.naver.com/mnews/article/023/0003977349?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 20 May 2026 00:36:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "[사설] 가계빚 2000조 육박, 고금리 충격에 선제 대응을",
         "link": "https://n.news.naver.com/mnews/article/011/0004622545?sid=110",
         "source": "네이버뉴스",
         "pubDate": "Wed, 20 May 2026 00:02:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "'7조 매도 폭탄'속 숨은 진주…외국인·기관, 경기방어주·밸류업 금융 주...",
-        "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=77384",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 20 May 2026 00:00:00 +0900",
-        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
-        "term": null
-      },
-      {
-        "title": "충북 기후테크기업 수출 경쟁력 강화 지원",
-        "link": "http://www.cctimes.kr/news/articleView.html?idxno=907665",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 19 May 2026 20:18:00 +0900",
-        "summary": "",
         "term": null
       }
     ]
