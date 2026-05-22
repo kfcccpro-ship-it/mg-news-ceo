@@ -1,8 +1,40 @@
 {
-  "updatedAt": "2026-05-22T17:09:03.717Z",
-  "headline": "전남광주통합특별시 첫 금고 선정…1금고 NH 농협 은행·2금고 광주은행 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-05-22T19:45:28.703Z",
+  "headline": "[굿모닝 금융 ] 농협 중앙회·기업은행·카카오페이 등 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "[굿모닝 금융 ] 농협 중앙회·기업은행·카카오페이 등",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=137259",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 23 May 2026 04:38:00 +0900",
+        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "[굿모닝 금융 ] 농협중앙회·기업 은행 ·카카오페이 등",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=137259",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 23 May 2026 04:38:00 +0900",
+        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "전남광주통합특별시, 첫 금고 운영 은행 선정...NH 농협 과 광주은행",
+        "link": "https://www.tokenpost.kr/news/economy/362551",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 23 May 2026 02:50:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "전남광주통합특별시, 첫 금고 운영 은행 선정...NH농협과 광주 은행",
+        "link": "https://www.tokenpost.kr/news/economy/362551",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 23 May 2026 02:50:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "전남광주통합특별시 첫 금고 선정…1금고 NH 농협 은행·2금고 광주은행",
         "link": "https://www.getnews.co.kr/news/articleView.html?idxno=870770",
@@ -57,14 +89,6 @@
         }
       },
       {
-        "title": "은행 계좌 오픈 시 체류신분 검증 강화",
-        "link": "http://www.koreatimes.com/article/1614318",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 23 May 2026 01:12:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
         "title": "전남광주통합특별시 '첫 재정 파트너' 선정… NH 농협 은행·광주은행 낙...",
         "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=428248",
         "source": "네이버뉴스",
@@ -81,22 +105,6 @@
         "term": null
       },
       {
-        "title": "경기 농협 , 농가소득 안정 위해 양주 농산물 직거래 특판전 운영",
-        "link": "http://www.fntimes.com/html/view.php?ud=202605222210384110dd55077bc2_18",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 22 May 2026 22:26:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "경기 농협 ·한신대, ‘2026 여성리더 아카데미 과정’ 입학식 개최",
-        "link": "http://www.fntimes.com/html/view.php?ud=202605222204073743dd55077bc2_18",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 22 May 2026 22:10:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
         "title": "주담대 수요 비은행권으로 향하나...저축은행권은 '신중'",
         "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=359376",
         "source": "네이버뉴스",
@@ -107,23 +115,31 @@
     ],
     "macro": [
       {
+        "title": "“워시, 독립적으로 운영하라”던 트럼프…우회적 금리인하 압박(종합)",
+        "link": "https://n.news.naver.com/mnews/article/018/0006288768?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 23 May 2026 04:42:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "연준, 금리 인하보다는 인상 가능성 판단 우세…워시 의장 주목",
+        "link": "https://www.tokenpost.kr/news/economy/362564",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 23 May 2026 04:26:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+        }
+      },
+      {
         "title": "부산신곡우체국 직원들, 기지로 2억원대 금감원 사칭 스미싱 막아",
         "link": "https://www.cnbnews.com/news/articleView.html?idxno=1002570",
         "source": "네이버뉴스",
         "pubDate": "Sat, 23 May 2026 02:02:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "트럼프 “워시, 독립적으로 연준 운영하라”…시장선 금리인상 가능성...",
-        "link": "https://n.news.naver.com/mnews/article/018/0006288764?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 23 May 2026 01:36:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Forward Guidance",
-          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
-        }
       },
       {
         "title": "[박근종 칼럼] 긴축 공포·금리 급등 속 가계 빚 2,000조 육박, 빚투 '파...",
@@ -134,36 +150,6 @@
         "term": {
           "word": "Terminal Rate",
           "meaning": "기준금리 인상 사이클의 최종 수준에 대한 시장 기대"
-        }
-      },
-      {
-        "title": "월러 연준 이사 “금리 인상 가능성도 열어둬야”",
-        "link": "https://n.news.naver.com/mnews/article/018/0006288763?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 23 May 2026 01:16:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Forward Guidance",
-          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
-        }
-      },
-      {
-        "title": "국제유가 하락과 외국인 매수세로 국고채 금리 일제히 하락",
-        "link": "https://www.tokenpost.kr/news/economy/362540",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 23 May 2026 01:02:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "월러 연준 이사 \"연준, 금리인상 가능성 열어야\"",
-        "link": "https://n.news.naver.com/mnews/article/014/0005525451?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 23 May 2026 01:00:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Forward Guidance",
-          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
         }
       },
       {
