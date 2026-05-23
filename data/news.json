@@ -1,8 +1,16 @@
 {
-  "updatedAt": "2026-05-23T06:16:27.503Z",
-  "headline": "[제보K] 분식회계 적발돼도 징계 없다?…‘이사장 왕국’ 새마을금고 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-05-23T10:26:42.257Z",
+  "headline": "“영양은 복지회관, 청송은 땡볕 줄서기”… 영양청송 새마을금고 대의... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "“영양은 복지회관, 청송은 땡볕 줄서기”… 영양청송 새마을금고 대의...",
+        "link": "https://www.kbmaeil.com/article/20260523500091",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 23 May 2026 16:40:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "[제보K] 분식회계 적발돼도 징계 없다?…‘이사장 왕국’ 새마을금고",
         "link": "https://n.news.naver.com/mnews/article/056/0012186789?sid=102",
@@ -22,34 +30,18 @@
     ],
     "otherFinance": [
       {
+        "title": "[ 금융 HOT 뉴스] 카카오페이·신한 은행 , 착오송금 반환 자동화…\"처리 기...",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=137127",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 23 May 2026 17:44:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
         "title": "경북 농협 , 농축협 최고경영자 회의 및 소비자보호 실천결의대회 개최",
         "link": "https://www.dkilbo.com/news/articleView.html?idxno=545036",
         "source": "네이버뉴스",
         "pubDate": "Sat, 23 May 2026 15:10:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "“불안한 모습으로 폰만 만지작”…보이스피싱 수거책 잡은 은행 원 촉",
-        "link": "https://n.news.naver.com/mnews/article/023/0003978068?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 23 May 2026 14:10:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "하나 금융 , '하나 은행 인비테이셔널' 갤러리 티켓 사전 판매",
-        "link": "https://n.news.naver.com/mnews/article/003/0013963763?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 23 May 2026 14:00:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "KB국민 은행 ·삼성화재, 기업고객 동반성장·안전경영 생태계 조성 협력",
-        "link": "https://www.itbiznews.com/news/articleView.html?idxno=213829",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 23 May 2026 13:40:00 +0900",
         "summary": "",
         "term": null
       },
@@ -80,33 +72,6 @@
     ],
     "macro": [
       {
-        "title": "“시멘트만 팔 줄 알았나”…삼표·동양, 부동산 개발 '큰손' 진화중",
-        "link": "https://n.news.naver.com/mnews/article/018/0006289012?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 23 May 2026 15:02:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "[김이코의 시장분석]시장 흔드는 '보이지 않는 손' 美국채금리",
-        "link": "https://www.mediapen.com/news/view/1100653",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 23 May 2026 14:50:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "[초고령사회 금융 재편]① 예금만으론 노후 못 버텨… KB 금융 양종희 등...",
-        "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3064533",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 23 May 2026 11:30:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
-      },
-      {
         "title": "[박근종 칼럼] 긴축 공포·금리 급등 속 가계 빚 2,000조 육박, 빚투 '파...",
         "link": "https://www.mhns.co.kr/news/articleView.html?idxno=748218",
         "source": "네이버뉴스",
@@ -133,14 +98,6 @@
         "link": "https://n.news.naver.com/mnews/article/008/0005361839?sid=102",
         "source": "네이버뉴스",
         "pubDate": "Fri, 22 May 2026 16:54:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "3040 영끌에 신규 주담대 '최대치'…2금융권 대출 급증",
-        "link": "http://www.newsprime.co.kr/news/article.html?no=734436",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 22 May 2026 16:28:00 +0900",
         "summary": "",
         "term": null
       }
