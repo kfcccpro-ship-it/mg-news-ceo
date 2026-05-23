@@ -1,8 +1,24 @@
 {
-  "updatedAt": "2026-05-23T10:26:42.257Z",
-  "headline": "“영양은 복지회관, 청송은 땡볕 줄서기”… 영양청송 새마을금고 대의... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-05-23T13:25:43.853Z",
+  "headline": "전남광주통합특별시 첫 금고 선정…NH 농협 은행·광주은행 맡는다 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "전남광주통합특별시 첫 금고 선정…NH 농협 은행·광주은행 맡는다",
+        "link": "https://n.news.naver.com/mnews/article/310/0000136887?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 23 May 2026 21:41:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "전남광주통합특별시 첫 금고 선정…NH농협 은행 ·광주 은행 맡는다",
+        "link": "https://n.news.naver.com/mnews/article/310/0000136887?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 23 May 2026 21:41:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "“영양은 복지회관, 청송은 땡볕 줄서기”… 영양청송 새마을금고 대의...",
         "link": "https://www.kbmaeil.com/article/20260523500091",
@@ -30,10 +46,42 @@
     ],
     "otherFinance": [
       {
-        "title": "[ 금융 HOT 뉴스] 카카오페이·신한 은행 , 착오송금 반환 자동화…\"처리 기...",
-        "link": "http://www.bizwnews.com/news/articleView.html?idxno=137127",
+        "title": "KB국민 은행 , 삼성화재와 기업 안전경영 지원 협력",
+        "link": "http://www.paxetv.com/news/articleView.html?idxno=272892",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 23 May 2026 17:44:00 +0900",
+        "pubDate": "Sat, 23 May 2026 21:24:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "신한 은행 , 美 진출 실무 지원…상생포럼 개최",
+        "link": "http://www.paxetv.com/news/articleView.html?idxno=272887",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 23 May 2026 21:24:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "메리츠증권, 유엔사 부지 1조3000억원 차환···PF '우량 사업장'엔 열...",
+        "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=254232",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 23 May 2026 21:20:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "'민·학 격돌' 여신협회장 후보 5인 확정···차기 리더십 관전 포인트...",
+        "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=254240",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 23 May 2026 21:20:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "NH 농협 은행, WM·IB·글로벌 인재 육성 본격화",
+        "link": "http://www.paxetv.com/news/articleView.html?idxno=272886",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 23 May 2026 21:08:00 +0900",
         "summary": "",
         "term": null
       },
@@ -60,17 +108,28 @@
         "pubDate": "Sat, 23 May 2026 12:10:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "NH 농협 은행 대곡지점, 담당 직원과 팀장 보이스피싱 범죄 막아 화제!",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3590336",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 23 May 2026 12:04:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "macro": [
+      {
+        "title": "[탐사보도 뉴스프리즘] 연내 금리인하물 건너갔나 금리인상 '깜박이'",
+        "link": "https://n.news.naver.com/mnews/article/422/0000867845?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 23 May 2026 22:01:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Terminal Rate",
+          "meaning": "기준금리 인상 사이클의 최종 수준에 대한 시장 기대"
+        }
+      },
+      {
+        "title": "인뱅 3사, 1분기 중·저신용 대출 목표 넘겼다",
+        "link": "http://www.paxetv.com/news/articleView.html?idxno=272885",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 23 May 2026 21:08:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "[박근종 칼럼] 긴축 공포·금리 급등 속 가계 빚 2,000조 육박, 빚투 '파...",
         "link": "https://www.mhns.co.kr/news/articleView.html?idxno=748218",
@@ -92,14 +151,6 @@
           "word": "Deposit Beta",
           "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
         }
-      },
-      {
-        "title": "강남구, 중동 정세 피해업종 신규대출 이자 최대 3% 지원",
-        "link": "https://n.news.naver.com/mnews/article/008/0005361839?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 22 May 2026 16:54:00 +0900",
-        "summary": "",
-        "term": null
       }
     ]
   }
