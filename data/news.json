@@ -1,24 +1,8 @@
 {
-  "updatedAt": "2026-05-22T22:07:59.276Z",
-  "headline": "[굿모닝 금융 ] 농협 중앙회·기업은행·카카오페이 등 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-05-23T02:57:38.773Z",
+  "headline": "[제보K] 분식회계 적발돼도 징계 없다?…‘이사장 왕국’ 새마을금고 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
-      {
-        "title": "[굿모닝 금융 ] 농협 중앙회·기업은행·카카오페이 등",
-        "link": "http://www.bizwnews.com/news/articleView.html?idxno=137259",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 23 May 2026 04:38:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "전남광주통합특별시, 첫 금고 운영 은행 선정...NH 농협 과 광주은행",
-        "link": "https://www.tokenpost.kr/news/economy/362551",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 23 May 2026 02:50:00 +0900",
-        "summary": "",
-        "term": null
-      },
       {
         "title": "[제보K] 분식회계 적발돼도 징계 없다?…‘이사장 왕국’ 새마을금고",
         "link": "https://n.news.naver.com/mnews/article/056/0012186789?sid=102",
@@ -38,58 +22,26 @@
     ],
     "otherFinance": [
       {
-        "title": "증시 머니무브에...저축 은행 고금리 이색통장 출격",
-        "link": "https://news.dealsitetv.com/articles/170867",
+        "title": "전북 은행 미술관, 샤갈·피카소 등 유럽 거장 진품전 개최",
+        "link": "https://www.etoday.co.kr/news/view/2587349",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 23 May 2026 07:06:00 +0900",
+        "pubDate": "Sat, 23 May 2026 10:56:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "경주시·IBK기업 은행 , 중소기업 금리부담 완화 맞손",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1370227",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 23 May 2026 10:50:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "인터넷 은행 3사, 1분기 중·저신용자 신용대출 비중 목표치 초과",
-        "link": "https://www.tfmedia.co.kr/news/article.html?no=204698",
+        "title": "[ESG브리핑-5월3주] 미래에셋증권, 미래에셋증권숲 가꾸기 진행 외",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=359400",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 23 May 2026 07:02:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "보험도 AI가 판다…설계사 시대 끝나나",
-        "link": "https://n.news.naver.com/mnews/article/243/0000098160?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 23 May 2026 07:01:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "우리 은행 , 롯데월드타워에 고액자산가 특화 채널 '투 체어스 W 잠실' 개...",
-        "link": "https://www.public25.com/news/articleView.html?idxno=46874",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 23 May 2026 07:00:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[N2 포커스] 은행권, ‘머니무브’ 곳간 지키기 안간힘…‘예·대’ 고금...",
-        "link": "https://www.news2day.co.kr/article/20260520500143",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 23 May 2026 06:54:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[CEO리포트] 강태영 NH 농협 은행장, ‘실무형 리더십’으로 민족은행 '디...",
-        "link": "https://www.news2day.co.kr/article/20260522500024",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 23 May 2026 06:48:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "다이소, 농협 하나로마트 입점…농촌 유통망 확장 나선다",
-        "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/05/22/2026052280167.html",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 23 May 2026 06:16:00 +0900",
+        "pubDate": "Sat, 23 May 2026 10:08:00 +0900",
         "summary": "",
         "term": null
       },
@@ -104,18 +56,21 @@
     ],
     "macro": [
       {
-        "title": "인뱅 3사, 1분기 중저신용 대출 목표 초과 달성",
-        "link": "https://news.dealsitetv.com/articles/170865",
+        "title": "[초고령사회 금융 재편]① 예금만으론 노후 못 버텨… KB 금융 양종희 등...",
+        "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3064533",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 23 May 2026 07:02:00 +0900",
+        "pubDate": "Sat, 23 May 2026 11:30:00 +0900",
         "summary": "",
-        "term": null
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
       },
       {
-        "title": "양극화 속 한미 통화정책 신중…워시 행보 촉각",
-        "link": "http://www.segyebiz.com/newsView/20260523500840?OutUrl=naver",
+        "title": "다음주 한은 금통위 주목…기준금리 동결 전망",
+        "link": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005842099",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 23 May 2026 07:02:00 +0900",
+        "pubDate": "Sat, 23 May 2026 11:24:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": {
           "word": "Forward Guidance",
@@ -158,14 +113,6 @@
         "source": "네이버뉴스",
         "pubDate": "Fri, 22 May 2026 16:28:00 +0900",
         "summary": "",
-        "term": null
-      },
-      {
-        "title": "“강남 땅도 안 팔린다”…438억 낮춘 PF 사업장까지 유찰",
-        "link": "https://n.news.naver.com/mnews/article/138/0002228756?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 22 May 2026 16:06:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
         "term": null
       }
     ]
