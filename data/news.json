@@ -1,8 +1,24 @@
 {
-  "updatedAt": "2026-05-23T21:55:10.738Z",
-  "headline": "“영양은 복지회관, 청송은 땡볕 줄서기”… 영양청송 새마을금고 대의... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-05-24T03:38:28.753Z",
+  "headline": "전남광주통합특별시 1금고 운영기관 농협 銀·2금고는 광주銀 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "전남광주통합특별시 1금고 운영기관 농협 銀·2금고는 광주銀",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7165753",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 24 May 2026 12:32:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "전남광주통합특별시 1금고 운영기관 농협銀·2금고는 광주銀",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7165753",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 24 May 2026 12:32:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "“영양은 복지회관, 청송은 땡볕 줄서기”… 영양청송 새마을금고 대의...",
         "link": "https://www.kbmaeil.com/article/20260523500091",
@@ -30,62 +46,35 @@
     ],
     "otherFinance": [
       {
-        "title": "은행 주담대 고정금리 하단, 5% 넘는다…이자 부담 허리 휜다",
-        "link": "https://n.news.naver.com/mnews/article/029/0003028172?sid=101",
+        "title": "국내 은행 , 에스알티(SRT) 도입으로 혁신·벤처기업 자금 공급 확대",
+        "link": "https://www.tokenpost.kr/news/economy/362766",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 24 May 2026 06:41:00 +0900",
+        "pubDate": "Sun, 24 May 2026 12:26:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[위클리 뱅크이슈] 가계대출 역성장 기조 속 주담대 금리 낮추는 은행들",
+        "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=721211",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 24 May 2026 12:00:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "\"IPO 1년 정지\" 악재, 마야파다 제휴로 뚫는다… 농협금융 인니 '잰걸음'",
-        "link": "https://www.ngetnews.com/news/articleView.html?idxno=550452",
+        "title": "NH 농협 손보, 보험업계 첫 '제로트러스트' 시범사업 참여",
+        "link": "https://n.news.naver.com/mnews/article/003/0013964663?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 24 May 2026 06:40:00 +0900",
+        "pubDate": "Sun, 24 May 2026 12:00:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "\"IPO 1년 정지\" 악재, 마야파다 제휴로 뚫는다…농협 금융 인니 '잰걸음'",
-        "link": "https://www.ngetnews.com/news/articleView.html?idxno=550452",
+        "title": "시중은행 주담대 고정금리 하단 5% 넘어서···집값 빠질까",
+        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=421284",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 24 May 2026 06:40:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "24개월 최고 연 3.32%…광주은행 '미즈월복리정기예금' [이주의 은행 예...",
-        "link": "http://www.fntimes.com/html/view.php?ud=2026052216373142725e6e69892f_18",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 24 May 2026 06:02:00 +0900",
+        "pubDate": "Sun, 24 May 2026 11:56:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
-      },
-      {
-        "title": "일파만파 스타벅스 논란에 카드사도 긴장",
-        "link": "https://www.kukinews.com/article/view/kuk202605220116",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 24 May 2026 06:02:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "은행 주담대 고정금리 하단 5% 넘는다…3년 7개월 만에 최고",
-        "link": "https://n.news.naver.com/mnews/article/001/0016095872?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 24 May 2026 05:45:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "[은행 이모저모] 농협 은행·iM뱅크·전북은행 등",
-        "link": "http://www.bizwnews.com/news/articleView.html?idxno=137236",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 24 May 2026 04:30:00 +0900",
-        "summary": "",
         "term": null
       },
       {
@@ -99,10 +88,26 @@
     ],
     "macro": [
       {
-        "title": "주택담보대출 금리 5%대 재진입, 가계 이자 부담 증가",
-        "link": "https://www.tokenpost.kr/news/economy/362719",
+        "title": "고환율·고유가 이어 금리 인상 압박까지…기업들 '3중 부담'",
+        "link": "https://n.news.naver.com/mnews/article/119/0003093833?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 24 May 2026 05:56:00 +0900",
+        "pubDate": "Sun, 24 May 2026 12:18:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "주담대 다시 5% 시대…금리 부담에도 살아난 대출 수요",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=203864",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 24 May 2026 12:16:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "3년 7개월 만에 주담대 고정금리 하단 5% 돌파…\"금리 상승세 계속\"",
+        "link": "https://n.news.naver.com/mnews/article/469/0000932394?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 24 May 2026 11:50:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       },
