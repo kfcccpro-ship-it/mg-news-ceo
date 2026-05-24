@@ -1,8 +1,16 @@
 {
-  "updatedAt": "2026-05-24T08:29:33.601Z",
-  "headline": "통영·거제·고성 새마을금고 협의회 파크골프 어울림 한마당 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-05-24T10:41:37.644Z",
+  "headline": "지역 금고 , 은행이 외면한 청년에 무담보 대출 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "지역 금고 , 은행이 외면한 청년에 무담보 대출",
+        "link": "https://n.news.naver.com/mnews/article/009/0005684338?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 24 May 2026 17:32:00 +0900",
+        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
+        "term": null
+      },
       {
         "title": "통영·거제·고성 새마을금고 협의회 파크골프 어울림 한마당",
         "link": "https://www.idomin.com/news/articleView.html?idxno=2006443",
@@ -13,14 +21,6 @@
       },
       {
         "title": "전남광주통합특별시, 초대 금고 농협 ·광주은행 선정",
-        "link": "https://n.news.naver.com/mnews/article/022/0004130337?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 24 May 2026 17:18:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "전남광주통합특별시, 초대 금고 농협·광주 은행 선정",
         "link": "https://n.news.naver.com/mnews/article/022/0004130337?sid=102",
         "source": "네이버뉴스",
         "pubDate": "Sun, 24 May 2026 17:18:00 +0900",
@@ -54,18 +54,18 @@
     ],
     "otherFinance": [
       {
-        "title": "유럽 투자자 35%, 암호화폐 때문에 은행 갈아타기...\"수수료보다 '코인'...",
-        "link": "http://coinreaders.com/238263",
+        "title": "[ 금융 HOT 뉴스] 인터넷 은행 3사, 1분기 중저신용 대출 확대",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=137254",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 24 May 2026 17:02:00 +0900",
-        "summary": "",
+        "pubDate": "Sun, 24 May 2026 19:30:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "은행 권, 출산율 반등에 '아이 적금' 경쟁…미래고객 선점 나서",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1370056",
+        "title": "경북 농협 , 농축협 최고경영자 회의 개최",
+        "link": "https://www.kbsm.net/news/view.php?idx=520551",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 24 May 2026 17:00:00 +0900",
+        "pubDate": "Sun, 24 May 2026 18:48:00 +0900",
         "summary": "",
         "term": null
       },
@@ -75,22 +75,6 @@
         "source": "네이버뉴스",
         "pubDate": "Sun, 24 May 2026 16:38:00 +0900",
         "summary": "",
-        "term": null
-      },
-      {
-        "title": "은행 고정금리 주담대 하단 5% 넘었다···3년7개월 만에 최고",
-        "link": "https://n.news.naver.com/mnews/article/032/0003447628?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 24 May 2026 16:17:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "3년7개월만 은행 주담대 금리 하단 5% 돌파, 늘어나는 이자 부담",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=438519",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 24 May 2026 15:44:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
@@ -104,10 +88,10 @@
     ],
     "macro": [
       {
-        "title": "“트럼프는 저금리 원하는데”…그의 연준의장, 첫 심판대는 ‘30년물 ...",
-        "link": "https://n.news.naver.com/mnews/article/009/0005684331?sid=101",
+        "title": "[N위크] 한은 기준금리 결정, '성장률 전망치는...증시 빅 이벤트 데이",
+        "link": "https://www.tfmedia.co.kr/news/article.html?no=204709",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 24 May 2026 17:13:00 +0900",
+        "pubDate": "Sun, 24 May 2026 19:20:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": {
           "word": "Forward Guidance",
@@ -115,26 +99,26 @@
         }
       },
       {
-        "title": "당국 개입에도 1520원 턱밑 환율…24시간 개장, 변동성 더 키우나",
-        "link": "https://n.news.naver.com/mnews/article/469/0000932447?sid=101",
+        "title": "중동발 인플레 공포에 대출자 비명…주담대 고정금리 하단 5%대로",
+        "link": "https://n.news.naver.com/mnews/article/020/0003721898?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 24 May 2026 17:03:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "주담대 금리 하단 5% 돌파…3년 7개월만",
-        "link": "https://n.news.naver.com/mnews/article/448/0000614077?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 24 May 2026 16:12:00 +0900",
+        "pubDate": "Sun, 24 May 2026 19:10:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "주담대 금리 하단 5%대 ‘영끌·빚투’ 어쩌나… 마통도 한 달 새 1.5조원...",
-        "link": "https://n.news.naver.com/mnews/article/081/0003646412?sid=101",
+        "title": "LTV에 막힌 온투업 대출, 저축銀 연계투자로 푼다",
+        "link": "https://n.news.naver.com/mnews/article/014/0005525802?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 24 May 2026 15:53:00 +0900",
+        "pubDate": "Sun, 24 May 2026 19:05:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[자막뉴스] 주담대 금리 \"낮아도 5%\"…'금리 상승 기조' 컴백 '빚투' 경...",
+        "link": "https://n.news.naver.com/mnews/article/055/0001358768?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 24 May 2026 18:30:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       },
