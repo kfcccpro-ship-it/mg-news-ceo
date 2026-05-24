@@ -1,13 +1,29 @@
 {
-  "updatedAt": "2026-05-24T19:17:32.802Z",
-  "headline": "20.8조 통합특별시 금고 전쟁… 농협 1금고·광주은행 2금고 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-05-24T21:56:58.881Z",
+  "headline": "“담보 잡을 게 없네요?”…은행에 외면당한 청년들, 지역 금고 가 살린다 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
-        "title": "20.8조 통합특별시 금고 전쟁… 농협 1금고·광주은행 2금고",
-        "link": "https://news.mtn.co.kr/news-detail/2026052320193814356",
+        "title": "“담보 잡을 게 없네요?”…은행에 외면당한 청년들, 지역 금고 가 살린다",
+        "link": "https://n.news.naver.com/mnews/article/009/0005684442?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 24 May 2026 22:44:00 +0900",
+        "pubDate": "Mon, 25 May 2026 06:12:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "“담보 잡을 게 없네요?”… 은행 에 외면당한 청년들, 지역금고가 살린다",
+        "link": "https://n.news.naver.com/mnews/article/009/0005684442?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 25 May 2026 06:12:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "전남광주통합시 1금고 농협 ㆍ2금고 광주은행",
+        "link": "https://n.news.naver.com/mnews/article/081/0003646487?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 25 May 2026 05:03:00 +0900",
         "summary": "",
         "term": null
       },
@@ -34,38 +50,65 @@
         "pubDate": "Sat, 23 May 2026 16:40:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "[제보K] 분식회계 적발돼도 징계 없다?…‘이사장 왕국’ 새마을금고",
-        "link": "https://n.news.naver.com/mnews/article/056/0012186789?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 22 May 2026 23:24:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "스벅 카드 100% 환불 안 된다는데… 회사가 결단하면 가능",
-        "link": "https://n.news.naver.com/mnews/article/005/0001850821?sid=101",
+        "title": "금감원도 인정한 알짜카드…KB국민카드 '사장님든든'의 차별화 전략[금...",
+        "link": "https://www.newsway.co.kr/news/view?ud=2026052208444215534",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 25 May 2026 02:02:00 +0900",
+        "pubDate": "Mon, 25 May 2026 06:40:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "부처님오신날 대체공휴일 택배· 은행 ·주식·증시 시장 쉬는날?",
-        "link": "https://www.bntnews.co.kr/article/view/bnt202605250008",
+        "title": "상상인저축 은행 이재옥호 체질개선 실패…'속 빈 강정' 되다",
+        "link": "https://www.asiatime.co.kr/article/20260513500271",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 25 May 2026 01:56:00 +0900",
+        "pubDate": "Mon, 25 May 2026 06:36:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "\"결승전 승부사\" 조건휘, PBA 개막전 '우리 금융 캐피탈 챔피언십' 우승…...",
-        "link": "https://www.thebilliards.kr/news/articleView.html?idxno=30924",
+        "title": "\"코인업계만 문제 아니다\"…특금법 개정안에 은행 권도 '난색'",
+        "link": "https://n.news.naver.com/mnews/article/421/0008964086?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 25 May 2026 00:32:00 +0900",
+        "pubDate": "Mon, 25 May 2026 06:30:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "청년미래적금 내달 출시… 은행 권, 역마진에도 '락인 효과' 기대",
+        "link": "https://n.news.naver.com/mnews/article/421/0008964080?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 25 May 2026 06:24:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "NIM",
+          "meaning": "금리 변화가 금융기관 수익성에 미치는 영향을 보여주는 핵심 지표"
+        }
+      },
+      {
+        "title": "[단독]KB 금융 , 방카슈랑스 전면 개편… 은행 ·보험사 '공동상품 개발' 승...",
+        "link": "https://n.news.naver.com/mnews/article/008/0005362250?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 25 May 2026 06:20:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "유권자 187만명·선거비 수백억원…' 농협 직선제' 뭐가 달라지나",
+        "link": "https://n.news.naver.com/mnews/article/001/0016097024?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 25 May 2026 06:01:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "보험 팔던 회사가 문화를 판다…가정의 달, 보험업계 '경험 마케팅' 속...",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1709978",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 25 May 2026 06:00:00 +0900",
         "summary": "",
         "term": null
       },
@@ -76,67 +119,24 @@
         "pubDate": "Mon, 25 May 2026 00:02:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "보험도 '우주 데이터' 본다, 위성 기반 위험관리 부상",
-        "link": "https://www.insnews.co.kr/news/articleView.html?idxno=90935",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 25 May 2026 00:00:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "조건휘, 천적 조재호 또 울렸다…7세트 혈투 끝에 '우리 금융 캐피탈 PBA ...",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3591003",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 24 May 2026 23:56:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "경북 농협 , 상호 금융 소비자보호 실천 결의대회",
-        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=549061",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 24 May 2026 21:24:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[ 금융 업계기상도]케이뱅크 ‘맑음’·NH 농협 은행 ‘구름조금’",
-        "link": "https://www.nspna.com/news/?mode=view&newsid=814265",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 24 May 2026 21:10:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "macro": [
       {
-        "title": "고금리 고물가 고환율이 성공의 비용이라면, 누가 그 비용을 내고 있나",
-        "link": "https://www.betanews.net/article/view/beta202605250003",
+        "title": "주광덕·양향자, 남양주서 공동약속 체결.. 경기 동북부 도약 한목소리",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3591039",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 25 May 2026 03:20:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "pubDate": "Mon, 25 May 2026 06:40:00 +0900",
+        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
         "term": null
       },
       {
-        "title": "세계 국채 금리 뛰자 주담대 고정금리 하단 5%대로",
-        "link": "https://n.news.naver.com/mnews/article/020/0003721996?sid=101",
+        "title": "주담대 고정금리 하단 5% 돌파… 3년 7개월 만에 최고",
+        "link": "https://n.news.naver.com/mnews/article/081/0003646512?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 25 May 2026 01:45:00 +0900",
+        "pubDate": "Mon, 25 May 2026 05:04:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
-      },
-      {
-        "title": "워시 연준 의장 취임… 연내 美금리 인상 전망 확산",
-        "link": "https://n.news.naver.com/mnews/article/020/0003721968?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 25 May 2026 01:43:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Forward Guidance",
-          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
-        }
       },
       {
         "title": "[박근종 칼럼] 긴축 공포·금리 급등 속 가계 빚 2,000조 육박, 빚투 '파...",
