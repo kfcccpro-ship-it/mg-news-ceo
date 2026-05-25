@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-25T19:40:19.957Z",
+  "updatedAt": "2026-05-25T22:08:46.878Z",
   "headline": "춘천동부 새마을금고 파크골프 월례대회 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -20,133 +20,93 @@
         "term": null
       },
       {
-        "title": "농협 중앙회, '재난안전관리 권역별 교육' 실시",
-        "link": "http://www.youngnong.co.kr/news/articleView.html?idxno=59774",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 25 May 2026 23:36:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "농협 중앙회, \"신뢰받는 농협 구현\"... '정보보호 인사이트 아카데미' 개...",
-        "link": "http://www.youngnong.co.kr/news/articleView.html?idxno=59769",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 25 May 2026 23:36:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
         "title": "합천강양 새마을금고 , 2026년도 연도대상 '최우수상' 쾌거",
         "link": "http://www.gndomin.com/news/articleView.html?idxno=476668",
         "source": "네이버뉴스",
         "pubDate": "Mon, 25 May 2026 18:15:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "북춘천 새마을금고 , ‘MG 새마을금고 창립 63주년 기념식’서 대상 수상",
-        "link": "https://n.news.naver.com/mnews/article/087/0001195159?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 25 May 2026 15:32:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "'보험 < 은행 ' 주담대 금리역전 이어진다",
-        "link": "https://n.news.naver.com/mnews/article/008/0005362476?sid=101",
+        "title": "[이번주 한국 은행 및 금융 위·금감원 일정]",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4416570",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 26 May 2026 04:10:00 +0900",
+        "pubDate": "Tue, 26 May 2026 07:06:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "\"돈 다 빠져나갈라\"…눈치보던 은행 권, 예금금리 다시 올린다",
+        "link": "https://n.news.naver.com/mnews/article/119/0003094150?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 26 May 2026 07:05:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "[ 금융 HOT 뉴스] 농협 \"조합원 직선제 적극 수용\"…개혁 논의 속도",
-        "link": "http://www.bizwnews.com/news/articleView.html?idxno=137222",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 26 May 2026 01:40:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "증시 활황에 은행권 펀드 신규 고객 1년새 2배로 늘어",
-        "link": "https://n.news.naver.com/mnews/article/020/0003722097?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 26 May 2026 00:31:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[단신]KB국민은행, 데브시스터즈와 쿠키런 이벤트 外",
-        "link": "https://n.news.naver.com/mnews/article/020/0003722090?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 26 May 2026 00:31:00 +0900",
-        "summary": "",
         "term": {
-          "word": "LCR",
-          "meaning": "단기 유동성 충격 대응 능력을 보여주는 지표"
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
         }
       },
       {
-        "title": "웅동 농협 , 금융 자산 7천억원·예수금 4천억원 달성",
-        "link": "http://www.youngnong.co.kr/news/articleView.html?idxno=59776",
+        "title": "3월 국내 은행 대출 연체율 0.56%로 하락… 부실채권 적극 상각이 주효",
+        "link": "https://www.gokorea.kr/news/articleView.html?idxno=867373",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 25 May 2026 23:36:00 +0900",
+        "pubDate": "Tue, 26 May 2026 07:04:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "[Invest]“ 은행 -증권 협업으로 기업 금융 재건…RWA 제약 속 투자 확대”",
+        "link": "https://www.investchosun.com/site/data/html_dir/2026/05/22/2026052280164.html",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 26 May 2026 07:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "미래에셋자산운용 연금 1위…은행·보험 제친 연금시장 판도 변화",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=455159",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 26 May 2026 06:56:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "캐피탈 브랜드평판 5월 빅데이터 분석... 1위 현대캐피탈, 2위 KB캐피탈,...",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=455158",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 26 May 2026 06:52:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[브랜드평판] 현대캐피탈, 캐피탈 5월 1위... KB캐피탈, NH 농협 캐피탈 뒤...",
+        "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=50409",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 26 May 2026 06:22:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "농협 조합원 직선제, 선거비용 최대 406억 든다",
+        "link": "https://n.news.naver.com/mnews/article/022/0004130652?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 26 May 2026 06:03:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "주가-수출 뛰는데… ‘거꾸로 환율’ 1520원 육박",
-        "link": "https://n.news.naver.com/mnews/article/020/0003722152?sid=101",
+        "title": "혁신 금융 1천건 시대… 소비자 체감은 아직 [AI 금융 의 과제 ①]",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092162425",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 26 May 2026 04:34:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "고유가 장기화-외국인 주식매도에 달러 유출… 환율 고공행진",
-        "link": "https://n.news.naver.com/mnews/article/020/0003722148?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 26 May 2026 04:33:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "美-英-日 금리인상으로 잇단 방향전환… 고물가 부담 한국도 상승 압박...",
-        "link": "https://n.news.naver.com/mnews/article/020/0003722149?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 26 May 2026 04:33:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Terminal Rate",
-          "meaning": "기준금리 인상 사이클의 최종 수준에 대한 시장 기대"
-        }
-      },
-      {
-        "title": "가계대출 전략 갈린 카뱅·케뱅, 하반기엔 '개인사업자' 올인",
-        "link": "https://n.news.naver.com/mnews/article/008/0005362474?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 26 May 2026 04:10:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "금리 5% 시대 개막… ‘대안정’ 붕괴가 만든 금융 시장 발작",
-        "link": "https://www.g-enews.com/view.php?ud=202605251456511245fbbec65dfb_1",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 26 May 2026 03:26:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "[박근종 칼럼] 본격화하는 금리 상승 속 가계 빚은 사상 최대, 빚투·영...",
-        "link": "https://www.mhns.co.kr/news/articleView.html?idxno=748348",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 26 May 2026 00:06:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "pubDate": "Tue, 26 May 2026 06:00:00 +0900",
+        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
         "term": null
       },
       {
