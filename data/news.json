@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-28T20:23:41.341Z",
+  "updatedAt": "2026-05-28T22:41:19.734Z",
   "headline": "새마을금고 재단, MG장애가족 2억 지원 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -42,90 +42,113 @@
         "pubDate": "Thu, 28 May 2026 20:08:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "새마을금고 재단, 장애아동과 가족 지원 사업 추진…2억원 기부",
-        "link": "https://mdtoday.co.kr/news/view/1065603894904878",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 28 May 2026 18:28:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "[브랜드평판] 미래에셋증권, 채권 5월 1위... 신한 은행 , KB증권 뒤이어",
-        "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=50553",
+        "title": "1분기 은행 BIS비율 하락…대출자산·환율 상승 영향",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=841165",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 29 May 2026 05:20:00 +0900",
+        "pubDate": "Fri, 29 May 2026 07:38:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "CET1",
+          "meaning": "손실흡수력을 보여주는 대표적인 자본적정성 지표"
+        }
+      },
+      {
+        "title": "저신용자 카드론 금리 ‘양극화’...고신용자와도 7%P 격차",
+        "link": "https://n.news.naver.com/mnews/article/011/0004625671?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 29 May 2026 07:33:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "은행권 덮친 역대급 머니무브…기업 금융 의 돌파구될까",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=841218",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 29 May 2026 07:32:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "NH 농협 , AI 애자일소다에 투자",
-        "link": "https://n.news.naver.com/mnews/article/081/0003647885?sid=101",
+        "title": "은행 부실채권비율 0.60%로 상승…코로나 이후 충당금 적립률은 하락세",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=260837",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 29 May 2026 05:04:00 +0900",
+        "pubDate": "Fri, 29 May 2026 07:32:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "은행 권 덮친 역대급 머니무브…기업 금융 의 돌파구될까",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=841218",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 29 May 2026 07:32:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "은행 권 사회공헌 규모 사상 처음 2조원 넘어서",
-        "link": "https://n.news.naver.com/mnews/article/081/0003647883?sid=101",
+        "title": "메리츠 금융 , 보험·증권 '안정적 성장'…자사주 확대 불구, 밸류업 '시험...",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=841200",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 29 May 2026 05:04:00 +0900",
+        "pubDate": "Fri, 29 May 2026 07:32:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "NH농협, AI 애자일소다에 투자",
-        "link": "https://n.news.naver.com/mnews/article/081/0003647885?sid=101",
+        "title": "은행 권, 예금금리 오른다…'예테크 시대' 다시 오나",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=202753",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 29 May 2026 05:04:00 +0900",
-        "summary": "",
-        "term": null
+        "pubDate": "Fri, 29 May 2026 07:30:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
       },
       {
-        "title": "농협 은행·신용회복위원회 ‘취약계층 새출발’ 지원",
-        "link": "https://n.news.naver.com/mnews/article/662/0000096200?sid=101",
+        "title": "브로커리지 1위 '흔들'...키움증권, 퇴직연금 승부수 통할까",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=669869",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 29 May 2026 05:02:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "농협 은행 ·신용회복위원회 ‘취약계층 새출발’ 지원",
-        "link": "https://n.news.naver.com/mnews/article/662/0000096200?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 29 May 2026 05:02:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "충남 동부여 농협 , 이동상담실 운영…법률 등 안내",
-        "link": "https://n.news.naver.com/mnews/article/662/0000096181?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 29 May 2026 05:01:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "농협 은행 충북본부· 금융 지주, 농촌 일손돕기",
-        "link": "https://n.news.naver.com/mnews/article/662/0000096185?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 29 May 2026 05:01:00 +0900",
+        "pubDate": "Fri, 29 May 2026 07:30:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "[사설] 연내 금리 인상 깜빡이… 물가·가계빚 선제적 관리 시급",
-        "link": "https://n.news.naver.com/mnews/article/081/0003647903?sid=110",
+        "title": "주담대 금리 8% 나오나… 한은 신호탄 ‘영끌족’ 초비상",
+        "link": "https://n.news.naver.com/mnews/article/005/0001851802?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 29 May 2026 05:15:00 +0900",
+        "pubDate": "Fri, 29 May 2026 07:25:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
+      },
+      {
+        "title": "기준금리 동결에도 대출금리 불안…차주 부담 커지나",
+        "link": "http://www.segyebiz.com/newsView/20260528519868?OutUrl=naver",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 29 May 2026 07:02:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "NIM",
+          "meaning": "금리 변화가 금융기관 수익성에 미치는 영향을 보여주는 핵심 지표"
+        }
+      },
+      {
+        "title": "'7월 금리인상' 신호…대출금리 더 오른다",
+        "link": "https://n.news.naver.com/mnews/article/003/0013974544?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 29 May 2026 07:00:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "NIM",
+          "meaning": "금리 변화가 금융기관 수익성에 미치는 영향을 보여주는 핵심 지표"
+        }
       }
     ]
   }
