@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-30T13:39:01.644Z",
+  "updatedAt": "2026-05-30T16:04:56.770Z",
   "headline": "이찬원, 익산 원광 새마을금고 열린음악회 공연 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -30,6 +30,36 @@
     ],
     "otherFinance": [
       {
+        "title": "JP모건, 코인베이스에 겁먹었나...스테이블코인 보상 전쟁에 은행 권 밥...",
+        "link": "http://coinreaders.com/239432",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 30 May 2026 23:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[ 금융 HOT 뉴스] 신한·우리· 농협 은행, BIS '아고라 프로젝트' 참여…글...",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=137690",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 30 May 2026 22:48:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "CET1",
+          "meaning": "손실흡수력을 보여주는 대표적인 자본적정성 지표"
+        }
+      },
+      {
+        "title": "[ 금융 HOT 뉴스] 신한·우리·농협 은행 , BIS '아고라 프로젝트' 참여…글...",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=137690",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 30 May 2026 22:48:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "CET1",
+          "meaning": "손실흡수력을 보여주는 대표적인 자본적정성 지표"
+        }
+      },
+      {
         "title": "KB국민 은행 , 교보문고와 손잡고 시니어 맞춤형 도서 추천 이벤트 진행",
         "link": "https://www.kgnews.co.kr/news/article.html?no=897982",
         "source": "네이버뉴스",
@@ -42,22 +72,6 @@
         "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2186272",
         "source": "네이버뉴스",
         "pubDate": "Sat, 30 May 2026 22:00:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[ 금융 소식] 신한 은행 KBO 올스타전 팬 투표 6월 1일 시작 / KB국민 은행 시...",
-        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2186269",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 30 May 2026 21:36:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[KLPGA] 유현조, Sh수협 은행 MBN 오픈 2R 단독 선두…데뷔 첫 시즌 다승 ...",
-        "link": "https://swtvnews.com/news/newsview.php?ncode=1065613765223004",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 30 May 2026 21:18:00 +0900",
         "summary": "",
         "term": null
       },
@@ -84,14 +98,6 @@
         "pubDate": "Sat, 30 May 2026 16:40:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "개미 돈 증시갈 때 회삿돈 은행에…기업용 파킹통장 잔액 한달새 19조↑...",
-        "link": "https://n.news.naver.com/mnews/article/016/0002650098?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 30 May 2026 15:14:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "macro": [
@@ -104,14 +110,6 @@
         "term": null
       },
       {
-        "title": "우리 금융 , 경기도 화성에 발달장애인 희망 일터 '굿윌스토어' 14호점 개...",
-        "link": "https://www.ngonews.kr/news/articleView.html?idxno=230428",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 30 May 2026 21:20:00 +0900",
-        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
-        "term": null
-      },
-      {
         "title": "[금상소] \"예금인데 수익률은 주식처럼?\"…ELD 가입 전 체크포인트",
         "link": "https://www.etoday.co.kr/news/view/2589059",
         "source": "네이버뉴스",
@@ -121,14 +119,6 @@
           "word": "Deposit Beta",
           "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
         }
-      },
-      {
-        "title": "[ 금융 소식] 한화손보 대학생 소비자보호 챌린지 / iM뱅크·대구보건대 A...",
-        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2186253",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 30 May 2026 12:26:00 +0900",
-        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
-        "term": null
       },
       {
         "title": "새도약기금, 9602억원 규모 장기연체채권 매입… 11만6000명 추심 중단",
