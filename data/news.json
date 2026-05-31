@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-30T22:01:35.497Z",
+  "updatedAt": "2026-05-31T03:54:38.782Z",
   "headline": "이찬원, 익산 원광 새마을금고 열린음악회 공연 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -18,46 +18,54 @@
         "pubDate": "Sat, 30 May 2026 06:00:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "'찬또배기' 이찬원, 익산 뜬다…원광 새마을금고 열린음악회 출격",
-        "link": "https://enter.etoday.co.kr/news/view/297924",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 30 May 2026 02:00:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "가상자산 거래소 품는 증권사들…삼성·한투·미래의 서로 다른 계산법",
-        "link": "http://www.metroseoul.co.kr/article/20260531500003",
+        "title": "강태영 농협 은행장, 농식품펀드 투자기업 찾아",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=303795",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 31 May 2026 06:56:00 +0900",
+        "pubDate": "Sun, 31 May 2026 12:50:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "NH 농협 은행 \"생산적 금융 실적 8.5조…하반기 지원 확대\"",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=306040",
+        "title": "강태영 농협 은행 장, 농식품펀드 투자기업 찾아",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=303795",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 31 May 2026 06:38:00 +0900",
+        "pubDate": "Sun, 31 May 2026 12:50:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "NH농협 은행 \"생산적 금융 실적 8.5조…하반기 지원 확대\"",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=306040",
+        "title": "NH 농협금융 \"단순 적립금 경쟁 끝\" 수익률 중심 퇴직연금 그룹 전환 박차",
+        "link": "https://www.pointe.co.kr/news/articleView.html?idxno=80110",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 31 May 2026 06:38:00 +0900",
+        "pubDate": "Sun, 31 May 2026 12:32:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "5대은행 가계·기업대출 동반상승…요구불예금 710조 \"약 4년 만에 최대...",
-        "link": "https://n.news.naver.com/mnews/article/421/0008975491?sid=101",
+        "title": "NH농협 금융 \"단순 적립금 경쟁 끝\" 수익률 중심 퇴직연금 그룹 전환 박차",
+        "link": "https://www.pointe.co.kr/news/articleView.html?idxno=80110",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 31 May 2026 06:33:00 +0900",
+        "pubDate": "Sun, 31 May 2026 12:32:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "24개월 최고 연 8.00%…케이뱅크 '마이키즈 적금' [이주의 은행 적금금리...",
+        "link": "http://www.fntimes.com/html/view.php?ud=2026052910092935831b5a221379_18",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 31 May 2026 12:30:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "24개월 최고 연 3.30%…광주은행 '미즈월복리정기예금' [이주의 은행 예...",
+        "link": "http://www.fntimes.com/html/view.php?ud=2026052910043879521b5a221379_18",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 31 May 2026 12:10:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": {
           "word": "Deposit Beta",
@@ -65,84 +73,46 @@
         }
       },
       {
-        "title": "5대 은행 가계·기업대출 동반상승…요구불예금 710조 \"약 4년 만에 최대...",
-        "link": "https://n.news.naver.com/mnews/article/421/0008975491?sid=101",
+        "title": "NH 농협 은행장, AI 농산물 선별기업 에이오팜 현장 점검",
+        "link": "https://www.delighti.co.kr/news/articleView.html?idxno=117102",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 31 May 2026 06:33:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
-      },
-      {
-        "title": "[단독]사망·질병 시 대신 빚 갚아주는 ‘대출보험’…생보업계 내달 공...",
-        "link": "https://n.news.naver.com/mnews/article/016/0002650152?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 31 May 2026 06:08:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "pubDate": "Sun, 31 May 2026 12:10:00 +0900",
+        "summary": "",
         "term": null
       },
       {
-        "title": "증시 호황에 거세진 '빚투'…은행 신용대출 2.6조 폭증",
-        "link": "https://n.news.naver.com/mnews/article/003/0013977530?sid=101",
+        "title": "강태영 농협 은행장, 애그테크 투자기업 현장 경영… 금융 지원 확대 논의",
+        "link": "https://www.viva100.com/article/20260531500299",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 31 May 2026 06:00:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "\"중금리대출 늘린다\" 李대통령 질타에 저신용자 껴안는 은행들",
-        "link": "https://n.news.naver.com/mnews/article/079/0004152441?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 31 May 2026 05:01:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "pubDate": "Sun, 31 May 2026 11:54:00 +0900",
+        "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "'집값·환율·물가' 삼중 압박에…한은, 인플레 차단 총력전",
-        "link": "https://n.news.naver.com/mnews/article/421/0008975495?sid=101",
+        "title": "한은도 Fed도 '금리인하'보다 '인상' 쪽으로",
+        "link": "http://www.metroseoul.co.kr/article/20260531500132",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 31 May 2026 07:00:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "\"갈 길 명확하다\" 신현송 한마디에 주담대 금리 7% 공포…'영끌족' 한숨",
-        "link": "https://n.news.naver.com/mnews/article/421/0008975493?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 31 May 2026 06:52:00 +0900",
+        "pubDate": "Sun, 31 May 2026 12:52:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "신용대출, 주식 투자 붐에 2조6천억 폭증…주택담보대출은 제자리",
-        "link": "https://www.tokenpost.kr/news/economy/364702",
+        "title": "우리 금융 , 굿윌스토어 14호점 개점…\"경기지역 발달장애인 일자리 창출...",
+        "link": "http://www.efnews.co.kr/news/articleView.html?idxno=130047",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 31 May 2026 06:02:00 +0900",
-        "summary": "",
+        "pubDate": "Sun, 31 May 2026 12:28:00 +0900",
+        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
         "term": null
       },
       {
-        "title": "5월 신용대출, 주담대보다 100배 넘게 늘어…머니무브 속 '빚투'",
-        "link": "https://n.news.naver.com/mnews/article/001/0016109279?sid=101",
+        "title": "5월 신용대출, 주담대 증가액의 100배 넘어…머니무브 속 '빚투' 확산",
+        "link": "https://www.delighti.co.kr/news/articleView.html?idxno=117106",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 31 May 2026 05:45:00 +0900",
+        "pubDate": "Sun, 31 May 2026 12:14:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "새도약기금, 9602억원 규모 장기연체채권 매입… 11만6000명 추심 중단",
-        "link": "https://n.news.naver.com/mnews/article/366/0001168110?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 29 May 2026 22:53:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
       }
     ]
   }
