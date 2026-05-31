@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T16:09:04.541Z",
+  "updatedAt": "2026-05-31T19:17:45.699Z",
   "headline": "원광 새마을금고 , 익산 청소년 위해 2,000만 원 기탁 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -54,39 +54,36 @@
     ],
     "otherFinance": [
       {
+        "title": "불장 '녹아웃'에 고객 떠날라… 은행들 'ELD'에 새옷 입힌다",
+        "link": "https://n.news.naver.com/mnews/article/008/0005365259?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 01 Jun 2026 04:04:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "소상공인 '비장의 카드' IBK기업銀 비즈플러스, 누적 1.5만건 발급",
+        "link": "https://n.news.naver.com/mnews/article/008/0005365258?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 01 Jun 2026 04:04:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "불장 '녹아웃'에 고객 떠날라… 은행 들 'ELD'에 새옷 입힌다",
+        "link": "https://n.news.naver.com/mnews/article/008/0005365259?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 01 Jun 2026 04:04:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
         "title": "[스카이 View] 은행 ‘사회공헌 2조’ 시대의 두 얼굴",
         "link": "https://m.skyedaily.com/news_view.html?ID=304966",
         "source": "네이버뉴스",
         "pubDate": "Mon, 01 Jun 2026 00:04:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "문창환 IBK캐피탈 대표, 단기조달 전략적 확대…AA- 펀더멘탈 ‘최상’...",
-        "link": "http://www.fntimes.com/html/view.php?ud=202605300128275981dd55077bc2_18",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 01 Jun 2026 00:02:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "대신증권, 인컴형 WM 승부수…‘고배당 투자명가’ 노린다 [증권사, 새 ...",
-        "link": "http://www.fntimes.com/html/view.php?ud=20260530002533582dd55077bc2_18",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 01 Jun 2026 00:02:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "유암코 독주 속 NPL경쟁 치열…비 은행 계 존재감 커졌다 [2026 NPL 돋보기 ...",
-        "link": "http://www.fntimes.com/html/view.php?ud=202605300133091581dd55077bc2_18",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 01 Jun 2026 00:02:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
       },
       {
         "title": "농협 하나로마트, 다이소와 업무협약 체결",
@@ -122,6 +119,28 @@
       }
     ],
     "macro": [
+      {
+        "title": "연준 월러 이사 \"스테이블코인 확산, 미 통화정책 영향력 키운다\"",
+        "link": "https://www.globale.co.kr/news/articleView.html?idxno=38541",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 01 Jun 2026 03:56:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+        }
+      },
+      {
+        "title": "연준 이사 \"스테이블코인 확산되면 美 통화정책 영향력 더 커질 것\"",
+        "link": "https://n.news.naver.com/mnews/article/421/0008976637?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 01 Jun 2026 03:30:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+        }
+      },
       {
         "title": "울산 주담대 고금리속 보금자리론 인기",
         "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1058187",
