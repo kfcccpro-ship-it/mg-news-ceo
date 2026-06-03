@@ -1,27 +1,19 @@
 {
-  "updatedAt": "2026-06-03T16:49:44.992Z",
-  "headline": "일본 은행 , '전문직 직원' 신설… 2028년 인사제도 개편 [KDF World] 등 타 금융권 동향을 비교해볼 필요가 있습니다.",
+  "updatedAt": "2026-06-03T20:55:51.315Z",
+  "headline": "[ 금융 HOT 뉴스] 농협 , 정부 농정 대전환 맞춰 스마트농업·농촌 지원 확... 등 타 금융권 동향을 비교해볼 필요가 있습니다.",
   "categories": {
     "mg": [],
     "otherFinance": [
       {
-        "title": "일본 은행 , '전문직 직원' 신설… 2028년 인사제도 개편 [KDF World]",
-        "link": "http://www.kdfnews.com/news/articleView.html?idxno=183845",
+        "title": "[ 금융 HOT 뉴스] 농협 , 정부 농정 대전환 맞춰 스마트농업·농촌 지원 확...",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=137927",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 04 Jun 2026 00:36:00 +0900",
+        "pubDate": "Thu, 04 Jun 2026 04:42:00 +0900",
         "summary": "",
         "term": null
       },
       {
         "title": "[ 금융 뒷담] 순이익 1위 KB국민은행, 서민 금융 공급 최하위",
-        "link": "https://n.news.naver.com/mnews/article/005/0001852880?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 04 Jun 2026 00:25:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[ 금융 뒷담] 순이익 1위 KB국민 은행 , 서민 금융 공급 최하위",
         "link": "https://n.news.naver.com/mnews/article/005/0001852880?sid=101",
         "source": "네이버뉴스",
         "pubDate": "Thu, 04 Jun 2026 00:25:00 +0900",
@@ -61,28 +53,39 @@
         "term": null
       },
       {
-        "title": "불장의 명암… 증권은 사람 뽑고 은행은 내보내고",
-        "link": "https://n.news.naver.com/mnews/article/022/0004132737?sid=101",
+        "title": "저축銀 중도금대출 부실 확대...중금리대출 수요는 카드사로 이동",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=1378261",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 03 Jun 2026 21:07:00 +0900",
-        "summary": "",
-        "term": null
+        "pubDate": "Wed, 03 Jun 2026 15:12:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
       }
     ],
     "macro": [
       {
-        "title": "6월 2일 원/달러 환율 1,516.40원...엔화·유로·위안화",
-        "link": "http://www.snmnews.com/news/articleView.html?idxno=570224",
+        "title": "'매파' 로건 댈러스 연은 총재 \"올해 금리 인상 필요할 수도\"",
+        "link": "https://n.news.naver.com/mnews/article/018/0006296854?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 04 Jun 2026 01:22:00 +0900",
+        "pubDate": "Thu, 04 Jun 2026 05:42:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "“엎친 데 덮친 격”…고물가·고유가에 고환율도 지속",
+        "link": "https://n.news.naver.com/mnews/article/018/0006296852?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 04 Jun 2026 05:32:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[사설] '성공의 비용'이라는 고환율 낙관론, 민생부터 돌아보라",
-        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=550075",
+        "title": "한은 경고에도…1500원대에서 꿈쩍않는 환율",
+        "link": "https://n.news.naver.com/mnews/article/028/0002808027?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 04 Jun 2026 01:04:00 +0900",
+        "pubDate": "Thu, 04 Jun 2026 05:02:00 +0900",
         "summary": "",
         "term": null
       },
