@@ -1,114 +1,108 @@
 {
-  "updatedAt": "2026-06-03T04:09:47.228Z",
-  "headline": "LTV 규제 같은데… \"은행하는 걸 왜 못하나요?\" 새마을금고 의 호소 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-06-03T10:59:33.105Z",
+  "headline": "포용 금융 평가지표 이달 말 공개…점수 높으면 ‘우수 은행 ’ 선정 등 타 금융권 동향을 비교해볼 필요가 있습니다.",
   "categories": {
-    "mg": [
-      {
-        "title": "LTV 규제 같은데… \"은행하는 걸 왜 못하나요?\" 새마을금고 의 호소",
-        "link": "https://n.news.naver.com/mnews/article/008/0005366480?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 03 Jun 2026 06:30:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "강원 새마을금고 17개 시도 중 유일 ‘흑자’…지역 밀착 경영 빛났다",
-        "link": "https://n.news.naver.com/mnews/article/087/0001196967?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 03 Jun 2026 00:21:00 +0900",
-        "summary": "",
-        "term": null
-      }
-    ],
+    "mg": [],
     "otherFinance": [
       {
-        "title": "반도체 호황에 쌓인 뭉칫돈, 은행으로 향했다",
-        "link": "https://www.econovill.com/news/articleView.html?idxno=741457",
+        "title": "포용 금융 평가지표 이달 말 공개…점수 높으면 ‘우수 은행 ’ 선정",
+        "link": "https://n.news.naver.com/mnews/article/016/0002651618?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 03 Jun 2026 12:52:00 +0900",
+        "pubDate": "Wed, 03 Jun 2026 19:34:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "반도체 호황에 쌓인 뭉칫돈, 은행 으로 향했다",
-        "link": "https://www.econovill.com/news/articleView.html?idxno=741457",
+        "title": "엔화 160엔 흔들리자 日 금리 1% 카드 꺼내나",
+        "link": "https://n.news.naver.com/mnews/article/277/0005771333?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 03 Jun 2026 12:52:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[오늘의 ESG] 현대백화점·현대차그룹· 농협금융 지주·세븐일레븐",
-        "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=42654",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 03 Jun 2026 12:46:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "대출금리 7% 뚫었는데 예금 이자는 ‘찔끔’…은행권 예대차 역대급",
-        "link": "https://n.news.naver.com/mnews/article/138/0002229790?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 03 Jun 2026 12:45:00 +0900",
+        "pubDate": "Wed, 03 Jun 2026 19:33:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "NIM",
-          "meaning": "금리 변화가 금융기관 수익성에 미치는 영향을 보여주는 핵심 지표"
-        }
+        "term": null
       },
       {
-        "title": "대출금리 7% 뚫었는데 예금 이자는 ‘찔끔’… 은행 권 예대차 역대급",
-        "link": "https://n.news.naver.com/mnews/article/138/0002229790?sid=101",
+        "title": "“생산적 기업승계 지원” 우리 은행 이 팔 걷었다",
+        "link": "https://n.news.naver.com/mnews/article/382/0001276539?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 03 Jun 2026 12:45:00 +0900",
+        "pubDate": "Wed, 03 Jun 2026 19:33:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "1년간 5대 은행 계좌 지급 정지 15만건...1년 새 두 배 늘어",
+        "link": "http://www.dynews.co.kr/news/articleView.html?idxno=852749",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 03 Jun 2026 19:32:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "“월드컵+호국보훈의 달” 하나 은행 6월 이색 적금 ‘눈에 띄네’",
+        "link": "https://n.news.naver.com/mnews/article/382/0001276538?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 03 Jun 2026 19:32:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "일본 은행 총재, 이달 중 금리 인상 가능성 시사…기준금리 1% 되나?",
+        "link": "https://n.news.naver.com/mnews/article/055/0001361474?sid=104",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 03 Jun 2026 19:19:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "NIM",
-          "meaning": "금리 변화가 금융기관 수익성에 미치는 영향을 보여주는 핵심 지표"
-        }
-      },
-      {
-        "title": "5대 은행, 계좌 지급정지 15만건 육박…\"투자 사기 기승\"",
-        "link": "https://n.news.naver.com/mnews/article/119/0003097331?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 03 Jun 2026 12:43:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "5대 은행 , 계좌 지급정지 15만건 육박…\"투자 사기 기승\"",
-        "link": "https://n.news.naver.com/mnews/article/119/0003097331?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 03 Jun 2026 12:43:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "농협 캐피탈, 소통으로 건강한 조직문화 '이(e)음'",
-        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=304016",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 03 Jun 2026 12:14:00 +0900",
-        "summary": "",
-        "term": null
-      }
-    ],
-    "macro": [
-      {
-        "title": "[기자수첩]기준금리 인상 처방만으로는 부족하다",
-        "link": "https://n.news.naver.com/mnews/article/003/0013983961?sid=110",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 03 Jun 2026 13:00:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": {
           "word": "Forward Guidance",
           "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
         }
       },
       {
-        "title": "차기 여신 금융 협회장 누가 되나…4일 최종 후보 가린다",
-        "link": "https://n.news.naver.com/mnews/article/119/0003097328?sid=101",
+        "title": "신종 금융 사기 속출에…은행 계좌 지급정지 급증",
+        "link": "https://n.news.naver.com/mnews/article/015/0005294486?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 03 Jun 2026 12:18:00 +0900",
+        "pubDate": "Wed, 03 Jun 2026 18:41:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "장기연체 대출규모 1兆… 충당금 부담에 골머리 앓는 은행권",
+        "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260604010001073",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 03 Jun 2026 18:16:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      }
+    ],
+    "macro": [
+      {
+        "title": "다중채무자 연체 연쇄 확산 우려… 가계부채 부실관리 시급 [주담대 규...",
+        "link": "https://n.news.naver.com/mnews/article/014/0005530162?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 03 Jun 2026 19:16:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "조달비용 늘었지만… 금융 사들, 건전성 개선 위해 자본 확충",
+        "link": "https://n.news.naver.com/mnews/article/015/0005294487?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 03 Jun 2026 18:42:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "대출 규제 풍선효과 '촉각'… 대부업 모니터링 강화",
+        "link": "https://n.news.naver.com/mnews/article/014/0005530089?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 03 Jun 2026 18:36:00 +0900",
         "summary": "",
         "term": null
       }
