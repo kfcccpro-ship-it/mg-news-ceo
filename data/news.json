@@ -1,22 +1,38 @@
 {
-  "updatedAt": "2026-06-04T09:56:26.317Z",
-  "headline": "[2 금융 뉴스브리핑] 농협 중앙회 양파 가격 안정 위해 882억 투입 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-06-04T15:15:58.693Z",
+  "headline": "충남도 금고 '12조4천억 예산'운영 전면 점검… 농협 ·하나은행 금고 운... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
-        "title": "[2 금융 뉴스브리핑] 농협 중앙회 양파 가격 안정 위해 882억 투입",
-        "link": "https://www.asiatime.co.kr/article/20260604500405",
+        "title": "충남도 금고 '12조4천억 예산'운영 전면 점검… 농협 ·하나은행 금고 운...",
+        "link": "https://www.bzeronews.com/news/articleView.html?idxno=818170",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 04 Jun 2026 18:48:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
+        "pubDate": "Fri, 05 Jun 2026 00:00:00 +0900",
+        "summary": "",
         "term": null
       },
       {
-        "title": "[2 금융 뉴스브리핑] 농협중앙회 양파 가격 안정 위해 882억 투입",
-        "link": "https://www.asiatime.co.kr/article/20260604500405",
+        "title": "충남도 금고 '12조4천억 예산'운영 전면 점검… 농협·하나 은행 금고 운...",
+        "link": "https://www.bzeronews.com/news/articleView.html?idxno=818170",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 04 Jun 2026 18:48:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
+        "pubDate": "Fri, 05 Jun 2026 00:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "MG 새마을금고 울산경남지역 대표봉사단 'MG따숨' 출범",
+        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=576509",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 04 Jun 2026 21:42:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "MG 새마을금고 울산경남지역 대표봉사단 'MG따숨' 발족",
+        "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=638357",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 04 Jun 2026 20:04:00 +0900",
+        "summary": "",
         "term": null
       },
       {
@@ -54,111 +70,103 @@
     ],
     "otherFinance": [
       {
-        "title": "우리 은행 -한국사회복지공제회 \"따뜻한 동행\"···주거래 업무협약 체결",
-        "link": "https://www.ngonews.kr/news/articleView.html?idxno=230665",
+        "title": "[취재수첩] '연체채권 매각' 급급한 인터넷 은행 의 한계",
+        "link": "https://n.news.naver.com/mnews/article/015/0005295198?sid=110",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 04 Jun 2026 18:46:00 +0900",
+        "pubDate": "Fri, 05 Jun 2026 00:13:00 +0900",
         "summary": "",
-        "term": null
-      },
-      {
-        "title": "신한 은행 , 후순위채 수요예측에 4천300억 몰려…흥행 성공",
-        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4418347",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 04 Jun 2026 18:36:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "국민 은행 , 美 LNG 프로젝트로 글로벌 무대 존재감",
-        "link": "http://www.00news.co.kr/news/articleView.html?idxno=104251",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 04 Jun 2026 18:36:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "금감원, 홍콩 ELS 판매 은행 과징금 6천억원대로 감경",
-        "link": "https://www.insnews.co.kr/news/articleView.html?idxno=91141",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 04 Jun 2026 18:26:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "홍콩ELS 불완전판매 은행에 6000억원대 과징금",
-        "link": "https://n.news.naver.com/mnews/article/014/0005530741?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 04 Jun 2026 18:24:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "온투업, 지역 농협 손잡고 연계투자 판 키운다",
-        "link": "https://n.news.naver.com/mnews/article/014/0005530742?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 04 Jun 2026 18:24:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[ 금융 권 소식] NH 농협 은행ㆍ우리은행ㆍKB국민은행(6.4)",
-        "link": "http://www.weeklytoday.com/news/articleView.html?idxno=778390",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 04 Jun 2026 18:22:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "요구불예금 쌓이지만 은행은 ‘덤덤’…채권 발행 늘린다",
-        "link": "https://www.ekn.kr/web/view.php?key=20260604028530676",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 04 Jun 2026 18:22:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
         }
+      },
+      {
+        "title": "은행권 ‘홍콩 ELS’ 과징금, 1.4조서 6000억대로 줄어",
+        "link": "https://n.news.naver.com/mnews/article/025/0003528168?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 05 Jun 2026 00:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "은행 권 ‘홍콩 ELS’ 과징금, 1.4조서 6000억대로 줄어",
+        "link": "https://n.news.naver.com/mnews/article/025/0003528168?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 05 Jun 2026 00:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "은행 연합군에 미래·한투까지…코인거래소 쟁탈전",
+        "link": "https://n.news.naver.com/mnews/article/025/0003528173?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 05 Jun 2026 00:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "보험사 M&A 활기...KDB생명·롯데손보·예별손보 동시 매물",
+        "link": "https://www.junggi.co.kr/news/articleView.html?idxno=36656",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 05 Jun 2026 00:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[ 금융 소식] 신보 창립 50주년 도시락 나눔 / 신한은행장, 항공 MRO 현장 ...",
+        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2189919",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 04 Jun 2026 23:20:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "남인천 농협 이태선 조합장, ‘새로운 농협 조합장상’ 수상 영예",
+        "link": "http://www.fntimes.com/html/view.php?ud=202606042249306926dd55077bc2_18",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 04 Jun 2026 22:54:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "강원 농협 , 과잉생산 농산물 소비촉진 나서…직거래장터 특별판매 개최",
+        "link": "http://www.fntimes.com/html/view.php?ud=202606042245503100dd55077bc2_18",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 04 Jun 2026 22:50:00 +0900",
+        "summary": "",
+        "term": null
       }
     ],
     "macro": [
       {
-        "title": "치솟는 환율, 왜⋯1540원 찍고 ' 금융 위기 이후' 최고",
-        "link": "https://n.news.naver.com/mnews/article/031/0001033051?sid=101",
+        "title": "‘화폐’ 소생술 안통했다, 충격의 환율 1540원",
+        "link": "https://n.news.naver.com/mnews/article/025/0003528177?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 04 Jun 2026 18:53:00 +0900",
+        "pubDate": "Fri, 05 Jun 2026 00:02:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "환율이 너무해... 주간거래 1530원 출발하더니 야간 1540원 넘어",
-        "link": "https://weeklytrade.co.kr/news/view.html?section=1&category=6&item=&no=100055",
+        "title": "가계대출 넘어서 기업 금융 키운다",
+        "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3065513",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 04 Jun 2026 18:48:00 +0900",
+        "pubDate": "Fri, 05 Jun 2026 00:00:00 +0900",
+        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "[사설] 원·달러 1530원 뚫려…환율 방파제 튼튼히 쌓아야",
+        "link": "https://n.news.naver.com/mnews/article/011/0004627853?sid=110",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 05 Jun 2026 00:00:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "코스피 하락·환율 상승 이중고…외국인 매도세에 시장 출렁",
-        "link": "https://www.koreareport.co.kr/news/articleView.html?idxno=50764",
+        "title": "금감원, 홍콩 ELS 판매한 5곳에 과징금 6천억 원...절반 이하 감경",
+        "link": "https://n.news.naver.com/mnews/article/052/0002362179?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 04 Jun 2026 18:46:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "고공행진 환율 야간거래서 1540원 돌파… 금융 위기 이후 최고",
-        "link": "https://n.news.naver.com/mnews/article/018/0006297715?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 04 Jun 2026 18:46:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "당국 구두개입도 통하지 않았다…원·달러 환율, 밤사이 1540원 턱밑 폭등",
-        "link": "http://www.segyebiz.com/newsView/20260604520459?OutUrl=naver",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 04 Jun 2026 18:46:00 +0900",
+        "pubDate": "Thu, 04 Jun 2026 23:09:00 +0900",
         "summary": "",
         "term": null
       },
