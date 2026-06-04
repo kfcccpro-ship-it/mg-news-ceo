@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-06-04T15:15:58.693Z",
-  "headline": "충남도 금고 '12조4천억 예산'운영 전면 점검… 농협 ·하나은행 금고 운... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-06-04T20:06:00.548Z",
+  "headline": "MG 새마을금고 울산경남 대표봉사단 'MG따숨' 출범 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
-        "title": "충남도 금고 '12조4천억 예산'운영 전면 점검… 농협 ·하나은행 금고 운...",
-        "link": "https://www.bzeronews.com/news/articleView.html?idxno=818170",
+        "title": "MG 새마을금고 울산경남 대표봉사단 'MG따숨' 출범",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1058655",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 05 Jun 2026 00:00:00 +0900",
+        "pubDate": "Fri, 05 Jun 2026 00:32:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "충남도 금고 '12조4천억 예산'운영 전면 점검… 농협·하나 은행 금고 운...",
+        "title": "충남도 금고 '12조4천억 예산'운영 전면 점검… 농협 ·하나은행 금고 운...",
         "link": "https://www.bzeronews.com/news/articleView.html?idxno=818170",
         "source": "네이버뉴스",
         "pubDate": "Fri, 05 Jun 2026 00:00:00 +0900",
@@ -58,27 +58,32 @@
         "pubDate": "Thu, 04 Jun 2026 16:26:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "평상 새마을금고 장기덕 이사장, ' 새마을금고 대상' 수상",
-        "link": "https://n.news.naver.com/mnews/article/088/0001013123?sid=004",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 04 Jun 2026 15:21:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "[취재수첩] '연체채권 매각' 급급한 인터넷 은행 의 한계",
-        "link": "https://n.news.naver.com/mnews/article/015/0005295198?sid=110",
+        "title": "4조에서 6천억으로 줄어든 과징금…누가 은행에 면죄부를 주었나",
+        "link": "https://n.news.naver.com/mnews/article/079/0004154506?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 05 Jun 2026 00:13:00 +0900",
+        "pubDate": "Fri, 05 Jun 2026 05:01:00 +0900",
         "summary": "",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
+        "term": null
+      },
+      {
+        "title": "농협금융 지주에 1조 출자…농업 지원 확대",
+        "link": "https://n.news.naver.com/mnews/article/662/0000096628?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 05 Jun 2026 05:01:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "금감원, 홍콩 ELS 판매 은행 5곳에 6000억원 과징금",
+        "link": "https://n.news.naver.com/mnews/article/005/0001853170?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 05 Jun 2026 00:43:00 +0900",
+        "summary": "",
+        "term": null
       },
       {
         "title": "은행권 ‘홍콩 ELS’ 과징금, 1.4조서 6000억대로 줄어",
@@ -87,63 +92,53 @@
         "pubDate": "Fri, 05 Jun 2026 00:02:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "은행 권 ‘홍콩 ELS’ 과징금, 1.4조서 6000억대로 줄어",
-        "link": "https://n.news.naver.com/mnews/article/025/0003528168?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 05 Jun 2026 00:02:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "은행 연합군에 미래·한투까지…코인거래소 쟁탈전",
-        "link": "https://n.news.naver.com/mnews/article/025/0003528173?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 05 Jun 2026 00:02:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "보험사 M&A 활기...KDB생명·롯데손보·예별손보 동시 매물",
-        "link": "https://www.junggi.co.kr/news/articleView.html?idxno=36656",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 05 Jun 2026 00:00:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[ 금융 소식] 신보 창립 50주년 도시락 나눔 / 신한은행장, 항공 MRO 현장 ...",
-        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2189919",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 04 Jun 2026 23:20:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "남인천 농협 이태선 조합장, ‘새로운 농협 조합장상’ 수상 영예",
-        "link": "http://www.fntimes.com/html/view.php?ud=202606042249306926dd55077bc2_18",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 04 Jun 2026 22:54:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "강원 농협 , 과잉생산 농산물 소비촉진 나서…직거래장터 특별판매 개최",
-        "link": "http://www.fntimes.com/html/view.php?ud=202606042245503100dd55077bc2_18",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 04 Jun 2026 22:50:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "macro": [
       {
-        "title": "‘화폐’ 소생술 안통했다, 충격의 환율 1540원",
-        "link": "https://n.news.naver.com/mnews/article/025/0003528177?sid=101",
+        "title": "1500원대에 갇힌 환율… 외환위기 공포와 달랐다",
+        "link": "https://n.news.naver.com/mnews/article/081/0003649819?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 05 Jun 2026 00:02:00 +0900",
+        "pubDate": "Fri, 05 Jun 2026 05:03:00 +0900",
         "summary": "",
+        "term": null
+      },
+      {
+        "title": "[단독] DSR·총량 규제 피할 수 있어 사내 대출 1년 새 26% 급증",
+        "link": "https://n.news.naver.com/mnews/article/023/0003980348?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 05 Jun 2026 05:01:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "기준금리 인상 가능성에… 부동산PF 걱정 커지는 2금융권",
+        "link": "https://n.news.naver.com/mnews/article/008/0005367403?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 05 Jun 2026 04:03:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+        }
+      },
+      {
+        "title": "기준금리 인상 가능성에… 부동산PF 걱정 커지는 2 금융 권",
+        "link": "https://n.news.naver.com/mnews/article/008/0005367403?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 05 Jun 2026 04:03:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+        }
+      },
+      {
+        "title": "당선자들이 내건 대형 개발 공약들, 높아진 PF 문턱 넘느냐가 관건",
+        "link": "https://n.news.naver.com/mnews/article/005/0001853191?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 05 Jun 2026 02:08:00 +0900",
+        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
         "term": null
       },
       {
@@ -152,22 +147,6 @@
         "source": "네이버뉴스",
         "pubDate": "Fri, 05 Jun 2026 00:00:00 +0900",
         "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "[사설] 원·달러 1530원 뚫려…환율 방파제 튼튼히 쌓아야",
-        "link": "https://n.news.naver.com/mnews/article/011/0004627853?sid=110",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 05 Jun 2026 00:00:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "금감원, 홍콩 ELS 판매한 5곳에 과징금 6천억 원...절반 이하 감경",
-        "link": "https://n.news.naver.com/mnews/article/052/0002362179?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 04 Jun 2026 23:09:00 +0900",
-        "summary": "",
         "term": null
       },
       {
