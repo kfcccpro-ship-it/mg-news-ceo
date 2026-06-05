@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T14:52:04.931Z",
+  "updatedAt": "2026-06-05T17:19:02.123Z",
   "headline": "새마을금고 , '윤리의 날' 특강 개최…임직원 윤리의식 제고 나서 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -60,18 +60,26 @@
     ],
     "otherFinance": [
       {
-        "title": "여신협회 새 수장에 이동철 내정…스테이블코인·수수료 딜레마 풀어낼...",
-        "link": "https://www.econovill.com/news/articleView.html?idxno=741701",
+        "title": "영국 금융 당국, AI 통한 은행 시스템 보안 취약점 우려 경고",
+        "link": "https://www.tokenpost.kr/news/economy/366514",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 05 Jun 2026 23:18:00 +0900",
+        "pubDate": "Sat, 06 Jun 2026 01:14:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "코스피 급락 속 은행 주 방어력 부각, 기술주 순환매 전환",
-        "link": "https://www.tokenpost.kr/news/market/366500",
+        "title": "[취재수첩] 과징금 줄어도 웃지 못하는 은행들",
+        "link": "https://n.news.naver.com/mnews/article/015/0005295590?sid=110",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 05 Jun 2026 23:14:00 +0900",
+        "pubDate": "Sat, 06 Jun 2026 00:10:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[ 금융 소식] 미래에셋 청년 예능 콘텐츠 / KB국민은행 양자내성암호 도입...",
+        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2190938",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 06 Jun 2026 00:04:00 +0900",
         "summary": "",
         "term": null
       },
@@ -111,46 +119,60 @@
         }
       },
       {
-        "title": "[ 금융 zip] 국민카드, 인도네시아 아동에 태양광 랜턴 1300개 전달 外",
-        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=871734",
+        "title": "금융위, 신협 부실채권 관리 강화…자산관리회사 매입 기준 정비",
+        "link": "https://www.etoday.co.kr/news/view/2590952",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 05 Jun 2026 18:24:00 +0900",
+        "pubDate": "Fri, 05 Jun 2026 16:34:00 +0900",
         "summary": "",
-        "term": null
-      },
-      {
-        "title": "농협금융 , 1.17조 '자본 수혈'…\"신용도 효과는 제한적\"",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1711453",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 05 Jun 2026 18:20:00 +0900",
-        "summary": "",
-        "term": null
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
       }
     ],
     "macro": [
       {
-        "title": "원·달러환율, 야간거래 1555원 돌파…인천공항서 1600원 넘어",
-        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=843064",
+        "title": "‘브로드컴 실적 실망’에 코스피 5% 급락… 환율 1539원, 금융 위기 이후...",
+        "link": "https://n.news.naver.com/mnews/article/020/0003724871?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 05 Jun 2026 23:50:00 +0900",
+        "pubDate": "Sat, 06 Jun 2026 01:45:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "외국인 자금 이탈에 환율 1,550원 턱밑으로 급등",
-        "link": "https://www.tokenpost.kr/news/economy/366501",
+        "title": "외국인에 휘둘리는 환율…17년 만에 1550원대 육박",
+        "link": "https://n.news.naver.com/mnews/article/353/0000055679?sid=102",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 05 Jun 2026 23:24:00 +0900",
+        "pubDate": "Sat, 06 Jun 2026 01:08:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "美 고용 '깜짝증가'…30년물 국채금리 年 5% 돌파",
-        "link": "https://n.news.naver.com/mnews/article/015/0005295582?sid=104",
+        "title": "환율 급등 충격에 한국 채권시장 금리 상승, 외국인 자금 이탈 우려",
+        "link": "https://www.tokenpost.kr/news/economy/366513",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 05 Jun 2026 23:07:00 +0900",
+        "pubDate": "Sat, 06 Jun 2026 01:04:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
+      },
+      {
+        "title": "전 구간 국고채 금리 상승, 장기물 주도 시장 변화 주목",
+        "link": "https://www.tokenpost.kr/news/economy/366511",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 06 Jun 2026 00:54:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "주식은 무섭고 예금은 아쉽다…코스피 8000 시대 ELD에 12조 몰렸다",
+        "link": "https://www.theguru.co.kr/news/article.html?no=102646",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 06 Jun 2026 00:02:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
       },
       {
         "title": "금감원 \"홍콩 ELS 과징금 최종 의결, 빠른 시일 내 예정\"",
