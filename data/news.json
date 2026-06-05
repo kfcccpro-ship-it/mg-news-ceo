@@ -1,8 +1,24 @@
 {
-  "updatedAt": "2026-06-05T09:51:02.843Z",
-  "headline": "금융위, 신협 NPL관리 강화… 농협· 새마을금고 수준 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-06-05T14:52:04.931Z",
+  "headline": "새마을금고 , '윤리의 날' 특강 개최…임직원 윤리의식 제고 나서 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "새마을금고 , '윤리의 날' 특강 개최…임직원 윤리의식 제고 나서",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3601385",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 05 Jun 2026 22:14:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "새마을금고 중앙회, '윤리의 날' 특강 개최…윤리·준법경영 강화로 신뢰...",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=203082",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 05 Jun 2026 19:40:00 +0900",
+        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
       {
         "title": "금융위, 신협 NPL관리 강화… 농협· 새마을금고 수준",
         "link": "https://www.g-enews.com/view.php?ud=202606051654345976a6e8311f64_1",
@@ -40,32 +56,59 @@
           "word": "Delinquency",
           "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
         }
-      },
-      {
-        "title": "새마을금고 중앙회, 윤리의 날 기념 특강…준법의식 제고 나서",
-        "link": "https://www.seoultimes.news/news/article.html?no=2000096335",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 05 Jun 2026 15:57:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "새마을금고 중앙회, ‘윤리의 날’ 기념 특강 개최",
-        "link": "https://www.thepowernews.co.kr/view.php?ud=202606051546458135de3f0aa1be_7",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 05 Jun 2026 15:48:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "US 메트로 은행 , 소매업체 40곳에 20만달러 지원",
-        "link": "http://www.koreatimes.com/article/1616113",
+        "title": "여신협회 새 수장에 이동철 내정…스테이블코인·수수료 딜레마 풀어낼...",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=741701",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 05 Jun 2026 18:48:00 +0900",
+        "pubDate": "Fri, 05 Jun 2026 23:18:00 +0900",
         "summary": "",
         "term": null
+      },
+      {
+        "title": "코스피 급락 속 은행 주 방어력 부각, 기술주 순환매 전환",
+        "link": "https://www.tokenpost.kr/news/market/366500",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 05 Jun 2026 23:14:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "NH 농협 은행 경기본부, 폭염 대비 무더위 쉼터 운영",
+        "link": "http://www.fntimes.com/html/view.php?ud=202606052148563393dd55077bc2_18",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 05 Jun 2026 21:54:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "강원 농협 , 참여형 여신 실무자 모임 ‘EXIT’ 활성화…건전여신 선도",
+        "link": "http://www.fntimes.com/html/view.php?ud=202606051948561098dd55077bc2_18",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 05 Jun 2026 19:56:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "농협 , 정부 농정대전환 정책 관련 사업 본격 추진…스마트농업·농촌복...",
+        "link": "http://www.fntimes.com/html/view.php?ud=202606051714315326dd55077bc2_18",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 05 Jun 2026 19:48:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "농협 울산검사국, 농·축협 감사업무 컨퍼런스 개최",
+        "link": "https://www.aflnews.co.kr/news/articleView.html?idxno=321884",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 05 Jun 2026 19:12:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "LCR",
+          "meaning": "단기 유동성 충격 대응 능력을 보여주는 지표"
+        }
       },
       {
         "title": "[ 금융 zip] 국민카드, 인도네시아 아동에 태양광 랜턴 1300개 전달 外",
@@ -82,57 +125,38 @@
         "pubDate": "Fri, 05 Jun 2026 18:20:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "농협 경북본부, 상호 금융 소비자보호 실천결의대회…고객신뢰 제고 만전",
-        "link": "https://www.aflnews.co.kr/news/articleView.html?idxno=321928",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 05 Jun 2026 18:06:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[이슈story] 7% 넘은 주담대, 710조 요구불예금…은행권이 묘한 계절을 ...",
-        "link": "https://www.todayeconomic.com/news/article.html?no=30860",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 05 Jun 2026 18:02:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
-      },
-      {
-        "title": "[이슈story] 4000억 유증, NH투자증권의 도박인가 전략인가",
-        "link": "https://www.todayeconomic.com/news/article.html?no=30861",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 05 Jun 2026 18:00:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "홍콩ELS 과징금 감경…은행권, 불확실성 해소",
-        "link": "https://www.sentv.co.kr/article/view/sentv202606050074",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 05 Jun 2026 17:48:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "은행 대신 증권 키운다… 금융 지주 자본배분 전략 변화",
-        "link": "https://www.econovill.com/news/articleView.html?idxno=741667",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 05 Jun 2026 17:40:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "macro": [
       {
-        "title": "[채권-마감] 국고 30년 6.2bp↑…환율 급등·주말 앞둔 포지션 축소",
-        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4418532",
+        "title": "원·달러환율, 야간거래 1555원 돌파…인천공항서 1600원 넘어",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=843064",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 05 Jun 2026 18:44:00 +0900",
+        "pubDate": "Fri, 05 Jun 2026 23:50:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "외국인 자금 이탈에 환율 1,550원 턱밑으로 급등",
+        "link": "https://www.tokenpost.kr/news/economy/366501",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 05 Jun 2026 23:24:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "美 고용 '깜짝증가'…30년물 국채금리 年 5% 돌파",
+        "link": "https://n.news.naver.com/mnews/article/015/0005295582?sid=104",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 05 Jun 2026 23:07:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "금감원 \"홍콩 ELS 과징금 최종 의결, 빠른 시일 내 예정\"",
+        "link": "https://www.dongponews.net/news/articleView.html?idxno=58541",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 05 Jun 2026 19:06:00 +0900",
         "summary": "",
         "term": null
       },
@@ -142,38 +166,6 @@
         "source": "네이버뉴스",
         "pubDate": "Fri, 05 Jun 2026 18:01:00 +0900",
         "summary": "",
-        "term": null
-      },
-      {
-        "title": "금융 위, '신용협동조합법 시행령' 개정안 입법예고…건전성 및 내부통제...",
-        "link": "https://n.news.naver.com/mnews/article/088/0001013289?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 05 Jun 2026 18:01:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "금감원장 이찬진 8대 금융 지주 회장 만나, 소비자보호 위한 '현장 실천...",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=439409",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 05 Jun 2026 17:54:00 +0900",
-        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
-        "term": null
-      },
-      {
-        "title": "이찬진 만난 8대 금융 수장들…‘소비자보호’ 다짐",
-        "link": "https://www.kukinews.com/article/view/kuk202606050122",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 05 Jun 2026 17:50:00 +0900",
-        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
-        "term": null
-      },
-      {
-        "title": "이찬진 금감원장 \" 금융 소비자보호는 비용 아닌 장기 투자\"",
-        "link": "https://www.econovill.com/news/articleView.html?idxno=741674",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 05 Jun 2026 17:40:00 +0900",
-        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
         "term": null
       }
     ]
