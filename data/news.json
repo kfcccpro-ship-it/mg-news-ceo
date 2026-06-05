@@ -1,8 +1,24 @@
 {
-  "updatedAt": "2026-06-05T19:55:24.399Z",
-  "headline": "새마을금고 , '윤리의 날' 특강 개최…임직원 윤리의식 제고 나서 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-06-05T22:14:43.704Z",
+  "headline": "\"연 4% 특판 안 통해\" 고령층도 주식으로… 금고 빈 상호금융 채권 손절 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "\"연 4% 특판 안 통해\" 고령층도 주식으로… 금고 빈 상호금융 채권 손절",
+        "link": "https://n.news.naver.com/mnews/article/008/0005367923?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 06 Jun 2026 07:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "\"연 4% 특판 안 통해\" 고령층도 주식으로…금고 빈 상호 금융 채권 손절",
+        "link": "https://n.news.naver.com/mnews/article/008/0005367923?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 06 Jun 2026 07:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "새마을금고 , '윤리의 날' 특강 개최…임직원 윤리의식 제고 나서",
         "link": "https://www.gukjenews.com/news/articleView.html?idxno=3601385",
@@ -60,6 +76,38 @@
     ],
     "otherFinance": [
       {
+        "title": "양복 벗고 공장으로 간 은행장들…현장경영 속도, 왜?",
+        "link": "https://www.newsway.co.kr/news/view?ud=2026060515290947884",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 06 Jun 2026 07:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "양복 벗고 공장으로 간 은행 장들…현장경영 속도, 왜?",
+        "link": "https://www.newsway.co.kr/news/view?ud=2026060515290947884",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 06 Jun 2026 07:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "기업 은행 대구 이전 다시 불붙나⋯ 하반기 로드맵이 분수령",
+        "link": "https://www.etoday.co.kr/news/view/2590949",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 06 Jun 2026 07:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "여전채 금리 4% 재돌파…카드사 이자비용 급증 우려",
+        "link": "https://www.ceoscoredaily.com/page/view/2026060516134308162",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 06 Jun 2026 07:00:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
         "title": "[취재수첩] 과징금 줄어도 웃지 못하는 은행들",
         "link": "https://n.news.naver.com/mnews/article/015/0005295590?sid=110",
         "source": "네이버뉴스",
@@ -90,60 +138,14 @@
         "pubDate": "Fri, 05 Jun 2026 19:56:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "농협 , 정부 농정대전환 정책 관련 사업 본격 추진…스마트농업·농촌복...",
-        "link": "http://www.fntimes.com/html/view.php?ud=202606051714315326dd55077bc2_18",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 05 Jun 2026 19:48:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "농협 울산검사국, 농·축협 감사업무 컨퍼런스 개최",
-        "link": "https://www.aflnews.co.kr/news/articleView.html?idxno=321884",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 05 Jun 2026 19:12:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "LCR",
-          "meaning": "단기 유동성 충격 대응 능력을 보여주는 지표"
-        }
-      },
-      {
-        "title": "금융위, 신협 부실채권 관리 강화…자산관리회사 매입 기준 정비",
-        "link": "https://www.etoday.co.kr/news/view/2590952",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 05 Jun 2026 16:34:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
-      },
-      {
-        "title": "신협 건전성 높인다…금융위, 시행령 개정안 입법예고",
-        "link": "https://www.factin.co.kr/news/articleView.html?idxno=6434",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 05 Jun 2026 16:06:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "macro": [
       {
-        "title": "글로벌 경제의 명암: 美 반도체 급락에 흔들리는 환율·코인, 홀로 치솟...",
-        "link": "http://www.kdfnews.com/news/articleView.html?idxno=183968",
+        "title": "원달러 환율 1549원 급등…물가 3.1% 치솟아",
+        "link": "https://www.bntnews.co.kr/article/view/bnt202606060013",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 06 Jun 2026 04:22:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "원/달러 환율, 17년 만에 1,560원 돌파… 글로벌 금융 위기 이후 최고",
-        "link": "https://www.tokenpost.kr/news/economy/366526",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 06 Jun 2026 03:34:00 +0900",
+        "pubDate": "Sat, 06 Jun 2026 06:30:00 +0900",
         "summary": "",
         "term": null
       },
@@ -157,14 +159,6 @@
           "word": "Deposit Beta",
           "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
         }
-      },
-      {
-        "title": "금감원 \"홍콩 ELS 과징금 최종 의결, 빠른 시일 내 예정\"",
-        "link": "https://www.dongponews.net/news/articleView.html?idxno=58541",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 05 Jun 2026 19:06:00 +0900",
-        "summary": "",
-        "term": null
       },
       {
         "title": "금융위, '신용협동조합법 시행령' 개정안 입법예고…건전성 및 내부통제...",
