@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-06-05T22:14:43.704Z",
-  "headline": "\"연 4% 특판 안 통해\" 고령층도 주식으로… 금고 빈 상호금융 채권 손절 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-06-06T03:32:11.527Z",
+  "headline": "새마을금고 , '윤리의 날' 최태성 강사 특강… \"결과 위한 비윤리 정당화... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
-        "title": "\"연 4% 특판 안 통해\" 고령층도 주식으로… 금고 빈 상호금융 채권 손절",
-        "link": "https://n.news.naver.com/mnews/article/008/0005367923?sid=101",
+        "title": "새마을금고 , '윤리의 날' 최태성 강사 특강… \"결과 위한 비윤리 정당화...",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=306633",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 06 Jun 2026 07:00:00 +0900",
+        "pubDate": "Sat, 06 Jun 2026 08:10:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "\"연 4% 특판 안 통해\" 고령층도 주식으로…금고 빈 상호 금융 채권 손절",
+        "title": "\"연 4% 특판 안 통해\" 고령층도 주식으로… 금고 빈 상호금융 채권 손절",
         "link": "https://n.news.naver.com/mnews/article/008/0005367923?sid=101",
         "source": "네이버뉴스",
         "pubDate": "Sat, 06 Jun 2026 07:00:00 +0900",
@@ -53,112 +53,104 @@
         "pubDate": "Fri, 05 Jun 2026 17:00:00 +0900",
         "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
         "term": null
-      },
+      }
+    ],
+    "otherFinance": [
       {
-        "title": "새마을금고 중앙회, '제 3회 윤리의 날' 기념 특강 개최",
-        "link": "http://www.sisacast.kr/news/articleView.html?idxno=96433",
+        "title": "은행 권, 호국보훈의 달 맞이 군장병 대상 이벤트",
+        "link": "https://www.ekn.kr/web/view.php?key=20260606026130820",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 05 Jun 2026 16:16:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
+        "pubDate": "Sat, 06 Jun 2026 12:28:00 +0900",
+        "summary": "",
         "term": null
       },
       {
-        "title": "신협 부실채권 관리 '농협· 새마을금고 수준'으로 높인다",
-        "link": "https://n.news.naver.com/mnews/article/014/0005531137?sid=101",
+        "title": "\"제보 불이익\"에 침묵...진승욱號 대신증권, '무결점' 감사결과 괜찮나",
+        "link": "https://www.pointe.co.kr/news/articleView.html?idxno=80328",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 05 Jun 2026 16:08:00 +0900",
-        "summary": "새마을금고 건전성 관리 흐름과 연결해 볼 수 있는 기사입니다.",
+        "pubDate": "Sat, 06 Jun 2026 12:10:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "Zcash 대폭락 붕괴 시나리오 다음 타깃은?… 전 세계 은행 권 전산망 긴급...",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=457996",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 06 Jun 2026 11:58:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[카드레터] 국민카드 '인도네시아 아동 지원', 농협 카드 '고유가 피해지...",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=138066",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 06 Jun 2026 10:34:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "포용 금융 주문에 은행권 '2 금융 고객 유치' 경쟁···저축은행 '촉각'",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=630492",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 06 Jun 2026 10:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[굿모닝 금융 ] KB 금융 ·iM 금융 · 농협 캐피탈 등",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=138150",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 06 Jun 2026 09:10:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "금융위, 신협 부실채권 관리 강화…자산관리회사 매입 기준 정비",
+        "link": "https://www.etoday.co.kr/news/view/2590952",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 05 Jun 2026 16:34:00 +0900",
+        "summary": "",
         "term": {
           "word": "Delinquency",
           "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
         }
       }
     ],
-    "otherFinance": [
-      {
-        "title": "양복 벗고 공장으로 간 은행장들…현장경영 속도, 왜?",
-        "link": "https://www.newsway.co.kr/news/view?ud=2026060515290947884",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 06 Jun 2026 07:02:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "양복 벗고 공장으로 간 은행 장들…현장경영 속도, 왜?",
-        "link": "https://www.newsway.co.kr/news/view?ud=2026060515290947884",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 06 Jun 2026 07:02:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "기업 은행 대구 이전 다시 불붙나⋯ 하반기 로드맵이 분수령",
-        "link": "https://www.etoday.co.kr/news/view/2590949",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 06 Jun 2026 07:00:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "여전채 금리 4% 재돌파…카드사 이자비용 급증 우려",
-        "link": "https://www.ceoscoredaily.com/page/view/2026060516134308162",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 06 Jun 2026 07:00:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "[취재수첩] 과징금 줄어도 웃지 못하는 은행들",
-        "link": "https://n.news.naver.com/mnews/article/015/0005295590?sid=110",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 06 Jun 2026 00:10:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[ 금융 소식] 미래에셋 청년 예능 콘텐츠 / KB국민은행 양자내성암호 도입...",
-        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2190938",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 06 Jun 2026 00:04:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "NH 농협 은행 경기본부, 폭염 대비 무더위 쉼터 운영",
-        "link": "http://www.fntimes.com/html/view.php?ud=202606052148563393dd55077bc2_18",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 05 Jun 2026 21:54:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "강원 농협 , 참여형 여신 실무자 모임 ‘EXIT’ 활성화…건전여신 선도",
-        "link": "http://www.fntimes.com/html/view.php?ud=202606051948561098dd55077bc2_18",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 05 Jun 2026 19:56:00 +0900",
-        "summary": "",
-        "term": null
-      }
-    ],
     "macro": [
       {
-        "title": "원달러 환율 1549원 급등…물가 3.1% 치솟아",
-        "link": "https://www.bntnews.co.kr/article/view/bnt202606060013",
+        "title": "요동치는 韓 주식·채권·외환…\"美 금리인상시 글로벌 자금 다시 미국...",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4418596",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 06 Jun 2026 06:30:00 +0900",
-        "summary": "",
+        "pubDate": "Sat, 06 Jun 2026 12:16:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Terminal Rate",
+          "meaning": "기준금리 인상 사이클의 최종 수준에 대한 시장 기대"
+        }
+      },
+      {
+        "title": "美 금리 인상 전망에 증시 하락···삼전·닉스 주가도 '촉각'",
+        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=421565",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 06 Jun 2026 11:50:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "주식은 무섭고 예금은 아쉽다…코스피 8000 시대 ELD에 12조 몰렸다",
-        "link": "https://www.theguru.co.kr/news/article.html?no=102646",
+        "title": "실패한 ‘금리 절벽’ 개선의 역사…‘잔혹한 금융’ 이번엔 바뀔까",
+        "link": "https://n.news.naver.com/mnews/article/028/0002808396?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 06 Jun 2026 00:02:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
+        "pubDate": "Sat, 06 Jun 2026 09:02:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "실패한 ‘금리 절벽’ 개선의 역사…‘잔혹한 금융 ’ 이번엔 바뀔까",
+        "link": "https://n.news.naver.com/mnews/article/028/0002808396?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 06 Jun 2026 09:02:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
       },
       {
         "title": "금융위, '신용협동조합법 시행령' 개정안 입법예고…건전성 및 내부통제...",
