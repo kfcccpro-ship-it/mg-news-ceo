@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T13:43:51.381Z",
+  "updatedAt": "2026-06-06T16:05:37.975Z",
   "headline": "[금융체크] 새마을금고 중앙회, '윤리의 날 특강' 개최, Npay '구독릴레이... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -8,14 +8,6 @@
         "link": "http://www.bizwnews.com/news/articleView.html?idxno=138139",
         "source": "네이버뉴스",
         "pubDate": "Sat, 06 Jun 2026 21:52:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "[아하 인터뷰] 오화경 저축 은행 중앙회장 \"부동산 벗어나 본연 역할 봐야...",
-        "link": "https://www.asiatime.co.kr/article/20260604500403",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 06 Jun 2026 19:16:00 +0900",
         "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
         "term": null
       },
@@ -65,10 +57,34 @@
     ],
     "otherFinance": [
       {
-        "title": "스트래티지 회장 \"비트코인, ETF 넘어 은행 ·신용시장으로 확장해야\"",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=672548",
+        "title": "[비즈토크 ] 태풍인 줄 알았는데 미풍이었네…은행권 ELS 과징금 대폭...",
+        "link": "https://n.news.naver.com/mnews/article/629/0000505543?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 06 Jun 2026 20:10:00 +0900",
+        "pubDate": "Sun, 07 Jun 2026 00:04:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[비즈토크 ] 태풍인 줄 알았는데 미풍이었네… 은행 권 ELS 과징금 대폭...",
+        "link": "https://n.news.naver.com/mnews/article/629/0000505543?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 07 Jun 2026 00:04:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "신보, 인터넷 은행 과 손잡고 비대면 IP 금융 지원 확대",
+        "link": "https://www.kbsm.net/news/view.php?idx=521962",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 06 Jun 2026 23:54:00 +0900",
+        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "하나 은행 , '2026 채용연계형·체험형 인턴' 모집…15일까지 접수",
+        "link": "https://www.delighti.co.kr/news/articleView.html?idxno=117366",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 06 Jun 2026 22:50:00 +0900",
         "summary": "",
         "term": null
       },
@@ -99,19 +115,19 @@
     ],
     "macro": [
       {
-        "title": "금융 위기 이후 최고 환율…일시 충격인가 구조적 불안인가",
-        "link": "https://sateconomy.co.kr/news/view/1065617479954796",
+        "title": "‘성공의 저주’가 부른 환율 대란…비슷한 처지 대만은 어떻게 피했나...",
+        "link": "https://n.news.naver.com/mnews/article/016/0002652888?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 06 Jun 2026 22:00:00 +0900",
+        "pubDate": "Sun, 07 Jun 2026 00:05:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "고용·가계대출·성장률 잇따라 발표… 금융 당국, 가계부채·AI 리스크 점...",
-        "link": "https://www.econovill.com/news/articleView.html?idxno=741728",
+        "title": "“집 사려면 대기업 가야 하나” 말 나올만도…직장인들 ‘사내대출’...",
+        "link": "https://n.news.naver.com/mnews/article/011/0004628312?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 06 Jun 2026 19:56:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
+        "pubDate": "Sun, 07 Jun 2026 00:04:00 +0900",
+        "summary": "",
         "term": null
       },
       {
