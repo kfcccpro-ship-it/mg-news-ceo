@@ -1,8 +1,16 @@
 {
-  "updatedAt": "2026-06-06T10:53:28.397Z",
-  "headline": "[아하 인터뷰] 오화경 저축 은행 중앙회장 \"부동산 벗어나 본연 역할 봐야... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-06-06T13:43:51.381Z",
+  "headline": "[금융체크] 새마을금고 중앙회, '윤리의 날 특강' 개최, Npay '구독릴레이... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "[금융체크] 새마을금고 중앙회, '윤리의 날 특강' 개최, Npay '구독릴레이...",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=138139",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 06 Jun 2026 21:52:00 +0900",
+        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
       {
         "title": "[아하 인터뷰] 오화경 저축 은행 중앙회장 \"부동산 벗어나 본연 역할 봐야...",
         "link": "https://www.asiatime.co.kr/article/20260604500403",
@@ -53,30 +61,14 @@
           "word": "Delinquency",
           "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
         }
-      },
-      {
-        "title": "새마을금고 중앙회, '제3회 윤리의날' 열어",
-        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=307275",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 05 Jun 2026 17:00:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "[ 은행 이모저모] 국민 은행 '아톤과 업무협약', 전북 은행 '그린 환경그림...",
-        "link": "http://www.bizwnews.com/news/articleView.html?idxno=138124",
+        "title": "스트래티지 회장 \"비트코인, ETF 넘어 은행 ·신용시장으로 확장해야\"",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=672548",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 06 Jun 2026 18:28:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "KB국민 은행 , 'KB보훈급여송금수표' 서비스 출시…해외 수급자 편의 제고",
-        "link": "http://www.paxetv.com/news/articleView.html?idxno=274016",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 06 Jun 2026 18:00:00 +0900",
+        "pubDate": "Sat, 06 Jun 2026 20:10:00 +0900",
         "summary": "",
         "term": null
       },
@@ -107,19 +99,19 @@
     ],
     "macro": [
       {
-        "title": "환율 1560원 뚫고 17년 만에 최고치…외환시장 긴장감 고조",
-        "link": "https://www.econovill.com/news/articleView.html?idxno=741725",
+        "title": "금융 위기 이후 최고 환율…일시 충격인가 구조적 불안인가",
+        "link": "https://sateconomy.co.kr/news/view/1065617479954796",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 06 Jun 2026 18:38:00 +0900",
+        "pubDate": "Sat, 06 Jun 2026 22:00:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "메타, 구글 따라 '대규모 주식 발행' 검토 중…AI 자금 조달 총력전",
-        "link": "https://www.aitimes.com/news/articleView.html?idxno=211412",
+        "title": "고용·가계대출·성장률 잇따라 발표… 금융 당국, 가계부채·AI 리스크 점...",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=741728",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 06 Jun 2026 18:36:00 +0900",
-        "summary": "",
+        "pubDate": "Sat, 06 Jun 2026 19:56:00 +0900",
+        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
         "term": null
       },
       {
