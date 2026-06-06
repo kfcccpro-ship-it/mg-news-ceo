@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T03:32:11.527Z",
+  "updatedAt": "2026-06-06T08:33:51.437Z",
   "headline": "새마을금고 , '윤리의 날' 최태성 강사 특강… \"결과 위한 비윤리 정당화... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -57,26 +57,18 @@
     ],
     "otherFinance": [
       {
-        "title": "은행 권, 호국보훈의 달 맞이 군장병 대상 이벤트",
-        "link": "https://www.ekn.kr/web/view.php?key=20260606026130820",
+        "title": "美 국채보다 金…전 세계 중앙 은행 쓸어 담는다",
+        "link": "https://n.news.naver.com/mnews/article/024/0000106063?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 06 Jun 2026 12:28:00 +0900",
+        "pubDate": "Sat, 06 Jun 2026 17:01:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "\"제보 불이익\"에 침묵...진승욱號 대신증권, '무결점' 감사결과 괜찮나",
-        "link": "https://www.pointe.co.kr/news/articleView.html?idxno=80328",
+        "title": "[증시 주간 핫 리뷰] '9000피' 기대 꺾인 코스피…반도체 흔들리고 은행 ...",
+        "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=722052",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 06 Jun 2026 12:10:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "Zcash 대폭락 붕괴 시나리오 다음 타깃은?… 전 세계 은행 권 전산망 긴급...",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=457996",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 06 Jun 2026 11:58:00 +0900",
+        "pubDate": "Sat, 06 Jun 2026 16:00:00 +0900",
         "summary": "",
         "term": null
       },
@@ -103,36 +95,14 @@
         "pubDate": "Sat, 06 Jun 2026 09:10:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "금융위, 신협 부실채권 관리 강화…자산관리회사 매입 기준 정비",
-        "link": "https://www.etoday.co.kr/news/view/2590952",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 05 Jun 2026 16:34:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
       }
     ],
     "macro": [
       {
-        "title": "요동치는 韓 주식·채권·외환…\"美 금리인상시 글로벌 자금 다시 미국...",
-        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4418596",
+        "title": "“영끌족 떨게 하는 금리”...주담대 8% 문턱 선 차주들",
+        "link": "https://www.ekn.kr/web/view.php?key=20260606021041082",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 06 Jun 2026 12:16:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Terminal Rate",
-          "meaning": "기준금리 인상 사이클의 최종 수준에 대한 시장 기대"
-        }
-      },
-      {
-        "title": "美 금리 인상 전망에 증시 하락···삼전·닉스 주가도 '촉각'",
-        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=421565",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 06 Jun 2026 11:50:00 +0900",
+        "pubDate": "Sat, 06 Jun 2026 13:48:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       },
