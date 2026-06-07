@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-07T16:17:09.230Z",
+  "updatedAt": "2026-06-07T19:22:52.119Z",
   "headline": "일산 새마을금고 , 뇌병변장애인 힐링 걷기 프로젝트 후원 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -42,17 +42,25 @@
         "pubDate": "Sun, 07 Jun 2026 19:10:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "일산 새마을금고 , 뇌병변장애인 걷기 행사 후원",
-        "link": "http://www.ujeil.com/news/articleView.html?idxno=386865",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 07 Jun 2026 18:08:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
+      {
+        "title": "KB국민 은행 , 세일즈포스와 '임베디드 금융 ' 맞손",
+        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=354465",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 08 Jun 2026 04:20:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "우리 은행 , 삼성 SSAFY와 손잡고 'AI 금융 안심망' 구축",
+        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=354466",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 08 Jun 2026 04:20:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "[DQN] 코스피 질주에 예금 이탈…은행권 수신 전쟁 격화",
         "link": "http://www.fntimes.com/html/view.php?ud=202606060027171942dd55077bc2_18",
@@ -71,22 +79,25 @@
         "pubDate": "Sun, 07 Jun 2026 21:08:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
-      },
-      {
-        "title": "증권사, 신사업 확대 ‘실탄 확보’ 경쟁",
-        "link": "https://n.news.naver.com/mnews/article/022/0004133588?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 07 Jun 2026 20:52:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "macro": [
       {
-        "title": "1560원 뚫었다, 선 넘은 환율",
-        "link": "https://n.news.naver.com/mnews/article/023/0003980756?sid=101",
+        "title": "덜 오른 변동형 주담대, 예금금리 따라 뛴다",
+        "link": "https://n.news.naver.com/mnews/article/008/0005368246?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 08 Jun 2026 00:54:00 +0900",
+        "pubDate": "Mon, 08 Jun 2026 04:16:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "[사설] '반도체 달러'넘쳐도 환율 급등 방치 안된다",
+        "link": "https://n.news.naver.com/mnews/article/008/0005368231?sid=110",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 08 Jun 2026 04:00:00 +0900",
         "summary": "",
         "term": null
       },
@@ -115,14 +126,6 @@
         "term": null
       },
       {
-        "title": "외국인 주식 매도에…환율 외환위기 후 최고",
-        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=550334",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 07 Jun 2026 21:34:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
         "title": "대출금리 한 달새 0.33%p↑…빚투 부담 가중",
         "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=550327",
         "source": "네이버뉴스",
@@ -134,10 +137,10 @@
         }
       },
       {
-        "title": "환율, 환란 후 28년 만에 최고… ‘3高 공포’ 짙어진다",
-        "link": "https://n.news.naver.com/mnews/article/022/0004133572?sid=101",
+        "title": "외국인 주식 매도에…환율 외환위기 후 최고",
+        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=550334",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 07 Jun 2026 20:02:00 +0900",
+        "pubDate": "Sun, 07 Jun 2026 21:34:00 +0900",
         "summary": "",
         "term": null
       }
