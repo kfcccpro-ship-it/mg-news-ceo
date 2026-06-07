@@ -1,8 +1,16 @@
 {
-  "updatedAt": "2026-06-07T11:10:19.017Z",
-  "headline": "창원시 새마을금고 협의회, 파크골프 어울림 한마당 개최 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-06-07T13:53:06.623Z",
+  "headline": "일산 새마을금고 , 뇌병변장애인 힐링 걷기 후원 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "일산 새마을금고 , 뇌병변장애인 힐링 걷기 후원",
+        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=576615",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 07 Jun 2026 21:43:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "창원시 새마을금고 협의회, 파크골프 어울림 한마당 개최",
         "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=638391",
@@ -38,10 +46,34 @@
     ],
     "otherFinance": [
       {
-        "title": "\"1.4조 족쇄 풀리자 2500억 환입 쇼크\"...외인, 국장 투매 속 은행 주 독...",
-        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=360072",
+        "title": "농협 상호 금융 비조합원 대출 증가…'농민 위한 금융 ' 정체성 약화 우려",
+        "link": "http://www.ikpnews.net/news/articleView.html?idxno=70625",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 07 Jun 2026 19:08:00 +0900",
+        "pubDate": "Sun, 07 Jun 2026 21:08:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "농협상호 금융 비조합원 대출 증가…'농민 위한 금융 ' 정체성 약화 우려",
+        "link": "http://www.ikpnews.net/news/articleView.html?idxno=70625",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 07 Jun 2026 21:08:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "[iN The Scene] 우리 은행 SSAFY 교육생 초청 AI-소비자보호 경진대회",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=87733",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 07 Jun 2026 20:56:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "증권사, 신사업 확대 ‘실탄 확보’ 경쟁",
+        "link": "https://n.news.naver.com/mnews/article/022/0004133588?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 07 Jun 2026 20:52:00 +0900",
         "summary": "",
         "term": null
       },
@@ -62,71 +94,63 @@
         "term": null
       },
       {
-        "title": "충남 아산축산 농협 , 염치 농협 에 '도농상생자금 10억원' 통 큰 지원",
-        "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1081744",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 07 Jun 2026 18:08:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
         "title": "감평사 압박하는 은행…“빌라 가격 높게 평가하지 마라”",
         "link": "https://n.news.naver.com/mnews/article/011/0004628466?sid=101",
         "source": "네이버뉴스",
         "pubDate": "Sun, 07 Jun 2026 17:57:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "[금리 인상 카운트다운] 예금금리도 줄인상…저축은행·인뱅선 4% 육박",
-        "link": "https://www.ajunews.com/view/20260607145108059",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 07 Jun 2026 17:02:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
       }
     ],
     "macro": [
+      {
+        "title": "[포토] 고금리 시대, 주담대를 어쩌나",
+        "link": "https://n.news.naver.com/mnews/article/005/0001853510?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 07 Jun 2026 22:20:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "정부 \"과도한 환율 변동성 용인하지 않을 것\"",
+        "link": "https://n.news.naver.com/mnews/article/052/0002363173?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 07 Jun 2026 21:55:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "대출금리 한 달새 0.33%p↑…빚투 부담 가중",
+        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=550327",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 07 Jun 2026 21:34:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "NIM",
+          "meaning": "금리 변화가 금융기관 수익성에 미치는 영향을 보여주는 핵심 지표"
+        }
+      },
+      {
+        "title": "외국인 주식 매도에…환율 외환위기 후 최고",
+        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=550334",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 07 Jun 2026 21:34:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "공항 환전소 원·달러 고시 환율 ‘1624원’",
+        "link": "https://n.news.naver.com/mnews/article/032/0003450473?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 07 Jun 2026 21:23:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "환율, 환란 후 28년 만에 최고… ‘3高 공포’ 짙어진다",
         "link": "https://n.news.naver.com/mnews/article/022/0004133572?sid=101",
         "source": "네이버뉴스",
         "pubDate": "Sun, 07 Jun 2026 20:02:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "\"투기 잡고 쏠림 막는다\"…1,560원 뚫은 환율에 특단의 대책 쏟아낸 외환...",
-        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4418659",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 07 Jun 2026 19:34:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "“환율 1560원 돌파, 공항선 이미 1620원대”...외환위기 이후 최고 찍었...",
-        "link": "https://n.news.naver.com/mnews/article/009/0005690450?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 07 Jun 2026 19:32:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "외국인 매도에 치솟는 환율…2분기 평균 외환위기 이후 최고",
-        "link": "https://n.news.naver.com/mnews/article/018/0006300252?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 07 Jun 2026 19:18:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "야간에 1561원까지 치솟은 환율… 정부 “시장교란 행위 점검”",
-        "link": "https://n.news.naver.com/mnews/article/005/0001853498?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 07 Jun 2026 19:03:00 +0900",
         "summary": "",
         "term": null
       },
@@ -148,14 +172,6 @@
           "word": "NIM",
           "meaning": "금리 변화가 금융기관 수익성에 미치는 영향을 보여주는 핵심 지표"
         }
-      },
-      {
-        "title": "투자 대기 자금이라지만…당국 “기업 수출대금 환전 안 해” 경고",
-        "link": "https://n.news.naver.com/mnews/article/011/0004628464?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 07 Jun 2026 17:55:00 +0900",
-        "summary": "",
-        "term": null
       },
       {
         "title": "주담대 금리 상단은 이미 7%대 … 가계 이자부담 더 커진다",
