@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-08T15:53:18.265Z",
+  "updatedAt": "2026-06-08T20:17:03.542Z",
   "headline": "'생활의 달인' 훌라후프 달인→ 금고 여신 3인방, 놀라운 기술 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -73,77 +73,93 @@
     ],
     "otherFinance": [
       {
-        "title": "기업 대출 늘리는 은행 들… 지난 1분기 35.6조 늘어",
-        "link": "https://n.news.naver.com/mnews/article/023/0003980913?sid=101",
+        "title": "환율 급등에 은행권도 비상…대응 수위 높여",
+        "link": "https://n.news.naver.com/mnews/article/422/0000872699?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 09 Jun 2026 00:37:00 +0900",
+        "pubDate": "Tue, 09 Jun 2026 05:07:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "환율 급등에 은행 권도 비상…대응 수위 높여",
+        "link": "https://n.news.naver.com/mnews/article/422/0000872699?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 09 Jun 2026 05:07:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "신한 은행 , ‘연 0.1%’ 기초연금 비상금대출 출시",
+        "link": "https://n.news.naver.com/mnews/article/081/0003650706?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 09 Jun 2026 05:05:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "[Biz & Now] 신한 은행 , 시니어 고객 비상금대출 출시",
-        "link": "https://n.news.naver.com/mnews/article/025/0003528942?sid=101",
+        "title": "환율 1550원대 급등에 은행권 '비상모드'…리스크 관리 고삐",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=871929",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 09 Jun 2026 00:02:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "NH 농협 은행-동국제강그룹, 우리 쌀 소비 촉진 맞손… 금융 ·철강업계 도...",
-        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=354496",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 08 Jun 2026 23:34:00 +0900",
+        "pubDate": "Tue, 09 Jun 2026 05:00:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[ 금융 소식] 하나 금융 장애인 지원 / NH 농협 캐피탈 스탁론 출시 / 신한은...",
-        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2192487",
+        "title": "[단독] 5대 은행 소비자보호 인력 25% 늘었지만… 무게추는 여전히 '사후...",
+        "link": "https://www.etoday.co.kr/news/view/2591482",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 08 Jun 2026 23:30:00 +0900",
+        "pubDate": "Tue, 09 Jun 2026 05:00:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "NH 농협 은행, '프로젝트 NEO' 영업점 자문단 시상",
-        "link": "http://www.paxetv.com/news/articleView.html?idxno=274082",
+        "title": "[심층] 고령화시대 '삶 관리하는 은행' 뜬다…172조 '치매머니' 쟁탈전",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=802990",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 08 Jun 2026 23:26:00 +0900",
+        "pubDate": "Tue, 09 Jun 2026 05:00:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "농협 , 농정대전환 현장 실행 본격화… 스마트농업·청년농 육성 속도",
-        "link": "http://www.youngnong.co.kr/news/articleView.html?idxno=60103",
+        "title": "[심층] 고령화시대 '삶 관리하는 은행 ' 뜬다…172조 '치매머니' 쟁탈전",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=802990",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 08 Jun 2026 23:18:00 +0900",
+        "pubDate": "Tue, 09 Jun 2026 05:00:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "농협 손해보험, 12년 연속 KSQI '우수콜센터' 선정",
-        "link": "http://www.youngnong.co.kr/news/articleView.html?idxno=60104",
+        "title": "NH 농협 銀·한화솔루션 '친환경 재생에너지 전환'",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7168294",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 08 Jun 2026 23:18:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "청주오송 농협 , 상호 금융 금융 자산 5천억원 달성탑 수상",
-        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2420728",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 08 Jun 2026 21:48:00 +0900",
+        "pubDate": "Tue, 09 Jun 2026 04:02:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "[단신]신한銀, 시니어 대상 연 0.1% 금리 비상금대출 外",
-        "link": "https://n.news.naver.com/mnews/article/020/0003725347?sid=101",
+        "title": "1분기 산업대출 35.6조 급증… 건설업도 7분기 만에 늘었다",
+        "link": "https://n.news.naver.com/mnews/article/081/0003650702?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 09 Jun 2026 00:32:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "pubDate": "Tue, 09 Jun 2026 05:05:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "밥값·자재값부터 뛴다… 고환율에 서민 눈물",
+        "link": "https://n.news.naver.com/mnews/article/081/0003650697?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 09 Jun 2026 05:05:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "“투기적 외환 거래” 당국 구두개입에, 1555원 넘던 환율 1530원대로",
+        "link": "https://n.news.naver.com/mnews/article/020/0003725399?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 09 Jun 2026 04:34:00 +0900",
+        "summary": "",
         "term": null
       },
       {
@@ -156,38 +172,6 @@
           "word": "Deposit Beta",
           "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
         }
-      },
-      {
-        "title": "원/달러 환율 급등, 금융 권 리스크 관리 총력",
-        "link": "https://www.tokenpost.kr/news/economy/367164",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 09 Jun 2026 00:24:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "1분기 기업대출 35.6조 급증…운전자금·대기업 대출이 주도",
-        "link": "http://www.gjdream.com/news/articleView.html?idxno=670065",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 09 Jun 2026 00:10:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "고환율이 키우는 공포, K자 양극화",
-        "link": "https://n.news.naver.com/mnews/article/025/0003528951?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 09 Jun 2026 00:02:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "서킷브레이커 켜진 증시·급등한 환율··· 금융 권 비상 대응태세 강화",
-        "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=254838",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 08 Jun 2026 22:32:00 +0900",
-        "summary": "",
-        "term": null
       }
     ]
   }
