@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11T16:02:03.679Z",
+  "updatedAt": "2026-06-11T20:22:17.791Z",
   "headline": "[금융소식] 우리은행, 크로스허브와 외국인 결제 MOU / 새마을금고 '무더... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -70,6 +70,30 @@
     ],
     "otherFinance": [
       {
+        "title": "농협 은행 ‘에이전틱 AI 뱅크’ 선언… 금융 경쟁력 강화",
+        "link": "https://n.news.naver.com/mnews/article/662/0000097154?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 12 Jun 2026 05:01:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "농협 경기 안양시지부, 예술제서 ‘농심천심 운동’ 홍보",
+        "link": "https://n.news.naver.com/mnews/article/662/0000097156?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 12 Jun 2026 05:01:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[오늘의 주요일정] 금융 ·증권(6월12일 금요일)",
+        "link": "https://n.news.naver.com/mnews/article/003/0014002157?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 12 Jun 2026 05:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
         "title": "NH 농협금융 , 자본확충 '잰걸음'…생산적 금융·IB 강화 시험대",
         "link": "https://n.news.naver.com/mnews/article/629/0000507005?sid=101",
         "source": "네이버뉴스",
@@ -82,46 +106,6 @@
         "link": "https://www.asiatime.co.kr/article/20260611500399",
         "source": "네이버뉴스",
         "pubDate": "Thu, 11 Jun 2026 23:56:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "각자대표 전환하는 NH투자증권, 차기 CEO 숏리스트 압축…현 대표 제외",
-        "link": "http://www.fntimes.com/html/view.php?ud=202606112241573146179ad43907_18",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 11 Jun 2026 23:06:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "내홍 끝 NH투자증권 새 대표 윤곽…신재욱·배광수 체제 가닥",
-        "link": "https://www.ajunews.com/view/20260611223911327",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 11 Jun 2026 22:44:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "농관원 강원지원·강원 농협 , 농축산물 안전성 강화 맞손",
-        "link": "http://www.fntimes.com/html/view.php?ud=20260611203516534dd55077bc2_18",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 11 Jun 2026 22:34:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "NH투자증권, 윤병운 대신 '새판' 짠다…IMA 인가에도 '세대교체' 선택",
-        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=843641",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 11 Jun 2026 21:44:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "농협 은행 경북본부, 무더위 쉼터 운영",
-        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=550822",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 11 Jun 2026 21:34:00 +0900",
         "summary": "",
         "term": null
       },
@@ -139,31 +123,36 @@
     ],
     "macro": [
       {
+        "title": "4대 금융 광고 집행 살핀다는 금감원… 연임 지주회장 겨냥한 별건조사 ...",
+        "link": "https://n.news.naver.com/mnews/article/081/0003651890?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 12 Jun 2026 05:05:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "‘빚투’에 지난달 가계대출 9.3조 급증",
+        "link": "https://n.news.naver.com/mnews/article/081/0003651888?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 12 Jun 2026 05:05:00 +0900",
+        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "코스피 급등 속 '빚투'에 5월 가계대출 6.9조↑…1년 9개월만에 최대 폭",
+        "link": "https://n.news.naver.com/mnews/article/002/0002444807?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 12 Jun 2026 04:44:00 +0900",
+        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
+      {
         "title": "치솟던 금값, 美 금리 인상 가능성에 고점대비 20% 넘게 ‘뚝’",
         "link": "https://n.news.naver.com/mnews/article/020/0003726267?sid=101",
         "source": "네이버뉴스",
         "pubDate": "Fri, 12 Jun 2026 00:31:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
-      },
-      {
-        "title": "빚투에 가계대출 9.3조 폭증… 금융 권 1년 9개월새 최고폭",
-        "link": "https://n.news.naver.com/mnews/article/020/0003726261?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 12 Jun 2026 00:31:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "ECB, 3년 만에 긴축 재개…원화·수출시장 변수 커진다",
-        "link": "https://n.news.naver.com/mnews/article/119/0003100280?sid=104",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 12 Jun 2026 00:17:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Terminal Rate",
-          "meaning": "기준금리 인상 사이클의 최종 수준에 대한 시장 기대"
-        }
       },
       {
         "title": "MG신용정보, 엠플러스자산운용과 MOU…부실 PF 채권 '가치 제고형 회수'...",
