@@ -1,15 +1,31 @@
 {
-  "updatedAt": "2026-06-12T20:11:12.537Z",
-  "headline": "6·3 지선 이후 불붙은 기업 은행 대구 이전…현실화될까 등 타 금융권 동향을 비교해볼 필요가 있습니다.",
+  "updatedAt": "2026-06-12T22:24:48.491Z",
+  "headline": "M&A 훈풍 부는 보험업계…주요 매물 인수전 본격화 등 타 금융권 동향을 비교해볼 필요가 있습니다.",
   "categories": {
     "mg": [],
     "otherFinance": [
       {
-        "title": "6·3 지선 이후 불붙은 기업 은행 대구 이전…현실화될까",
-        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=308054",
+        "title": "M&A 훈풍 부는 보험업계…주요 매물 인수전 본격화",
+        "link": "http://www.segyebiz.com/newsView/20260612514899?OutUrl=naver",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 13 Jun 2026 04:00:00 +0900",
+        "pubDate": "Sat, 13 Jun 2026 07:02:00 +0900",
         "summary": "",
+        "term": null
+      },
+      {
+        "title": "\"빚투 잡는다\" 당국 압박에…은행권 신용대출·마통 한도 '우르르' 깎여",
+        "link": "https://n.news.naver.com/mnews/article/008/0005371308?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 13 Jun 2026 07:00:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "\"빚투 잡는다\" 당국 압박에… 은행 권 신용대출·마통 한도 '우르르' 깎여",
+        "link": "https://n.news.naver.com/mnews/article/008/0005371308?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 13 Jun 2026 07:00:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
@@ -54,53 +70,37 @@
           "word": "Deposit Beta",
           "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
         }
-      },
-      {
-        "title": "[2 금융 뉴스브리핑] OK저축은행 예금금리 '인상' 결정",
-        "link": "https://www.asiatime.co.kr/article/20260612500335",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 12 Jun 2026 21:56:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
-      },
-      {
-        "title": "우리 이어 신한까지…은행권 '플랫폼 대출' 조이기 시작",
-        "link": "https://www.asiatime.co.kr/article/20260612500333",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 12 Jun 2026 21:56:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
       }
     ],
     "macro": [
       {
-        "title": "블랙록, 사모대출 펀드 환매 2분기 연속 5% 제한",
-        "link": "https://n.news.naver.com/mnews/article/011/0004630694?sid=104",
+        "title": "높아지는 물가와 다가오는 금리인상…한은, 물가점검회의[한은 미리보기...",
+        "link": "https://n.news.naver.com/mnews/article/018/0006304995?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 13 Jun 2026 04:47:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "종전 합의 촉각 속...달러 '소폭 하락', 엔화환율은 '상승'",
-        "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=166514",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 13 Jun 2026 04:30:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "블랙록, 사모대출펀드 환매 제한으로 유동성 우려 부각",
-        "link": "https://www.tokenpost.kr/news/economy/368800",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 13 Jun 2026 03:22:00 +0900",
-        "summary": "",
+        "pubDate": "Sat, 13 Jun 2026 07:02:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": {
-          "word": "LCR",
-          "meaning": "단기 유동성 충격 대응 능력을 보여주는 지표"
+          "word": "Terminal Rate",
+          "meaning": "기준금리 인상 사이클의 최종 수준에 대한 시장 기대"
+        }
+      },
+      {
+        "title": "[다음주 환율전망] 1500원대로 내려서며 변곡점 맞나…중동 변수 완화에...",
+        "link": "https://www.goodkyung.com/news/articleView.html?idxno=288093",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 13 Jun 2026 07:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "재차 금리 인상 예고한 신현송…내달 긴축 돌입할 듯",
+        "link": "https://n.news.naver.com/mnews/article/003/0014004351?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 13 Jun 2026 07:00:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Terminal Rate",
+          "meaning": "기준금리 인상 사이클의 최종 수준에 대한 시장 기대"
         }
       },
       {
@@ -108,14 +108,6 @@
         "link": "https://n.news.naver.com/mnews/article/020/0003726555?sid=101",
         "source": "네이버뉴스",
         "pubDate": "Sat, 13 Jun 2026 01:46:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "억대 연봉 벌어도 마통 한도 5000만원까지…신용대출 확 조인다",
-        "link": "https://n.news.naver.com/mnews/article/009/0005693243?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 12 Jun 2026 21:41:00 +0900",
         "summary": "",
         "term": null
       }
