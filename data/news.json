@@ -1,186 +1,118 @@
 {
-  "updatedAt": "2026-06-11T22:49:44.052Z",
-  "headline": "[굿모닝금융] iM금융· 새마을금고 ·농협카드 등 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-06-12T04:00:45.995Z",
+  "headline": "새마을금고 자회사 MG신용정보, 경공매 투자 설명회...소비자 관심도 급... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
-        "title": "[굿모닝금융] iM금융· 새마을금고 ·농협카드 등",
-        "link": "http://www.bizwnews.com/news/articleView.html?idxno=138508",
+        "title": "새마을금고 자회사 MG신용정보, 경공매 투자 설명회...소비자 관심도 급...",
+        "link": "http://www.thebigdata.co.kr/view.php?ud=202606121121085405df3c2a17b7_23",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 12 Jun 2026 06:26:00 +0900",
+        "pubDate": "Fri, 12 Jun 2026 11:36:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[금융소식] 우리은행, 크로스허브와 외국인 결제 MOU / 새마을금고 '무더...",
-        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2196963",
+        "title": "신협중앙회 노동조합, 고영철 회장 고소 예고…선거법 위반 의혹 제기",
+        "link": "https://n.news.naver.com/mnews/article/629/0000507121?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 11 Jun 2026 23:30:00 +0900",
-        "summary": "",
+        "pubDate": "Fri, 12 Jun 2026 11:20:00 +0900",
+        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
         "term": null
       },
       {
-        "title": "MG 새마을금고 마창진, 사랑의 휠체어 기부",
-        "link": "http://www.gnmaeil.com/news/articleView.html?idxno=588502",
+        "title": "금융노조 “고영철 신협중앙회장 선거법 위반 의혹 수사해야”",
+        "link": "https://n.news.naver.com/mnews/article/138/0002230683?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 11 Jun 2026 21:22:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "새마을금고 , 9월까지 전국 영업점서 무더위 쉼터 운영",
-        "link": "http://www.sisacast.kr/news/articleView.html?idxno=96647",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 11 Jun 2026 18:54:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[2금융 뉴스브리핑] 새마을금고 '무더위 쉼터' 운영",
-        "link": "https://www.asiatime.co.kr/article/20260611500391",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 11 Jun 2026 18:36:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "새마을금고 , 전국 1712개 영업점 '무더위 쉼터' 개방",
-        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=307972",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 11 Jun 2026 17:30:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[금융계 동향] KB증권·신한은행· 새마을금고",
-        "link": "http://www.iminju.net/news/articleView.html?idxno=165176",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 11 Jun 2026 17:28:00 +0900",
-        "summary": "",
+        "pubDate": "Fri, 12 Jun 2026 10:50:00 +0900",
+        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
         "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "올해 1분기 증권사 순익 4.3조…전년비 77% 증가",
-        "link": "https://www.newspim.com/news/view/20260611000842",
+        "title": "당국, AI 해킹 대응 나섰지만…핀테크는 망분리 완화 '사각지대'",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1375995",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 12 Jun 2026 07:45:00 +0900",
+        "pubDate": "Fri, 12 Jun 2026 12:56:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[ 은행 건전성 점검] 하나 은행 , NPL커버리지비율 123%…건전성 부담",
-        "link": "https://dealsite.co.kr/articles/163344",
+        "title": "'빚투' 경고에 시중은행 신용대출 규제 강화",
+        "link": "https://n.news.naver.com/mnews/article/052/0002365610?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 12 Jun 2026 07:36:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
-      },
-      {
-        "title": "中 인민 은행 총재 “中, 글로벌 변동성 속 최적의 자산 다각화 피난처”",
-        "link": "https://www.g-enews.com/view.php?ud=202606120733128350c8c1c064d_1",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 12 Jun 2026 07:36:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "우리 은행 , '생산적 기업승계'로 패러다임 전환 [ 금융 혁신]",
-        "link": "https://www.sisaon.co.kr/news/articleView.html?idxno=201791",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 12 Jun 2026 07:30:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "증권가, ‘연 3% 예금’ 등장에 발행어음 금리 올린다",
-        "link": "https://n.news.naver.com/mnews/article/119/0003100310?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 12 Jun 2026 07:04:00 +0900",
+        "pubDate": "Fri, 12 Jun 2026 12:51:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
-      },
-      {
-        "title": "실적부진 NH 농협 생명, 박병희 대표 연임 시험대",
-        "link": "https://news.dealsitetv.com/articles/171507",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 12 Jun 2026 07:02:00 +0900",
-        "summary": "",
         "term": null
       },
       {
-        "title": "[금융zip] \"신성장동력 확충\" 농협금융 , 재생에너지 시장 선점 추진 外",
-        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=872219",
+        "title": "'빚투' 경고에 시중 은행 신용대출 규제 강화",
+        "link": "https://n.news.naver.com/mnews/article/052/0002365610?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 12 Jun 2026 07:00:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "긴축 들어가기 전인데…은행 대출금리 4년래 최고치",
-        "link": "https://n.news.naver.com/mnews/article/003/0014002257?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 12 Jun 2026 07:00:00 +0900",
+        "pubDate": "Fri, 12 Jun 2026 12:51:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "NIM",
-          "meaning": "금리 변화가 금융기관 수익성에 미치는 영향을 보여주는 핵심 지표"
-        }
+        "term": null
+      },
+      {
+        "title": "신한 은행 , 가계부채 안정화 위해 신용대출 관리 체계 강화",
+        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=236347",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 12 Jun 2026 12:50:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "신한 은행 , 15일부터 비대면 신용대출 접수량 조절",
+        "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=416459",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 12 Jun 2026 12:50:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "NH증권, 윤병운→배광수·신재욱 각자대표 체제로",
+        "link": "https://dealsite.co.kr/articles/163477",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 12 Jun 2026 12:48:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "NH투자증권, 차기 각자대표 후보에 신재욱·배광수 추천",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=123689",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 12 Jun 2026 12:42:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "한국콘텐츠진흥원장에 김윤지 수출입 은행 수석연구원",
+        "link": "https://n.news.naver.com/mnews/article/277/0005775651?sid=103",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 12 Jun 2026 12:37:00 +0900",
+        "summary": "",
+        "term": null
       }
     ],
     "macro": [
       {
-        "title": "금리 인상 가능성 확대…통합 리스크 관리, 핵심 경쟁력으로 부상",
-        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=843668",
+        "title": "신현송 총재가 언급한 '환율 흐름 외 기초가치' 의미는",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4419710",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 12 Jun 2026 07:10:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "생산적 금융 ·대출총량이 만든 늪, 치솟는 금리 차주들 ‘울상’",
-        "link": "https://n.news.naver.com/mnews/article/119/0003100309?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 12 Jun 2026 07:04:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "왜 디지털화폐인가…예금토큰·CBDC·스테이블코인 어떻게 다른가",
-        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=203336",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 12 Jun 2026 07:00:00 +0900",
+        "pubDate": "Fri, 12 Jun 2026 13:00:00 +0900",
         "summary": "",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
+        "term": null
       },
       {
-        "title": "MG신용정보, 엠플러스자산운용과 MOU…부실 PF 채권 '가치 제고형 회수'...",
-        "link": "http://www.fntimes.com/html/view.php?ud=2026061113550439987c96e79780_18",
+        "title": "\"부동산 엄동설한, 부실채권서 길 찾는다\"… MG신용정보, NPL 설명회 개최",
+        "link": "http://www.dailysmart.co.kr/news/articleView.html?idxno=125444",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 11 Jun 2026 19:36:00 +0900",
+        "pubDate": "Fri, 12 Jun 2026 10:44:00 +0900",
         "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
         "term": {
           "word": "Delinquency",
           "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
         }
-      },
-      {
-        "title": "케이뱅크, 파킹통장 연 0.3% 우대금리 이벤트 진행 外",
-        "link": "https://www.rcast.co.kr/news/articleView.html?idxno=31030",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 11 Jun 2026 18:06:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
       }
     ]
   }
