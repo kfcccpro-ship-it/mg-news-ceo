@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T09:16:53.402Z",
+  "updatedAt": "2026-06-13T14:00:25.253Z",
   "headline": "원주 농협 , 범 농협 경영 안정 이끈 공로 인정 받았다…중앙회 출자 증대... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -22,6 +22,25 @@
     ],
     "otherFinance": [
       {
+        "title": "레볼루트, 미국 은행 인가 신청 후 고수익 예금·스테이블코인 서비스 ...",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=674834",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 13 Jun 2026 20:38:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "“가득이요” 자신있게 외치세요, 제가 깎아드릴게…주유 할인카드 다시...",
+        "link": "https://n.news.naver.com/mnews/article/009/0005693373?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 13 Jun 2026 19:05:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
         "title": "고유가 장기화 조짐…카드사, 주유 할인 경쟁 '후끈'",
         "link": "https://www.newsway.co.kr/news/view?ud=2026061213551668823",
         "source": "네이버뉴스",
@@ -30,39 +49,7 @@
         "term": null
       },
       {
-        "title": "[인터뷰] AI 금융 비서 넘어 AI에이전트 은행 으로…웰컴저축 은행 의 실험",
-        "link": "https://byline.network/?p=9004111222607358",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 13 Jun 2026 18:00:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "iM뱅크 창립 59주년 앞두고 본점에 김준성 초대 은행 장 흉상 영구 안치",
-        "link": "https://n.news.naver.com/mnews/article/088/0001014367?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 13 Jun 2026 17:06:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "카드사, 잇단 정보유출에도 보안 담당자 부족",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1376258",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 13 Jun 2026 16:32:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
         "title": "마통 막히나?…'빚투' 정부 압박에 은행권 대출 조인다",
-        "link": "https://n.news.naver.com/mnews/article/374/0000515879?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 13 Jun 2026 16:25:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "마통 막히나?…'빚투' 정부 압박에 은행 권 대출 조인다",
         "link": "https://n.news.naver.com/mnews/article/374/0000515879?sid=101",
         "source": "네이버뉴스",
         "pubDate": "Sat, 13 Jun 2026 16:25:00 +0900",
@@ -84,22 +71,38 @@
         "pubDate": "Sat, 13 Jun 2026 14:00:00 +0900",
         "summary": "",
         "term": null
-      }
-    ],
-    "macro": [
+      },
       {
-        "title": "[금상소] 병원비·공과금 급할 때⋯시니어 생활비대출 주목",
-        "link": "https://www.etoday.co.kr/news/view/2593041",
+        "title": "농협 울릉군지부, 호국보훈의 달 맞이 해군 118전대 위문",
+        "link": "https://www.kbmaeil.com/article/20260613500014",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 13 Jun 2026 17:02:00 +0900",
+        "pubDate": "Sat, 13 Jun 2026 13:58:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "주담대 금리 8%·마통 7% 눈앞…영끌·빚투족 비상 [호모 집피엔스]",
-        "link": "https://n.news.naver.com/mnews/article/024/0000106207?sid=101",
+        "title": "경산 하양 농협 , 범 농협 최고 사회공헌 영예… 지역 상생·농민 복지 성과...",
+        "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4075370",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 13 Jun 2026 13:01:00 +0900",
+        "pubDate": "Sat, 13 Jun 2026 13:30:00 +0900",
+        "summary": "",
+        "term": null
+      }
+    ],
+    "macro": [
+      {
+        "title": "[올댓차이나] 5월 中 신규대출 116.8조원…\"수요 부진에 시장 예상 하회...",
+        "link": "https://n.news.naver.com/mnews/article/003/0014004790?sid=104",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 13 Jun 2026 22:24:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[돈이 보이는 경제] 금리 인상 공포에 울렁증 걸린 증시…\"약세장\" VS \"실...",
+        "link": "https://n.news.naver.com/mnews/article/448/0000619387?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 13 Jun 2026 19:34:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       },
