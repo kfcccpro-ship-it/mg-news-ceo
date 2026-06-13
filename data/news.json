@@ -1,114 +1,98 @@
 {
-  "updatedAt": "2026-06-12T22:24:48.491Z",
-  "headline": "M&A 훈풍 부는 보험업계…주요 매물 인수전 본격화 등 타 금융권 동향을 비교해볼 필요가 있습니다.",
+  "updatedAt": "2026-06-13T03:47:45.440Z",
+  "headline": "\"쉬었다 가세요\"… 새마을금고 , 전국 영업점에 '무더위 쉼터' 운영 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
-    "mg": [],
+    "mg": [
+      {
+        "title": "\"쉬었다 가세요\"… 새마을금고 , 전국 영업점에 '무더위 쉼터' 운영",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=307453",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 13 Jun 2026 08:48:00 +0900",
+        "summary": "",
+        "term": null
+      }
+    ],
     "otherFinance": [
       {
-        "title": "M&A 훈풍 부는 보험업계…주요 매물 인수전 본격화",
-        "link": "http://www.segyebiz.com/newsView/20260612514899?OutUrl=naver",
+        "title": "“연내 도입 수요 있다” 스테이블코인 발행 앞둔 은행 들이 최근 눈독들...",
+        "link": "https://n.news.naver.com/mnews/article/016/0002656076?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 13 Jun 2026 07:02:00 +0900",
+        "pubDate": "Sat, 13 Jun 2026 12:18:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "\"빚투 잡는다\" 당국 압박에…은행권 신용대출·마통 한도 '우르르' 깎여",
-        "link": "https://n.news.naver.com/mnews/article/008/0005371308?sid=101",
+        "title": "미래에셋증권, 스페이스X 공모주 물량 '0주'…증거금 전액 환불",
+        "link": "https://n.news.naver.com/mnews/article/629/0000507345?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 13 Jun 2026 07:00:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "\"빚투 잡는다\" 당국 압박에… 은행 권 신용대출·마통 한도 '우르르' 깎여",
-        "link": "https://n.news.naver.com/mnews/article/008/0005371308?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 13 Jun 2026 07:00:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "[ 금융 소식] IBK기업은행, 카드 신규 회원 연회비 환급 / NH 농협 은행 '운...",
-        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2198415",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 13 Jun 2026 00:40:00 +0900",
+        "pubDate": "Sat, 13 Jun 2026 11:59:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "'빚투' 경고에 시중 은행, 일제히 신용대출 '조이기'",
-        "link": "https://n.news.naver.com/mnews/article/052/0002365860?sid=101",
+        "title": "한국환경공단, 세계 은행 그룹과 환경협력 확대",
+        "link": "https://www.todayenergy.kr/news/articleView.html?idxno=299004",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 12 Jun 2026 23:12:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "5대 은행, ‘빚투’ 증가에 전방위적 신용대출·마통 조이기 나서",
-        "link": "https://www.mediawatch.kr/news/article.html?no=260018",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 12 Jun 2026 22:44:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "[은행 뉴스브리핑] \"NH올원뱅크서 운세 보고 포인트 받자\"",
-        "link": "https://www.asiatime.co.kr/article/20260612500348",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 12 Jun 2026 22:38:00 +0900",
+        "pubDate": "Sat, 13 Jun 2026 11:48:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[2금융 뉴스브리핑] OK저축은행 예금금리 '인상' 결정",
-        "link": "https://www.asiatime.co.kr/article/20260612500335",
+        "title": "[자막뉴스] 연소득 관계없이 '최대 1억 원'...줄줄이 걸어잠그는 은행들",
+        "link": "https://n.news.naver.com/mnews/article/052/0002365982?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 12 Jun 2026 21:56:00 +0900",
+        "pubDate": "Sat, 13 Jun 2026 11:37:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[자막뉴스] 연소득 관계없이 '최대 1억 원'...줄줄이 걸어잠그는 은행 들",
+        "link": "https://n.news.naver.com/mnews/article/052/0002365982?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 13 Jun 2026 11:37:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "'亞최대 비트코인 트레저리' 메타플래닛, 日증권사 인수…'비트코인 금...",
+        "link": "https://n.news.naver.com/mnews/article/018/0006305057?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 13 Jun 2026 11:24:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "6월 신용대출 1.6조 폭주 … 빚투에 놀란 은행권 '마통 차단'",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/06/13/2026061300009.html",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 13 Jun 2026 10:50:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
+        "term": null
+      },
+      {
+        "title": "“누가 은행에 돈 넣어요?” 저가매수로 우르르 2주 만에 15조 빠졌다 [...",
+        "link": "https://n.news.naver.com/mnews/article/016/0002656054?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 13 Jun 2026 10:35:00 +0900",
+        "summary": "",
+        "term": null
       }
     ],
     "macro": [
       {
-        "title": "높아지는 물가와 다가오는 금리인상…한은, 물가점검회의[한은 미리보기...",
-        "link": "https://n.news.naver.com/mnews/article/018/0006304995?sid=101",
+        "title": "[기자수첩] '1500원대 환율' 경고음에 귀 기울여야",
+        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=236377",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 13 Jun 2026 07:02:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Terminal Rate",
-          "meaning": "기준금리 인상 사이클의 최종 수준에 대한 시장 기대"
-        }
-      },
-      {
-        "title": "[다음주 환율전망] 1500원대로 내려서며 변곡점 맞나…중동 변수 완화에...",
-        "link": "https://www.goodkyung.com/news/articleView.html?idxno=288093",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 13 Jun 2026 07:00:00 +0900",
+        "pubDate": "Sat, 13 Jun 2026 11:38:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "재차 금리 인상 예고한 신현송…내달 긴축 돌입할 듯",
-        "link": "https://n.news.naver.com/mnews/article/003/0014004351?sid=101",
+        "title": "[슬기로운 저축생활] 금리 인상 기대에 예·적금 경쟁 재점화…'4% 시대...",
+        "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=139946",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 13 Jun 2026 07:00:00 +0900",
+        "pubDate": "Sat, 13 Jun 2026 09:00:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Terminal Rate",
-          "meaning": "기준금리 인상 사이클의 최종 수준에 대한 시장 기대"
-        }
-      },
-      {
-        "title": "증시불장에 ‘빚투’ 폭주… 신용대출-마통 다 죈다",
-        "link": "https://n.news.naver.com/mnews/article/020/0003726555?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 13 Jun 2026 01:46:00 +0900",
-        "summary": "",
         "term": null
       }
     ]
