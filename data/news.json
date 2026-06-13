@@ -1,16 +1,8 @@
 {
-  "updatedAt": "2026-06-13T19:25:32.138Z",
-  "headline": "원주 농협 , 범 농협 경영 안정 이끈 공로 인정 받았다…중앙회 출자 증대... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-06-13T22:04:04.737Z",
+  "headline": "\"쉬었다 가세요\"… 새마을금고 , 전국 영업점에 '무더위 쉼터' 운영 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
-      {
-        "title": "원주 농협 , 범 농협 경영 안정 이끈 공로 인정 받았다…중앙회 출자 증대...",
-        "link": "https://n.news.naver.com/mnews/article/662/0000097278?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 13 Jun 2026 15:58:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
       {
         "title": "\"쉬었다 가세요\"… 새마을금고 , 전국 영업점에 '무더위 쉼터' 운영",
         "link": "https://www.thepublic.kr/news/articleView.html?idxno=307453",
@@ -22,84 +14,123 @@
     ],
     "otherFinance": [
       {
-        "title": "전북 은행 'JB 주거래 플러스 예·적금' 출시",
-        "link": "http://www.jeonmin.co.kr/news/articleView.html?idxno=441491",
+        "title": "[글로벌 경제지표] 케빈 워시 美연준의장 첫 FOMC 주재…일본 은행 금리...",
+        "link": "https://n.news.naver.com/mnews/article/374/0000515893?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 14 Jun 2026 02:26:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "농협 , 전국 6천여 개 무더위 쉼터 운영…강호동 회장 현장 점검 나서",
-        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=203390",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 14 Jun 2026 01:18:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "농협, 전국 6천여 개 무더위 쉼터 운영…강호동 회장 현장 점검 나서",
-        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=203390",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 14 Jun 2026 01:18:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "“가득이요” 자신있게 외치세요, 제가 깎아드릴게…주유 할인카드 다시...",
-        "link": "https://n.news.naver.com/mnews/article/009/0005693373?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 13 Jun 2026 19:05:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "고유가 장기화 조짐…카드사, 주유 할인 경쟁 '후끈'",
-        "link": "https://www.newsway.co.kr/news/view?ud=2026061213551668823",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 13 Jun 2026 18:02:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "마통 막히나?…'빚투' 정부 압박에 은행권 대출 조인다",
-        "link": "https://n.news.naver.com/mnews/article/374/0000515879?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 13 Jun 2026 16:25:00 +0900",
+        "pubDate": "Sun, 14 Jun 2026 07:00:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
+        "term": {
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+        }
       },
       {
-        "title": "시중은행 가계대출, 이번달 들어 벌써 2.8조↑…'빚투' 여파",
-        "link": "https://n.news.naver.com/mnews/article/374/0000515878?sid=101",
+        "title": "보이스피싱, 은행 만 책임?… 은행 권 \"정부·통신사 함께 기금으로 배상\"",
+        "link": "https://n.news.naver.com/mnews/article/008/0005371431?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 13 Jun 2026 16:18:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "[보험·카드 라운지] 농업인·조합원 챙기고 구독료 낮추고…소비자 맞...",
-        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5029939",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 13 Jun 2026 14:00:00 +0900",
+        "pubDate": "Sun, 14 Jun 2026 07:00:00 +0900",
         "summary": "",
+        "term": null
+      },
+      {
+        "title": "[인터뷰]\"AI가 은행 대체? 위험한 착각\" 日신세이銀 출신의 경고",
+        "link": "https://n.news.naver.com/mnews/article/014/0005534422?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 14 Jun 2026 06:50:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "지금이 저점인가… 배당 매력 커진 NH투자증권의 역습",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=459861",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 14 Jun 2026 06:46:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[은행 이모저모] NH 농협 은행 '운세보고 포인트 받기 출시, '기업은행 'IB...",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=138630",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 14 Jun 2026 06:38:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "정기예금 금리 3%대 진입, 은행들 예금 유치 경쟁 격화",
+        "link": "https://www.tokenpost.kr/news/economy/369065",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 14 Jun 2026 06:18:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "은행 예금금리 다시 3%대 진입…기업 여윳돈 유치 분주",
+        "link": "https://n.news.naver.com/mnews/article/001/0016137221?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 14 Jun 2026 05:47:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "'빚투 열풍' 은행권 신용대출 열흘새 1.6조 급증…금리 상단 6% 돌파",
+        "link": "https://n.news.naver.com/mnews/article/421/0009002040?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 14 Jun 2026 05:00:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       }
     ],
     "macro": [
       {
+        "title": "‘셀 코리아’와 강달러의 이중 압박… 1500원대 굳어지는 환율",
+        "link": "https://n.news.naver.com/mnews/article/037/0000038332?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 14 Jun 2026 07:01:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "케빈 워시 ‘입’에 시선 집중...日 금리 0.25%p 올릴 듯 [한동훈의 위클...",
+        "link": "https://n.news.naver.com/mnews/article/011/0004630840?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 14 Jun 2026 07:00:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "환율 변동에 대비한 기업, 달러예금 3년 5개월 만에 최대치 기록",
+        "link": "https://www.tokenpost.kr/news/economy/369067",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 14 Jun 2026 06:48:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "당국 달러 매도 요청에도…기업 달러예금 3년5개월만에 최대",
+        "link": "https://n.news.naver.com/mnews/article/001/0016137225?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 14 Jun 2026 05:51:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
         "title": "농가·소비자 모두 웃었다... NH콕뱅크, 제철 농산물 공동구매",
         "link": "http://www.youngnong.co.kr/news/articleView.html?idxno=60228",
         "source": "네이버뉴스",
         "pubDate": "Sat, 13 Jun 2026 23:52:00 +0900",
-        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
-        "term": null
-      },
-      {
-        "title": "정부, ‘경기 하방위험’ 뺐지만… 중동 불확실성은 지속",
-        "link": "https://n.news.naver.com/mnews/article/022/0004135215?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 13 Jun 2026 23:03:00 +0900",
         "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
         "term": null
       },
