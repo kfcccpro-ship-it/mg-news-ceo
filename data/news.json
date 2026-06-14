@@ -1,8 +1,24 @@
 {
-  "updatedAt": "2026-06-14T09:35:04.524Z",
-  "headline": "물금 새마을금고 , 양산시협의회 이동 무료 급식 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-06-14T14:03:08.718Z",
+  "headline": "대구 와룡 새마을금고 , 어르신 500여명에 삼계탕 나눔 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "대구 와룡 새마을금고 , 어르신 500여명에 삼계탕 나눔",
+        "link": "https://www.hidomin.com/news/articleView.html?idxno=709267",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 14 Jun 2026 20:26:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "정읍 연지 새마을금고 유연천 이사장, 행안부 장관 표창 수상",
+        "link": "http://www.jeonmin.co.kr/news/articleView.html?idxno=441528",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 14 Jun 2026 20:12:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "물금 새마을금고 , 양산시협의회 이동 무료 급식",
         "link": "http://www.gndomin.com/news/articleView.html?idxno=478561",
@@ -10,46 +26,54 @@
         "pubDate": "Sun, 14 Jun 2026 17:33:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "대구 서구 와룡 새마을금고 , 지역 어르신 500명 대상 삼계탕 무료 나눔 행...",
-        "link": "https://www.kbmaeil.com/article/20260614500348",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 14 Jun 2026 16:24:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "국민성장 정책성펀드 2차 출자전 흥행…VC·PE·증권사 65곳 출사표",
-        "link": "https://www.econovill.com/news/articleView.html?idxno=742341",
+        "title": "창원중부서, 보이스피싱 막은 은행 원 감사장 수여",
+        "link": "http://www.gnmaeil.com/news/articleView.html?idxno=588590",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 14 Jun 2026 18:14:00 +0900",
+        "pubDate": "Sun, 14 Jun 2026 22:26:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[은행가]IBK카드 신규회원 캐시백 이벤트·NH올원뱅크 '운세보고 포인트...",
-        "link": "https://www.slist.kr/news/articleView.html?idxno=745179",
+        "title": "전산착오 확인됐는데도 재판 계속…청남 농협 ·고객 법정 공방",
+        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2421768",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 14 Jun 2026 18:08:00 +0900",
+        "pubDate": "Sun, 14 Jun 2026 22:16:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "자본시장에 힘 싣는 5대 금융 … 증권서 새 먹거리 찾는다",
-        "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260615010004704",
+        "title": "[미리보는 이데일리 신문]10곳 중 7곳 없앤 日처럼…단위 농협 통폐합",
+        "link": "https://n.news.naver.com/mnews/article/018/0006306163?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 14 Jun 2026 17:54:00 +0900",
+        "pubDate": "Sun, 14 Jun 2026 21:58:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "초고액예금 썰물에…은행, 자산관리 안간힘",
-        "link": "https://n.news.naver.com/mnews/article/009/0005693633?sid=101",
+        "title": "[미리보는 이데일리 신문]10곳 중 7곳 없앤 日처럼…단위농협 통폐합",
+        "link": "https://n.news.naver.com/mnews/article/018/0006306163?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 14 Jun 2026 17:47:00 +0900",
+        "pubDate": "Sun, 14 Jun 2026 21:58:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[아주경제 오늘의 뉴스 종합] 이란 상대 사이버 공격 발생…일부 은행 ...",
+        "link": "https://www.ajunews.com/view/20260614212524589",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 14 Jun 2026 21:52:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "은행 예금금리 다시 3%대 진입",
+        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=551003",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 14 Jun 2026 21:34:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": {
           "word": "Deposit Beta",
@@ -57,111 +81,49 @@
         }
       },
       {
-        "title": "예금금리 다시 3%대 진입…은행권 자금 유치 경쟁 치열",
-        "link": "https://www.namdonews.com/news/articleView.html?idxno=913463",
+        "title": "1분기 가계 보험· 금융 서비스 지출 24년 만에 최대 폭 증가",
+        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=550945",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 14 Jun 2026 17:26:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
-      },
-      {
-        "title": "농협 칠곡군지부, 보이스피싱 보상보험 무료 가입 지원",
-        "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4075460",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 14 Jun 2026 17:24:00 +0900",
+        "pubDate": "Sun, 14 Jun 2026 21:34:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "‘80%의 벽’ 못 넘은 보험사들...“금리 인상이 반갑다”",
-        "link": "https://www.ekn.kr/web/view.php?key=20260614028092979",
+        "title": "iM뱅크, 김준성 초대 은행 장 흉상 전시",
+        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=551019",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 14 Jun 2026 17:10:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "하반기 금리 오르나···도내 은행도 ’줄인상‘",
-        "link": "https://www.jjan.kr/article/20260614500388",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 14 Jun 2026 15:58:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "pubDate": "Sun, 14 Jun 2026 21:34:00 +0900",
+        "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "[기획] 기업은 꼭 쥐고 개미 다시 미국행… ‘令 안 서는’ 환율대책",
-        "link": "https://n.news.naver.com/mnews/article/029/0003031666?sid=101",
+        "title": "[김정식칼럼] 금리정책의 딜레마",
+        "link": "https://n.news.naver.com/mnews/article/022/0004135414?sid=110",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 14 Jun 2026 18:29:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "규제지역 집 보유자 전세대출 4.9조 보증 제한",
-        "link": "https://n.news.naver.com/mnews/article/011/0004630981?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 14 Jun 2026 18:21:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "저금리 앞세운 위안화 김치본드…국내 채권시장 침투",
-        "link": "https://n.news.naver.com/mnews/article/015/0005298524?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 14 Jun 2026 18:15:00 +0900",
+        "pubDate": "Sun, 14 Jun 2026 22:58:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "中 대외 금융 자산 11조달러 돌파",
-        "link": "https://n.news.naver.com/mnews/article/015/0005298525?sid=101",
+        "title": "50년 만의 고성장에도 체감경기 냉랭…고용·물가·양극화 '경고등'",
+        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2421785",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 14 Jun 2026 18:15:00 +0900",
-        "summary": "",
+        "pubDate": "Sun, 14 Jun 2026 22:16:00 +0900",
+        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
         "term": null
       },
       {
-        "title": "롤러코스피에 올라탄 빚투… '대출 조이기' 통할까 [주말 Q&A]",
-        "link": "https://n.news.naver.com/mnews/article/665/0000007552?sid=101",
+        "title": "달러 안 푸는 기업들…달러예금 3년5개월來 최대",
+        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=551002",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 14 Jun 2026 17:50:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "정부 요청에도 달러 안 푼 기업들… 달러예금 3년5개월 만에 최대",
-        "link": "https://n.news.naver.com/mnews/article/366/0001171765?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 14 Jun 2026 17:26:00 +0900",
+        "pubDate": "Sun, 14 Jun 2026 21:34:00 +0900",
         "summary": "",
         "term": {
           "word": "Deposit Beta",
           "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
         }
-      },
-      {
-        "title": "“달러 쥐고 안 푼다”…기업 달러예금, 3년 5개월 만에 최대",
-        "link": "https://n.news.naver.com/mnews/article/020/0003726641?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 14 Jun 2026 16:48:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
-      },
-      {
-        "title": "[슬기로운 저축생활] 금리 인상 기대에 예·적금 경쟁 재점화…'4% 시대...",
-        "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=139946",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 13 Jun 2026 09:00:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
       }
     ]
   }
