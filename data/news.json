@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T16:21:55.154Z",
+  "updatedAt": "2026-06-14T19:26:26.831Z",
   "headline": "대구 와룡 새마을금고 , 어르신 500여명에 삼계탕 나눔 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -30,6 +30,14 @@
     ],
     "otherFinance": [
       {
+        "title": "\"나도 모르게 리플로 결제?\"…베일 벗은 SWIFT 1만 개 은행 강제 통합의...",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=459951",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 15 Jun 2026 04:18:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
         "title": "[이슈체크] 은행 예금금리 다시 3%대로...시장금리 상승·기업 자금유치...",
         "link": "https://www.tfmedia.co.kr/news/article.html?no=205129",
         "source": "네이버뉴스",
@@ -39,6 +47,14 @@
           "word": "Deposit Beta",
           "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
         }
+      },
+      {
+        "title": "ELD 열풍 뛰어든 은행권 '원금보장'만 믿었다간 낭패",
+        "link": "https://www.insnews.co.kr/news/articleView.html?idxno=91192",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 15 Jun 2026 00:02:00 +0900",
+        "summary": "",
+        "term": null
       },
       {
         "title": "은행 안가는 고액자산가들, PB는 찾는다",
@@ -51,30 +67,6 @@
       {
         "title": "NH투자증권, 크로스보더 딜 확대…글로벌 대표주선 역량 부각 [글로벌 선...",
         "link": "http://www.fntimes.com/html/view.php?ud=202606122157059792dd55077bc2_18",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 15 Jun 2026 00:02:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "ELD 열풍 뛰어든 은행권 '원금보장'만 믿었다간 낭패",
-        "link": "https://www.insnews.co.kr/news/articleView.html?idxno=91192",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 15 Jun 2026 00:02:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[신문로] 퇴직연금 시장의 대전환, 보험사는 살아남을 수 있을까",
-        "link": "https://www.insnews.co.kr/news/articleView.html?idxno=91258",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 15 Jun 2026 00:02:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "신한 은행 , '허울'뿐인 ESG 경영 전략 논란… 의결안건 '0건'",
-        "link": "https://www.insnews.co.kr/news/articleView.html?idxno=91193",
         "source": "네이버뉴스",
         "pubDate": "Mon, 15 Jun 2026 00:02:00 +0900",
         "summary": "",
@@ -99,34 +91,47 @@
     ],
     "macro": [
       {
-        "title": "[사설] 종전 기대감에 금리인상 가시화, 중요해진 정부 정책 역량",
-        "link": "https://n.news.naver.com/mnews/article/005/0001854912?sid=110",
+        "title": "이번 주 연준 금리 회의, 월가 눈은 이 문구에 쏠린다",
+        "link": "https://n.news.naver.com/mnews/article/023/0003982024?sid=104",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 15 Jun 2026 01:11:00 +0900",
+        "pubDate": "Mon, 15 Jun 2026 04:15:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": {
-          "word": "Terminal Rate",
-          "meaning": "기준금리 인상 사이클의 최종 수준에 대한 시장 기대"
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
         }
       },
       {
-        "title": "[취재수첩] 이전과 다른 P2P 대출 풍선효과",
-        "link": "https://n.news.naver.com/mnews/article/015/0005298594?sid=110",
+        "title": "금리 아닌 '워시의 입'에 쏠린 시선… 코스피·환율 가를 3대 뇌관",
+        "link": "https://www.g-enews.com/view.php?ud=20260614144216767fbbec65dfb_1",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 15 Jun 2026 00:47:00 +0900",
-        "summary": "",
+        "pubDate": "Mon, 15 Jun 2026 04:06:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "수출로 번 달러, 원화로 안 바꾸는 기업들… 달러예금 543억 달러… 3년...",
+        "title": "“금리 내릴 이유 없다”… 월가 경고에 삼성·SK AI 밸류 ‘균열 신호’",
+        "link": "https://www.g-enews.com/view.php?ud=202606141435439066fbbec65dfb_1",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 15 Jun 2026 03:46:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "신용대출 조이고 금리 올린다… 주담대 8%대 눈앞",
+        "link": "https://n.news.naver.com/mnews/article/005/0001854920?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 15 Jun 2026 02:04:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "수출로 번 달러, 원화로 안 바꾸는 기업들",
         "link": "https://n.news.naver.com/mnews/article/020/0003726698?sid=101",
         "source": "네이버뉴스",
         "pubDate": "Mon, 15 Jun 2026 00:31:00 +0900",
         "summary": "",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
+        "term": null
       },
       {
         "title": "환율 하루 10원 ‘오르락내리락’…기업 달러예금 3년5개월 만에 최대",
