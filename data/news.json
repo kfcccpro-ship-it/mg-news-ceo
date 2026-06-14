@@ -1,8 +1,16 @@
 {
-  "updatedAt": "2026-06-14T19:26:26.831Z",
-  "headline": "대구 와룡 새마을금고 , 어르신 500여명에 삼계탕 나눔 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-06-14T22:09:56.474Z",
+  "headline": "성북구 정릉종합사회복지관, MG 새마을금고 서 3920만원 상당 차량 지원받... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "성북구 정릉종합사회복지관, MG 새마을금고 서 3920만원 상당 차량 지원받...",
+        "link": "https://n.news.naver.com/mnews/article/021/0002797631?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 15 Jun 2026 07:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "대구 와룡 새마을금고 , 어르신 500여명에 삼계탕 나눔",
         "link": "https://www.hidomin.com/news/articleView.html?idxno=709267",
@@ -18,142 +26,107 @@
         "pubDate": "Sun, 14 Jun 2026 20:12:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "물금 새마을금고 , 양산시협의회 이동 무료 급식",
-        "link": "http://www.gndomin.com/news/articleView.html?idxno=478561",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 14 Jun 2026 17:33:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "\"나도 모르게 리플로 결제?\"…베일 벗은 SWIFT 1만 개 은행 강제 통합의...",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=459951",
+        "title": "[ 은행 건전성 점검] 우리銀, 중기 여신 감소에도 부실채권 증가",
+        "link": "https://dealsite.co.kr/articles/163428",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 15 Jun 2026 04:18:00 +0900",
+        "pubDate": "Mon, 15 Jun 2026 07:06:00 +0900",
         "summary": "",
-        "term": null
-      },
-      {
-        "title": "[이슈체크] 은행 예금금리 다시 3%대로...시장금리 상승·기업 자금유치...",
-        "link": "https://www.tfmedia.co.kr/news/article.html?no=205129",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 15 Jun 2026 00:24:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
         }
       },
       {
-        "title": "ELD 열풍 뛰어든 은행권 '원금보장'만 믿었다간 낭패",
-        "link": "https://www.insnews.co.kr/news/articleView.html?idxno=91192",
+        "title": "[이번주 한국 은행 및 금융 위·금감원 일정]",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4419886",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 15 Jun 2026 00:02:00 +0900",
+        "pubDate": "Mon, 15 Jun 2026 07:06:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "은행 안가는 고액자산가들, PB는 찾는다",
-        "link": "https://www.insnews.co.kr/news/articleView.html?idxno=91236",
+        "title": "예대마진 한계 온 인뱅… 은행 에서 플랫폼으로 '진화 중'",
+        "link": "https://n.news.naver.com/mnews/article/119/0003100900?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 15 Jun 2026 00:02:00 +0900",
+        "pubDate": "Mon, 15 Jun 2026 07:06:00 +0900",
+        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "NIM",
+          "meaning": "금리 변화가 금융기관 수익성에 미치는 영향을 보여주는 핵심 지표"
+        }
+      },
+      {
+        "title": "증권사 자본 확충 러시…대규모 유상증자 줄이어",
+        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606141417232370268",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 15 Jun 2026 07:02:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "NH투자증권, 크로스보더 딜 확대…글로벌 대표주선 역량 부각 [글로벌 선...",
-        "link": "http://www.fntimes.com/html/view.php?ud=202606122157059792dd55077bc2_18",
+        "title": "은행 브랜드평판 6월 빅데이터 분석... 1위 하나은행, 2위 아이엠뱅크, ...",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=459965",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 15 Jun 2026 00:02:00 +0900",
+        "pubDate": "Mon, 15 Jun 2026 07:02:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "전산착오 확인됐는데도 재판 계속…청남 농협 ·고객 법정 공방",
-        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2421768",
+        "title": "은행 브랜드평판 6월 빅데이터 분석... 1위 하나 은행 , 2위 아이엠뱅크, ...",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=459965",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 14 Jun 2026 22:16:00 +0900",
+        "pubDate": "Mon, 15 Jun 2026 07:02:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[미리보는 이데일리 신문]10곳 중 7곳 없앤 日처럼…단위 농협 통폐합",
-        "link": "https://n.news.naver.com/mnews/article/018/0006306163?sid=101",
+        "title": "[인터뷰] 김수열 대구 논공 농협 조합장",
+        "link": "https://www.aflnews.co.kr/news/articleView.html?idxno=322355",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 14 Jun 2026 21:58:00 +0900",
+        "pubDate": "Mon, 15 Jun 2026 07:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[기자의 시각] 전환시대의 산림조합",
+        "link": "https://www.aflnews.co.kr/news/articleView.html?idxno=322387",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 15 Jun 2026 07:00:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "이번 주 연준 금리 회의, 월가 눈은 이 문구에 쏠린다",
-        "link": "https://n.news.naver.com/mnews/article/023/0003982024?sid=104",
+        "title": "고령 자영업자 부실 리스크…채무불이행 대출 20% 가까이 늘어",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1712420",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 15 Jun 2026 04:15:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "pubDate": "Mon, 15 Jun 2026 07:04:00 +0900",
+        "summary": "",
         "term": {
-          "word": "Forward Guidance",
-          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
         }
       },
       {
-        "title": "금리 아닌 '워시의 입'에 쏠린 시선… 코스피·환율 가를 3대 뇌관",
-        "link": "https://www.g-enews.com/view.php?ud=20260614144216767fbbec65dfb_1",
+        "title": "[더벨][상장리츠 리파이낸싱 점검] SK리츠, 수처리센터 대출 9월 만기…...",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202606100144556450107943",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 15 Jun 2026 04:06:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "“금리 내릴 이유 없다”… 월가 경고에 삼성·SK AI 밸류 ‘균열 신호’",
-        "link": "https://www.g-enews.com/view.php?ud=202606141435439066fbbec65dfb_1",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 15 Jun 2026 03:46:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "신용대출 조이고 금리 올린다… 주담대 8%대 눈앞",
-        "link": "https://n.news.naver.com/mnews/article/005/0001854920?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 15 Jun 2026 02:04:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "수출로 번 달러, 원화로 안 바꾸는 기업들",
-        "link": "https://n.news.naver.com/mnews/article/020/0003726698?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 15 Jun 2026 00:31:00 +0900",
+        "pubDate": "Mon, 15 Jun 2026 07:02:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "환율 하루 10원 ‘오르락내리락’…기업 달러예금 3년5개월 만에 최대",
-        "link": "https://n.news.naver.com/mnews/article/025/0003530375?sid=101",
+        "title": "주택담보대출 변동금리 비중 5년만에 고정금리 '역전'…기업·가계 모두...",
+        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606140224592850225",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 15 Jun 2026 00:01:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
-      },
-      {
-        "title": "달러 안 푸는 기업들…달러예금 3년5개월來 최대",
-        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=551002",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 14 Jun 2026 21:34:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
+        "pubDate": "Mon, 15 Jun 2026 06:40:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
       }
     ]
   }
