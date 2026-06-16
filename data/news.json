@@ -1,16 +1,8 @@
 {
-  "updatedAt": "2026-06-16T20:51:02.158Z",
-  "headline": "농협 중앙회 출자 증대 견인차 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-06-16T22:52:32.919Z",
+  "headline": "새마을금고 , 독거노인 돌봄 안전망 강화...AI 반려로봇 지원 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
-      {
-        "title": "농협 중앙회 출자 증대 견인차",
-        "link": "https://n.news.naver.com/mnews/article/662/0000097511?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 17 Jun 2026 05:01:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
       {
         "title": "새마을금고 , 독거노인 돌봄 안전망 강화...AI 반려로봇 지원",
         "link": "http://www.newsbrite.net/news/articleView.html?idxno=198652",
@@ -26,92 +18,83 @@
         "pubDate": "Tue, 16 Jun 2026 18:34:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "MG 새마을금고 협의회, 진주시복지재단에 성금 200만원 기탁",
-        "link": "http://www.gndomin.com/news/articleView.html?idxno=478891",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 16 Jun 2026 17:56:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "MG전북 새마을금고 대표봉사단 'MG따숨' 발족",
-        "link": "http://www.jjn.co.kr/news/articleView.html?idxno=1043849",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 16 Jun 2026 17:42:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[A 금융가 소식] 새마을금고 중앙회, '2026년 연구 논문 공모' 실시 外",
-        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=252464",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 16 Jun 2026 17:40:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "새마을금고 , AI 반려로봇 독거노인 지원 확대",
-        "link": "http://www.sportsq.co.kr/news/articleView.html?idxno=495366",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 16 Jun 2026 17:34:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "전북 새마을금고 , 대표 봉사단 'MG따숨' 발족… 지역사회 공헌 본격화",
-        "link": "http://www.jeollailbo.com/news/articleView.html?idxno=802898",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 16 Jun 2026 17:26:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "[단독]코스피 랠리에 예금까지 깼다…5대은행 예·적금 중도해지 42조",
-        "link": "https://n.news.naver.com/mnews/article/421/0009007426?sid=101",
+        "title": "일본 은행 , 기준금리 1%로 인상...31년 만 최고",
+        "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=313645",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 17 Jun 2026 05:30:00 +0900",
+        "pubDate": "Wed, 17 Jun 2026 07:50:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
         }
       },
       {
-        "title": "은행 ·보험 숙원 해결? 퇴직연금 ETF 실시간 매매 열리나...금투업계 반...",
-        "link": "https://n.news.naver.com/mnews/article/008/0005372921?sid=101",
+        "title": "우리 은행 , 40억원 규모 금융 사고",
+        "link": "https://n.news.naver.com/mnews/article/277/0005777325?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 17 Jun 2026 05:30:00 +0900",
+        "pubDate": "Wed, 17 Jun 2026 07:49:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[단독]코스피 랠리에 예금까지 깼다…5대 은행 예·적금 중도해지 42조",
-        "link": "https://n.news.naver.com/mnews/article/421/0009007426?sid=101",
+        "title": "1500원대 고환율에 은행 권 자본관리 비상…우리銀에 날아온 '배당 부메...",
+        "link": "https://n.news.naver.com/mnews/article/277/0005777324?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 17 Jun 2026 05:30:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
-      },
-      {
-        "title": "NH 농협 , ‘저탄소 경영 전환’ 기업에 122억 금융 지원",
-        "link": "https://n.news.naver.com/mnews/article/081/0003653230?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 17 Jun 2026 05:04:00 +0900",
+        "pubDate": "Wed, 17 Jun 2026 07:48:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "“9만여명 재기 지원”… 농협 , 취약계층 장기연체채권 8876억 소각·감면",
-        "link": "https://n.news.naver.com/mnews/article/662/0000097538?sid=101",
+        "title": "[코스피·코스닥, 우리 은행 SK하이닉스 네이버 한화에어로 오리온 오에...",
+        "link": "https://www.public25.com/news/articleView.html?idxno=48566",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 17 Jun 2026 05:02:00 +0900",
+        "pubDate": "Wed, 17 Jun 2026 07:40:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "중앙그룹 계열사 무더기 회생 신청…증권가 \"크레딧 시장 연쇄 리스크 ...",
+        "link": "https://www.etoday.co.kr/news/view/2594271",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 17 Jun 2026 07:36:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[DQN] 청년미래적금, 얼마나 좋을까···'은행 적금 3배 수익률'",
+        "link": "http://www.fntimes.com/html/view.php?ud=202606161834461319b4a7c6999c_18",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 17 Jun 2026 07:32:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "증권사, 제2금융권까지 끌어다 쓴 90조…'빚투'에 1분기 대출 180조 사상...",
+        "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=60526",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 17 Jun 2026 07:16:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "NH 농협 생명, 11년 연속 KSQI 우수콜센터 인증",
+        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=694844",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 17 Jun 2026 07:14:00 +0900",
+        "summary": "",
+        "term": null
+      }
+    ],
+    "macro": [
+      {
+        "title": "美 금융 숨겨진 부실 생각보다 많다?…사모신용 '위기 뇌관'될 수도",
+        "link": "https://n.news.naver.com/mnews/article/277/0005777323?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 17 Jun 2026 07:49:00 +0900",
         "summary": "",
         "term": {
           "word": "Delinquency",
@@ -119,44 +102,18 @@
         }
       },
       {
-        "title": "[이코노 브리핑] 강태영 농협 은행장, 英 금융 협력 논의 외",
-        "link": "https://n.news.naver.com/mnews/article/022/0004136054?sid=101",
+        "title": "무보, 무역사기 차단·수출 금융 확대 '투트랙 지원'",
+        "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=41778",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 17 Jun 2026 05:02:00 +0900",
+        "pubDate": "Wed, 17 Jun 2026 07:40:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "농협 은행 충남본부, 보증지원 ‘출연금’ 추가전달",
-        "link": "https://n.news.naver.com/mnews/article/662/0000097508?sid=102",
+        "title": "'신용대출·마통' 줄줄이 축소…\"빚투 자금줄 꽁꽁\"",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1712770",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 17 Jun 2026 05:01:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "양주 장흥 농협 , ‘토지보상 절세 교육’ 진행",
-        "link": "https://n.news.naver.com/mnews/article/662/0000097506?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 17 Jun 2026 05:01:00 +0900",
-        "summary": "",
-        "term": null
-      }
-    ],
-    "macro": [
-      {
-        "title": "반도체 성과급, 집값까지 흔든다…한은이 주목한 새 물가 변수",
-        "link": "https://n.news.naver.com/mnews/article/417/0001147803?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 17 Jun 2026 05:05:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "금감원, JTBC 회사채 불완전판매 여부 점검",
-        "link": "https://n.news.naver.com/mnews/article/081/0003653221?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 17 Jun 2026 05:04:00 +0900",
+        "pubDate": "Wed, 17 Jun 2026 07:00:00 +0900",
         "summary": "",
         "term": null
       }
