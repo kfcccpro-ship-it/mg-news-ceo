@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T20:12:07.737Z",
+  "updatedAt": "2026-06-17T22:45:01.189Z",
   "headline": "춘천남부 새마을금고 제주트롯 여행 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -26,118 +26,60 @@
         "pubDate": "Wed, 17 Jun 2026 21:12:00 +0900",
         "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
         "term": null
-      },
-      {
-        "title": "새마을금고 , 사회적경제 조직과 지역 협력모델 확대",
-        "link": "http://www.sisacast.kr/news/articleView.html?idxno=96814",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 17 Jun 2026 19:42:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "진주서 MG 새마을금고 파크골프 어울림 한마당",
-        "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=639174",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 17 Jun 2026 19:00:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "돈 빌려 ‘빚투’ 도와준 증권사, 1분기 금융보험 대출 180조 [경제레이...",
-        "link": "https://n.news.naver.com/mnews/article/022/0004136327?sid=101",
+        "title": "중앙그룹 디폴트에도 은행 주 영향 제한적…“담보대출 대부분, 적극 매...",
+        "link": "https://n.news.naver.com/mnews/article/018/0006308587?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 18 Jun 2026 05:02:00 +0900",
+        "pubDate": "Thu, 18 Jun 2026 07:42:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "은행 영업보다 '앱'이 먼저다… 금융 사들 인프라 경쟁 치열",
-        "link": "https://n.news.naver.com/mnews/article/079/0004159052?sid=101",
+        "title": "[경제일보] 중기 대들보 역할 기업 은행 65년… 자산 500조 종합 금융 회사...",
+        "link": "https://www.ajunews.com/view/20260616155936797",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 18 Jun 2026 05:01:00 +0900",
-        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
+        "pubDate": "Thu, 18 Jun 2026 07:40:00 +0900",
+        "summary": "",
         "term": null
       },
       {
-        "title": "[포커스] 대출 플랫폼 막은 KB·현대카드... 카드론 문턱 높아지나",
-        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=803908",
+        "title": "올 4월말 국내 은행 원화대출 연체율(1개월이상 원리금 연체기준) 0.61%",
+        "link": "http://www.intn.co.kr/news/articleView.html?idxno=2051350",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 18 Jun 2026 05:00:00 +0900",
+        "pubDate": "Thu, 18 Jun 2026 07:36:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "[금융 HOT 뉴스] NH 농협금융 , 전환금융 파일럿 첫 성과…\"농업·첨단산업...",
-        "link": "http://www.bizwnews.com/news/articleView.html?idxno=138898",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 18 Jun 2026 04:36:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[시론] 농협 2차 개혁 추진에 붙여",
-        "link": "https://www.farminsight.net/news/articleView.html?idxno=16549",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 18 Jun 2026 02:22:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "부평 농협 , 제32기 주부대학 수료식 성료…250여 명 참석",
-        "link": "http://www.fntimes.com/html/view.php?ud=202606172336252728dd55077bc2_18",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 17 Jun 2026 23:40:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "개인 '빚투' 받치려 증권사도 빚냈다…금융·보험업 대출 180조원 돌파",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=308085",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 17 Jun 2026 20:28:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      }
-    ],
-    "macro": [
-      {
-        "title": "워시 \"물가안정 달성\" 강조…연준 소통 대수술 예고",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1712952",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 18 Jun 2026 05:08:00 +0900",
-        "summary": "",
         "term": {
-          "word": "Forward Guidance",
-          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
         }
       },
       {
-        "title": "美 연준, 금리 동결 속 추가 인상 신호...워시 의장 '점도표' 거부",
-        "link": "https://www.g-enews.com/view.php?ud=202606180500399700e250e8e188_1",
+        "title": "4월 은행 연체율 0.61% 한달 만 상승…중기·신용대출 증가세 주목",
+        "link": "https://n.news.naver.com/mnews/article/016/0002658080?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 18 Jun 2026 05:06:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "pubDate": "Thu, 18 Jun 2026 07:28:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": {
-          "word": "Forward Guidance",
-          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
         }
       },
       {
-        "title": "환율·금리 부담 큰 요즘, 가계 지킬 체크리스트 [김은강 PB의 생활 속 재...",
-        "link": "https://n.news.naver.com/mnews/article/081/0003653630?sid=101",
+        "title": "[N2 포커스] 불장에 바뀌는 퇴직연금 판…은행 강세 시장 흔들리나",
+        "link": "https://www.news2day.co.kr/article/20260617500258",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 18 Jun 2026 05:05:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "pubDate": "Thu, 18 Jun 2026 07:06:00 +0900",
+        "summary": "",
         "term": null
       },
       {
-        "title": "금융 사, 연체채권 팔아도 채무자 보호 책임진다",
-        "link": "https://n.news.naver.com/mnews/article/081/0003653622?sid=101",
+        "title": "[은행 건전성 점검] 시중은행 됐지만 '기업부실' 못 잡았다…iM뱅크의 고...",
+        "link": "https://dealsite.co.kr/articles/163749",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 18 Jun 2026 05:05:00 +0900",
+        "pubDate": "Thu, 18 Jun 2026 07:04:00 +0900",
         "summary": "",
         "term": {
           "word": "Delinquency",
@@ -145,27 +87,40 @@
         }
       },
       {
-        "title": "신현송 “성과급, 물가 상승 압력”",
-        "link": "https://n.news.naver.com/mnews/article/081/0003653619?sid=101",
+        "title": "SBI저축은행, 정기적금 브랜드평판 1위… 농협 은행·아이엠뱅크 順",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=460994",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 18 Jun 2026 05:04:00 +0900",
+        "pubDate": "Thu, 18 Jun 2026 07:04:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "금융 위, 마이데이터 활용 금리인하 요구 서비스 혁신 지정",
-        "link": "https://www.tokenpost.kr/news/economy/370481",
+        "title": "농협 , 8876억 규모 장기연체채권 소각·감면… 포용 금융 시동",
+        "link": "https://n.news.naver.com/mnews/article/037/0000038352?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 18 Jun 2026 03:04:00 +0900",
+        "pubDate": "Thu, 18 Jun 2026 07:02:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      }
+    ],
+    "macro": [
+      {
+        "title": "가계대출은 죄는데… '빚투' 자금, 증시·부동산으로 흐른다",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=460932",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 18 Jun 2026 07:42:00 +0900",
+        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "중동전쟁에 바뀐 금리 경로…美 매파적 동결·韓 내달 인상 전망",
+        "link": "https://n.news.naver.com/mnews/article/001/0016144858?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 18 Jun 2026 07:38:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "개인사업자 대출 ‘마통 제한’ 우회로되나",
-        "link": "https://n.news.naver.com/mnews/article/011/0004632258?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 17 Jun 2026 23:42:00 +0900",
-        "summary": "",
         "term": null
       },
       {
