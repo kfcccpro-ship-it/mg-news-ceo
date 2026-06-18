@@ -1,8 +1,24 @@
 {
-  "updatedAt": "2026-06-18T10:20:41.045Z",
-  "headline": "[뱅크 NOW] IBK기업은행·NH농협은행·MG 새마을금고 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-06-18T15:24:33.548Z",
+  "headline": "박래석 일산 새마을금고 이사, 화정동에 성금 50만원 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "박래석 일산 새마을금고 이사, 화정동에 성금 50만원",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1059878",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 19 Jun 2026 00:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "김해시 새마을금고 협의회 '파크골프 한마당'",
+        "link": "http://www.gnmaeil.com/news/articleView.html?idxno=589000",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 18 Jun 2026 21:12:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "[뱅크 NOW] IBK기업은행·NH농협은행·MG 새마을금고",
         "link": "http://www.wikileaks-kr.org/news/articleView.html?idxno=188790",
@@ -10,90 +26,139 @@
         "pubDate": "Thu, 18 Jun 2026 17:32:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "[포토뉴스]춘천동부 새마을금고 , 제주 트롯여행",
-        "link": "https://n.news.naver.com/mnews/article/087/0001200061?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 18 Jun 2026 16:23:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "농협 , 수출현장서포터사업 본격 가동…해외시장 개척 지원 강화",
-        "link": "http://www.fntimes.com/html/view.php?ud=202606181911176222dd55077bc2_18",
+        "title": "MG캐피탈, 창사 첫 외화 조달…자금조달 다변화 속도",
+        "link": "https://n.news.naver.com/mnews/article/119/0003102508?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 18 Jun 2026 19:16:00 +0900",
+        "pubDate": "Thu, 18 Jun 2026 23:28:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "LCR",
+          "meaning": "단기 유동성 충격 대응 능력을 보여주는 지표"
+        }
+      },
+      {
+        "title": "농협 , 품목별전국협의회 정기총회 개최…“국민 안전 먹거리 공급에 최...",
+        "link": "http://www.fntimes.com/html/view.php?ud=202606182252082505dd55077bc2_18",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 18 Jun 2026 22:56:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "신한 은행 , 비대면 보증대출 출시...\"기업 금융 편의성 제고\"",
-        "link": "http://www.paxetv.com/news/articleView.html?idxno=275071",
+        "title": "나눔축산운동본부· 농협 목우촌, 지역아동센터에 축산물 나눔",
+        "link": "http://www.fntimes.com/html/view.php?ud=202606182247293780dd55077bc2_18",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 18 Jun 2026 19:00:00 +0900",
+        "pubDate": "Thu, 18 Jun 2026 22:52:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "강원 농협 , 폭염 대비 무더위쉼터 349개소 운영…농업인·주민 안전 지킨...",
+        "link": "http://www.fntimes.com/html/view.php?ud=202606182244222840dd55077bc2_18",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 18 Jun 2026 22:48:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "MG캐피탈, 외화 변동금리부 채권 5000만달러 발행",
+        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=358938",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 18 Jun 2026 22:08:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "[리포트] '넥스트라이즈 개최' 산업 은행 , \"스타트업·투자자 연결하는 ...",
-        "link": "http://www.paxetv.com/news/articleView.html?idxno=275066",
+        "title": "NH저축은행·우강 농협 , 당진 양파농가 찾아 일손 지원",
+        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=354910",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 18 Jun 2026 19:00:00 +0900",
+        "pubDate": "Thu, 18 Jun 2026 21:42:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "우리 은행 , 의약품 유통시장 공략…안심 정산 서비스 가동",
-        "link": "http://www.paxetv.com/news/articleView.html?idxno=275070",
+        "title": "MG캐피탈, 창사 첫 외화 FRN 5000만 달러 발행",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=124208",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 18 Jun 2026 19:00:00 +0900",
+        "pubDate": "Thu, 18 Jun 2026 21:34:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "부산 은행 , 4억달러 규모 ESG 신디케이트론 차입",
-        "link": "https://www.mhns.co.kr/news/articleView.html?idxno=750744",
+        "title": "손보사 민원·분쟁조정 1분기 동반 증가…보험금 갈등·AI 확산 영향",
+        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=354902",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 18 Jun 2026 19:00:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "NH 농협금융 , 녹색 대전환 선도 기후 금융 가속화",
-        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2204421",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 18 Jun 2026 18:56:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "NH농협 금융 , 녹색 대전환 선도 기후 금융 가속화",
-        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2204421",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 18 Jun 2026 18:56:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "IBK기업 은행 , 직원 개발 AI 에이전트 업무 적용 추진",
-        "link": "https://www.womentimes.co.kr/news/articleView.html?idxno=103739",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 18 Jun 2026 18:54:00 +0900",
+        "pubDate": "Thu, 18 Jun 2026 21:34:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "\"여름엔 제철 하우스감귤\"...제주감귤, 서울 도심서 소비촉진 돌입",
-        "link": "https://www.newsjeju.net/news/articleView.html?idxno=422291",
+        "title": "[박근종 칼럼] 주가·부동산 동시 상승, 빚투 경계하고 부동산 공급 늘...",
+        "link": "https://www.mhns.co.kr/news/articleView.html?idxno=750766",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 18 Jun 2026 18:08:00 +0900",
-        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
+        "pubDate": "Fri, 19 Jun 2026 00:18:00 +0900",
+        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
         "term": null
+      },
+      {
+        "title": "횡성축협 상호 금융 대출금 700억 달성탑 수상",
+        "link": "https://n.news.naver.com/mnews/article/087/0001200167?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 19 Jun 2026 00:10:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "횡성축협, 상호 금융 대출금 700억원 달성탑 수상",
+        "link": "https://n.news.naver.com/mnews/article/654/0000186342?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 19 Jun 2026 00:08:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[데일리Talk] 정부 처방에 내성 생긴 환율",
+        "link": "https://m.skyedaily.com/news_view.html?ID=306049",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 19 Jun 2026 00:04:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "고용은 꺾였는데 임금발 물가 압력은 커진다…반도체 호황의 두 얼굴",
+        "link": "https://n.news.naver.com/mnews/article/629/0000508835?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 19 Jun 2026 00:01:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "“개미들 전부 증시로 빠지나 했는데”…4% 예금 쏟아지자 100조 몰린 ‘...",
+        "link": "https://n.news.naver.com/mnews/article/011/0004632686?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 18 Jun 2026 20:13:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "\"아직도 예금만 하는 바보가 있어?\"…개미들 '150조' 풀베팅 [분석+]",
+        "link": "https://n.news.naver.com/mnews/article/015/0005300441?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 18 Jun 2026 20:01:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
       }
     ]
   }
