@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T15:18:03.956Z",
+  "updatedAt": "2026-06-19T19:49:41.701Z",
   "headline": "새마을금고 중앙회, MG미래금융포럼 세미나서 '포용금융' 숙의 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -62,10 +62,37 @@
     ],
     "otherFinance": [
       {
-        "title": "롯데건설, 하나 은행 ·신보와 1200억원 상생 보증 지원",
-        "link": "https://www.asiatime.co.kr/article/20260619500039",
+        "title": "[ 금융 HOT 뉴스] 캠코, 지방 은행 부실채권 정리 위한 4100억원 펀드 출범",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=139094",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 20 Jun 2026 00:02:00 +0900",
+        "pubDate": "Sat, 20 Jun 2026 04:36:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "차기 은행 연합회장 누가 되나…윤종규·윤종원·허인 등 하마평 '솔솔'",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=308919",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 20 Jun 2026 04:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "몽클로스, ‘2026 KPGA 투어 하나 은행 인비테이셔널’ 공식 후원",
+        "link": "https://m.sports.naver.com/golf/article/144/0001121720",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 20 Jun 2026 03:25:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "ETF 실시간 매매하려면, 퇴직금 증권사로 옮겨야",
+        "link": "https://n.news.naver.com/mnews/article/353/0000055813?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 20 Jun 2026 00:44:00 +0900",
         "summary": "",
         "term": null
       },
@@ -86,14 +113,6 @@
         "term": null
       },
       {
-        "title": "[증권 뉴스브리핑] 검찰, '주가조작 패가망신 1호' 증권사 3곳 압색/SK하...",
-        "link": "https://www.asiatime.co.kr/article/20260619500407",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 19 Jun 2026 23:36:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
         "title": "“보람있는 손길, 농촌에 희망을” 경기 농협 농촌일손 집중 지원 실시",
         "link": "http://www.fntimes.com/html/view.php?ud=202606192328497389dd55077bc2_18",
         "source": "네이버뉴스",
@@ -106,22 +125,6 @@
         "link": "http://www.fntimes.com/html/view.php?ud=202606192309473623dd55077bc2_18",
         "source": "네이버뉴스",
         "pubDate": "Fri, 19 Jun 2026 23:28:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "NH농협 은행 인천본부, 영농폐기물 수거 나서…농촌 환경정화·일손돕기...",
-        "link": "http://www.fntimes.com/html/view.php?ud=202606192309473623dd55077bc2_18",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 19 Jun 2026 23:28:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "농협 안심한우, 롯데마트서 7일간 최대 40% 할인 판매",
-        "link": "http://www.fntimes.com/html/view.php?ud=202606192307105907dd55077bc2_18",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 19 Jun 2026 23:10:00 +0900",
         "summary": "",
         "term": null
       }
