@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T16:18:17.724Z",
+  "updatedAt": "2026-06-20T19:26:32.507Z",
   "headline": "연무 농협 최용재 조합장, 농협 중앙회 ‘우수조합장상’ 수상 영예 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -37,14 +37,6 @@
       }
     ],
     "otherFinance": [
-      {
-        "title": "스포츠 ESG 실천하는 하나 은행 , '협력기업 상생 및 동반성장을 위한 금...",
-        "link": "https://m.sports.naver.com/general/article/450/0000152057",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 20 Jun 2026 21:28:00 +0900",
-        "summary": "",
-        "term": null
-      },
       {
         "title": "[금융체크] NH 농협금융 '자산운용·IB 인재 양성' 추진, 삼성금융, '한진...",
         "link": "http://www.bizwnews.com/news/articleView.html?idxno=139033",
@@ -91,6 +83,22 @@
     ],
     "macro": [
       {
+        "title": "[박근종 칼럼] '만스피' 넘보는 코스피의 쾌속 질주, 과열·쏠림·고환율...",
+        "link": "https://www.mhns.co.kr/news/articleView.html?idxno=750905",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 21 Jun 2026 02:52:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "전쟁 끝났는데 여전한 고환율...물가 우려 가중",
+        "link": "https://n.news.naver.com/mnews/article/052/0002369071?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 21 Jun 2026 02:21:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
         "title": "엔화 40년 저점 눈앞…일본발 환율 쇼크 오나",
         "link": "https://sateconomy.co.kr/news/view/1065625131063307",
         "source": "네이버뉴스",
@@ -103,14 +111,6 @@
         "link": "https://www.theguru.co.kr/news/article.html?no=103333",
         "source": "네이버뉴스",
         "pubDate": "Sun, 21 Jun 2026 00:02:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "전쟁 끝났는데 여전한 고환율...물가 우려 가중",
-        "link": "https://n.news.naver.com/mnews/article/052/0002369037?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 20 Jun 2026 22:14:00 +0900",
         "summary": "",
         "term": null
       },
