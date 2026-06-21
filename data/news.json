@@ -1,8 +1,16 @@
 {
-  "updatedAt": "2026-06-21T14:11:30.079Z",
-  "headline": "동울산 새마을금고 , 전통시장 활성화 행사 장보기 대축제 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-06-21T16:45:25.207Z",
+  "headline": "인천시금고 지키기 나선 신한…하나 ‘청라 이전ʼ 변수 [은행권 금고 경... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "인천시금고 지키기 나선 신한…하나 ‘청라 이전ʼ 변수 [은행권 금고 경...",
+        "link": "http://www.fntimes.com/html/view.php?ud=202606192203327745dd55077bc2_18",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 22 Jun 2026 00:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "동울산 새마을금고 , 전통시장 활성화 행사 장보기 대축제",
         "link": "https://www.ulsanpress.net/news/articleView.html?idxno=577557",
@@ -58,43 +66,59 @@
         "pubDate": "Sun, 21 Jun 2026 14:06:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "새마을금고 , 계정계 최신화 착수…2028년 핵심 금융망 재편",
-        "link": "https://n.news.naver.com/mnews/article/030/0003439618?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 21 Jun 2026 14:01:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "[화보] 장유빈, '하나 은행 인비테이셔널' 우승 세리모니",
-        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=734628",
+        "title": "KB국민 은행 , '청년미래적금' 출시…금리 최고 연 8%·비과세 혜택",
+        "link": "https://www.apnews.kr/news/articleView.html?idxno=3049209",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 21 Jun 2026 22:52:00 +0900",
+        "pubDate": "Mon, 22 Jun 2026 00:44:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "병원비 급할 때 50만원… 시중 은행 ‘연금 대출’ 써볼까",
+        "link": "https://n.news.naver.com/mnews/article/023/0003983242?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 22 Jun 2026 00:38:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "한국해양진흥공사, NH 농협 은행과 '해양산업 금융 지원 강화' 맞손",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=710514",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 22 Jun 2026 00:20:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[KPGA] 장유빈, '하나 은행 인비테이셔널' 우승.. 2주 연속 정상 등극",
-        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=734627",
+        "title": "한국해양진흥공사, NH농협 은행 과 '해양산업 금융 지원 강화' 맞손",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=710514",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 21 Jun 2026 22:39:00 +0900",
+        "pubDate": "Mon, 22 Jun 2026 00:20:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[단독] ⑤ 농협 손해보험, 약관엔 C77 전이암 보장...지급 땐 '원발암 기...",
+        "link": "https://www.newswhoplus.com/news/articleView.html?idxno=62716",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 22 Jun 2026 00:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[ 금융 게시판] KB국민은행 '청년미래적금' 선봬… 농협 ·부산은행은",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=203745",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 21 Jun 2026 23:32:00 +0900",
         "summary": "",
         "term": null
       },
       {
         "title": "강태영 농협 은행장, 우수 거래 기업과 부산 농가 일손 돕기",
-        "link": "https://n.news.naver.com/mnews/article/374/0000517287?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 21 Jun 2026 22:15:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "강태영 농협 은행 장, 우수 거래 기업과 부산 농가 일손 돕기",
         "link": "https://n.news.naver.com/mnews/article/374/0000517287?sid=101",
         "source": "네이버뉴스",
         "pubDate": "Sun, 21 Jun 2026 22:15:00 +0900",
@@ -108,49 +132,8 @@
         "pubDate": "Sun, 21 Jun 2026 21:54:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
-      },
-      {
-        "title": "[iN The Scene] NH 농협 은행 우수거래기업과 농촌일손돕기 봉사활동",
-        "link": "https://www.inthenews.co.kr/news/article.html?no=88300",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 21 Jun 2026 21:04:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "한층 뜨거워지고 다양한 의제 오르내릴 ' 농협 개혁 2라운드'",
-        "link": "http://www.ikpnews.net/news/articleView.html?idxno=70734",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 21 Jun 2026 19:08:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "5대 은행 가계대출, 두달새 6조 원 급증",
-        "link": "https://n.news.naver.com/mnews/article/658/0000147285?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 21 Jun 2026 19:06:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
       }
     ],
-    "macro": [
-      {
-        "title": "수출 활성화 머리 맞댄 중기 대표들",
-        "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1544504",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 21 Jun 2026 21:50:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "증시·부동산 동반 과열에 가계대출 급증…두 달 새 6조 원 늘었다",
-        "link": "https://n.news.naver.com/mnews/article/629/0000509242?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 21 Jun 2026 18:40:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      }
-    ]
+    "macro": []
   }
 }
