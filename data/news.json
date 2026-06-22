@@ -1,8 +1,16 @@
 {
-  "updatedAt": "2026-06-21T22:15:01.942Z",
-  "headline": "정읍 새마을금고 '제2회 효(孝) 잔치' 성황 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-06-22T04:16:48.390Z",
+  "headline": "새마을금고 중앙회, '미래금융포럼' 세미나 개최…지역소멸 대응 등 논의 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "새마을금고 중앙회, '미래금융포럼' 세미나 개최…지역소멸 대응 등 논의",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7170615",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 22 Jun 2026 07:42:00 +0900",
+        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
       {
         "title": "정읍 새마을금고 '제2회 효(孝) 잔치' 성황",
         "link": "http://www.jeonmin.co.kr/news/articleView.html?idxno=441928",
@@ -28,16 +36,16 @@
         "term": null
       },
       {
-        "title": "울산 일산 새마을금고 , 주부대학 총동문회 어울림한마당",
-        "link": "http://www.ujeil.com/news/articleView.html?idxno=387551",
+        "title": "동울산 새마을금고 , 전통시장 장보기",
+        "link": "http://www.ujeil.com/news/articleView.html?idxno=387540",
         "source": "네이버뉴스",
         "pubDate": "Sun, 21 Jun 2026 20:54:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "동울산 새마을금고 , 전통시장 장보기",
-        "link": "http://www.ujeil.com/news/articleView.html?idxno=387540",
+        "title": "울산 일산 새마을금고 , 주부대학 총동문회 어울림한마당",
+        "link": "http://www.ujeil.com/news/articleView.html?idxno=387551",
         "source": "네이버뉴스",
         "pubDate": "Sun, 21 Jun 2026 20:54:00 +0900",
         "summary": "",
@@ -58,97 +66,81 @@
         "pubDate": "Sun, 21 Jun 2026 16:42:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "곳간에 2.7조원 쌓여 있는데… 새마을금고 법정적립금 빗장 풀리나",
-        "link": "https://n.news.naver.com/mnews/article/018/0006311494?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 21 Jun 2026 15:55:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "NH 농협 은행, 건보공단 요양기관 대출 지원사업 재선정",
-        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=695610",
+        "title": "농협 은행, 소비자보호위원회 만든다…담당 임원 독립성 강화",
+        "link": "https://n.news.naver.com/mnews/article/243/0000099461?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 22 Jun 2026 07:12:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "NH농협 은행 , 건보공단 요양기관 대출 지원사업 재선정",
-        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=695610",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 22 Jun 2026 07:12:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "[판결] 은행 의 '이의제기 반려' 문자… 법원 \"행정처분 아냐\"",
-        "link": "https://www.lawtimes.co.kr/news/articleView.html?idxno=222242",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 22 Jun 2026 07:06:00 +0900",
+        "pubDate": "Mon, 22 Jun 2026 13:10:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[이번주 한국 은행 및 금융 위·금감원 일정]",
-        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4421083",
+        "title": "농협 은행 , 소비자보호위원회 만든다…담당 임원 독립성 강화",
+        "link": "https://n.news.naver.com/mnews/article/243/0000099461?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 22 Jun 2026 07:06:00 +0900",
+        "pubDate": "Mon, 22 Jun 2026 13:10:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "\"대형 여전사·저축 은행 , 임원별 책임 과도하게 집중\"",
-        "link": "https://www.koreareport.co.kr/news/articleView.html?idxno=51011",
+        "title": "광주 은행 , 디지털자산 결제·생태계 구축 나서..솔라나재단과 MOU",
+        "link": "https://kpenews.com/View.aspx?No=4120838",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 22 Jun 2026 07:04:00 +0900",
+        "pubDate": "Mon, 22 Jun 2026 13:08:00 +0900",
+        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "“ 은행 지급정지 조치, 행정소송 대상 아냐”",
+        "link": "https://www.naeil.com/news/read/592713?ref=naver",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 22 Jun 2026 13:08:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "금주 한국 은행 및 금융 당국( 금융 위·금감원) 주요일정",
-        "link": "https://n.news.naver.com/mnews/article/123/0002385111?sid=101",
+        "title": "[BNK경남 은행 소식] 베트남 근로자 미수령 보험금 환급 지원 등",
+        "link": "https://n.news.naver.com/mnews/article/417/0001148504?sid=102",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 22 Jun 2026 07:03:00 +0900",
+        "pubDate": "Mon, 22 Jun 2026 13:07:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "IFRS17 착시에 보험부채 줄던 생보업계…2분기부터 '역주행' 예고",
-        "link": "https://www.ceoscoredaily.com/page/view/2026061810074075535",
+        "title": "생명보험사 ‘영업왕’ 평균 나이 55세",
+        "link": "https://www.naeil.com/news/read/592724?ref=naver",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 22 Jun 2026 07:02:00 +0900",
+        "pubDate": "Mon, 22 Jun 2026 13:06:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "계좌 막혀 이의 제기에도 ‘반려’…법원 “ 은행 통지, 행정처분 아냐”",
-        "link": "https://n.news.naver.com/mnews/article/018/0006311650?sid=102",
+        "title": "하나 은행 , 최고 연 8% '청년미래적금' 출시···22일부터 가입 신청",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=256058",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 22 Jun 2026 07:02:00 +0900",
+        "pubDate": "Mon, 22 Jun 2026 13:06:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "캐피탈 2026년 6월 브랜드평판...현대캐피탈, KB캐피탈, NH 농협 캐피탈 順",
+        "link": "https://www.energy-news.co.kr/news/articleView.html?idxno=226253",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 22 Jun 2026 12:34:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "“규제 유예돼도 금리가 7%”…지방 침체 속 차주 부담 여전",
-        "link": "https://n.news.naver.com/mnews/article/119/0003103127?sid=101",
+        "title": "라미드그룹 \"PF 갚았다는데 우선수익자는 누구인가\"…보타니끄 논현 둘...",
+        "link": "https://www.sjsori.com/news/articleView.html?idxno=86889",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 22 Jun 2026 07:04:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "최고 19.4% 금리 준다 ‥ 청년미래적금 오늘부터 2주 가입[1문1답]",
-        "link": "https://n.news.naver.com/mnews/article/014/0005537762?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 22 Jun 2026 06:59:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "pubDate": "Mon, 22 Jun 2026 10:46:00 +0900",
+        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
         "term": null
       }
     ]
