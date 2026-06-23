@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T17:17:23.885Z",
+  "updatedAt": "2026-06-23T20:05:50.652Z",
   "headline": "새마을금고 중앙회 대구본부, 복지시설 차량 지원 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -33,23 +33,50 @@
     ],
     "otherFinance": [
       {
-        "title": "IMF·JP모건·중앙 은행 총출동...토큰화 자산 컴플라이언스 백서, 규제판...",
-        "link": "http://coinreaders.com/244054",
+        "title": "영덕 강구 농협 , 임직원 역량강화·경영전략 교육",
+        "link": "https://n.news.naver.com/mnews/article/662/0000098100?sid=102",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 24 Jun 2026 01:42:00 +0900",
+        "pubDate": "Wed, 24 Jun 2026 05:01:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "은행 이 내야할 돈, 차주가 냈다?…7월부터 대출금리 '군살' 뺀다",
+        "link": "https://n.news.naver.com/mnews/article/417/0001148745?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 24 Jun 2026 05:00:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "NIM",
+          "meaning": "금리 변화가 금융기관 수익성에 미치는 영향을 보여주는 핵심 지표"
+        }
+      },
+      {
+        "title": "[오늘의 주요일정] 금융 ·증권(6월24일 수요일)",
+        "link": "https://n.news.naver.com/mnews/article/003/0014023723?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 24 Jun 2026 05:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "보조금 받는 단체-시설, 신협서도 전용계좌 개설",
+        "link": "https://n.news.naver.com/mnews/article/020/0003729012?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 24 Jun 2026 04:36:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "국내 은행권 연합체 ‘유니카’, 유럽 금융 권과 스테이블코인 국제거래...",
+        "link": "https://n.news.naver.com/mnews/article/009/0005697888?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 24 Jun 2026 04:01:00 +0900",
         "summary": "",
         "term": null
       },
       {
         "title": "시중은행들 주담대 문턱 더 높인다",
-        "link": "https://n.news.naver.com/mnews/article/020/0003728884?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 24 Jun 2026 00:31:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "시중 은행 들 주담대 문턱 더 높인다",
         "link": "https://n.news.naver.com/mnews/article/020/0003728884?sid=101",
         "source": "네이버뉴스",
         "pubDate": "Wed, 24 Jun 2026 00:31:00 +0900",
@@ -71,20 +98,14 @@
         "pubDate": "Wed, 24 Jun 2026 00:09:00 +0900",
         "summary": "",
         "term": null
-      },
+      }
+    ],
+    "macro": [
       {
-        "title": "북강릉 농협 보이스피싱 예방 교육",
-        "link": "https://n.news.naver.com/mnews/article/654/0000187090?sid=102",
+        "title": "농축협 고객 예금 1억까지 보호…조합 부실 선제적 예방 ‘든든’",
+        "link": "https://n.news.naver.com/mnews/article/662/0000098128?sid=102",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 24 Jun 2026 00:07:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "'은행 문턱' 높이자 카드사로…카드론 43조 돌파, 취약차주 연체 경보",
-        "link": "https://www.ziksir.com/news/articleView.html?idxno=137757",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 24 Jun 2026 00:00:00 +0900",
+        "pubDate": "Wed, 24 Jun 2026 05:03:00 +0900",
         "summary": "",
         "term": {
           "word": "Delinquency",
@@ -92,38 +113,26 @@
         }
       },
       {
-        "title": "강화남부 농협 , NH 농협 손해보험 ‘2026 WITH-US 사무소’ 선정",
-        "link": "http://www.fntimes.com/html/view.php?ud=202606232352396639dd55077bc2_18",
+        "title": "[인터뷰] “농축협 건전성·예금자 신뢰 높일 것”",
+        "link": "https://n.news.naver.com/mnews/article/662/0000098126?sid=102",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 23 Jun 2026 23:56:00 +0900",
+        "pubDate": "Wed, 24 Jun 2026 05:03:00 +0900",
         "summary": "",
-        "term": null
-      }
-    ],
-    "macro": [
-      {
-        "title": "외국인 매도·美 금리 인상 가능성에 ‘高환율’",
-        "link": "https://n.news.naver.com/mnews/article/023/0003983658?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 24 Jun 2026 00:35:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
       },
       {
-        "title": "반도체 호황 ‘불길’이 부동산으로?… 집값 상승 전망 5개월 만에 최고",
-        "link": "https://n.news.naver.com/mnews/article/023/0003983661?sid=101",
+        "title": "기업 수익성 사상 최고치… 자영업자 연체 13% 폭증 [경제 레이더]",
+        "link": "https://n.news.naver.com/mnews/article/022/0004137747?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 24 Jun 2026 00:35:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "달러 강세 현상 심화에… 환율 장중 1540원 돌파",
-        "link": "https://n.news.naver.com/mnews/article/020/0003728899?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 24 Jun 2026 00:32:00 +0900",
+        "pubDate": "Wed, 24 Jun 2026 05:02:00 +0900",
         "summary": "",
-        "term": null
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
       },
       {
         "title": "경북동해안 금융기관 여수신 동향",
@@ -160,14 +169,6 @@
         "link": "http://www.newstomato.com/ReadNews.aspx?no=1304906&inflow=N",
         "source": "네이버뉴스",
         "pubDate": "Tue, 23 Jun 2026 16:00:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "햇빛소득마을 대출 '1년 거치·19년 상환' 가능해진다...금융지원 체계...",
-        "link": "https://www.electimes.com/news/articleView.html?idxno=369354",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 23 Jun 2026 15:44:00 +0900",
         "summary": "",
         "term": null
       }
