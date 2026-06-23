@@ -1,8 +1,16 @@
 {
-  "updatedAt": "2026-06-22T22:47:24.126Z",
-  "headline": "[D-피플라운지] \"좋은 금고 물려줄 책임\"…35년 현장 지킨 ' 금고 맨'의 원... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-06-23T03:35:59.042Z",
+  "headline": "[뉴스초점] 김천지역 새마을금고 통폐합 완성…금융계가 주목하다 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "[뉴스초점] 김천지역 새마을금고 통폐합 완성…금융계가 주목하다",
+        "link": "https://www.idaegu.com/news/articleView.html?idxno=663802",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 23 Jun 2026 12:20:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "[D-피플라운지] \"좋은 금고 물려줄 책임\"…35년 현장 지킨 ' 금고 맨'의 원...",
         "link": "https://n.news.naver.com/mnews/article/119/0003103585?sid=101",
@@ -20,68 +28,66 @@
         "term": null
       },
       {
-        "title": "믿고가던 동네 금고 전무, 대포통장 조직 한패였다[히어로콘텐츠/히든②...",
+        "title": "믿고가던 동네 금고 전무, 대포통장 조직 한패였다 [히어로콘텐츠/히든②...",
         "link": "https://n.news.naver.com/mnews/article/020/0003728705?sid=102",
         "source": "네이버뉴스",
         "pubDate": "Tue, 23 Jun 2026 04:39:00 +0900",
         "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
         "term": null
-      },
-      {
-        "title": "춘천중부 새마을금고 금융상품 홍보",
-        "link": "https://n.news.naver.com/mnews/article/654/0000186886?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 23 Jun 2026 00:09:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "MG안동 새마을금고 , 성금 350만원 기탁",
-        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=551787",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 22 Jun 2026 21:44:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "[DQN] 김태한號 경남 은행 평균신용점수 지방銀 최고···아쉬운 가계 포...",
-        "link": "http://www.fntimes.com/html/view.php?ud=202606221949498680b4a7c6999c_18",
+        "title": "[오늘의 증권] 한국투자증권·메리츠증권·미래에셋증권·신한투자증권...",
+        "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=43063",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 23 Jun 2026 07:32:00 +0900",
+        "pubDate": "Tue, 23 Jun 2026 12:34:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "Sh수협 은행 , 최고 연 7% '청년미래적금' 출시…\"이체·인출 수수료 전액...",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=308652",
+        "title": "미국 투자 은행 들, 연준 금리 인상 전망 바꿨다",
+        "link": "https://www.tokenpost.kr/news/economy/371983",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 23 Jun 2026 07:30:00 +0900",
-        "summary": "",
+        "pubDate": "Tue, 23 Jun 2026 12:34:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+        }
+      },
+      {
+        "title": "IBK기업 은행 , 'IBK청년미래적금' 출시…최고 연 8.0% 금리 제공",
+        "link": "https://www.public25.com/news/articleView.html?idxno=48987",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 23 Jun 2026 12:30:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "신한 은행 , 최고 연 8% '청년미래적금' 출시…청년 자산 형성 지원",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=308651",
+        "title": "\"중저신용자 금융 부담↓\" 신한 은행 '중금리대출 지원 패키지' 가동",
+        "link": "https://www.catchnews.kr/news/articleView.html?idxno=125285",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 23 Jun 2026 07:30:00 +0900",
-        "summary": "",
+        "pubDate": "Tue, 23 Jun 2026 12:28:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "[핀테크핫이슈] 금융 권 슈퍼앱 전쟁 재점화...AI 업무 현장으로",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=677190",
+        "title": "신한 은행 , 중저신용자 대출금리 연 6.9%로 묶었다...'포용 금융 2.0' 본격...",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=152834",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 23 Jun 2026 07:30:00 +0900",
-        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
-        "term": null
+        "pubDate": "Tue, 23 Jun 2026 12:26:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "NIM",
+          "meaning": "금리 변화가 금융기관 수익성에 미치는 영향을 보여주는 핵심 지표"
+        }
       },
       {
-        "title": "정기예금 1위 농협 은행… SBI저축은행·아이엠뱅크 동반 하락",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=462194",
+        "title": "정기예금 2026년 6월 브랜드평판... 농협 은행, SBI저축은행, 아이엠뱅크 ...",
+        "link": "https://www.energy-news.co.kr/news/articleView.html?idxno=226293",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 23 Jun 2026 07:10:00 +0900",
+        "pubDate": "Tue, 23 Jun 2026 12:24:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": {
           "word": "Deposit Beta",
@@ -89,50 +95,25 @@
         }
       },
       {
-        "title": "우리은행, 신용대출 한도 1억·마통 5천으로 축소…'빚투'에 제동",
-        "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=60758",
+        "title": "정기예금 2026년 6월 브랜드평판...농협 은행 , SBI저축 은행 , 아이엠뱅크 ...",
+        "link": "https://www.energy-news.co.kr/news/articleView.html?idxno=226293",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 23 Jun 2026 07:00:00 +0900",
+        "pubDate": "Tue, 23 Jun 2026 12:24:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
       },
       {
-        "title": "은행권 최고 금리 경쟁…연 8% 시대 열었다",
-        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=203821",
+        "title": "우리 은행 사회공헌 어디에 썼나 봤더니...",
+        "link": "https://www.dailybrief.co.kr/news/articleView.html?idxno=6160",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 23 Jun 2026 07:00:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "수출 호조·증시 활황에…은행 투자대기 자금 '밀물'",
-        "link": "https://n.news.naver.com/mnews/article/003/0014021371?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 23 Jun 2026 07:00:00 +0900",
+        "pubDate": "Tue, 23 Jun 2026 12:23:00 +0900",
         "summary": "",
         "term": null
       }
     ],
-    "macro": [
-      {
-        "title": "“저축도 여유 있어야”…고금리 영끌 갇힌 청년층, 정책 금융 ‘사각지...",
-        "link": "https://n.news.naver.com/mnews/article/119/0003103580?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 23 Jun 2026 07:10:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "‘다들 무슨 돈으로 주식하나 했더니’…예금 줄고, 대출 늘어→투자예...",
-        "link": "https://n.news.naver.com/mnews/article/021/0002799516?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 23 Jun 2026 06:41:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
-      }
-    ]
+    "macro": []
   }
 }
