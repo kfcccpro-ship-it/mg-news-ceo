@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T14:49:10.089Z",
+  "updatedAt": "2026-06-23T17:17:23.885Z",
   "headline": "새마을금고 중앙회 대구본부, 복지시설 차량 지원 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -29,96 +29,99 @@
         "pubDate": "Tue, 23 Jun 2026 15:48:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "새마을금고 , 법정적립금 활용 확대 추진…건전성 회복 돌파구 될까",
-        "link": "https://www.ilemonde.com/news/articleView.html?idxno=30214",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 23 Jun 2026 15:14:00 +0900",
-        "summary": "새마을금고 건전성 관리 흐름과 연결해 볼 수 있는 기사입니다.",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "경기 농협 , 혈액 수급난 극복 위한 ‘사랑의 생명나눔 헌혈 캠페인’ 개...",
-        "link": "http://www.fntimes.com/html/view.php?ud=202606232329404617dd55077bc2_18",
+        "title": "IMF·JP모건·중앙 은행 총출동...토큰화 자산 컴플라이언스 백서, 규제판...",
+        "link": "http://coinreaders.com/244054",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 23 Jun 2026 23:36:00 +0900",
+        "pubDate": "Wed, 24 Jun 2026 01:42:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "경기농협, 혈액 수급난 극복 위한 ‘사랑의 생명나눔 헌혈 캠페인’ 개...",
-        "link": "http://www.fntimes.com/html/view.php?ud=202606232329404617dd55077bc2_18",
+        "title": "시중은행들 주담대 문턱 더 높인다",
+        "link": "https://n.news.naver.com/mnews/article/020/0003728884?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 23 Jun 2026 23:36:00 +0900",
+        "pubDate": "Wed, 24 Jun 2026 00:31:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "하나 은행 , 하반기 특별퇴직 접수 시작-만 40세 이상 직원 대상",
-        "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=81670",
+        "title": "시중 은행 들 주담대 문턱 더 높인다",
+        "link": "https://n.news.naver.com/mnews/article/020/0003728884?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 23 Jun 2026 23:32:00 +0900",
+        "pubDate": "Wed, 24 Jun 2026 00:31:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "인천 농협 , 농업인 위한 ‘찾아가는 관절수술비 지원금’ 전달",
-        "link": "http://www.fntimes.com/html/view.php?ud=202606232323342230dd55077bc2_18",
+        "title": "가짜 서류에 수십억 대출 ‘속수무책’… 은행 또 당했다",
+        "link": "https://n.news.naver.com/mnews/article/005/0001856723?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 23 Jun 2026 23:30:00 +0900",
+        "pubDate": "Wed, 24 Jun 2026 00:24:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "북강릉 농협 , 고령농업인 보이스피싱 예방 교육",
+        "link": "https://n.news.naver.com/mnews/article/087/0001201086?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 24 Jun 2026 00:09:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "농협 경제지주, 8년째 푸드아카데미 운영…식품 가공 전문인재 양성 박차",
-        "link": "http://www.fntimes.com/html/view.php?ud=202606232319038157dd55077bc2_18",
+        "title": "북강릉 농협 보이스피싱 예방 교육",
+        "link": "https://n.news.naver.com/mnews/article/654/0000187090?sid=102",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 23 Jun 2026 23:24:00 +0900",
+        "pubDate": "Wed, 24 Jun 2026 00:07:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "KAI, 농협 은행과 'K-방산' 1조원 금융 협력",
-        "link": "http://www.gnmaeil.com/news/articleView.html?idxno=589253",
+        "title": "'은행 문턱' 높이자 카드사로…카드론 43조 돌파, 취약차주 연체 경보",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=137757",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 23 Jun 2026 22:50:00 +0900",
+        "pubDate": "Wed, 24 Jun 2026 00:00:00 +0900",
         "summary": "",
-        "term": null
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
       },
       {
-        "title": "KAI, 농협 은행 과 'K-방산' 1조원 금융 협력",
-        "link": "http://www.gnmaeil.com/news/articleView.html?idxno=589253",
+        "title": "강화남부 농협 , NH 농협 손해보험 ‘2026 WITH-US 사무소’ 선정",
+        "link": "http://www.fntimes.com/html/view.php?ud=202606232352396639dd55077bc2_18",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 23 Jun 2026 22:50:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "하나 은행 40세 이상 대상 특별퇴직…최대 28개월치 임금",
-        "link": "https://n.news.naver.com/mnews/article/374/0000517810?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 23 Jun 2026 22:36:00 +0900",
+        "pubDate": "Tue, 23 Jun 2026 23:56:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "“주식·부동산 미실현 이익도 소득 간주, 포괄적 과세해야”",
-        "link": "https://n.news.naver.com/mnews/article/021/0002799815?sid=100",
+        "title": "외국인 매도·美 금리 인상 가능성에 ‘高환율’",
+        "link": "https://n.news.naver.com/mnews/article/023/0003983658?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 23 Jun 2026 23:39:00 +0900",
+        "pubDate": "Wed, 24 Jun 2026 00:35:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "반도체 호황 ‘불길’이 부동산으로?… 집값 상승 전망 5개월 만에 최고",
+        "link": "https://n.news.naver.com/mnews/article/023/0003983661?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 24 Jun 2026 00:35:00 +0900",
         "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
         "term": null
       },
       {
-        "title": "[취재수첩]청년미래적금 12% 지원…고환율 속 '재정 지속성' 화두",
-        "link": "https://www.cnbnews.com/news/articleView.html?idxno=1005589",
+        "title": "달러 강세 현상 심화에… 환율 장중 1540원 돌파",
+        "link": "https://n.news.naver.com/mnews/article/020/0003728899?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 23 Jun 2026 21:16:00 +0900",
+        "pubDate": "Wed, 24 Jun 2026 00:32:00 +0900",
         "summary": "",
         "term": null
       },
