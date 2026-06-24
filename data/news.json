@@ -1,158 +1,193 @@
 {
-  "updatedAt": "2026-06-23T22:13:10.742Z",
-  "headline": "새마을금고 중앙회 대구본부, 복지시설 차량 지원 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-06-24T03:36:38.641Z",
+  "headline": "부산 새마을금고 간부 부실대출 혐의 수사…검찰, 2명 구속 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
-        "title": "새마을금고 중앙회 대구본부, 복지시설 차량 지원",
-        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=551929",
+        "title": "부산 새마을금고 간부 부실대출 혐의 수사…검찰, 2명 구속",
+        "link": "https://n.news.naver.com/mnews/article/421/0009020845?sid=102",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 23 Jun 2026 22:04:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "수신 이탈 방어 총력 새마을금고 …출자금 유치 '고삐'",
-        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=263646",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 23 Jun 2026 16:38:00 +0900",
+        "pubDate": "Wed, 24 Jun 2026 12:19:00 +0900",
         "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
-      }
-    ],
-    "otherFinance": [
-      {
-        "title": "중·저신용자 숨통 트일까…저축 은행 '생활안정자금' 시동",
-        "link": "https://n.news.naver.com/mnews/article/119/0003104018?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 24 Jun 2026 07:05:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[생산적금융 진단⑤] 농협금융 , 농업 넘어 반도체·방산까지…108조 금융...",
-        "link": "http://www.newsian.co.kr/news/articleView.html?idxno=91331",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 24 Jun 2026 06:44:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[ 금융 지주 4위전①] '증권·운용' 날개 단 농협 vs '충당금' 발목 잡힌 우...",
-        "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=723072",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 24 Jun 2026 06:30:00 +0900",
-        "summary": "",
         "term": {
           "word": "Delinquency",
           "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
         }
       },
       {
-        "title": "코스피 급등락에도 2분기 ELD 판매액 증가…은행권, 낙아웃 완화 경쟁",
-        "link": "https://n.news.naver.com/mnews/article/277/0005780464?sid=101",
+        "title": "새마을금고 , 지방세입 수납 디지털화…통합가상계좌 서비스 시작",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=219032",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 24 Jun 2026 06:20:00 +0900",
+        "pubDate": "Wed, 24 Jun 2026 12:06:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "가계대출 숨고르기 끝…은행권 연간 총량 관리 ‘빨간불’",
-        "link": "https://www.kukinews.com/article/view/kuk202606230145",
+        "title": "'90억 부실대출' 부산 새마을금고 임원 2명 구속",
+        "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=243701",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 24 Jun 2026 06:02:00 +0900",
+        "pubDate": "Wed, 24 Jun 2026 12:06:00 +0900",
+        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "새마을금고 , 지방세 가상계좌 납부 서비스 개시",
+        "link": "https://www.cnbnews.com/news/articleView.html?idxno=1005673",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 24 Jun 2026 12:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "검찰, 부실대출 혐의 부산 새마을금고 간부 3명 수사",
+        "link": "https://n.news.naver.com/mnews/article/003/0014024819?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 24 Jun 2026 11:54:00 +0900",
+        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "새마을금고 , 상호금융권 최초로 지방세 가상계좌 서비스 제공",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=263826",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 24 Jun 2026 11:52:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "새마을금고 , 상호금융권 최초 지방세 가상계좌 납부 서비스 도입",
+        "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=82501",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 24 Jun 2026 11:44:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "새마을금고 , 상호금융 최초 지방세 가상계좌 납부 서비스 시작",
+        "link": "https://www.viva100.com/article/20260624500648",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 24 Jun 2026 11:36:00 +0900",
+        "summary": "",
+        "term": null
+      }
+    ],
+    "otherFinance": [
+      {
+        "title": "IBK기업 은행 , 기술기업 금융 지원 확대…1000억원 공급",
+        "link": "https://sports.hankooki.com/news/articleView.html?idxno=6935304",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 24 Jun 2026 12:34:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "교보생명, 업계 최초 ‘원화 스테이블코인’ 보험료 수납 및 지급 기술...",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065583551032540",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 24 Jun 2026 12:30:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "IBK기업 은행 , 기보·산기협과 손잡고 기술인증 中企에 1000억원 금융 지원",
+        "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=80342",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 24 Jun 2026 12:30:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "부산 은행 \"지수연동 정기예금, 온라인으로도 만나세요\"",
+        "link": "https://n.news.naver.com/mnews/article/421/0009020849?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 24 Jun 2026 12:23:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
       },
       {
-        "title": "미래 전략 못짜는 강호동 체제… 농협상호금융 경쟁력 뒷걸음",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092164397",
+        "title": "부산 은행 , 지수연동 정기예금 2종 비대면 판매",
+        "link": "https://n.news.naver.com/mnews/article/003/0014024894?sid=102",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 24 Jun 2026 06:00:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "당국 제동에도…은행 점포 축소 '요지부동'",
-        "link": "https://www.kbanker.co.kr/news/articleView.html?idxno=225268",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 24 Jun 2026 06:00:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "카드론 역대 최대…은행 밖 대출 '풍선효과' 커지나",
-        "link": "https://n.news.naver.com/mnews/article/277/0005780456?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 24 Jun 2026 06:00:00 +0900",
+        "pubDate": "Wed, 24 Jun 2026 12:22:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "“집값상승·빚투에 금융 취약성 확대”… 한국 은행 의 경고",
+        "link": "https://n.news.naver.com/mnews/article/021/0002800031?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 24 Jun 2026 12:16:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "NH 농협 은행, 사회적 배려 대상자 금융 비용 부담 완화 나선다",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=219029",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 24 Jun 2026 12:06:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "상생 금융 지수 시범평가, 은행의 중소기업 지원 객관적 평가 도입",
+        "link": "https://www.tokenpost.kr/news/economy/372346",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 24 Jun 2026 12:04:00 +0900",
+        "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "'빚투' 건전성 위협 아니라더니, 역대급 레버리지에 경고음",
-        "link": "https://n.news.naver.com/mnews/article/119/0003104021?sid=101",
+        "title": "[DB속이야기]신용대출 연간 목표 벌써 넘겼다…하반기 어쩌나",
+        "link": "https://www.nspna.com/news/?mode=view&newsid=817838",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 24 Jun 2026 07:07:00 +0900",
+        "pubDate": "Wed, 24 Jun 2026 12:28:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[더벨][Korean Paper] 수은, 달러채 시장 노크…최대 20억달러 조달 추진",
-        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202606221339011920104436",
+        "title": "126명 울린 ‘적금계좌 사기’…금감원, ‘자유적금’ 규제 강화",
+        "link": "https://n.news.naver.com/mnews/article/123/0002385307?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 24 Jun 2026 07:02:00 +0900",
+        "pubDate": "Wed, 24 Jun 2026 12:22:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "무시무시한 ‘마통’ 금리… 신용점수 만점자도 5% 근접",
-        "link": "https://n.news.naver.com/mnews/article/005/0001856783?sid=101",
+        "title": "“적금계좌로 송금 조심하세요”…금감원, 자유적금 분기 1인 3개로 제한",
+        "link": "https://n.news.naver.com/mnews/article/016/0002660926?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 24 Jun 2026 06:15:00 +0900",
+        "pubDate": "Wed, 24 Jun 2026 12:01:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "자유적금계좌로 1억대 중고거래 사기…금감원, 개설·해지 제한",
+        "link": "https://n.news.naver.com/mnews/article/417/0001148821?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 24 Jun 2026 12:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "\"갈아타기 유도 아냐\"라지만…미래적금 등장에 도약계좌 금리 줄하향",
+        "link": "https://n.news.naver.com/mnews/article/374/0000517936?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 24 Jun 2026 11:52:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "경북동해안 금융기관 여수신 동향",
-        "link": "https://www.hidomin.com/news/articleView.html?idxno=710558",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 23 Jun 2026 18:36:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
-      },
-      {
-        "title": "[머니무브] 대출규제 올해 15조 빠진 상호금융…\"규제완화로 민생회복 ...",
-        "link": "https://www.g-enews.com/view.php?ud=202606231515091593e30fcb1ba8_1",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 23 Jun 2026 18:00:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "예금 빼서 주식시장으로…상호금융 자금 이탈 조짐",
-        "link": "https://www.junggi.co.kr/news/articleView.html?idxno=36876",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 23 Jun 2026 17:04:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
-      },
-      {
-        "title": "금융위, 대부업·상호금융 내부통제 강화한다더니 2년째 ‘방치’",
-        "link": "http://www.newstomato.com/ReadNews.aspx?no=1304906&inflow=N",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 23 Jun 2026 16:00:00 +0900",
-        "summary": "",
         "term": null
       }
     ]
