@@ -1,8 +1,16 @@
 {
-  "updatedAt": "2026-06-27T03:29:29.118Z",
-  "headline": "MG 새마을금고 차량 기증식, 천안시누리별장애인종합복지관 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-06-27T08:35:58.689Z",
+  "headline": "경남대 평생교육원, 동부 새마을금고 주부대학 수료식 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "경남대 평생교육원, 동부 새마을금고 주부대학 수료식",
+        "link": "http://www.metroseoul.co.kr/article/20260627500011",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 27 Jun 2026 12:52:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "MG 새마을금고 차량 기증식, 천안시누리별장애인종합복지관",
         "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=411254",
@@ -22,74 +30,119 @@
     ],
     "otherFinance": [
       {
-        "title": "[분석 e-재계] 대신증권, 종투사 지정 후…\"초대형 IB 도약 마지막 관문...",
-        "link": "http://www.economytalk.kr/news/articleView.html?idxno=422273",
+        "title": "[금상소]\"연 5.5%에 최대 1000만원\"⋯ 은행 권, 중저신용자 겨냥 대출 경쟁",
+        "link": "https://www.etoday.co.kr/news/view/2597605",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 27 Jun 2026 12:26:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "대출금리 상승했지만…5대 은행 예대차 전달 수준",
-        "link": "https://www.mediapen.com/news/view/1106923",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 27 Jun 2026 11:46:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "NIM",
-          "meaning": "금리 변화가 금융기관 수익성에 미치는 영향을 보여주는 핵심 지표"
-        }
-      },
-      {
-        "title": "[ 금융 zip] 국민은행, 취약채무자 '마음돌봄 상담 서비스' 확대 外",
-        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=873455",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 27 Jun 2026 08:26:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "\"고액자산가 특별관리합니다\"…은행 WM 경쟁 '박차'",
-        "link": "https://n.news.naver.com/mnews/article/374/0000518568?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 27 Jun 2026 08:00:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[N2 포커스] 은행권, 대출 조이고 금리 혜택 줄이고…건전성 방어 총력...",
-        "link": "https://www.news2day.co.kr/article/20260623500076",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 27 Jun 2026 06:54:00 +0900",
+        "pubDate": "Sat, 27 Jun 2026 17:02:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "금리인하부터 빚 탕감까지… 은행권, 중저신용자 '포용 금융 ' 속도",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092164635",
+        "title": "[김상봉 시론] '매수'만 외치는 증권사 보고서, 이대로 괜찮은가",
+        "link": "https://n.news.naver.com/mnews/article/586/0000132524?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 27 Jun 2026 06:00:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "우리은행, 녹색 금융 문턱 낮춘다…탄소감축 中企에 이자·보증료 지원",
-        "link": "https://www.apnews.kr/news/articleView.html?idxno=3049312",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 27 Jun 2026 01:42:00 +0900",
+        "pubDate": "Sat, 27 Jun 2026 17:00:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "5월 은행 주담대 금리 4.32%…시장금리 상승에 한달 만에 0.01%p 상승",
-        "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=659364",
+        "title": "[주목 e-금융] '전환금융', 제조업 국가 생존 전략 부상…\"NH 농협금융 '1...",
+        "link": "http://www.economytalk.kr/news/articleView.html?idxno=422274",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 26 Jun 2026 17:52:00 +0900",
+        "pubDate": "Sat, 27 Jun 2026 14:54:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "\"카드번호 묻는 전화 의심하세요\"… 농협 영덕군지부, 어르신 금융 사기 ...",
+        "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4076732",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 27 Jun 2026 14:34:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "“이달 더 늘었다” 신용대출 2.2조 증가…은행 빗장 ‘무색’",
+        "link": "https://www.ekn.kr/web/view.php?key=20260627027227043",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 27 Jun 2026 14:34:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "농협 상호 금융 NH콕마이데이터, 국가 브랜드 대상",
+        "link": "http://www.bokuennews.com/news/article.html?no=280382",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 27 Jun 2026 14:32:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "서산경찰서, 고액 보이스피싱 피해 막은서산 농협 서부지점 직원에게 감...",
+        "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=895791",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 27 Jun 2026 14:26:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "은행권, 원화 스테이블코인 선점 경쟁···글로벌·빅테크 연합 속속",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=632047",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 27 Jun 2026 14:00:00 +0900",
+        "summary": "",
         "term": null
       }
     ],
     "macro": [
+      {
+        "title": "삼전닉스 역대급 실적으로 외화 벌어와도 소용없네…치솟는 환율 어디까...",
+        "link": "https://n.news.naver.com/mnews/article/277/0005782192?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 27 Jun 2026 17:23:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[이호연의 D톡스] 빚투·영끌에 가계대출 4조 넘게 늘어…신용대출이 주...",
+        "link": "https://n.news.naver.com/mnews/article/138/0002232303?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 27 Jun 2026 17:01:00 +0900",
+        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "“최고 연 8%라더니”…청년미래적금, 우대금리 문턱에 청년들 ‘한숨’...",
+        "link": "https://n.news.naver.com/mnews/article/138/0002232302?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 27 Jun 2026 17:00:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "美 금리 인상론 제동…'연내 동결' 고개",
+        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5034801",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 27 Jun 2026 17:00:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "[박근종 칼럼] 신용대출에 시달리는 청년층·사업부채에 허덕이는 고령...",
+        "link": "https://www.mhns.co.kr/news/articleView.html?idxno=751562",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 27 Jun 2026 16:24:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "시중 주담대 '연 7%' 벽 넘는데⋯'연 1.3% 고정금리' 신혼희망타운 대안...",
+        "link": "https://www.etoday.co.kr/news/view/2597539",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 27 Jun 2026 15:02:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
       {
         "title": "[돈MORE]8% 턱밑서 꺾인 주담대 고정금리…상승 압력은 여전",
         "link": "https://n.news.naver.com/mnews/article/648/0000048395?sid=101",
@@ -100,14 +153,6 @@
       },
       {
         "title": "반도체·증시 기대감…경기도 금융·세정가, ‘즐거운 비명’ 예고",
-        "link": "https://n.news.naver.com/mnews/article/666/0000112868?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 27 Jun 2026 06:02:00 +0900",
-        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
-        "term": null
-      },
-      {
-        "title": "반도체·증시 기대감…경기도 금융 ·세정가, ‘즐거운 비명’ 예고",
         "link": "https://n.news.naver.com/mnews/article/666/0000112868?sid=101",
         "source": "네이버뉴스",
         "pubDate": "Sat, 27 Jun 2026 06:02:00 +0900",
@@ -127,22 +172,6 @@
         "link": "https://www.g-enews.com/view.php?ud=202606261713311719e30fcb1ba8_1",
         "source": "네이버뉴스",
         "pubDate": "Fri, 26 Jun 2026 17:58:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "증시로 돈 이동하는데 예탁금 비과세 줄고 대출도 막히고, 상호금융권 ...",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=440958",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 26 Jun 2026 16:42:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "월 주담대 금리 4.32%로 상승…고정·변동差 0.21%P",
-        "link": "https://www.joongangenews.com/news/articleView.html?idxno=528647",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 26 Jun 2026 16:42:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       }
