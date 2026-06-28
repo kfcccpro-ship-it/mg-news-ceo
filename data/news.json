@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T19:19:52.418Z",
+  "updatedAt": "2026-06-28T22:02:07.690Z",
   "headline": "춘천중부 새마을금고 봉사활동 실시 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -28,16 +28,16 @@
         "term": null
       },
       {
-        "title": "천안시누리별장애인종합복지관, MG 새마을금고 차량 지원사업 선정…장...",
-        "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1085341",
+        "title": "천안서부 새마을금고 , 1,100만원 나눔 실천…지역 복지안전망 든든히 잇...",
+        "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1085339",
         "source": "네이버뉴스",
         "pubDate": "Sun, 28 Jun 2026 18:45:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "천안서부 새마을금고 , 1,100만원 나눔 실천…지역 복지안전망 든든히 잇...",
-        "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1085339",
+        "title": "천안시누리별장애인종합복지관, MG 새마을금고 차량 지원사업 선정…장...",
+        "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1085341",
         "source": "네이버뉴스",
         "pubDate": "Sun, 28 Jun 2026 18:45:00 +0900",
         "summary": "",
@@ -46,60 +46,90 @@
     ],
     "otherFinance": [
       {
-        "title": "국제결제 은행 , AI 붐 속 세계경제 불안 경고",
-        "link": "https://www.g-enews.com/view.php?ud=2026062822003652319a1f309431_1",
+        "title": "인터넷은행 2.0 시대… 카카오뱅크는 왜 캐피탈 회사를 인수했나",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=204097",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 29 Jun 2026 03:00:00 +0900",
+        "pubDate": "Mon, 29 Jun 2026 07:00:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "농협 경제· 금융 부문 협력 스마트농업 확산 시너지",
-        "link": "http://www.youngnong.co.kr/news/articleView.html?idxno=60525",
+        "title": "은행장 뽑는데 은행 없다…지주 입김 축소할 방안 나올까",
+        "link": "https://n.news.naver.com/mnews/article/008/0005378271?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 28 Jun 2026 23:28:00 +0900",
+        "pubDate": "Mon, 29 Jun 2026 07:00:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "농협 상호 금융 , 6개 온라인투자연계 금융 회사와 MOU체결",
-        "link": "http://www.youngnong.co.kr/news/articleView.html?idxno=60528",
+        "title": "은행 권, 집단대출 대란 예고...주담대 잔액 감축 검토",
+        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606270103431560955",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 28 Jun 2026 23:02:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "너도나도 ‘마통’ 뚫어댔으니…은행 가계대출 8조 폭증, 보릿고개 온다",
-        "link": "https://n.news.naver.com/mnews/article/009/0005699900?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 28 Jun 2026 21:43:00 +0900",
+        "pubDate": "Mon, 29 Jun 2026 07:00:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "NH 농협 은행 경북본부, 에너지기술고 금융 교육",
-        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=552278",
+        "title": "은행 장 뽑는데 은행 없다…지주 입김 축소할 방안 나올까",
+        "link": "https://n.news.naver.com/mnews/article/008/0005378271?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 28 Jun 2026 21:34:00 +0900",
+        "pubDate": "Mon, 29 Jun 2026 07:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "머니무브에 '예금금리 인상' 꺼낸 저축 은행 ...4%대 상품 속속 등장",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=678781",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 29 Jun 2026 07:00:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "KB국민 은행 , 취약채무자 '마음돌봄 상담' 확대…3억원 추가 출연으로 심...",
+        "link": "https://www.public25.com/news/articleView.html?idxno=49347",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 29 Jun 2026 07:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "환율 뛰자 시중 은행 위험가중자산 확대…우리 은행 만 ‘유지’ 성공",
+        "link": "https://www.ceoscoredaily.com/page/view/2026062615074981183",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 29 Jun 2026 07:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "인터넷 은행 2.0 시대… 카카오뱅크는 왜 캐피탈 회사를 인수했나",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=204097",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 29 Jun 2026 07:00:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "삼성맨 사내대출 5억, DSR에 안 잡힌다…'집값 들쑤실라' 규제 운 뗐다",
-        "link": "https://n.news.naver.com/mnews/article/008/0005378229?sid=101",
+        "title": "금융 당국, 국내 기준금리 체계 개편 착수…코파 사용 확대",
+        "link": "https://www.tokenpost.kr/news/economy/373502",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 29 Jun 2026 04:10:00 +0900",
-        "summary": "",
-        "term": null
+        "pubDate": "Mon, 29 Jun 2026 06:56:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+        }
       },
       {
-        "title": "유가 내리면 잠잠해질 줄…2분기 환율 1500원 훌쩍 \"IMF 이후 처음\"",
-        "link": "https://n.news.naver.com/mnews/article/008/0005378230?sid=101",
+        "title": "2분기 환율 환란 이후 처음 평균 1500원대 넘어",
+        "link": "https://n.news.naver.com/mnews/article/022/0004138906?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 29 Jun 2026 04:10:00 +0900",
+        "pubDate": "Mon, 29 Jun 2026 06:04:00 +0900",
         "summary": "",
         "term": null
       },
