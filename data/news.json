@@ -1,19 +1,35 @@
 {
-  "updatedAt": "2026-06-28T11:07:08.899Z",
-  "headline": "천안서부 새마을금고 , 1,100만원 나눔 실천…지역 복지안전망 든든히 잇... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-06-28T13:46:34.833Z",
+  "headline": "대구 새마을금고 , 지역사회에 온기 전할 '따숨 봉사단' 출범 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
-        "title": "천안서부 새마을금고 , 1,100만원 나눔 실천…지역 복지안전망 든든히 잇...",
-        "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1085339",
+        "title": "대구 새마을금고 , 지역사회에 온기 전할 '따숨 봉사단' 출범",
+        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=552283",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 28 Jun 2026 18:45:00 +0900",
+        "pubDate": "Sun, 28 Jun 2026 21:34:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "천안서부 새마을금고 , 복지재단 후원금 1100만원 기탁",
+        "link": "http://www.dynews.co.kr/news/articleView.html?idxno=855820",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 28 Jun 2026 21:08:00 +0900",
         "summary": "",
         "term": null
       },
       {
         "title": "천안시누리별장애인종합복지관, MG 새마을금고 차량 지원사업 선정…장...",
         "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1085341",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 28 Jun 2026 18:45:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "천안서부 새마을금고 , 1,100만원 나눔 실천…지역 복지안전망 든든히 잇...",
+        "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1085339",
         "source": "네이버뉴스",
         "pubDate": "Sun, 28 Jun 2026 18:45:00 +0900",
         "summary": "",
@@ -42,39 +58,50 @@
         "pubDate": "Sun, 28 Jun 2026 15:20:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "천안서부 새마을금고 , 천안시에 정기 후원금 1100만원 전달",
-        "link": "https://n.news.naver.com/mnews/article/656/0000180115?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 28 Jun 2026 12:46:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[포토뉴스]춘천중부 새마을금고 도우리봉사단, 사랑의 봉사활동",
-        "link": "https://n.news.naver.com/mnews/article/087/0001201723?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 28 Jun 2026 12:42:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "금강 새마을금고 사비지점 개소… 지역밀착 금융서비스 강화",
-        "link": "https://www.joongdo.co.kr/web/view.php?key=20260627010007618",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 28 Jun 2026 10:52:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "집값 자극 될라… 사내대출 받으면 은행 서 못 빌린다",
-        "link": "https://n.news.naver.com/mnews/article/014/0005540709?sid=101",
+        "title": "'24억 부실대출' 우리 은행 前 지점장, 징역 5년 법정구속",
+        "link": "http://www.rightknow.co.kr/news/articleView.html?idxno=34348",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 28 Jun 2026 19:28:00 +0900",
+        "pubDate": "Sun, 28 Jun 2026 21:54:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "너도나도 ‘마통’ 뚫어댔으니…은행 가계대출 8조 폭증, 보릿고개 온다",
+        "link": "https://n.news.naver.com/mnews/article/009/0005699900?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 28 Jun 2026 21:43:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "너도나도 ‘마통’ 뚫어댔으니… 은행 가계대출 8조 폭증, 보릿고개 온다",
+        "link": "https://n.news.naver.com/mnews/article/009/0005699900?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 28 Jun 2026 21:43:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "NH 농협 은행 경북본부, 에너지기술고 금융 교육",
+        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=552278",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 28 Jun 2026 21:34:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "NH농협 은행 경북본부, 에너지기술고 금융 교육",
+        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=552278",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 28 Jun 2026 21:34:00 +0900",
+        "summary": "",
         "term": null
       },
       {
@@ -82,22 +109,6 @@
         "link": "https://sjbnews.com/news/news.php?number=881652",
         "source": "네이버뉴스",
         "pubDate": "Sun, 28 Jun 2026 19:24:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "NH농협 금융 , 전북 전략산업 금융 지원을 위한 'NH 금융 허브' 운영",
-        "link": "https://sjbnews.com/news/news.php?number=881652",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 28 Jun 2026 19:24:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "NH 농협 은행 경북본부, 경북에너지기술고 대상 '경제버스' 금융 교육 실시",
-        "link": "https://www.dkilbo.com/news/articleView.html?idxno=547201",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 28 Jun 2026 19:16:00 +0900",
         "summary": "",
         "term": null
       },
@@ -110,64 +121,45 @@
         "term": null
       },
       {
-        "title": "우리은행, 녹색정책 금융 협약 통해 중소기업 지원한다",
-        "link": "http://www.newsbrite.net/news/articleView.html?idxno=198890",
+        "title": "NH 농협 은행 경북본부, 경북에너지기술고 대상 '경제버스' 금융 교육 실시",
+        "link": "https://www.dkilbo.com/news/articleView.html?idxno=547201",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 28 Jun 2026 18:36:00 +0900",
+        "pubDate": "Sun, 28 Jun 2026 19:16:00 +0900",
         "summary": "",
-        "term": null
-      },
-      {
-        "title": "농협금융 , 전북에 'NH금융허브' 구축",
-        "link": "https://n.news.naver.com/mnews/article/014/0005540615?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 28 Jun 2026 18:12:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[취재후일담] '점포 1067곳' 농협 은행이 디지털에 공들이는 까닭",
-        "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260626010009446",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 28 Jun 2026 18:04:00 +0900",
-        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "[김현우의 핫스팟] 미국 연준의 금리 결정에 목맨 결과",
-        "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=255532",
+        "title": "서학개미의 힘…작년 대미 금융 자산 첫 1조달러 돌파",
+        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=552323",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 28 Jun 2026 20:00:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Forward Guidance",
-          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
-        }
-      },
-      {
-        "title": "빚내 투자 급증… 금융 당국, 소비자 보호 대책 집중 논의",
-        "link": "https://www.gokorea.kr/news/articleView.html?idxno=870588",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 28 Jun 2026 19:56:00 +0900",
-        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
-        "term": null
-      },
-      {
-        "title": "6월 신용대출 5년2개월만에 최대폭 증가…빚투 증가에 영끌 과잉",
-        "link": "https://n.news.naver.com/mnews/article/020/0003729950?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 28 Jun 2026 19:18:00 +0900",
+        "pubDate": "Sun, 28 Jun 2026 21:44:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "금감원장發 삼전닉스 사내대출 규제론…'셔세권' 부동산 제동 걸리나",
-        "link": "https://www.asiatime.co.kr/article/20260628500025",
+        "title": "통합 대출전자약정 플랫폼 구축",
+        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=577987",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 28 Jun 2026 14:20:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
+        "pubDate": "Sun, 28 Jun 2026 21:42:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "2분기 원·달러 환율 평균 1500원 웃돌 듯",
+        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=552290",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 28 Jun 2026 21:34:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "신용대출 5년 2개월만에 최대 증가…빚투 열풍에 금융 불안 우려",
+        "link": "https://n.news.naver.com/mnews/article/020/0003729950?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 28 Jun 2026 19:18:00 +0900",
+        "summary": "",
         "term": null
       }
     ]
