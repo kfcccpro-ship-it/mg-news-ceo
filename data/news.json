@@ -1,8 +1,16 @@
 {
-  "updatedAt": "2026-06-28T13:46:34.833Z",
-  "headline": "대구 새마을금고 , 지역사회에 온기 전할 '따숨 봉사단' 출범 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-06-28T16:10:30.353Z",
+  "headline": "춘천중부 새마을금고 봉사활동 실시 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "춘천중부 새마을금고 봉사활동 실시",
+        "link": "https://n.news.naver.com/mnews/article/654/0000187863?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 29 Jun 2026 00:08:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "대구 새마을금고 , 지역사회에 온기 전할 '따숨 봉사단' 출범",
         "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=552283",
@@ -20,14 +28,6 @@
         "term": null
       },
       {
-        "title": "천안시누리별장애인종합복지관, MG 새마을금고 차량 지원사업 선정…장...",
-        "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1085341",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 28 Jun 2026 18:45:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
         "title": "천안서부 새마을금고 , 1,100만원 나눔 실천…지역 복지안전망 든든히 잇...",
         "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1085339",
         "source": "네이버뉴스",
@@ -36,52 +36,65 @@
         "term": null
       },
       {
-        "title": "새마을금고 ·충북신보, 소상공인 금융지원 맞손",
-        "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1085433",
+        "title": "천안시누리별장애인종합복지관, MG 새마을금고 차량 지원사업 선정…장...",
+        "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1085341",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 28 Jun 2026 18:44:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "경남대 부설 평생교육원 제1기 동부 새마을금고 주부대학 수료식 개최",
-        "link": "http://www.gndomin.com/news/articleView.html?idxno=480095",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 28 Jun 2026 17:41:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "춘천중부 새마을금고 , 강원재활원 방문 봉사활동 구슬땀",
-        "link": "https://n.news.naver.com/mnews/article/654/0000187758?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 28 Jun 2026 15:20:00 +0900",
+        "pubDate": "Sun, 28 Jun 2026 18:45:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "'24억 부실대출' 우리 은행 前 지점장, 징역 5년 법정구속",
-        "link": "http://www.rightknow.co.kr/news/articleView.html?idxno=34348",
+        "title": "[창간 24주년 축사 — 김헌수 보험연구원 원장] \"보험은 경제 회복력 떠...",
+        "link": "https://www.insnews.co.kr/news/articleView.html?idxno=91540",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 28 Jun 2026 21:54:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
-      },
-      {
-        "title": "너도나도 ‘마통’ 뚫어댔으니…은행 가계대출 8조 폭증, 보릿고개 온다",
-        "link": "https://n.news.naver.com/mnews/article/009/0005699900?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 28 Jun 2026 21:43:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "pubDate": "Mon, 29 Jun 2026 00:03:00 +0900",
+        "summary": "",
         "term": null
       },
       {
-        "title": "너도나도 ‘마통’ 뚫어댔으니… 은행 가계대출 8조 폭증, 보릿고개 온다",
+        "title": "[창간 24주년 축사 — 이준섭 한국보험계리사회 회장] 보험· 금융 업계의...",
+        "link": "https://www.insnews.co.kr/news/articleView.html?idxno=91536",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 29 Jun 2026 00:03:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[창간 24주년 축사 — 허창언 보험개발원 원장] 한결같은 국내외 보험산...",
+        "link": "https://www.insnews.co.kr/news/articleView.html?idxno=91541",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 29 Jun 2026 00:03:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[창간 24주년 축사 — 김용태 보험GA협회 회장] \"앞으로도 보험산업 및 ...",
+        "link": "https://www.insnews.co.kr/news/articleView.html?idxno=91538",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 29 Jun 2026 00:03:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "농협 경제· 금융 부문 협력 스마트농업 확산 시너지",
+        "link": "http://www.youngnong.co.kr/news/articleView.html?idxno=60525",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 28 Jun 2026 23:28:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "농협 상호 금융 , 6개 온라인투자연계 금융 회사와 MOU체결",
+        "link": "http://www.youngnong.co.kr/news/articleView.html?idxno=60528",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 28 Jun 2026 23:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "너도나도 ‘마통’ 뚫어댔으니…은행 가계대출 8조 폭증, 보릿고개 온다",
         "link": "https://n.news.naver.com/mnews/article/009/0005699900?sid=101",
         "source": "네이버뉴스",
         "pubDate": "Sun, 28 Jun 2026 21:43:00 +0900",
@@ -95,72 +108,38 @@
         "pubDate": "Sun, 28 Jun 2026 21:34:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "NH농협 은행 경북본부, 에너지기술고 금융 교육",
-        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=552278",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 28 Jun 2026 21:34:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "NH 농협금융 , 전북 전략산업 금융지원을 위한 'NH금융허브' 운영",
-        "link": "https://sjbnews.com/news/news.php?number=881652",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 28 Jun 2026 19:24:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "NH 농협금융 , 전북 'NH금융허브' 출범…전략산업 금융지원 본격화",
-        "link": "https://www.fetv.co.kr/news/articleView.html?idxno=305258",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 28 Jun 2026 19:16:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "NH 농협 은행 경북본부, 경북에너지기술고 대상 '경제버스' 금융 교육 실시",
-        "link": "https://www.dkilbo.com/news/articleView.html?idxno=547201",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 28 Jun 2026 19:16:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "macro": [
       {
-        "title": "서학개미의 힘…작년 대미 금융 자산 첫 1조달러 돌파",
-        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=552323",
+        "title": "주식 빈익빈부익부 심화… 고환율에 ‘엇갈린 희비’",
+        "link": "https://n.news.naver.com/mnews/article/005/0001857621?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 28 Jun 2026 21:44:00 +0900",
+        "pubDate": "Mon, 29 Jun 2026 00:30:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "통합 대출전자약정 플랫폼 구축",
-        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=577987",
+        "title": "전남 서남부 금융기관 수신 반등했지만",
+        "link": "http://www.gjdream.com/news/articleView.html?idxno=670528",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 28 Jun 2026 21:42:00 +0900",
+        "pubDate": "Mon, 29 Jun 2026 00:12:00 +0900",
         "summary": "",
-        "term": null
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
       },
       {
-        "title": "2분기 원·달러 환율 평균 1500원 웃돌 듯",
-        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=552290",
+        "title": "전남 서남부 금융 기관 수신 반등했지만",
+        "link": "http://www.gjdream.com/news/articleView.html?idxno=670528",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 28 Jun 2026 21:34:00 +0900",
+        "pubDate": "Mon, 29 Jun 2026 00:12:00 +0900",
         "summary": "",
-        "term": null
-      },
-      {
-        "title": "신용대출 5년 2개월만에 최대 증가…빚투 열풍에 금융 불안 우려",
-        "link": "https://n.news.naver.com/mnews/article/020/0003729950?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 28 Jun 2026 19:18:00 +0900",
-        "summary": "",
-        "term": null
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
       }
     ]
   }
