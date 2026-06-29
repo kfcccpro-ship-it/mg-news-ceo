@@ -1,8 +1,24 @@
 {
-  "updatedAt": "2026-06-29T19:57:55.831Z",
-  "headline": "[단신] 새마을금고 , 전통시장 15% 할인 ‘시장愛 온’ 카드 外 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-06-29T22:08:00.978Z",
+  "headline": "농협 중앙회, '외부 감사위' 압박에 '지역이전' 가능성 확대 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "농협 중앙회, '외부 감사위' 압박에 '지역이전' 가능성 확대",
+        "link": "https://www.news2day.co.kr/article/20260629500193",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 30 Jun 2026 06:52:00 +0900",
+        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "새마을금고 , '시장愛 온 체크카드' 출시",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=264432",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 30 Jun 2026 06:20:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "[단신] 새마을금고 , 전통시장 15% 할인 ‘시장愛 온’ 카드 外",
         "link": "https://n.news.naver.com/mnews/article/020/0003730241?sid=101",
@@ -59,116 +75,100 @@
           "word": "Delinquency",
           "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
         }
-      },
-      {
-        "title": "‘규정 어겨 90억원대 부실대출’···부산 새마을금고 간부들 기소",
-        "link": "https://n.news.naver.com/mnews/article/032/0003455073?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 29 Jun 2026 21:41:00 +0900",
-        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
-      },
-      {
-        "title": "새마을금고 , '시장愛 온' 체크카드 출시",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3621200",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 29 Jun 2026 21:40:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "[N2 포커스] 자본 늘리는 증권사들…초대형 IB 경쟁 2라운드",
-        "link": "https://www.news2day.co.kr/article/20260629500152",
+        "title": "겉은 ‘상생’ 속은 ‘폭탄 돌리기’…은행권 덮친 ‘상생지수’ 압박",
+        "link": "https://n.news.naver.com/mnews/article/119/0003106044?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 30 Jun 2026 04:46:00 +0900",
+        "pubDate": "Tue, 30 Jun 2026 07:06:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "'지주사 낙점' 끝낼까, 은행장 인선 시험대",
-        "link": "https://n.news.naver.com/mnews/article/008/0005378903?sid=101",
+        "title": "겉은 ‘상생’ 속은 ‘폭탄 돌리기’… 은행 권 덮친 ‘상생지수’ 압박",
+        "link": "https://n.news.naver.com/mnews/article/119/0003106044?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 30 Jun 2026 04:04:00 +0900",
+        "pubDate": "Tue, 30 Jun 2026 07:06:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "'지주사 낙점' 끝낼까, 은행 장 인선 시험대",
-        "link": "https://n.news.naver.com/mnews/article/008/0005378903?sid=101",
+        "title": "[ 은행 사회공헌 분석] [iM뱅크] 시중 은행 전환 휴유증?…총액 감소 '역주...",
+        "link": "https://news.dealsitetv.com/articles/172455",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 30 Jun 2026 04:04:00 +0900",
+        "pubDate": "Tue, 30 Jun 2026 07:02:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "신용대출 다잡자 마통으로 튀었다…5대 은행 잔액 43조원 돌파",
-        "link": "https://www.ziksir.com/news/articleView.html?idxno=138346",
+        "title": "KB증권, '1조7000억 증자' 자기자본 순위 지각변동 일으키나",
+        "link": "https://www.fetv.co.kr/news/articleView.html?idxno=305362",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 30 Jun 2026 00:00:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
+        "pubDate": "Tue, 30 Jun 2026 07:00:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "CET1",
+          "meaning": "손실흡수력을 보여주는 대표적인 자본적정성 지표"
+        }
       },
       {
-        "title": "[은행 뉴스브리핑] 농협 은행 전남 광양 'BESS' 대표 금융 주선기관 참여",
-        "link": "https://www.asiatime.co.kr/article/20260629500407",
+        "title": "NH 농협금융 합류로 5대 금융 ‘전북 집결’…자본시장 거점 경쟁 확대",
+        "link": "https://www.ceoscoredaily.com/page/view/2026062915341188925",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 29 Jun 2026 23:30:00 +0900",
+        "pubDate": "Tue, 30 Jun 2026 07:00:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "농협 경제지주, '쿵야 레스토랑즈'와 손잡고 MZ세대 공략…우리 농산물 ...",
-        "link": "http://www.fntimes.com/html/view.php?ud=202606292311388751dd55077bc2_18",
+        "title": "[N2 포커스] 지주 회장 겨누던 지배구조 개편…은행장 인사 흔드나",
+        "link": "https://www.news2day.co.kr/article/20260629500212",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 29 Jun 2026 23:22:00 +0900",
+        "pubDate": "Tue, 30 Jun 2026 06:50:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "농협 , 경로당 반조리식품 지원 확대…농촌 어르신 식생활 개선 나서",
-        "link": "http://www.fntimes.com/html/view.php?ud=202606292255592674dd55077bc2_18",
+        "title": "[카드업계 소식] 하나카드, KB국민카드, NH 농협 카드",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=264431",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 29 Jun 2026 23:08:00 +0900",
+        "pubDate": "Tue, 30 Jun 2026 06:24:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "삼천포 농협 , 조합원 금융 사기 예방·스마트폰 교육",
-        "link": "http://www.gnmaeil.com/news/articleView.html?idxno=589677",
+        "title": "AI 시대, 뭉쳐야 산다… 디지털 조직 한 데 모으는 은행권",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092164790",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 29 Jun 2026 21:56:00 +0900",
-        "summary": "",
+        "pubDate": "Tue, 30 Jun 2026 06:10:00 +0900",
+        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
         "term": null
       }
     ],
     "macro": [
+      {
+        "title": "환율 흔들 변수된 'SK하이닉스 ADR'…외환시장 '숨통' 트일까",
+        "link": "https://n.news.naver.com/mnews/article/119/0003106043?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 30 Jun 2026 07:04:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "금감원 “現 CEO에 유리한 승계 사례 확인”",
+        "link": "https://n.news.naver.com/mnews/article/011/0004636260?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 30 Jun 2026 06:01:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "\"지역화폐가 골목경제 살린다\"…홍성·예산, 파격 할인으로 소비 진작 ...",
         "link": "https://www.tournews21.com/news/articleView.html?idxno=137508",
         "source": "네이버뉴스",
         "pubDate": "Tue, 30 Jun 2026 04:46:00 +0900",
         "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
-        "term": null
-      },
-      {
-        "title": "원·달러 환율 1,543원 마감...미국·이란 협상 여파",
-        "link": "https://n.news.naver.com/mnews/article/052/0002372545?sid=104",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 30 Jun 2026 04:09:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "\"지평 막걸리·대전 김 맛있죠?\" K푸드 말아주는 수출입銀",
-        "link": "https://n.news.naver.com/mnews/article/008/0005378905?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 30 Jun 2026 04:05:00 +0900",
-        "summary": "",
         "term": null
       }
     ]
