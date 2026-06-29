@@ -1,145 +1,165 @@
 {
-  "updatedAt": "2026-06-29T11:00:05.019Z",
-  "headline": "[금융신상] 하나은행 '포용금융 신상품' 선봬, 새마을금고 '시장愛 온 체... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-06-29T15:47:18.140Z",
+  "headline": "[단신] 새마을금고 , 전통시장 15% 할인 ‘시장愛 온’ 카드 外 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
-        "title": "[금융신상] 하나은행 '포용금융 신상품' 선봬, 새마을금고 '시장愛 온 체...",
-        "link": "http://www.bizwnews.com/news/articleView.html?idxno=139610",
+        "title": "[단신] 새마을금고 , 전통시장 15% 할인 ‘시장愛 온’ 카드 外",
+        "link": "https://n.news.naver.com/mnews/article/020/0003730241?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 29 Jun 2026 19:48:00 +0900",
+        "pubDate": "Tue, 30 Jun 2026 00:31:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[ 금융 신상] 하나 은행 '포용 금융 신상품' 선봬, 새마을금고 '시장愛 온 체...",
-        "link": "http://www.bizwnews.com/news/articleView.html?idxno=139610",
+        "title": "심사도 없이 90억 공동대출…부산 새마을금고 전 이사장 등 3명 재판행",
+        "link": "https://n.news.naver.com/mnews/article/421/0009030337?sid=102",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 29 Jun 2026 19:48:00 +0900",
+        "pubDate": "Mon, 29 Jun 2026 23:27:00 +0900",
+        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "전통시장 15% 할인 받는다… 새마을금고 , 장보기 특화 체크카드 출시",
+        "link": "https://www.tournews21.com/news/articleView.html?idxno=137502",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 29 Jun 2026 23:26:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "전북 농협 중앙회-전북청-출판문화진흥원-국제로타리3670지구 사회적약자...",
-        "link": "http://www.jjn.co.kr/news/articleView.html?idxno=1045023",
+        "title": "90억 부실대출에 무너진 새마을금고 …이사장·전무 구속기소",
+        "link": "https://www.sjsori.com/news/articleView.html?idxno=87153",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 29 Jun 2026 19:28:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
-        "term": null
+        "pubDate": "Mon, 29 Jun 2026 22:34:00 +0900",
+        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
       },
       {
-        "title": "경남대 평생교육원, 동부 새마을금고 주부대학 수료식",
-        "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=639963",
+        "title": "규정 위반해 90억원대 부실대출…부산 새마을금고 간부들 기소",
+        "link": "https://n.news.naver.com/mnews/article/018/0006318358?sid=102",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 29 Jun 2026 19:10:00 +0900",
-        "summary": "",
-        "term": null
+        "pubDate": "Mon, 29 Jun 2026 22:18:00 +0900",
+        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
       },
       {
-        "title": "새마을금고 , '시장愛 온' 체크카드 출시 外",
-        "link": "https://www.rcast.co.kr/news/articleView.html?idxno=31151",
+        "title": "‘90억원대 부실대출’ 혐의 …검찰, 부산 새마을금고 간부들 기소",
+        "link": "https://n.news.naver.com/mnews/article/011/0004636222?sid=102",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 29 Jun 2026 18:32:00 +0900",
-        "summary": "",
-        "term": null
+        "pubDate": "Mon, 29 Jun 2026 21:54:00 +0900",
+        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
       },
       {
-        "title": "동울산 새마을금고 , 방어진노인복지관에 사랑의 빵 나눔",
-        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1060737",
+        "title": "‘규정 어겨 90억원대 부실대출’···부산 새마을금고 간부들 기소",
+        "link": "https://n.news.naver.com/mnews/article/032/0003455073?sid=102",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 29 Jun 2026 18:10:00 +0900",
-        "summary": "",
-        "term": null
+        "pubDate": "Mon, 29 Jun 2026 21:41:00 +0900",
+        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
       },
       {
-        "title": "새마을금고 , 전통시장 15% 파격 할인 '시장愛 온' 체크카드 출시… 지역...",
-        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=355301",
+        "title": "새마을금고 , '시장愛 온' 체크카드 출시",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3621200",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 29 Jun 2026 17:52:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "새마을금고 , 시장愛 온 체크카드 출시…전통시장 혜택 강화",
-        "link": "https://www.fetv.co.kr/news/articleView.html?idxno=305363",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 29 Jun 2026 17:50:00 +0900",
+        "pubDate": "Mon, 29 Jun 2026 21:40:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "[뱅크Shoot] KB·신한·하나·우리· 농협 ·IBK·BNK부산·카카오 '데이 이...",
-        "link": "http://www.finomy.com/news/articleView.html?idxno=256523",
+        "title": "한화생명, 애큐온캐피탈·저축 은행 인수",
+        "link": "https://n.news.naver.com/mnews/article/015/0005304272?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 29 Jun 2026 19:58:00 +0900",
+        "pubDate": "Tue, 30 Jun 2026 00:34:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[뱅크Shoot] KB·신한·하나·우리·농협·IBK·BNK부산·카카오 '데이 이...",
-        "link": "http://www.finomy.com/news/articleView.html?idxno=256523",
+        "title": "6개 저축 은행 서 중·저신용자에 1000만원 한도 대출",
+        "link": "https://n.news.naver.com/mnews/article/023/0003984775?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 29 Jun 2026 19:58:00 +0900",
+        "pubDate": "Tue, 30 Jun 2026 00:33:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "금감원 “ 은행 지주 지배구조 형식적… 경영진 참호구축 악용”",
+        "link": "https://n.news.naver.com/mnews/article/020/0003730253?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 30 Jun 2026 00:31:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[머니픽] NH 농협 생명, 보장성상품 전략에도 수익성은 후퇴",
-        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=846991",
+        "title": "미 스테이블코인 진통… 은행 권 “1770조 이탈 부른다” 반발",
+        "link": "https://n.news.naver.com/mnews/article/025/0003534026?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 29 Jun 2026 19:54:00 +0900",
+        "pubDate": "Tue, 30 Jun 2026 00:02:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[대한민국 굿잡스] IBK기업 은행 , 실리콘밸리서 스타트업 스케일업 프로...",
-        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=132371",
+        "title": "신용대출 다잡자 마통으로 튀었다…5대 은행 잔액 43조원 돌파",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=138346",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 29 Jun 2026 19:52:00 +0900",
+        "pubDate": "Tue, 30 Jun 2026 00:00:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "[은행 뉴스브리핑] 농협 은행 전남 광양 'BESS' 대표 금융 주선기관 참여",
+        "link": "https://www.asiatime.co.kr/article/20260629500407",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 29 Jun 2026 23:30:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "한국투자 금융 지주 \"롯데손보 인수 검토 중\"…보험 M&A 보폭 넓히나",
-        "link": "http://www.metroseoul.co.kr/article/20260629500513",
+        "title": "농협 경제지주, '쿵야 레스토랑즈'와 손잡고 MZ세대 공략…우리 농산물 ...",
+        "link": "http://www.fntimes.com/html/view.php?ud=202606292311388751dd55077bc2_18",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 29 Jun 2026 19:40:00 +0900",
+        "pubDate": "Mon, 29 Jun 2026 23:22:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[Invest]한화생명, 애큐온캐피탈 인수 우선협상대상자 선정",
-        "link": "https://www.investchosun.com/site/data/html_dir/2026/06/29/2026062980208.html",
+        "title": "농협 , 경로당 반조리식품 지원 확대…농촌 어르신 식생활 개선 나서",
+        "link": "http://www.fntimes.com/html/view.php?ud=202606292255592674dd55077bc2_18",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 29 Jun 2026 19:36:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "양주경찰서, 보이스피싱 추가 피해 막은 은행 직원에 감사장 수여…신속...",
-        "link": "https://n.news.naver.com/mnews/article/031/0001038437?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 29 Jun 2026 19:23:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "금융 지주 증권사 ‘자본확충’ 경쟁 본격화…초대형 IB 지형 바뀐다",
-        "link": "https://www.kukinews.com/article/view/kuk202606290195",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 29 Jun 2026 19:18:00 +0900",
+        "pubDate": "Mon, 29 Jun 2026 23:08:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "[DQN] 한화생명, 3개월 새 약관대출 35% 급증…생활자금·투자수요 확대...",
-        "link": "http://www.fntimes.com/html/view.php?ud=2026062916115144839efc5ce4ae_18",
+        "title": "서민 급전 숨통 틔운다… 年5%대 중-저신용자 대출상품 출시",
+        "link": "https://n.news.naver.com/mnews/article/020/0003730249?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 29 Jun 2026 18:52:00 +0900",
+        "pubDate": "Tue, 30 Jun 2026 00:31:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[환율 1500원의 경고①] IMF 때와 다르다…달러는 많은데 원화는 왜 약한...",
+        "link": "https://n.news.naver.com/mnews/article/629/0000511610?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 30 Jun 2026 00:01:00 +0900",
         "summary": "",
         "term": null
       }
