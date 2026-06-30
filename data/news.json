@@ -1,16 +1,8 @@
 {
-  "updatedAt": "2026-06-30T09:35:42.178Z",
-  "headline": "국세청, 농협 중앙회 고강도 세무조사 착수...100여명 인력 투입 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-06-30T14:18:40.035Z",
+  "headline": "합천군, 지방보조금 전용계좌 새마을금고 까지 확대 운영 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
-      {
-        "title": "국세청, 농협 중앙회 고강도 세무조사 착수...100여명 인력 투입",
-        "link": "https://www.m-economynews.com/news/article.html?no=68288",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 30 Jun 2026 18:22:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
       {
         "title": "합천군, 지방보조금 전용계좌 새마을금고 까지 확대 운영",
         "link": "http://www.gndomin.com/news/articleView.html?idxno=480455",
@@ -38,18 +30,58 @@
     ],
     "otherFinance": [
       {
-        "title": "하나카드, 영세 자영업자 포용…카드론·신용대출 금리 12% 상한제",
-        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=264076",
+        "title": "IBK투자증권, 최광진 신임 대표이사 선임",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=139718",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 30 Jun 2026 18:34:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "pubDate": "Tue, 30 Jun 2026 22:46:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "보험사가 전력시장에 뛰어들었다… NH 농협 생명, 'BESS 프로젝트 금융 ' 주...",
+        "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=42097",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 30 Jun 2026 22:40:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "보험사가 전력시장에 뛰어들었다… NH농협생명, 'BESS 프로젝트 금융 ' 주...",
+        "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=42097",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 30 Jun 2026 22:40:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[ 농협 브리프] 농협 경제지주, 여름철 폭염 대비 하나로마트 식품안전 특...",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=86257",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 30 Jun 2026 22:24:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "\"어르신 보이스피싱 보상보험 무료 가입하세요\"",
+        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=552595",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 30 Jun 2026 21:44:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "NH 농협 생명, 광양 BESS 사업 PF 금융 주선",
+        "link": "https://www.newsinside.kr/news/articleView.html?idxno=4804050",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 30 Jun 2026 21:24:00 +0900",
+        "summary": "",
         "term": null
       },
       {
         "title": "충북 농협 , NH골든찬스예금 출시",
-        "link": "https://www.jbnews.com/news/articleView.html?idxno=1506801",
+        "link": "http://www.cctimes.kr/news/articleView.html?idxno=914297",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 30 Jun 2026 18:32:00 +0900",
+        "pubDate": "Tue, 30 Jun 2026 21:10:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": {
           "word": "Deposit Beta",
@@ -57,62 +89,41 @@
         }
       },
       {
-        "title": "NH투자증권, IB·WM 투톱 체제 출범...IMA 경쟁 위한 새판 짰다",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=464314",
+        "title": "농협 경제지주 경기본부, 포천 포도농가 찾아 영농철 일손돕기 실시",
+        "link": "http://www.fntimes.com/html/view.php?ud=202606302057525629dd55077bc2_18",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 30 Jun 2026 18:32:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "삼성증권, 반도체 우수기업IR 행사 'KSS IR Day' 성료 外",
-        "link": "https://www.rcast.co.kr/news/articleView.html?idxno=31168",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 30 Jun 2026 18:32:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "NH투자증권 작년 온실가스 배출량 8.8%↓..K-RE100 이행률 19%",
-        "link": "http://www.4th.kr/news/articleView.html?idxno=2113988",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 30 Jun 2026 18:30:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "한투증권 작년 온실가스 배출량 16.9%↓..전환 금융 확대",
-        "link": "http://www.4th.kr/news/articleView.html?idxno=2113992",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 30 Jun 2026 18:30:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "대신증권 작년 온실가스 배출량 2.4%↑..용수 사용량 5.7%↓",
-        "link": "http://www.4th.kr/news/articleView.html?idxno=2113987",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 30 Jun 2026 18:28:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "NH 농협 생명, 1649억원 규모 광양 BESS 사업 금융 주선 참여",
-        "link": "http://www.sisacast.kr/news/articleView.html?idxno=97277",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 30 Jun 2026 18:22:00 +0900",
+        "pubDate": "Tue, 30 Jun 2026 21:00:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "“7월 금리 올려도 역부족…‘2회 인상’ 시그널 없인 환율 1600원 넘을...",
-        "link": "https://n.news.naver.com/mnews/article/011/0004636640?sid=101",
+        "title": "동탄·기흥·구리, 주택대출 규제 강화… 7월부터 적용",
+        "link": "https://www.tokenpost.kr/news/policy/373983",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 30 Jun 2026 18:18:00 +0900",
+        "pubDate": "Tue, 30 Jun 2026 23:04:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "푸틴 경제책사 \"현재의 고금리론 오래 못버텨\"…금리 인하 촉구",
+        "link": "https://n.news.naver.com/mnews/article/421/0009032983?sid=104",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 30 Jun 2026 22:51:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
+      },
+      {
+        "title": "정부 장기연체채권 정리, 민간 NPL 시장까지 흡수하나?",
+        "link": "https://www.cnbnews.com/news/articleView.html?idxno=1006388",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 30 Jun 2026 22:08:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
       },
       {
         "title": "대출 4조 풀고 稅혜택… 사회연대기업 2000곳 육성",
