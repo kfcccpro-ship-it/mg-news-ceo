@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T19:55:54.486Z",
+  "updatedAt": "2026-07-01T22:17:17.606Z",
   "headline": "MG서천군 새마을금고 ·장애인·노인복지관 맞손…서천형 나눔복지 새 지... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -21,115 +21,131 @@
           "word": "Delinquency",
           "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
         }
-      },
-      {
-        "title": "[포토뉴스] 동해중앙 새마을금고 , 삼계닭 기탁",
-        "link": "https://n.news.naver.com/mnews/article/087/0001202595?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 01 Jul 2026 17:40:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "올해 韓성장률 전망 줄줄이 상향… 英기관-ING 은행 4%까지 제시",
-        "link": "https://n.news.naver.com/mnews/article/020/0003730964?sid=101",
+        "title": "신한, 리딩 금융 탈환 승부수…롯데손보 품고 '비 은행 퍼즐' 맞출까",
+        "link": "https://n.news.naver.com/mnews/article/119/0003107033?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Jul 2026 04:35:00 +0900",
+        "pubDate": "Thu, 02 Jul 2026 07:06:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "은행 은 퇴근, 카드·보험은 근무… 금융 지주사 주4.5일제 고심",
-        "link": "https://n.news.naver.com/mnews/article/008/0005380335?sid=101",
+        "title": "조달 비용 압박 속 카드사 해외채권의 효과적 발행 전략 필요 [서지용의...",
+        "link": "https://n.news.naver.com/mnews/article/119/0003107030?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Jul 2026 04:05:00 +0900",
+        "pubDate": "Thu, 02 Jul 2026 07:03:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "임원 보수증가율, 직원 2.7배… 은행권 연봉차이 점점 커진다",
-        "link": "https://n.news.naver.com/mnews/article/008/0005380330?sid=101",
+        "title": "[금융그룹 AX] AI도 원칙부터 세운다… 농협금융 , AX 시동",
+        "link": "https://dealsite.co.kr/articles/164420",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Jul 2026 04:04:00 +0900",
+        "pubDate": "Thu, 02 Jul 2026 06:32:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "임원 보수증가율, 직원 2.7배… 은행 권 연봉차이 점점 커진다",
-        "link": "https://n.news.naver.com/mnews/article/008/0005380330?sid=101",
+        "title": "유럽 IB 문법 배우는 농협 은행 런던지점…딜마다 '회고'로 노하우 쌓는...",
+        "link": "https://n.news.naver.com/mnews/article/008/0005380375?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Jul 2026 04:04:00 +0900",
+        "pubDate": "Thu, 02 Jul 2026 06:10:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "LCR",
+          "meaning": "단기 유동성 충격 대응 능력을 보여주는 지표"
+        }
+      },
+      {
+        "title": "당국, 카드사·상호금융 소집…'DSR·거래형태' 심사강화에 '풍선효과' ...",
+        "link": "https://n.news.naver.com/mnews/article/277/0005784383?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 02 Jul 2026 06:05:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "상반기 카드론 43조, 금융 당국 ‘브레이크’",
-        "link": "https://n.news.naver.com/mnews/article/005/0001858454?sid=101",
+        "title": "당국, 카드사·상호 금융 소집…'DSR·거래형태' 심사강화에 '풍선효과' ...",
+        "link": "https://n.news.naver.com/mnews/article/277/0005784383?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Jul 2026 02:23:00 +0900",
+        "pubDate": "Thu, 02 Jul 2026 06:05:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "국회 농해수위 새 수장에 서삼석 의원…\" 농협 개혁·식량안보 강화로 농...",
-        "link": "http://www.youngnong.co.kr/news/articleView.html?idxno=60635",
+        "title": "잠자는 카드포인트, 지역화폐로 바꾼다… 금융 당국 실행방안 검토",
+        "link": "https://n.news.naver.com/mnews/article/421/0009036030?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Jul 2026 02:22:00 +0900",
+        "pubDate": "Thu, 02 Jul 2026 05:40:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "농협 , 임원 보수 환수 및 퇴직자 재취업 제한 개혁 본격화",
-        "link": "https://www.tokenpost.kr/news/economy/374290",
+        "title": "보이스피싱 구제 신청, 은행 안가고 앱으로도 가능해져",
+        "link": "https://n.news.naver.com/mnews/article/020/0003730888?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Jul 2026 01:36:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "靑, 은행과 금융 분야 상생 성장전략 점검...하반기 '상생 금융 지수' 준비...",
-        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2444553",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Jul 2026 00:47:00 +0900",
-        "summary": "",
+        "pubDate": "Thu, 02 Jul 2026 00:31:00 +0900",
+        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "[모닝 뉴스브리핑] 미국 연준 금리 인상이 암호화폐 시장에 부담될 가능...",
-        "link": "https://www.tokenpost.kr/news/briefing/374323",
+        "title": "호실적에도 웃지 못하는 금융 권…하반기 수익성 방어 ‘비상’",
+        "link": "https://n.news.naver.com/mnews/article/119/0003107036?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Jul 2026 04:52:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Forward Guidance",
-          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
-        }
-      },
-      {
-        "title": "美연준 워시 의장 “인플레 위험 낮아졌지만 물가 너무 높아”",
-        "link": "https://n.news.naver.com/mnews/article/029/0003034840?sid=104",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Jul 2026 04:12:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Forward Guidance",
-          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
-        }
-      },
-      {
-        "title": "\"연말까지 맞추면 되니까 대출 더\"…당국 경고도 뭉개는 2금융권",
-        "link": "https://n.news.naver.com/mnews/article/008/0005380332?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Jul 2026 04:04:00 +0900",
+        "pubDate": "Thu, 02 Jul 2026 07:09:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "\"연말까지 맞추면 되니까 대출 더\"…당국 경고도 뭉개는 2 금융 권",
+        "title": "2분기 가계대출 다시 '들썩'…당국 압박에 '막차' 수요까지",
+        "link": "https://n.news.naver.com/mnews/article/119/0003107034?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 02 Jul 2026 07:06:00 +0900",
+        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "수출 1000억달러, 환율 1550원…한국 경제의 두 얼굴",
+        "link": "https://n.news.naver.com/mnews/article/665/0000007668?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 02 Jul 2026 07:06:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "'대출 틀어막기' 언제까지…규제 누적에 커지는 잠재 리스크",
+        "link": "https://n.news.naver.com/mnews/article/119/0003107031?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 02 Jul 2026 07:04:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "가계대출 늘었는데, 전세대출은 감소",
+        "link": "https://n.news.naver.com/mnews/article/011/0004637246?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 02 Jul 2026 06:30:00 +0900",
+        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "“홍명보라도 왔으면”…부실대출 눈덩이처럼 불어나는 ‘골목상권’",
+        "link": "https://n.news.naver.com/mnews/article/009/0005701579?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 02 Jul 2026 05:58:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "\"연말까지 맞추면 되니까 대출 더\"…당국 경고도 뭉개는 2금융권",
         "link": "https://n.news.naver.com/mnews/article/008/0005380332?sid=101",
         "source": "네이버뉴스",
         "pubDate": "Thu, 02 Jul 2026 04:04:00 +0900",
