@@ -1,8 +1,27 @@
 {
-  "updatedAt": "2026-07-01T09:47:09.910Z",
-  "headline": "[포토뉴스] 동해중앙 새마을금고 , 삼계닭 기탁 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-07-01T14:35:55.705Z",
+  "headline": "MG서천군 새마을금고 ·장애인·노인복지관 맞손…서천형 나눔복지 새 지... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "MG서천군 새마을금고 ·장애인·노인복지관 맞손…서천형 나눔복지 새 지...",
+        "link": "http://www.dynews.co.kr/news/articleView.html?idxno=856416",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 01 Jul 2026 21:58:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[단독] ① 손실 숨기려 '부실 회계'···'적자' 대구 새마을금고 의 두 ...",
+        "link": "https://n.news.naver.com/mnews/article/657/0000052967?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 01 Jul 2026 20:58:00 +0900",
+        "summary": "새마을금고 건전성 관리 흐름과 연결해 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
       {
         "title": "[포토뉴스] 동해중앙 새마을금고 , 삼계닭 기탁",
         "link": "https://n.news.naver.com/mnews/article/087/0001202595?sid=102",
@@ -10,115 +29,99 @@
         "pubDate": "Wed, 01 Jul 2026 17:40:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "\"고액 현금거래 지연보고\"..교남동 새마을금고 , 과태료 490만원",
-        "link": "http://www.4th.kr/news/articleView.html?idxno=2114050",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 01 Jul 2026 15:20:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "[ 금융 zip] 국민·기업은행, 전북 서남권 해상풍력 공모사업 우협 선정 外",
-        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=873868",
+        "title": "[자정 뉴스브리핑] 비자, 마스터카드 등 주요 금융 사 OUSD 공동 스테이블...",
+        "link": "https://www.tokenpost.kr/news/briefing/374269",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 01 Jul 2026 18:42:00 +0900",
+        "pubDate": "Wed, 01 Jul 2026 23:32:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "신현송 \"토큰화 시대 열린다\"…중앙 은행 중심 미래 화폐체계 제시",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1714744",
+        "title": "1차 농협 개혁, 22대 국회 후반기 입법 추진",
+        "link": "http://www.newsfarm.co.kr/news/articleView.html?idxno=101517",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 01 Jul 2026 18:42:00 +0900",
+        "pubDate": "Wed, 01 Jul 2026 22:54:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[ 금융 zip] 국민·기업 은행 , 전북 서남권 해상풍력 공모사업 우협 선정 外",
-        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=873868",
+        "title": "[기획] 카드론 43조의 역풍...카드사 수익원, 규제 대상이 됐다",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=805322",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 01 Jul 2026 18:42:00 +0900",
+        "pubDate": "Wed, 01 Jul 2026 22:30:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[인사] KB국민 은행 지역본부장 및 부점장급 인사",
-        "link": "https://n.news.naver.com/mnews/article/629/0000512409?sid=101",
+        "title": "마산중부서, 보이스피싱 예방 농협 직원에 감사장·포상금",
+        "link": "http://www.gnmaeil.com/news/articleView.html?idxno=589830",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 01 Jul 2026 18:41:00 +0900",
+        "pubDate": "Wed, 01 Jul 2026 21:46:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "빚에 무너지는 안전망… 힘들어진 서민들 보험부터 깼다",
-        "link": "https://n.news.naver.com/mnews/article/005/0001858351?sid=101",
+        "title": "서생 농협 최남식 '우수 조합장'",
+        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=578313",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 01 Jul 2026 18:36:00 +0900",
+        "pubDate": "Wed, 01 Jul 2026 21:42:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "은행 계좌로 바로 주식 산다…신한 ‘쏠링크’ 써보니",
-        "link": "https://n.news.naver.com/mnews/article/011/0004637149?sid=101",
+        "title": "[카드 뉴스브리핑] 하나카드 '무빙카드' 출시",
+        "link": "https://www.asiatime.co.kr/article/20260701500427",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 01 Jul 2026 18:35:00 +0900",
+        "pubDate": "Wed, 01 Jul 2026 21:28:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[인사] KB국민 은행",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1381906",
+        "title": "[포토] 농협 상호 금융 , 지정맥 생체인증 기반 내부통제 시스템 구축",
+        "link": "https://n.news.naver.com/mnews/article/018/0006320342?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 01 Jul 2026 18:34:00 +0900",
+        "pubDate": "Wed, 01 Jul 2026 21:13:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "NH 농협 은행 ‘NH KRX골드 채움신탁’ 출시",
-        "link": "https://n.news.naver.com/mnews/article/382/0001281140?sid=101",
+        "title": "[ 금융 신상] 신한은행· 농협 은행·기업은행 등",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=139827",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 01 Jul 2026 18:33:00 +0900",
+        "pubDate": "Wed, 01 Jul 2026 21:10:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "신현송 한은 총재 \"통합원장서 발행된 예금토큰이 스테이블코인 약점 해...",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1381886",
+        "title": "워시 미 연준 의장 \"회의실 문 닫고 결정\"…금리 인상 선제 안내 거부",
+        "link": "https://www.newspim.com/news/view/20260701001480",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 01 Jul 2026 18:46:00 +0900",
-        "summary": "",
+        "pubDate": "Wed, 01 Jul 2026 23:02:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
         }
       },
       {
-        "title": "달러 환율 1555",
-        "link": "http://www.econotelling.com/news/articleView.html?idxno=20822",
+        "title": "가스터빈부터 SMR까지...두산에너빌, '수출경쟁력' 인정받다",
+        "link": "https://www.energy-news.co.kr/news/articleView.html?idxno=226515",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 01 Jul 2026 18:34:00 +0900",
+        "pubDate": "Wed, 01 Jul 2026 22:48:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "금융 위, 방카슈랑스 '25%룰' 완화… 소비자 상품 선택권 확대",
-        "link": "https://www.insnews.co.kr/news/articleView.html?idxno=91630",
+        "title": "[Economy Focus] '환율 1,560원' 딜레마 속, 문 열리는 '24시간 외환시장...",
+        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=272335",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 01 Jul 2026 18:24:00 +0900",
-        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
-        "term": null
-      },
-      {
-        "title": "월세화 가속…5대銀 전세대출 감소 전환",
-        "link": "https://n.news.naver.com/mnews/article/011/0004637138?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 01 Jul 2026 18:10:00 +0900",
+        "pubDate": "Wed, 01 Jul 2026 22:40:00 +0900",
         "summary": "",
         "term": null
       },
@@ -127,14 +130,6 @@
         "link": "https://n.news.naver.com/mnews/article/008/0005380176?sid=101",
         "source": "네이버뉴스",
         "pubDate": "Wed, 01 Jul 2026 16:39:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "웰크론한텍, 시화MTV PF 채무인수 의무 해소…400억 재무 부담 덜어",
-        "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=202695",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 01 Jul 2026 13:54:00 +0900",
         "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
         "term": null
       }
