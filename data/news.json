@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T08:56:02.819Z",
+  "updatedAt": "2026-07-02T11:35:30.426Z",
   "headline": "춘천시-MG 새마을금고 지방보조금 전용계좌 협약 체결 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -26,104 +26,83 @@
         "pubDate": "Thu, 02 Jul 2026 15:42:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "“중앙회장 영향력 차단”…신협 경영진 견제 강화 개정안 발의",
-        "link": "https://n.news.naver.com/mnews/article/016/0002664965?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Jul 2026 15:35:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "[은행 뉴스브리핑] 우리은행 '삼성월렛머니·포인트' 다이소·CU 신규 참...",
-        "link": "https://www.asiatime.co.kr/article/20260702500403",
+        "title": "돈에 '꼬리표' 붙이는 예금토큰...카드사 체크·선불시장 흔든다",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=361536",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Jul 2026 17:54:00 +0900",
+        "pubDate": "Thu, 02 Jul 2026 20:32:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "[ 금융 Pick] 신한 은행 ·부산 은행 , 한국서비스품질지수 1위…고객 중심 서...",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=204365",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 02 Jul 2026 20:20:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "Sh수협 은행 , AI로 기업 신용위험 조기 진단…'크레디트래커' 공개",
-        "link": "https://www.ziksir.com/news/articleView.html?idxno=138924",
+        "title": "[iN The Scene] KB국민 은행 ‘KB AI Dev 센터’ 본격 가동",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=88888",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Jul 2026 17:54:00 +0900",
+        "pubDate": "Thu, 02 Jul 2026 20:12:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[ 은행 뉴스브리핑] 우리 은행 '삼성월렛머니·포인트' 다이소·CU 신규 참...",
-        "link": "https://www.asiatime.co.kr/article/20260702500403",
+        "title": "일본 은행 들, 인도 전력망 확충에 4억9600만달러 지원",
+        "link": "https://www.tokenpost.kr/news/breaking/374553",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Jul 2026 17:54:00 +0900",
+        "pubDate": "Thu, 02 Jul 2026 20:08:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[ 은행 뉴스브리핑] 국민 은행 'KB AI Dev 센터' 출범",
-        "link": "https://www.asiatime.co.kr/article/20260702500401",
+        "title": "[ 금융 픽] 신한은행·KB국민은행·NH 농협 은행·현대카드·신한카드",
+        "link": "http://www.newsian.co.kr/news/articleView.html?idxno=91754",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Jul 2026 17:52:00 +0900",
+        "pubDate": "Thu, 02 Jul 2026 20:04:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "KB 금융 , 주주환원·증권사 육성 ‘투트랙’…기업가치 제고 속도",
-        "link": "https://www.ceoscoredaily.com/page/view/2026070214523748838",
+        "title": "경기 광주 오포 농협 , NH손해보험 ‘TOP-CLASS상’ 수상",
+        "link": "https://n.news.naver.com/mnews/article/662/0000098809?sid=102",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Jul 2026 17:50:00 +0900",
+        "pubDate": "Thu, 02 Jul 2026 19:35:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "당진 농협 , 시니어 70여 명 보이스피싱 예방교육",
-        "link": "http://www.djtimes.co.kr/news/articleView.html?idxno=112537",
+        "title": "농협 은행 전북본부, 농촌 일손돕기 ‘구슬땀’",
+        "link": "https://n.news.naver.com/mnews/article/662/0000098803?sid=102",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Jul 2026 17:42:00 +0900",
+        "pubDate": "Thu, 02 Jul 2026 19:12:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "NH 농협 밀양시지부·NH손해보험경남총국 '우리농산물 소비 촉진'",
-        "link": "https://www.idomin.com/news/articleView.html?idxno=2009285",
+        "title": "외국인 투자금 잡아라… 은행권 FDI 원스톱 서비스 경쟁",
+        "link": "https://n.news.naver.com/mnews/article/014/0005543137?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Jul 2026 17:42:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[은행업계 소식] 하나은행, NH 농협 은행, BNK부산은행",
-        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=264884",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Jul 2026 17:38:00 +0900",
+        "pubDate": "Thu, 02 Jul 2026 18:24:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "한 총리, 첫 비상경제점검회의 주재…\"물가·취약계층 보호 최우선\"",
-        "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148967533&call_from=naver_news",
+        "title": "비트코인 반등에도 유동성 변수 여전…7만 달러 회복이 분기점",
+        "link": "https://www.tokenpost.kr/news/cryptocurrency/374558",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Jul 2026 17:51:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "소비자물가 3.2%…2년반만에 최대폭 상승",
-        "link": "https://n.news.naver.com/mnews/article/009/0005702067?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Jul 2026 17:51:00 +0900",
-        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
-        "term": null
-      },
-      {
-        "title": "CJ푸드빌 美법인 빚보증만 900억, 유동성 관리 시험대",
-        "link": "https://www.1conomynews.co.kr/news/articleView.html?idxno=49382",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Jul 2026 17:50:00 +0900",
+        "pubDate": "Thu, 02 Jul 2026 20:32:00 +0900",
         "summary": "",
         "term": {
           "word": "LCR",
@@ -131,15 +110,53 @@
         }
       },
       {
-        "title": "달러예금 증가세로 전환…석 달 만에 10조원 유입",
-        "link": "https://n.news.naver.com/mnews/article/015/0005305696?sid=101",
+        "title": "[투자전략] 달러-원 환율 1,600원 열리나…외국인 매도 변수",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=16121428",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 02 Jul 2026 17:48:00 +0900",
+        "pubDate": "Thu, 02 Jul 2026 20:24:00 +0900",
         "summary": "",
+        "term": null
+      },
+      {
+        "title": "[EBN 오늘(2일) 이슈 종합] 국민연금 리밸런싱 첫날, 중기대출 줄고 가계...",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1714934",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 02 Jul 2026 20:16:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "LCR",
+          "meaning": "단기 유동성 충격 대응 능력을 보여주는 지표"
+        }
+      },
+      {
+        "title": "[고환율의 늪] 대출금리 가파르게 올라…자영업자·소상공인 '이자 폭탄...",
+        "link": "https://n.news.naver.com/mnews/article/088/0001017364?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 02 Jul 2026 19:30:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "NIM",
+          "meaning": "금리 변화가 금융기관 수익성에 미치는 영향을 보여주는 핵심 지표"
+        }
+      },
+      {
+        "title": "시중·저축銀 예금금리 격차 더 벌어졌다",
+        "link": "https://n.news.naver.com/mnews/article/014/0005543136?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 02 Jul 2026 18:23:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": {
           "word": "Deposit Beta",
           "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
         }
+      },
+      {
+        "title": "'빚투'에 2금융권 대출도 급증… 고삐 죄는 금융당국",
+        "link": "https://n.news.naver.com/mnews/article/014/0005543080?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 02 Jul 2026 18:06:00 +0900",
+        "summary": "",
+        "term": null
       },
       {
         "title": "국회 '신용협동조합' 개혁 시동⋯'건전성 강화법' 추진",
