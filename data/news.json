@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T14:04:16.303Z",
+  "updatedAt": "2026-07-03T16:23:59.230Z",
   "headline": "새마을금고 , 사회연대경제조직과 손잡고 지역 상생금융 강화 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -65,42 +65,26 @@
     ],
     "otherFinance": [
       {
-        "title": "[7월3일 인사종합] 우리 은행 외",
-        "link": "https://n.news.naver.com/mnews/article/029/0003035175?sid=102",
+        "title": "[인사] 우리 금융 지주·우리 은행",
+        "link": "https://www.apnews.kr/news/articleView.html?idxno=3049492",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 03 Jul 2026 22:40:00 +0900",
+        "pubDate": "Sat, 04 Jul 2026 00:46:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "개인정보 유출·내부통제 강화 '같은 날'…우리 은행 '엇박자' 도마",
-        "link": "https://wemakenews.co.kr/news/view.php?no=25687",
+        "title": "우리 은행 , 고객정보 1만7000여건 유출… 재수탁사 관리 소홀이 부른 사...",
+        "link": "https://weeklytrade.co.kr/news/view.html?section=1&category=6&item=&no=100473",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 03 Jul 2026 22:38:00 +0900",
+        "pubDate": "Sat, 04 Jul 2026 00:26:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[인사] 우리 은행",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3414376",
+        "title": "\"금감원에 허위보고\"..한국양계 농협 임직원 무더기 제재",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2114221",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 03 Jul 2026 22:38:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "우리 은행 , 데이터 기반 영업 강화 조직개편 단행",
-        "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=897098",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 03 Jul 2026 22:26:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "BNK경남 은행 , 밀양 지역 학생 위한 장학기금 1천만원 기탁",
-        "link": "https://www.tokenpost.kr/news/society/374897",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 03 Jul 2026 22:26:00 +0900",
+        "pubDate": "Fri, 03 Jul 2026 23:40:00 +0900",
         "summary": "",
         "term": null
       },
@@ -113,29 +97,56 @@
         "term": null
       },
       {
-        "title": "NH농협 은행 인천본부, 도서지역 초등생에 '어린이동산' 5400부 기부",
-        "link": "https://www.fntimes.com/html/view.php?ud=202607032201038356dd55077bc2_18",
+        "title": "농협 , 글로벌 스타 아일릿과 쌀 소비 혁신…MZ세대 겨냥 캠페인 본격화",
+        "link": "https://www.fntimes.com/html/view.php?ud=202607032156234526dd55077bc2_18",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 03 Jul 2026 22:06:00 +0900",
+        "pubDate": "Fri, 03 Jul 2026 22:00:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[인사] 우리 금융 지주·우리 은행",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1382825",
+        "title": "농협 , 애그테크 혁신 플랫폼 키운다…'NHarvestX' 4기 발대식 개최",
+        "link": "https://www.fntimes.com/html/view.php?ud=202607032142291227dd55077bc2_18",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 03 Jul 2026 22:02:00 +0900",
+        "pubDate": "Fri, 03 Jul 2026 21:56:00 +0900",
+        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "농협 ·고향주부모임, 양파 소비촉진 캠페인 전개…취약계층 나눔도 함께",
+        "link": "https://www.fntimes.com/html/view.php?ud=202607032137275306dd55077bc2_18",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 03 Jul 2026 21:40:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "농협 강원본부, 지역 아동 위한 축산물 나눔 행사 개최",
+        "link": "https://www.fntimes.com/html/view.php?ud=202607032133029385dd55077bc2_18",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 03 Jul 2026 21:36:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "LTV 40% 직격탄...동탄-기흥-구리 대출규제 본격화",
-        "link": "https://www.cnbnews.com/news/articleView.html?idxno=1006787",
+        "title": "ECB, 연내 1~2회 추가 금리인상 예상…일본도 31년 만에 1%대 금리 시대...",
+        "link": "https://n.news.naver.com/mnews/article/353/0000055949?sid=102",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 03 Jul 2026 22:48:00 +0900",
-        "summary": "",
+        "pubDate": "Sat, 04 Jul 2026 01:02:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Terminal Rate",
+          "meaning": "기준금리 인상 사이클의 최종 수준에 대한 시장 기대"
+        }
+      },
+      {
+        "title": "중소기업 부채비율 146%…고금리 공포 닥친다",
+        "link": "https://n.news.naver.com/mnews/article/353/0000055909?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 04 Jul 2026 00:02:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       },
       {
