@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T16:09:01.794Z",
+  "updatedAt": "2026-07-05T19:17:50.498Z",
   "headline": "HD현대重 새마을금고 , 중구 무료급식소에 360만원 후원 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -50,14 +50,6 @@
         "pubDate": "Sun, 05 Jul 2026 18:42:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "새마을금고 , 지역 협동조합과 손잡고 사회안전망 강화 나서",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3626670",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 05 Jul 2026 17:04:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
@@ -66,14 +58,6 @@
         "link": "https://www.thebilliards.kr/news/articleView.html?idxno=31342",
         "source": "네이버뉴스",
         "pubDate": "Mon, 06 Jul 2026 01:02:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "한국 은행 , 삼전닉스 레버리지 ETF에 이례적 경고",
-        "link": "https://n.news.naver.com/mnews/article/005/0001859050?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 06 Jul 2026 00:24:00 +0900",
         "summary": "",
         "term": null
       },
@@ -128,11 +112,30 @@
     ],
     "macro": [
       {
-        "title": "[사설] 24시간 외환거래, 환율 안정 출발점은 시장 신뢰",
-        "link": "https://n.news.naver.com/mnews/article/015/0005306451?sid=110",
+        "title": "JP모건, 이자 지급형 스테이블코인 재차 경고 '예금 대체 우려'",
+        "link": "https://www.khgames.co.kr/news/articleView.html?idxno=306066",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 06 Jul 2026 00:14:00 +0900",
+        "pubDate": "Mon, 06 Jul 2026 04:06:00 +0900",
         "summary": "",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "[사설]'내수부진에 빚잔치만' 파산·폐업 급증",
+        "link": "https://n.news.naver.com/mnews/article/008/0005381638?sid=110",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 06 Jul 2026 04:03:00 +0900",
+        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
+        "term": null
+      },
+      {
+        "title": "韓·美 엇갈린 금리 시계… 원화엔 ‘약’ 가계엔 ‘독’",
+        "link": "https://n.news.naver.com/mnews/article/005/0001859079?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 06 Jul 2026 02:05:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       }
     ]
