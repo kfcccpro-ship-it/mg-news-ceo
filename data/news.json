@@ -1,19 +1,35 @@
 {
-  "updatedAt": "2026-07-05T13:39:16.935Z",
-  "headline": "서울산 새마을금고 삼호지점 5100만원 나눔 착한기업 현판 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-07-05T16:09:01.794Z",
+  "headline": "HD현대重 새마을금고 , 중구 무료급식소에 360만원 후원 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
-        "title": "서울산 새마을금고 삼호지점 5100만원 나눔 착한기업 현판",
-        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=578454",
+        "title": "HD현대重 새마을금고 , 중구 무료급식소에 360만원 후원",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1061250",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 05 Jul 2026 20:36:00 +0900",
+        "pubDate": "Mon, 06 Jul 2026 00:04:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "일산 새마을금고 , 동구청에 성금 200만원",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1061249",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 06 Jul 2026 00:04:00 +0900",
         "summary": "",
         "term": null
       },
       {
         "title": "동구 일산 새마을금고 , 이웃돕기 성금 200만원",
         "link": "https://www.ulsanpress.net/news/articleView.html?idxno=578473",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 05 Jul 2026 20:36:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "서울산 새마을금고 삼호지점 5100만원 나눔 착한기업 현판",
+        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=578454",
         "source": "네이버뉴스",
         "pubDate": "Sun, 05 Jul 2026 20:36:00 +0900",
         "summary": "",
@@ -42,17 +58,65 @@
         "pubDate": "Sun, 05 Jul 2026 17:04:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "상호금융도 과징금 50%?… 새마을금고 , 금소법 선제대응 완료",
-        "link": "https://n.news.naver.com/mnews/article/008/0005381586?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 05 Jul 2026 15:12:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
+      {
+        "title": "가슴 쓸어내린 'PBA챔프' 하나카드…팀리그 첫날 '천적' 웰컴저축銀에 ...",
+        "link": "https://www.thebilliards.kr/news/articleView.html?idxno=31342",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 06 Jul 2026 01:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "한국 은행 , 삼전닉스 레버리지 ETF에 이례적 경고",
+        "link": "https://n.news.naver.com/mnews/article/005/0001859050?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 06 Jul 2026 00:24:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "NH 농협 울산본부, 어린이 금융 교실",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1061258",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 06 Jul 2026 00:04:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[기자수첩] 농협 이전, 지방부흥 만능키 아냐",
+        "link": "https://www.fntimes.com/html/view.php?ud=202607040052141734dd55077bc2_18",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 06 Jul 2026 00:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "경주署, 보이스피싱 피해 막은 은행 직원에 감사장",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3626794",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 05 Jul 2026 23:46:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "웰컴저축은행 프로당구 팀리그 광명서 개막",
+        "link": "http://www.joygm.com/news/articleView.html?idxno=215337",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 05 Jul 2026 23:38:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "한국투자증권, 글로벌 부동산 대체투자 운용사 CEO 네트워크 행사 개최...",
+        "link": "https://www.rcast.co.kr/news/articleView.html?idxno=31196",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 05 Jul 2026 22:46:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "경북 농협 , 상호 금융 대출금 상반기 35조 달성 '쾌거'",
         "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=552969",
@@ -60,78 +124,16 @@
         "pubDate": "Sun, 05 Jul 2026 21:44:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
-      },
-      {
-        "title": "고액 사기 인출 직전 막았다... 창원중부서, 은행 원 2명 포상",
-        "link": "http://www.gnmaeil.com/news/articleView.html?idxno=590037",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 05 Jul 2026 21:34:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[인사]우리 은행",
-        "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=659801",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 05 Jul 2026 21:08:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "이상태 대구 다사 농협 조합장, '새로운 농협 조합장상' 수상",
-        "link": "https://www.hidomin.com/news/articleView.html?idxno=712055",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 05 Jul 2026 20:38:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "NH 농협 은행 울산본부, 어린이 대상 행복채움 금융 교실",
-        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=578475",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 05 Jul 2026 20:36:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "청주 내수 농협 , 청주청원경찰서와 보이스피싱 예방교육",
-        "link": "http://www.cctimes.kr/news/articleView.html?idxno=915000",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 05 Jul 2026 19:30:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "macro": [
       {
-        "title": "iM뱅크, 금리·생활쿠폰 혜택 '착착통장' 출시",
-        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=552945",
+        "title": "[사설] 24시간 외환거래, 환율 안정 출발점은 시장 신뢰",
+        "link": "https://n.news.naver.com/mnews/article/015/0005306451?sid=110",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 05 Jul 2026 21:24:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "pubDate": "Mon, 06 Jul 2026 00:14:00 +0900",
+        "summary": "",
         "term": null
-      },
-      {
-        "title": "[신탁 대전①] 예금·대출 밖 1500조… 금융 권의 새 먹거리",
-        "link": "https://www.tfmedia.co.kr/news/article.html?no=205518",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 05 Jul 2026 21:08:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
-      },
-      {
-        "title": "예금 빼고 마통 뚫고…2분기 일평균 '빚투' 61조 사상 최대",
-        "link": "https://n.news.naver.com/mnews/article/015/0005306436?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 05 Jul 2026 20:27:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
       }
     ]
   }
