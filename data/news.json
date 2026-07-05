@@ -1,8 +1,24 @@
 {
-  "updatedAt": "2026-07-05T08:52:22.450Z",
-  "headline": "새마을금고 , 지역 협동조합과 손잡고 사회안전망 강화 나서 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-07-05T11:03:45.220Z",
+  "headline": "대구 와룡 새마을금고 봉사단, 소망모자원에 나눔 활동 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "대구 와룡 새마을금고 봉사단, 소망모자원에 나눔 활동",
+        "link": "https://www.hidomin.com/news/articleView.html?idxno=712039",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 05 Jul 2026 19:58:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "일산 새마을금고 , 동구 이웃돕기 성금",
+        "link": "http://www.ujeil.com/news/articleView.html?idxno=388337",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 05 Jul 2026 18:42:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "새마을금고 , 지역 협동조합과 손잡고 사회안전망 강화 나서",
         "link": "https://www.gukjenews.com/news/articleView.html?idxno=3626670",
@@ -42,108 +58,89 @@
         "pubDate": "Sun, 05 Jul 2026 14:17:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "새마을금고 , 사회연대경제조직 협력해 현장 밀착형 상생금융 사업 강화",
-        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=254267",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 05 Jul 2026 11:00:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "증시자금 은행 컴백 … 올 총수신 90조 '쑥'",
-        "link": "https://n.news.naver.com/mnews/article/009/0005702953?sid=101",
+        "title": "청주 내수 농협 , 청주청원경찰서와 보이스피싱 예방교육",
+        "link": "http://www.cctimes.kr/news/articleView.html?idxno=915000",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 05 Jul 2026 17:51:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
-      },
-      {
-        "title": "[취재후일담]CEO 연임 없는 농협금융 , 연속성 고려한 경영승계는 언제쯤...",
-        "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260703010001341",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 05 Jul 2026 17:42:00 +0900",
+        "pubDate": "Sun, 05 Jul 2026 19:30:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[취재후일담]CEO 연임 없는 농협 금융 , 연속성 고려한 경영승계는 언제쯤...",
-        "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260703010001341",
+        "title": "루미스 의원 “클래리티법, 은행 의 비트코인·가상자산 보유 허용”",
+        "link": "https://www.tokenpost.kr/news/breaking/375167",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 05 Jul 2026 17:42:00 +0900",
+        "pubDate": "Sun, 05 Jul 2026 19:28:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "우리 은행 , 리테일 조직 재편…정진완號 데이터 기반 영업 강화",
-        "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260705010001610",
+        "title": "日 62조 ‘빚투’에 배불린 증권사… 이자수익만 1.4조",
+        "link": "https://n.news.naver.com/mnews/article/022/0004140661?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 05 Jul 2026 17:42:00 +0900",
+        "pubDate": "Sun, 05 Jul 2026 19:22:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "경주경찰서, 보이스피싱 피해 막은 은행원에 감사장 수여",
-        "link": "https://www.dkilbo.com/news/articleView.html?idxno=547757",
+        "title": "[인사] 우리 은행",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7172936",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 05 Jul 2026 17:00:00 +0900",
+        "pubDate": "Sun, 05 Jul 2026 19:16:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "경북 농협 , 상호 금융 대출금 35조 원 달성탑 기념식 개최",
-        "link": "https://www.dkilbo.com/news/articleView.html?idxno=547750",
+        "title": "전북 은행 김성수 마케팅기획부장, 지역상생 공로 인정받아 무주군 명예...",
+        "link": "https://sjbnews.com/news/news.php?number=882220",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 05 Jul 2026 17:00:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "멈추지 않는 농협 개혁…\"7~8월 중 2차 농협 개혁안 발표\"",
-        "link": "http://www.ikpnews.net/news/articleView.html?idxno=70877",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 05 Jul 2026 16:56:00 +0900",
+        "pubDate": "Sun, 05 Jul 2026 19:04:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "KB금융 차기 회장 레이스 본격화···지주·은행·카드·보험 인사 포진",
-        "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=255822",
+        "title": "홈플러스에 1조 넣은 은행…얼마나 회수할까",
+        "link": "https://n.news.naver.com/mnews/article/015/0005306409?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 05 Jul 2026 13:40:00 +0900",
+        "pubDate": "Sun, 05 Jul 2026 18:43:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "NH 농협 은행 울산본부, 어린이 금융 교실",
+        "link": "http://www.ujeil.com/news/articleView.html?idxno=388285",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 05 Jul 2026 18:42:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "NH 농협 밀양시지부·NH손해보험경남총국 '우리농산물 소비 촉진'",
+        "link": "https://www.idomin.com/news/articleView.html?idxno=2009397",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 05 Jul 2026 18:26:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "금리 뛰자 회사채 순발행 10분의1로 뚝",
-        "link": "https://n.news.naver.com/mnews/article/009/0005702943?sid=101",
+        "title": "상반기 환율 환란 후 최고… 6일부터 24시간 거래",
+        "link": "https://n.news.naver.com/mnews/article/022/0004140660?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 05 Jul 2026 17:50:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "“대출방식 바꾸자 선박 금융 79배 확대…수은이 ‘마스가’ 기틀 마련”",
-        "link": "https://n.news.naver.com/mnews/article/011/0004638262?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 05 Jul 2026 17:47:00 +0900",
+        "pubDate": "Sun, 05 Jul 2026 19:21:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "금융당국 가계대출 '더 꽉 조인다'…주택 실수요자 '사면초가'",
-        "link": "https://www.asiatime.co.kr/article/20260701500419",
+        "title": "10만 일자리 걸린 '운명의 2주'… 파산땐 6兆 소비 어디로 [홈플러스 청...",
+        "link": "https://n.news.naver.com/mnews/article/014/0005543825?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 05 Jul 2026 10:26:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
+        "pubDate": "Sun, 05 Jul 2026 18:09:00 +0900",
+        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
         "term": null
       }
     ]
