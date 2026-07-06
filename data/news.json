@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T15:32:56.047Z",
+  "updatedAt": "2026-07-06T19:57:24.955Z",
   "headline": "경찰·일산 새마을금고 , 보이스피싱 사기 협약 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -70,30 +70,6 @@
     ],
     "otherFinance": [
       {
-        "title": "[지금 일본에선(916)] 엔-달러 162엔 돌파에 일본 은행 외환시장 개입 촉...",
-        "link": "https://www.news2day.co.kr/article/20260707500003",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 07 Jul 2026 00:30:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "클라르나, 미국 은행 라이선스 신청",
-        "link": "https://www.tokenpost.kr/news/breaking/375424",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 07 Jul 2026 00:20:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "세계로 뻗어 몸집 불렸지만 ‘이자장사’ 갇힌 은행 들… 수익성은 뒷걸...",
-        "link": "https://n.news.naver.com/mnews/article/005/0001859305?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 07 Jul 2026 00:08:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
         "title": "NH투자증권 자기자본 10조 넘으며 증권업계 '10조대 대형IB 3강시대' 도래",
         "link": "https://www.moneystorm.kr/news/articleView.html?idxno=4917",
         "source": "네이버뉴스",
@@ -135,33 +111,33 @@
         "pubDate": "Mon, 06 Jul 2026 21:12:00 +0900",
         "summary": "",
         "term": null
+      },
+      {
+        "title": "잠자는 정부자금 18조원, 기업은행으로 흐를까",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=249638",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 06 Jul 2026 21:04:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "NH투자증권, 실적 호조와 자본 확충의 시너지 : 메디컬투데이TV",
+        "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=603837",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 06 Jul 2026 20:10:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "NH 농협 은행, 에이전틱 AI 기반 시스템 구성도 자동화 체계 구축",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=310279",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 06 Jul 2026 19:36:00 +0900",
+        "summary": "",
+        "term": null
       }
     ],
     "macro": [
-      {
-        "title": "“24시간 환율 대응”… 원화 국제화에 기업들 환영",
-        "link": "https://n.news.naver.com/mnews/article/020/0003731929?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 07 Jul 2026 00:32:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "고금리·고물가·고환율 3고에 도내 20년 이상 법인 줄폐업",
-        "link": "https://n.news.naver.com/mnews/article/654/0000189211?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 07 Jul 2026 00:10:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "오전 6시, 환율 그래프 움직였다…24시간 외환거래 첫발",
-        "link": "https://n.news.naver.com/mnews/article/025/0003535747?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 07 Jul 2026 00:02:00 +0900",
-        "summary": "",
-        "term": null
-      },
       {
         "title": "예금 빼고 마통 당겨서 '묻지마 주식'…상승장 달군 '빚투' 경고음",
         "link": "https://www.ziksir.com/news/articleView.html?idxno=139192",
