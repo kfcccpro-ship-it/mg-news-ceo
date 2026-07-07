@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-07-07T19:54:53.862Z",
-  "headline": "[금융] 산업은행 광주 창업거점 / 롯데손보 물놀이보험 / 새마을금고 수... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-07-07T22:10:37.053Z",
+  "headline": "[굿모닝금융] KB금융·JB금융· 새마을금고 등 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "[굿모닝금융] KB금융·JB금융· 새마을금고 등",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=140195",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 08 Jul 2026 06:26:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "[금융] 산업은행 광주 창업거점 / 롯데손보 물놀이보험 / 새마을금고 수...",
         "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2225276",
         "source": "네이버뉴스",
         "pubDate": "Tue, 07 Jul 2026 23:00:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[ 금융 HOT 뉴스] 광주은행 등 6개 지방은행, 금고지정 제도 개선 공동 건...",
-        "link": "http://www.bizwnews.com/news/articleView.html?idxno=140178",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 07 Jul 2026 22:24:00 +0900",
         "summary": "",
         "term": null
       },
@@ -32,14 +32,6 @@
         "link": "https://www.ulsanpress.net/news/articleView.html?idxno=578671",
         "source": "네이버뉴스",
         "pubDate": "Tue, 07 Jul 2026 21:42:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "광주은행 등 6개 지방은행, 행안부에 금고지정 평가기준 개선 공동 건의",
-        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=874421",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 07 Jul 2026 21:36:00 +0900",
         "summary": "",
         "term": null
       },
@@ -70,100 +62,90 @@
     ],
     "otherFinance": [
       {
-        "title": "은행 당 위탁사 127곳·재위탁 51건… 개인정보 외주관리 비상",
-        "link": "https://n.news.naver.com/mnews/article/008/0005382829?sid=101",
+        "title": "금융 위가 꺼낸 CIFO 카드…포용 금융 책임시대 올까",
+        "link": "https://n.news.naver.com/mnews/article/119/0003109034?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 08 Jul 2026 04:17:00 +0900",
+        "pubDate": "Wed, 08 Jul 2026 07:09:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "러시아 최대 은행 , 가상화폐 지갑 사업 착수",
-        "link": "https://www.khgames.co.kr/news/articleView.html?idxno=306144",
+        "title": "수신 조달 온도차…시중은행 ‘포트폴리오 다변화’, 저축은행 ‘예금...",
+        "link": "https://n.news.naver.com/mnews/article/119/0003109031?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 08 Jul 2026 04:08:00 +0900",
+        "pubDate": "Wed, 08 Jul 2026 07:04:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "수신 조달 온도차…시중 은행 ‘포트폴리오 다변화’, 저축 은행 ‘예금...",
+        "link": "https://n.news.naver.com/mnews/article/119/0003109031?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 08 Jul 2026 07:04:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "PF 부실 장기화에 비은행권 '휘청'…실물경제도 부담",
+        "link": "https://n.news.naver.com/mnews/article/119/0003109029?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 08 Jul 2026 07:03:00 +0900",
         "summary": "",
-        "term": null
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
       },
       {
-        "title": "美 대형 은행 , 직불카드 수수료 우회로 찾나",
-        "link": "https://www.g-enews.com/view.php?ud=2026070723273496359a1f309431_1",
+        "title": "PF 부실 장기화에 비 은행 권 '휘청'…실물경제도 부담",
+        "link": "https://n.news.naver.com/mnews/article/119/0003109029?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 08 Jul 2026 03:02:00 +0900",
+        "pubDate": "Wed, 08 Jul 2026 07:03:00 +0900",
         "summary": "",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "대기업엔 '문 활짝', 중기엔 '빗장'…은행권 대출 양극화 심화",
+        "link": "https://n.news.naver.com/mnews/article/119/0003109027?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 08 Jul 2026 07:02:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "유럽중앙 은행 \"미토스발 AI 보안 위협 대책 세워라\"",
-        "link": "https://n.news.naver.com/mnews/article/052/0002376198?sid=104",
+        "title": "대기업엔 '문 활짝', 중기엔 '빗장'… 은행 권 대출 양극화 심화",
+        "link": "https://n.news.naver.com/mnews/article/119/0003109027?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 08 Jul 2026 02:43:00 +0900",
-        "summary": "",
+        "pubDate": "Wed, 08 Jul 2026 07:02:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "[증권 뉴스브리핑] '모험자본 투자플랫폼' 출범/금감원 퇴직자 재취업 ...",
-        "link": "https://www.asiatime.co.kr/article/20260708500002",
+        "title": "[Invest]초우량채 몰렸던 2분기…공사채· 은행 채, 크레딧시장 수급 변수...",
+        "link": "https://www.investchosun.com/site/data/html_dir/2026/07/07/2026070780040.html",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 08 Jul 2026 01:58:00 +0900",
-        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "'1승 후 2연패' 브레이커스, 신생팀 매직 끝났나…우리 금융 캐피탈에 1-4...",
-        "link": "https://www.thebilliards.kr/news/articleView.html?idxno=31376",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 08 Jul 2026 01:12:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "“최고 年10% 수익률에 원금보장” 머니무브 차단 나선 은행들",
-        "link": "https://n.news.naver.com/mnews/article/020/0003732238?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 08 Jul 2026 00:31:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "저축은행 4% 인뱅은 3% 은행 2%",
-        "link": "https://n.news.naver.com/mnews/article/025/0003536045?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 08 Jul 2026 00:02:00 +0900",
+        "pubDate": "Wed, 08 Jul 2026 07:02:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "페루, 벨라르데 총재 유임으로 통화정책 안정성 유지 가능성",
-        "link": "https://www.tokenpost.kr/news/economy/375736",
+        "title": "[PBA 팀리그] 1라운드 3일 차 경기 결과 및 중간 순위",
+        "link": "https://www.thebilliards.kr/news/articleView.html?idxno=31377",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 08 Jul 2026 03:24:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Forward Guidance",
-          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
-        }
-      },
-      {
-        "title": "신한銀, 7월 모집인대출 조기마감…올 들어 처음",
-        "link": "https://n.news.naver.com/mnews/article/011/0004639150?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 07 Jul 2026 20:05:00 +0900",
-        "summary": "",
+        "pubDate": "Wed, 08 Jul 2026 07:08:00 +0900",
+        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
         "term": null
-      },
-      {
-        "title": "\"예금 해지하러 왔어요\"… 주식 '포모'에 지역 상호금융기관 비상",
-        "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2232848",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 07 Jul 2026 18:12:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
       }
     ]
   }
