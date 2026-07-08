@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T16:38:54.570Z",
+  "updatedAt": "2026-07-08T19:25:05.168Z",
   "headline": "충남신용보증재단, 새마을금고 중앙회와 첫 특별출연 협약 체결...75억원... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -24,14 +24,6 @@
         "link": "https://www.fntimes.com/html/view.php?ud=202607082259272333dd55077bc2_18",
         "source": "네이버뉴스",
         "pubDate": "Wed, 08 Jul 2026 23:10:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "농협 중앙회, '범 농협 정보보호 캠페인' 전개…디지털 전환 시대 보안 경...",
-        "link": "https://www.fntimes.com/html/view.php?ud=202607082250149200dd55077bc2_18",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 08 Jul 2026 22:54:00 +0900",
         "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
         "term": null
       },
@@ -70,84 +62,76 @@
     ],
     "otherFinance": [
       {
+        "title": "SK하이닉스 공모금 어디서 굴리나… 은행 은 난색",
+        "link": "https://n.news.naver.com/mnews/article/008/0005383448?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 09 Jul 2026 04:05:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "아시아개발 은행 , 한국 경제성장률 전망치 2.6%로 상향 조정",
+        "link": "https://www.tokenpost.kr/news/economy/376060",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 09 Jul 2026 03:44:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[은행 이모저모] 국민은행·신한은행· 농협 은행 등",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=140269",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 09 Jul 2026 03:42:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[ 은행 이모저모] 국민 은행 ·신한 은행 ·농협 은행 등",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=140269",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 09 Jul 2026 03:42:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "KB국민은행, 주택담보대출 한도 3억원으로 축소… 가계부채 억제 신호탄",
+        "link": "https://www.tokenpost.kr/news/economy/376057",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 09 Jul 2026 02:54:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "KB국민 은행 , 주택담보대출 한도 3억원으로 축소… 가계부채 억제 신호탄",
+        "link": "https://www.tokenpost.kr/news/economy/376057",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 09 Jul 2026 02:54:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "크라운해태 2연속 4-0 완승…NH 농협 카드도 반등, 승점 9 '4강 구도'",
+        "link": "https://www.thebilliards.kr/news/articleView.html?idxno=31394",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 09 Jul 2026 02:34:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
         "title": "NH 농협 캐피탈 장종환 대표 \"중단 없는 금융 서비스\"... 클라우드 기반 IT...",
         "link": "https://weeklytrade.co.kr/news/view.html?section=1&category=6&item=&no=100539",
         "source": "네이버뉴스",
         "pubDate": "Thu, 09 Jul 2026 01:24:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "현금 더 있어야 집 산다…국민은행 주담대 3억 제한",
-        "link": "https://n.news.naver.com/mnews/article/665/0000007711?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 09 Jul 2026 01:09:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "현금 더 있어야 집 산다…국민 은행 주담대 3억 제한",
-        "link": "https://n.news.naver.com/mnews/article/665/0000007711?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 09 Jul 2026 01:09:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "알카미(ALKT), ‘6분 계좌 개설’로 美 은행 혁신…400억 달러 유치",
-        "link": "https://www.tokenpost.kr/news/tech/376037",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 09 Jul 2026 01:04:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "농협 “감사조직 독립성 강화-퇴직자 재취업 제한”",
-        "link": "https://n.news.naver.com/mnews/article/020/0003732544?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 09 Jul 2026 00:31:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "은행권, 홈플러스 협력업체 긴급 금융 지원···최대 5억원 대출·금리 ...",
-        "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=255979",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 08 Jul 2026 23:30:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "시중은행, 홈플러스 협력사에 긴급 금융 지원... 최대 5억원 대출",
-        "link": "https://www.tokenpost.kr/news/economy/376014",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 08 Jul 2026 23:14:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "농협 , 고강도 쇄신안 마련 ‘전사적 추진’",
-        "link": "https://www.viva100.com/article/20260708501331",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 08 Jul 2026 23:04:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "macro": [
       {
-        "title": "원/달러 환율 1,500원 하회, SK하이닉스 ADR 발행 기대감 영향",
-        "link": "https://www.tokenpost.kr/news/economy/376034",
+        "title": "작년 '역대최대 경상흑자'도 넘었는데… 내려오지 않는 환율",
+        "link": "https://n.news.naver.com/mnews/article/008/0005383443?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 09 Jul 2026 00:34:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "ADB, 올해 한국 경제성장률 상향조정…\"수출 호조에 2.6% 달성\"",
-        "link": "https://www.ajunews.com/view/20260708174754607",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 09 Jul 2026 00:32:00 +0900",
+        "pubDate": "Thu, 09 Jul 2026 04:03:00 +0900",
         "summary": "",
         "term": null
       }
