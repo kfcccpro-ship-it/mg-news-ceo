@@ -1,8 +1,16 @@
 {
-  "updatedAt": "2026-07-08T19:25:05.168Z",
-  "headline": "충남신용보증재단, 새마을금고 중앙회와 첫 특별출연 협약 체결...75억원... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-07-08T22:05:29.904Z",
+  "headline": "[ 농협 중앙회 개혁] 인적분할 카드…권한 분산 실효성 있나 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "[ 농협 중앙회 개혁] 인적분할 카드…권한 분산 실효성 있나",
+        "link": "https://news.dealsitetv.com/articles/172884",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 09 Jul 2026 07:02:00 +0900",
+        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
       {
         "title": "충남신용보증재단, 새마을금고 중앙회와 첫 특별출연 협약 체결...75억원...",
         "link": "https://www.newstnt.com/news/articleView.html?idxno=709555",
@@ -17,14 +25,6 @@
         "source": "네이버뉴스",
         "pubDate": "Thu, 09 Jul 2026 00:02:00 +0900",
         "summary": "",
-        "term": null
-      },
-      {
-        "title": "농협 중앙회, ‘ 농협 대전환’ 본격 추진…조직 쇄신·농업인 지원 강화",
-        "link": "https://www.fntimes.com/html/view.php?ud=202607082259272333dd55077bc2_18",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 08 Jul 2026 23:10:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
         "term": null
       },
       {
@@ -50,91 +50,74 @@
         "pubDate": "Wed, 08 Jul 2026 17:16:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "[포토뉴스]춘천남부 새마을금고 , 여름철 건강강좌",
-        "link": "https://n.news.naver.com/mnews/article/087/0001203892?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 08 Jul 2026 16:59:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "SK하이닉스 공모금 어디서 굴리나… 은행 은 난색",
-        "link": "https://n.news.naver.com/mnews/article/008/0005383448?sid=101",
+        "title": "KB국민은행 주담대 반토막…6억→3억",
+        "link": "https://www.bntnews.co.kr/article/view/bnt202607090011",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 09 Jul 2026 04:05:00 +0900",
+        "pubDate": "Thu, 09 Jul 2026 07:04:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "아시아개발 은행 , 한국 경제성장률 전망치 2.6%로 상향 조정",
-        "link": "https://www.tokenpost.kr/news/economy/376060",
+        "title": "핀다 'AI 저축 은행 ' 첫 관문…인가 이후 승부처, 대출 공급력",
+        "link": "https://n.news.naver.com/mnews/article/119/0003109516?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 09 Jul 2026 03:44:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[은행 이모저모] 국민은행·신한은행· 농협 은행 등",
-        "link": "http://www.bizwnews.com/news/articleView.html?idxno=140269",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 09 Jul 2026 03:42:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[ 은행 이모저모] 국민 은행 ·신한 은행 ·농협 은행 등",
-        "link": "http://www.bizwnews.com/news/articleView.html?idxno=140269",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 09 Jul 2026 03:42:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "KB국민은행, 주택담보대출 한도 3억원으로 축소… 가계부채 억제 신호탄",
-        "link": "https://www.tokenpost.kr/news/economy/376057",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 09 Jul 2026 02:54:00 +0900",
+        "pubDate": "Thu, 09 Jul 2026 07:04:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "KB국민 은행 , 주택담보대출 한도 3억원으로 축소… 가계부채 억제 신호탄",
-        "link": "https://www.tokenpost.kr/news/economy/376057",
+        "title": "KB국민 은행 주담대 반토막…6억→3억",
+        "link": "https://www.bntnews.co.kr/article/view/bnt202607090011",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 09 Jul 2026 02:54:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "크라운해태 2연속 4-0 완승…NH 농협 카드도 반등, 승점 9 '4강 구도'",
-        "link": "https://www.thebilliards.kr/news/articleView.html?idxno=31394",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 09 Jul 2026 02:34:00 +0900",
+        "pubDate": "Thu, 09 Jul 2026 07:04:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "NH 농협 캐피탈 장종환 대표 \"중단 없는 금융 서비스\"... 클라우드 기반 IT...",
-        "link": "https://weeklytrade.co.kr/news/view.html?section=1&category=6&item=&no=100539",
+        "title": "[Invest]KB금융 회장 레이스에서 권광석 전 우리은행장이 맡은 역할은",
+        "link": "https://www.investchosun.com/site/data/html_dir/2026/07/08/2026070880078.html",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 09 Jul 2026 01:24:00 +0900",
+        "pubDate": "Thu, 09 Jul 2026 07:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[Invest]KB 금융 회장 레이스에서 권광석 전 우리은행장이 맡은 역할은",
+        "link": "https://www.investchosun.com/site/data/html_dir/2026/07/08/2026070880078.html",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 09 Jul 2026 07:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[Invest]KB 금융 회장 레이스에서 권광석 전 우리 은행 장이 맡은 역할은",
+        "link": "https://www.investchosun.com/site/data/html_dir/2026/07/08/2026070880078.html",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 09 Jul 2026 07:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "정년 아닌데 줄줄이 \"퇴직합니다\"…50대 은행원 떠나는 이유",
+        "link": "https://n.news.naver.com/mnews/article/015/0005307939?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 09 Jul 2026 07:01:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "‘ 농협 대전환’…조직 쇄신·농민 지원 16개 과제 추진",
+        "link": "https://n.news.naver.com/mnews/article/662/0000099269?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 09 Jul 2026 07:01:00 +0900",
         "summary": "",
         "term": null
       }
     ],
-    "macro": [
-      {
-        "title": "작년 '역대최대 경상흑자'도 넘었는데… 내려오지 않는 환율",
-        "link": "https://n.news.naver.com/mnews/article/008/0005383443?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 09 Jul 2026 04:03:00 +0900",
-        "summary": "",
-        "term": null
-      }
-    ]
+    "macro": []
   }
 }
