@@ -1,8 +1,24 @@
 {
-  "updatedAt": "2026-07-10T22:02:38.145Z",
-  "headline": "새마을금고 재단, 청년누리 장학생 역량 강화 교육 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-07-11T02:38:59.550Z",
+  "headline": "새마을금고 재단, 청년누리 장학생 미래 역량 교육 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "새마을금고 재단, 청년누리 장학생 미래 역량 교육",
+        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2229685",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 11 Jul 2026 11:26:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "새마을금고 , 청년누리 장학생 100명, 실무 역량 강화 교육",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3632926",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 11 Jul 2026 11:16:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "새마을금고 재단, 청년누리 장학생 역량 강화 교육",
         "link": "http://www.koreastocknews.com/news/articleView.html?idxno=119719",
@@ -54,101 +70,91 @@
     ],
     "otherFinance": [
       {
-        "title": "'실버 빚투' 확산에 올해 60세 이상 카드론 잔액 8000억 '껑충'",
-        "link": "https://www.asiatime.co.kr/article/20260707500417",
+        "title": "기보-중소기업 은행 -하나 은행 업무협약",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3632919",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 11 Jul 2026 07:00:00 +0900",
+        "pubDate": "Sat, 11 Jul 2026 11:10:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "DCM 순위 엇갈렸다…NH투자증권 종합 1위·KB증권 회사채 선두",
-        "link": "https://www.ceoscoredaily.com/page/view/2026070815200777707",
+        "title": "“은행 예금 40조 어디로 갔나”…상반기 결산 끝나자 기업자금 대이동",
+        "link": "https://n.news.naver.com/mnews/article/009/0005705962?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 11 Jul 2026 07:00:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[기자수첩] IBK기업 은행 내부통제 실패, 결코 가볍지 않다",
-        "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=42307",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 11 Jul 2026 06:56:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "전북 은행 장학문화재단, 고산고서 김나윤 강사 초청 '2026 JB인문학 강좌...",
-        "link": "https://n.news.naver.com/mnews/article/002/0002448055?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 11 Jul 2026 06:45:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "농협 , AI 로봇 '효돌'로 농촌 고령층 금융 접근성 개선 나선다",
-        "link": "https://www.tokenpost.kr/news/tech/376665",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 11 Jul 2026 01:44:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "은행 이어 보험까지 빗장…하반기 ‘대출 빙하기’ 시작",
-        "link": "https://n.news.naver.com/mnews/article/353/0000056016?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 11 Jul 2026 01:07:00 +0900",
+        "pubDate": "Sat, 11 Jul 2026 11:05:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
       },
       {
-        "title": "NH 농협 캐피탈, 건설기계사업자협의회와 상생 금융 MOU 체결",
-        "link": "https://weeklytrade.co.kr/news/view.html?section=1&category=160&item=&no=100572",
+        "title": "“ 은행 예금 40조 어디로 갔나”…상반기 결산 끝나자 기업자금 대이동",
+        "link": "https://n.news.naver.com/mnews/article/009/0005705962?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 11 Jul 2026 01:00:00 +0900",
+        "pubDate": "Sat, 11 Jul 2026 11:05:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "NH 농협 은행, AI Agent 금융 혁신 본격화",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=254852",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 11 Jul 2026 11:00:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "우리 금융 캐피탈, 하나카드 독주 막았다!…PBA 팀리그 1R '선두 탈환'",
-        "link": "https://www.thebilliards.kr/news/articleView.html?idxno=31420",
+        "title": "우리 금융 캐피탈, 하나카드 5연승 저지··· PBA 팀리그 1라운드 단독 선...",
+        "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=83223",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 10 Jul 2026 23:28:00 +0900",
+        "pubDate": "Sat, 11 Jul 2026 11:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[당구] 우리 금융 , PBA 팀리그 1위 등극… 하나카드 연승 행진 제동",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3416223",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 11 Jul 2026 10:58:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[보험 뉴스브리핑] 신한라이프 '종신보험 퍼펙트 원' 출시",
+        "link": "https://www.asiatime.co.kr/article/20260710500324",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 11 Jul 2026 10:36:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "\"AI 에이전트와의 협업, 선택 아닌 필수\"···은행권, 업무 도입 '속도...",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=633144",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 11 Jul 2026 10:30:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "부동산 가치의 재발견, ‘감정평가’로 설계하는 성공적 재테크[박효정...",
-        "link": "https://n.news.naver.com/mnews/article/050/0000108400?sid=101",
+        "title": "[자본中심] AI가 끌어올린 중국 제조업…내수 없는 회복 착시",
+        "link": "https://n.news.naver.com/mnews/article/018/0006327541?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 11 Jul 2026 06:48:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "'연 13% 적금'… 널뛰기 장세에 고금리 특판 인기",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092165573",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 11 Jul 2026 06:10:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "이자 폭탄에 대출 절벽까지…서민들 “버틸 힘이 없다”[주형연의 에구...",
-        "link": "https://n.news.naver.com/mnews/article/029/0003036435?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 11 Jul 2026 06:00:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[PBA 팀리그] 1라운드 6일차 경기 결과 및 중간 순위",
-        "link": "https://www.thebilliards.kr/news/articleView.html?idxno=31424",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 11 Jul 2026 01:50:00 +0900",
+        "pubDate": "Sat, 11 Jul 2026 11:12:00 +0900",
         "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
+        "term": null
+      },
+      {
+        "title": "'SK하이닉스 효과'에 환율 1490원대 … 달러 유입 기대감 증폭",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/07/11/2026071100012.html",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 11 Jul 2026 11:06:00 +0900",
+        "summary": "",
         "term": null
       },
       {
