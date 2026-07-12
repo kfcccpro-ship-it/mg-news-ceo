@@ -1,13 +1,40 @@
 {
-  "updatedAt": "2026-07-12T10:27:55.541Z",
-  "headline": "[경인 WIDE] 시금고 선정 앞둔 인천 ‘경제기여도’ 우선 살펴야 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-07-12T13:19:07.158Z",
+  "headline": "울산시, '시금고 예금금리 조정' 검토 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
-        "title": "[경인 WIDE] 시금고 선정 앞둔 인천 ‘경제기여도’ 우선 살펴야",
-        "link": "https://www.kyeongin.com/article/1767160",
+        "title": "울산시, '시금고 예금금리 조정' 검토",
+        "link": "https://www.usmbc.co.kr/NewsArticle/850506",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 12 Jul 2026 19:12:00 +0900",
+        "pubDate": "Sun, 12 Jul 2026 20:56:00 +0900",
+        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "새마을금고 재단, 청년누리 장학생 대상 AI·진로 역량 강화 교육",
+        "link": "https://www.thedailypost.kr/news/articleView.html?idxno=114637",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 12 Jul 2026 20:12:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[경인 WIDE] 인천시금고 양강구도 속 4대 은행 대결 예고",
+        "link": "https://www.kyeongin.com/article/1767170",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 12 Jul 2026 19:42:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[경인 WIDE] 내년부터 4년간 금고 운영… 이달부터 절차 돌입",
+        "link": "https://www.kyeongin.com/article/1767168",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 12 Jul 2026 19:42:00 +0900",
         "summary": "",
         "term": null
       },
@@ -22,84 +49,78 @@
     ],
     "otherFinance": [
       {
-        "title": "한국 은행 , 이번주 금리 올린다… 관건은 8월 연속 인상 여부",
-        "link": "https://n.news.naver.com/mnews/article/022/0004142477?sid=101",
+        "title": "카카오페이, 증권 완전자회사화… 금융 사업 비중 확대",
+        "link": "https://sateconomy.co.kr/news/view/1065618447021042",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 12 Jul 2026 19:16:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "충주시-IBK기업 은행 , 중소기업 금융 지원 협약 체결",
-        "link": "https://www.dynews.co.kr/news/articleView.html?idxno=857697",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 12 Jul 2026 19:00:00 +0900",
+        "pubDate": "Sun, 12 Jul 2026 22:16:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "“정부 대출규제도 벅찬데”...국민은행 주담대 ‘3억 제한’ 속내 [머...",
-        "link": "https://www.ekn.kr/web/view.php?key=20260712026271647",
+        "title": "신한은행도 대출 조이기 동참… 시중은행 줄줄이 모기지보험 가입 중단",
+        "link": "https://www.ggilbo.com/news/articleView.html?idxno=1168476",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 12 Jul 2026 18:10:00 +0900",
+        "pubDate": "Sun, 12 Jul 2026 22:10:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "NH 농협 銀, 일부 지점서 주담대 제한",
-        "link": "https://n.news.naver.com/mnews/article/011/0004640730?sid=101",
+        "title": "신한 은행 도 대출 조이기 동참… 시중 은행 줄줄이 모기지보험 가입 중단",
+        "link": "https://www.ggilbo.com/news/articleView.html?idxno=1168476",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 12 Jul 2026 18:01:00 +0900",
+        "pubDate": "Sun, 12 Jul 2026 22:10:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "KB국민 은행 , 취약계층 채권 최대 90% 감면",
+        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=272880",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 12 Jul 2026 22:06:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[인사] 하나 은행",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1716032",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 12 Jul 2026 22:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[사설]주담대 죄는 은행들…청년·무주택자 숨통 틔울 대책 내놔야",
+        "link": "https://n.news.naver.com/mnews/article/417/0001151327?sid=110",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 12 Jul 2026 22:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[사설]주담대 죄는 은행 들…청년·무주택자 숨통 틔울 대책 내놔야",
+        "link": "https://n.news.naver.com/mnews/article/417/0001151327?sid=110",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 12 Jul 2026 22:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[인사] 한국수출입 은행",
+        "link": "https://sateconomy.co.kr/news/view/1065614362788304",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 12 Jul 2026 21:56:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "가계대출 총량 이미 80% 소진… 하반기 ‘셧다운’ 예고",
-        "link": "https://n.news.naver.com/mnews/article/022/0004142480?sid=101",
+        "title": "일주일 만에 환율 50원 내렸지만…‘1500원의 벽’ 4분기에나 깨질까",
+        "link": "https://n.news.naver.com/mnews/article/032/0003457628?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 12 Jul 2026 19:19:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "대출 6억으로 서울 집 못 산다…청년 대출규제 완화해야",
-        "link": "https://n.news.naver.com/mnews/article/018/0006328652?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 12 Jul 2026 19:13:00 +0900",
+        "pubDate": "Sun, 12 Jul 2026 20:32:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "환율 1500원 깨지자 달러 예금 8.8조원 '쑥'…3년 6개월 만에 최대",
-        "link": "http://www.segyebiz.com/newsView/20260712513776?OutUrl=naver",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 12 Jul 2026 19:12:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
-      },
-      {
-        "title": "대출 절벽 초읽기 한도 15%만 남아",
-        "link": "https://n.news.naver.com/mnews/article/009/0005706302?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 12 Jul 2026 18:09:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "환율 하락에 달러예금 급증…저가 매수세 본격화",
-        "link": "https://www.namdonews.com/news/articleView.html?idxno=916644",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 12 Jul 2026 17:56:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
       }
     ]
   }
