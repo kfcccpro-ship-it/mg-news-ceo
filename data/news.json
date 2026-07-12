@@ -1,18 +1,23 @@
 {
-  "updatedAt": "2026-07-12T13:19:07.158Z",
-  "headline": "울산시, '시금고 예금금리 조정' 검토 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-07-12T15:59:39.179Z",
+  "headline": "횡성 새마을금고 ·대동여중 협약 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
-        "title": "울산시, '시금고 예금금리 조정' 검토",
-        "link": "https://www.usmbc.co.kr/NewsArticle/850506",
+        "title": "횡성 새마을금고 ·대동여중 협약",
+        "link": "https://n.news.naver.com/mnews/article/654/0000190033?sid=102",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 12 Jul 2026 20:56:00 +0900",
-        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
+        "pubDate": "Mon, 13 Jul 2026 00:06:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "새마을금고 중앙회, 기부 넘어선 ‘지역문제 해결형 금융’",
+        "link": "http://sateconomy.co.kr/news/view/1065620134439197",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 12 Jul 2026 22:38:00 +0900",
+        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
+        "term": null
       },
       {
         "title": "새마을금고 재단, 청년누리 장학생 대상 AI·진로 역량 강화 교육",
@@ -21,104 +26,110 @@
         "pubDate": "Sun, 12 Jul 2026 20:12:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "[경인 WIDE] 인천시금고 양강구도 속 4대 은행 대결 예고",
-        "link": "https://www.kyeongin.com/article/1767170",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 12 Jul 2026 19:42:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[경인 WIDE] 내년부터 4년간 금고 운영… 이달부터 절차 돌입",
-        "link": "https://www.kyeongin.com/article/1767168",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 12 Jul 2026 19:42:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "'상생경제'지역축제 살려낸 새마을금고 [르포]",
-        "link": "https://n.news.naver.com/mnews/article/014/0005547009?sid=103",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 12 Jul 2026 18:14:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "카카오페이, 증권 완전자회사화… 금융 사업 비중 확대",
-        "link": "https://sateconomy.co.kr/news/view/1065618447021042",
+        "title": "KB국민 은행 , 취약계층 특별 채무감면 시행…원금 최대 90% 감면",
+        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2230011",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 12 Jul 2026 22:16:00 +0900",
+        "pubDate": "Mon, 13 Jul 2026 00:36:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "신한은행도 대출 조이기 동참… 시중은행 줄줄이 모기지보험 가입 중단",
-        "link": "https://www.ggilbo.com/news/articleView.html?idxno=1168476",
+        "title": "5대 은행 중 3곳 가계대출 목표치 초과… 대출 문턱 더 높아진다",
+        "link": "https://n.news.naver.com/mnews/article/023/0003987186?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 12 Jul 2026 22:10:00 +0900",
+        "pubDate": "Mon, 13 Jul 2026 00:32:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "신한 은행 도 대출 조이기 동참… 시중 은행 줄줄이 모기지보험 가입 중단",
-        "link": "https://www.ggilbo.com/news/articleView.html?idxno=1168476",
+        "title": "[경제계 인사]하나 은행",
+        "link": "https://n.news.naver.com/mnews/article/020/0003733318?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 12 Jul 2026 22:10:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "KB국민 은행 , 취약계층 채권 최대 90% 감면",
-        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=272880",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 12 Jul 2026 22:06:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[인사] 하나 은행",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1716032",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 12 Jul 2026 22:02:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[사설]주담대 죄는 은행들…청년·무주택자 숨통 틔울 대책 내놔야",
-        "link": "https://n.news.naver.com/mnews/article/417/0001151327?sid=110",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 12 Jul 2026 22:00:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[사설]주담대 죄는 은행 들…청년·무주택자 숨통 틔울 대책 내놔야",
-        "link": "https://n.news.naver.com/mnews/article/417/0001151327?sid=110",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 12 Jul 2026 22:00:00 +0900",
+        "pubDate": "Mon, 13 Jul 2026 00:31:00 +0900",
         "summary": "",
         "term": null
       },
       {
         "title": "[인사] 한국수출입 은행",
-        "link": "https://sateconomy.co.kr/news/view/1065614362788304",
+        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2230009",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 12 Jul 2026 21:56:00 +0900",
+        "pubDate": "Mon, 13 Jul 2026 00:08:00 +0900",
         "summary": "",
         "term": null
+      },
+      {
+        "title": "평창대관령 농협 상호 금융 대출금 700억원 달성",
+        "link": "https://n.news.naver.com/mnews/article/654/0000190063?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 13 Jul 2026 00:07:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "대출절벽 벌써 현실화…은행 가계대출 목표치 80% 찼다",
+        "link": "https://n.news.naver.com/mnews/article/025/0003537051?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 13 Jul 2026 00:02:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "장종환 NH 농협 캐피탈 대표, 부채 만기 장기화 전략 ‘박차’ [캐피탈 조...",
+        "link": "https://www.fntimes.com/html/view.php?ud=202607102350037980dd55077bc2_18",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 13 Jul 2026 00:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "10조 자기자본 NH투자증권, 한투·미래 추격 본격화 [전업계 추격하는 은...",
+        "link": "https://www.fntimes.com/html/view.php?ud=202607102329578766dd55077bc2_18",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 13 Jul 2026 00:02:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "CET1",
+          "meaning": "손실흡수력을 보여주는 대표적인 자본적정성 지표"
+        }
       }
     ],
     "macro": [
       {
-        "title": "일주일 만에 환율 50원 내렸지만…‘1500원의 벽’ 4분기에나 깨질까",
-        "link": "https://n.news.naver.com/mnews/article/032/0003457628?sid=101",
+        "title": "환율 구원투수 된 ‘하닉 40조’",
+        "link": "https://n.news.naver.com/mnews/article/025/0003537084?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 12 Jul 2026 20:32:00 +0900",
+        "pubDate": "Mon, 13 Jul 2026 00:35:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "원-달러 환율 1400원대 하락에 달러예금 9조 증가",
+        "link": "https://n.news.naver.com/mnews/article/020/0003733311?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 13 Jul 2026 00:31:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "1500원 넘나드는 고환율… 외환당국 적극 개입 안 하나 못 하나",
+        "link": "https://n.news.naver.com/mnews/article/005/0001860502?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 13 Jul 2026 00:12:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "하이닉스 265억 달러 ‘나스닥 잭팟’, 환율 안정 구원투수 될까",
+        "link": "https://n.news.naver.com/mnews/article/005/0001860501?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 13 Jul 2026 00:07:00 +0900",
         "summary": "",
         "term": null
       }
