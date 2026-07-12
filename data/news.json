@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T15:59:39.179Z",
+  "updatedAt": "2026-07-12T19:05:33.956Z",
   "headline": "횡성 새마을금고 ·대동여중 협약 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -30,10 +30,34 @@
     ],
     "otherFinance": [
       {
-        "title": "KB국민 은행 , 취약계층 특별 채무감면 시행…원금 최대 90% 감면",
-        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2230011",
+        "title": "[AI와 보험] 美 트래블러스 주가 126% 폭등… 업황 사이클 넘어 ROE 혁신...",
+        "link": "https://www.g-enews.com/view.php?ud=202607121548595779fbbec65dfb_1",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 13 Jul 2026 00:36:00 +0900",
+        "pubDate": "Mon, 13 Jul 2026 03:26:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "아직 7월인데… 일제히 빗장 걸리는 ‘은행 대출 門’",
+        "link": "https://n.news.naver.com/mnews/article/005/0001860544?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 13 Jul 2026 02:09:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "아직 7월인데… 일제히 빗장 걸리는 ‘ 은행 대출 門’",
+        "link": "https://n.news.naver.com/mnews/article/005/0001860544?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 13 Jul 2026 02:09:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "크라운해태에 발목 잡힌 하나카드, PBA 팀리그 1라운드 우승 무산…우리...",
+        "link": "https://www.thebilliards.kr/news/articleView.html?idxno=31435",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 13 Jul 2026 02:00:00 +0900",
         "summary": "",
         "term": null
       },
@@ -46,22 +70,6 @@
         "term": null
       },
       {
-        "title": "[경제계 인사]하나 은행",
-        "link": "https://n.news.naver.com/mnews/article/020/0003733318?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 13 Jul 2026 00:31:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[인사] 한국수출입 은행",
-        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2230009",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 13 Jul 2026 00:08:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
         "title": "평창대관령 농협 상호 금융 대출금 700억원 달성",
         "link": "https://n.news.naver.com/mnews/article/654/0000190063?sid=102",
         "source": "네이버뉴스",
@@ -70,11 +78,11 @@
         "term": null
       },
       {
-        "title": "대출절벽 벌써 현실화…은행 가계대출 목표치 80% 찼다",
-        "link": "https://n.news.naver.com/mnews/article/025/0003537051?sid=101",
+        "title": "송춘수 농협 손보 대표, 기본자본 K-ICS 79.8%…ALM 체계 고도화 [보험사...",
+        "link": "https://www.fntimes.com/html/view.php?ud=202607102342572364dd55077bc2_18",
         "source": "네이버뉴스",
         "pubDate": "Mon, 13 Jul 2026 00:02:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "summary": "",
         "term": null
       },
       {
@@ -84,26 +92,39 @@
         "pubDate": "Mon, 13 Jul 2026 00:02:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "10조 자기자본 NH투자증권, 한투·미래 추격 본격화 [전업계 추격하는 은...",
-        "link": "https://www.fntimes.com/html/view.php?ud=202607102329578766dd55077bc2_18",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 13 Jul 2026 00:02:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "CET1",
-          "meaning": "손실흡수력을 보여주는 대표적인 자본적정성 지표"
-        }
       }
     ],
     "macro": [
       {
-        "title": "환율 구원투수 된 ‘하닉 40조’",
-        "link": "https://n.news.naver.com/mnews/article/025/0003537084?sid=101",
+        "title": "韓금리·美물가·반도체… 변동장 변수 폭탄",
+        "link": "https://n.news.naver.com/mnews/article/008/0005384813?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 13 Jul 2026 00:35:00 +0900",
-        "summary": "",
+        "pubDate": "Mon, 13 Jul 2026 04:00:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "美 경기 침체 우려 ↓…고물가 장기화 속 워시 증언 주목",
+        "link": "https://n.news.naver.com/mnews/article/277/0005788752?sid=104",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 13 Jul 2026 03:14:00 +0900",
+        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
+        "term": null
+      },
+      {
+        "title": "전쟁에 집값 침몰?… 고유가 → 고물가 → 고금리 연쇄충격이 관건",
+        "link": "https://n.news.naver.com/mnews/article/005/0001860545?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 13 Jul 2026 02:21:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "\"금리 정책 침묵 깰 때 됐다\"...케빈 워시, 의회 시험대로",
+        "link": "http://coinreaders.com/247300",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 13 Jul 2026 02:02:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       },
       {
@@ -116,22 +137,6 @@
           "word": "Deposit Beta",
           "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
         }
-      },
-      {
-        "title": "1500원 넘나드는 고환율… 외환당국 적극 개입 안 하나 못 하나",
-        "link": "https://n.news.naver.com/mnews/article/005/0001860502?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 13 Jul 2026 00:12:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "하이닉스 265억 달러 ‘나스닥 잭팟’, 환율 안정 구원투수 될까",
-        "link": "https://n.news.naver.com/mnews/article/005/0001860501?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 13 Jul 2026 00:07:00 +0900",
-        "summary": "",
-        "term": null
       }
     ]
   }
