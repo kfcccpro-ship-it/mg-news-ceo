@@ -1,18 +1,26 @@
 {
-  "updatedAt": "2026-07-13T19:22:58.883Z",
-  "headline": "\"상호금융, 제2금고 문턱 낮춘다\" 새마을금고 제도개선 시동 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-07-13T21:56:33.951Z",
+  "headline": "농협 중앙회 '나주 이전' 잠정 확정설...조합원은 또 뒷전 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
-        "title": "\"상호금융, 제2금고 문턱 낮춘다\" 새마을금고 제도개선 시동",
-        "link": "https://n.news.naver.com/mnews/article/008/0005385451?sid=101",
+        "title": "농협 중앙회 '나주 이전' 잠정 확정설...조합원은 또 뒷전",
+        "link": "https://www.farminsight.net/news/articleView.html?idxno=16647",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 14 Jul 2026 04:15:00 +0900",
+        "pubDate": "Tue, 14 Jul 2026 06:30:00 +0900",
+        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "“가게 비울 필요 없어요”…2200개 점포 찾아가는 마을 금고",
+        "link": "https://n.news.naver.com/mnews/article/011/0004641206?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 14 Jul 2026 05:31:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "\"상호 금융 , 제2금고 문턱 낮춘다\" 새마을금고 제도개선 시동",
+        "title": "\"상호금융, 제2금고 문턱 낮춘다\" 새마을금고 제도개선 시동",
         "link": "https://n.news.naver.com/mnews/article/008/0005385451?sid=101",
         "source": "네이버뉴스",
         "pubDate": "Tue, 14 Jul 2026 04:15:00 +0900",
@@ -42,105 +50,121 @@
         "pubDate": "Mon, 13 Jul 2026 21:22:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "새마을금고 특별관리 연장 검토…감독권 이관 또 '안갯속'",
-        "link": "https://www.sentv.co.kr/article/view/sentv202607130105",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 13 Jul 2026 18:06:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "미 금융 당국, 은행 권에 불법이민자 대출 억제 주문",
-        "link": "https://n.news.naver.com/mnews/article/001/0016192300?sid=101",
+        "title": "'118년 복숭아 명성' 잇는다…NH 농협 은행 세종본부, 축제 1억 후원",
+        "link": "https://www.bzeronews.com/news/articleView.html?idxno=820020",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 14 Jul 2026 03:56:00 +0900",
+        "pubDate": "Tue, 14 Jul 2026 06:52:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "'118년 복숭아 명성' 잇는다…NH농협 은행 세종본부, 축제 1억 후원",
+        "link": "https://www.bzeronews.com/news/articleView.html?idxno=820020",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 14 Jul 2026 06:52:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "시중은행 주담대 조이기 속도 … 서울 외곽부터 '거래 절벽' 위험",
+        "link": "http://www.queen.co.kr/news/articleView.html?idxno=460219",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 14 Jul 2026 06:46:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "시중 은행 주담대 조이기 속도 … 서울 외곽부터 '거래 절벽' 위험",
+        "link": "http://www.queen.co.kr/news/articleView.html?idxno=460219",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 14 Jul 2026 06:46:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[ 금융 게시판] 은행 권, 개인사업자·소상공인 지원 강화…KB·신한·하나...",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=204882",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 14 Jul 2026 06:44:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "5대 시중 은행 주담대 한도 소진 가시권…하반기 서울 외곽 거래 절벽 ...",
+        "link": "https://www.newspim.com/news/view/20260713000928",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 14 Jul 2026 06:30:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "농협 , 2200억원 투입 농업인 지원… 비료 값 인상 유예·저리 영농대출",
+        "link": "https://n.news.naver.com/mnews/article/022/0004142860?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 14 Jul 2026 06:03:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "[직장 돋보기 분석] NH투자증권, 사상 최대 분기 실적 넘어 IMA와 글로벌...",
-        "link": "https://www.news2day.co.kr/article/20260711500004",
+        "title": "[브랜드평판] 하나은행, 은행 7월 1위... 아이엠뱅크, NH 농협 은행 상위권",
+        "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=52343",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 14 Jul 2026 02:26:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[Biz & Now] 농협 , 농업인 경영안정에 2200억 지원",
-        "link": "https://n.news.naver.com/mnews/article/025/0003537327?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 14 Jul 2026 00:02:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[ 농협 ] 청년농 친환경 재배교육 / 거창 농촌 왕진버스 / 측우기 특별전...",
-        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2231601",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 13 Jul 2026 22:50:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[ 금융 ] 우리은행 임직원 봉사 플랫폼 / NH 농협 생명 농촌 의료지원 / 우리...",
-        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2231605",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 13 Jul 2026 22:42:00 +0900",
-        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "농협 , 2200억 투입 농업인 경영 안정 지원",
-        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=553766",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 13 Jul 2026 21:34:00 +0900",
+        "pubDate": "Tue, 14 Jul 2026 06:00:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "빚투 잡느라, 가계·기업대출 금리차 커진다",
-        "link": "https://n.news.naver.com/mnews/article/008/0005385453?sid=101",
+        "title": "조여드는 주담대…'대출 절반'으로 집 사는 서울외곽 직격",
+        "link": "https://n.news.naver.com/mnews/article/648/0000048871?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 14 Jul 2026 04:15:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "금융 권 \"대출고객, 10년 전처럼 종이서류 내세요\"",
-        "link": "https://n.news.naver.com/mnews/article/008/0005385439?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 14 Jul 2026 04:05:00 +0900",
+        "pubDate": "Tue, 14 Jul 2026 06:45:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "1년전 스크래핑 금지 예고에도 '강건너 불구경'… 금융 소비자만 애탄다",
-        "link": "https://n.news.naver.com/mnews/article/008/0005385440?sid=101",
+        "title": "집값·전월세 불안에 부동산 대토론회…“공급 신뢰가 관건”",
+        "link": "https://n.news.naver.com/mnews/article/119/0003111049?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 14 Jul 2026 04:05:00 +0900",
-        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
-        "term": null
-      },
-      {
-        "title": "[사설] OECD 평균의 2배 웃도는 부동산 거래세 문제 많다",
-        "link": "https://n.news.naver.com/mnews/article/138/0002234065?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 14 Jul 2026 04:00:00 +0900",
+        "pubDate": "Tue, 14 Jul 2026 06:45:00 +0900",
         "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
         "term": null
       },
       {
-        "title": "중국 부동산 붕괴 후폭풍… 지방재정 ‘허수 수입’ 드러나",
-        "link": "https://www.g-enews.com/view.php?ud=202607131419446842fbbec65dfb_1",
+        "title": "금감원, 전산장애 반복 금융 사 '핀셋 점검'",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=306956",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 14 Jul 2026 03:26:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
+        "pubDate": "Tue, 14 Jul 2026 06:42:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "‘역대 최대 공급’에도 청년은 못 들어간다…“공공임대·대출 높은 문...",
+        "link": "https://n.news.naver.com/mnews/article/011/0004641229?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 14 Jul 2026 06:24:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "\"'지원'이라 쓰고 '대출'이라 읽는다\"…벼랑 끝 상인에게 '그림의 떡'",
+        "link": "https://n.news.naver.com/mnews/article/079/0004168007?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 14 Jul 2026 05:31:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "가계빚 29조 늘었는데 금리까지 인상?…하반기 차주 부담 어쩌나",
+        "link": "https://n.news.naver.com/mnews/article/417/0001151487?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 14 Jul 2026 05:06:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       },
       {
