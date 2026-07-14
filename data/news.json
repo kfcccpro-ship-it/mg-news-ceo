@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T16:14:42.049Z",
+  "updatedAt": "2026-07-14T19:19:29.010Z",
   "headline": "[포토뉴스] 춘천중부 새마을금고 초복 맞이 경로당 수박 나눔 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -60,6 +60,17 @@
     ],
     "otherFinance": [
       {
+        "title": "증권업계, 단일종목 레버리지 ETF 손본다…예탁금 상향·리밸런싱 분산...",
+        "link": "http://www.metroseoul.co.kr/article/20260715500001",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 15 Jul 2026 03:36:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "LCR",
+          "meaning": "단기 유동성 충격 대응 능력을 보여주는 지표"
+        }
+      },
+      {
         "title": "[ 농협 ] 삼계용 수삼 할인 / 취약계층 금융 지원 1조2900억원",
         "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2233188",
         "source": "네이버뉴스",
@@ -68,38 +79,11 @@
         "term": null
       },
       {
-        "title": "[ 금융 ] 미래에셋 런던법인 증권 금융 상 / 한화손보 환아 가족 지원 / 산은...",
-        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2233186",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Jul 2026 00:56:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "LCR",
-          "meaning": "단기 유동성 충격 대응 능력을 보여주는 지표"
-        }
-      },
-      {
         "title": "우리-SC제일銀도 모기지보험 중단… 대출절벽 현실화",
         "link": "https://n.news.naver.com/mnews/article/020/0003733914?sid=101",
         "source": "네이버뉴스",
         "pubDate": "Wed, 15 Jul 2026 00:31:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "[경제계 인사]IBK기업 은행",
-        "link": "https://n.news.naver.com/mnews/article/020/0003733922?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Jul 2026 00:31:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "스트래티지, 비트코인(BTC) 채택 지수 공개...\" 은행 채택률 32%\"",
-        "link": "http://coinreaders.com/247704",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Jul 2026 00:22:00 +0900",
-        "summary": "",
         "term": null
       },
       {
@@ -125,14 +109,30 @@
         "pubDate": "Wed, 15 Jul 2026 00:02:00 +0900",
         "summary": "",
         "term": null
+      },
+      {
+        "title": "농협 상호 금융 , 금융 취약계층 맞춤 지원 강화",
+        "link": "https://www.kdpress.co.kr/news/articleView.html?idxno=206926",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 14 Jul 2026 23:50:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[ 금융 ] 농협 은행 찾아가는 자산관리 / 신한은행 어린이 AI 교육 / KB국민...",
+        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2233182",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 14 Jul 2026 23:06:00 +0900",
+        "summary": "",
+        "term": null
       }
     ],
     "macro": [
       {
-        "title": "워시 美 연준 의장, 6월 물가 완화에 \"임무 완수 아니다\"",
-        "link": "https://www.newspim.com/news/view/20260715000011",
+        "title": "워시 美연준 의장 \"5년 인플레 끝낼 것\"…물가안정·독립성 강조",
+        "link": "https://n.news.naver.com/mnews/article/008/0005386106?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Jul 2026 01:09:00 +0900",
+        "pubDate": "Wed, 15 Jul 2026 04:06:00 +0900",
         "summary": "",
         "term": {
           "word": "Forward Guidance",
@@ -140,10 +140,37 @@
         }
       },
       {
-        "title": "국채 금리 상승, 중동 불안과 한은 금리인상 가능성 겹쳐",
-        "link": "https://www.tokenpost.kr/news/economy/377758",
+        "title": "대출 마르는데 내 집 마련 자금 어디서 짜내나…3040이 꺼낸 '마지막 카...",
+        "link": "https://n.news.naver.com/mnews/article/008/0005386098?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Jul 2026 00:54:00 +0900",
+        "pubDate": "Wed, 15 Jul 2026 04:03:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "워시 첫 美 의회 증언, 물가 둔화에도 긴축 경계",
+        "link": "https://www.g-enews.com/view.php?ud=202607142206253429a1f309431_1",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 15 Jul 2026 04:02:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Terminal Rate",
+          "meaning": "기준금리 인상 사이클의 최종 수준에 대한 시장 기대"
+        }
+      },
+      {
+        "title": "빚더미로 내모는 '닥치고 대출'…\"누가 좀 알려줬으면\"",
+        "link": "https://n.news.naver.com/mnews/article/079/0004168460?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 15 Jul 2026 04:01:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "미 CPI 깜짝 둔화…7월 금리인상론 꺾였지만 불씨는 남았다",
+        "link": "https://n.news.naver.com/mnews/article/018/0006330323?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 15 Jul 2026 03:42:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": {
           "word": "Terminal Rate",
@@ -156,14 +183,6 @@
         "source": "네이버뉴스",
         "pubDate": "Wed, 15 Jul 2026 00:31:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "금감원 “해외직접투자, 단 1달러라도 신고해야”",
-        "link": "https://n.news.naver.com/mnews/article/020/0003733913?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Jul 2026 00:31:00 +0900",
-        "summary": "",
         "term": null
       }
     ]
