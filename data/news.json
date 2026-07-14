@@ -1,15 +1,37 @@
 {
-  "updatedAt": "2026-07-14T08:04:40.108Z",
-  "headline": "우리 은행 , 국민연금 외화금고 업무 전담 수행 '3년 더' 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-07-14T10:46:09.921Z",
+  "headline": "[ 금융 게시판] 우리은행, 1670조원 국민연금 외화금고 재선정…KB· 농협 ... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
-        "title": "우리 은행 , 국민연금 외화금고 업무 전담 수행 '3년 더'",
-        "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=362520",
+        "title": "[ 금융 게시판] 우리은행, 1670조원 국민연금 외화금고 재선정…KB· 농협 ...",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=204964",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 14 Jul 2026 17:02:00 +0900",
+        "pubDate": "Tue, 14 Jul 2026 18:52:00 +0900",
         "summary": "",
         "term": null
+      },
+      {
+        "title": "MG신용정보 박준철 새마을금고 부실채권 활용 확대, 건전성과 수익성 두...",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=442334",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 14 Jul 2026 18:06:00 +0900",
+        "summary": "새마을금고 건전성 관리 흐름과 연결해 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "새마을금고 \"예금은 우리가 더 쏜다\"... 개인고객 예적금 라인업 강화",
+        "link": "https://www.pressman.kr/news/articleView.html?idxno=102753",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 14 Jul 2026 17:08:00 +0900",
+        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
       },
       {
         "title": "한밭 새마을금고 , 2026년 초복맞이 수박 지원",
@@ -34,109 +56,101 @@
         "pubDate": "Tue, 14 Jul 2026 15:30:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "춘천중부 새마을금고 , 초복 맞아 경로당에 수박 나눔…지역 어르신 건강...",
-        "link": "https://n.news.naver.com/mnews/article/654/0000190384?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 14 Jul 2026 14:53:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "새마을금고 , 금소법 도입 선제 대응…소비자보호 체계 정비",
-        "link": "https://www.ajunews.com/view/20260714102117989",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 14 Jul 2026 14:28:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "새마을금고 , 데이케어센터 운영···비이자사업 확대",
-        "link": "https://www.seoulfn.com/news/articleView.html?idxno=633313",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 14 Jul 2026 13:34:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "우리은행, 지점 주담대 한도 10억원 제한…모기지보험 가입도 중단",
-        "link": "https://n.news.naver.com/mnews/article/018/0006330182?sid=101",
+        "title": "우리은행, 지점당 주담대 한도 월 30억→10억 축소···은행권 ‘대출 ...",
+        "link": "https://n.news.naver.com/mnews/article/032/0003458104?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 14 Jul 2026 17:02:00 +0900",
+        "pubDate": "Tue, 14 Jul 2026 19:29:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "우리 은행 , 지점당 주담대 한도 월 30억→10억 축소··· 은행 권 ‘대출 ...",
+        "link": "https://n.news.naver.com/mnews/article/032/0003458104?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 14 Jul 2026 19:29:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "日 “예금토큰 원년”… 은행 간 연결이 승부처 [웹엑스 2026]",
+        "link": "https://www.decenter.kr/article/20067758?ref=naverdc",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 14 Jul 2026 19:20:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "KB국민 은행 ㆍNICE디앤알, '포용 금융 ' 맞손…중소기업 체불 예방 협약",
+        "link": "http://www.ttlnews.com/news/articleView.html?idxno=3125426",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 14 Jul 2026 19:18:00 +0900",
         "summary": "",
         "term": null
       },
       {
         "title": "[인사] IBK기업 은행",
-        "link": "https://www.joongangenews.com/news/articleView.html?idxno=532895",
+        "link": "https://www.newspim.com/news/view/20260714001180",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 14 Jul 2026 17:02:00 +0900",
+        "pubDate": "Tue, 14 Jul 2026 19:14:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[사진]하나 은행 ' 금융 소비자권익대상' 분쟁조정상 수상",
-        "link": "https://n.news.naver.com/mnews/article/008/0005385977?sid=101",
+        "title": "농협 은행, 충남 우수고객과 함께하는 '머니쇼' 개최",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=140646",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 14 Jul 2026 17:02:00 +0900",
+        "pubDate": "Tue, 14 Jul 2026 19:08:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "우리 은행 , 지점 주담대 한도 10억원 제한…모기지보험 가입도 중단",
-        "link": "https://n.news.naver.com/mnews/article/018/0006330182?sid=101",
+        "title": "우리-SC제일銀도 모기지보험 중단…대출절벽 현실화",
+        "link": "https://n.news.naver.com/mnews/article/020/0003733873?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 14 Jul 2026 17:02:00 +0900",
-        "summary": "",
+        "pubDate": "Tue, 14 Jul 2026 18:56:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "신한 은행 , 임직원 재능기부로 소외층 코딩 교육",
-        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=311902",
+        "title": "우리은행도 대출 조이기…지점별 주택대출 월 30억→10억원",
+        "link": "https://www.kukinews.com/article/view/kuk202607140194",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 14 Jul 2026 17:02:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[인사] 기업 은행",
-        "link": "https://www.news2day.co.kr/article/20260714500228",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 14 Jul 2026 17:02:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "반도체 흔들리자 은행 이 뜬다",
-        "link": "https://n.news.naver.com/mnews/article/243/0000100436?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 14 Jul 2026 17:01:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "우리 은행 , 국민연금 외환 파트너십 3년 연장",
-        "link": "https://n.news.naver.com/mnews/article/014/0005548100?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 14 Jul 2026 17:01:00 +0900",
-        "summary": "",
+        "pubDate": "Tue, 14 Jul 2026 18:40:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "홈플러스 파산 우려 2금융권 '촉각'…담보·충당금으로 리스크 방어",
-        "link": "https://n.news.naver.com/mnews/article/119/0003111319?sid=101",
+        "title": "수은, 20억달러 외화채권 발행…\"역대 최저 가산금리\"",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=745175",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 14 Jul 2026 14:52:00 +0900",
+        "pubDate": "Tue, 14 Jul 2026 19:42:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "“창구 닫히는데 집 사면 손해” 우리는 왜 매년 하반기 ‘대출 잠금장...",
+        "link": "https://n.news.naver.com/mnews/article/016/0002670275?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 14 Jul 2026 19:29:00 +0900",
         "summary": "",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
+        "term": null
+      },
+      {
+        "title": "\"공급 늘린다며 대출 조이는 정부, 앞뒤 안 맞아\"…부동산 첫 토론회 성...",
+        "link": "https://n.news.naver.com/mnews/article/277/0005789961?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 14 Jul 2026 19:20:00 +0900",
+        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
+        "term": null
       }
     ]
   }
