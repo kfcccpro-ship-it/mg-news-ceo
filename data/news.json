@@ -1,209 +1,182 @@
 {
-  "updatedAt": "2026-07-15T13:43:26.985Z",
-  "headline": "울산경남지역 MG 새마을금고 , 위대한 청춘 공연 성료 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-07-15T16:21:38.626Z",
+  "headline": "[포토뉴스]횡성 새마을금고 , 대동여중 금융교실 개최 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
-        "title": "울산경남지역 MG 새마을금고 , 위대한 청춘 공연 성료",
-        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=579268",
+        "title": "[포토뉴스]횡성 새마을금고 , 대동여중 금융교실 개최",
+        "link": "https://n.news.naver.com/mnews/article/087/0001205565?sid=102",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Jul 2026 21:42:00 +0900",
+        "pubDate": "Thu, 16 Jul 2026 00:09:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "규정 어긴 대출(무담보·한도초과)로 금고 부실화…중앙회 시정 요구도...",
-        "link": "https://n.news.naver.com/mnews/article/658/0000149705?sid=102",
+        "title": "새마을금고 'MG따숨' 발족… 지역 밀착 봉사 본격화",
+        "link": "https://n.news.naver.com/mnews/article/654/0000190748?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Jul 2026 19:57:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
+        "pubDate": "Thu, 16 Jul 2026 00:08:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "북춘천 새마을금고 민·관·금융 연대 '시니어 돌봄 공동체' 출범",
+        "link": "https://n.news.naver.com/mnews/article/654/0000190753?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 16 Jul 2026 00:08:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "횡성 새마을금고 대동여중 금융교실",
+        "link": "https://n.news.naver.com/mnews/article/654/0000190708?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 16 Jul 2026 00:07:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[포토뉴스] 새마을금고 강원 대표봉사단 ‘MG따숨’ 발족식",
+        "link": "https://n.news.naver.com/mnews/article/087/0001205461?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 16 Jul 2026 00:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[포토뉴스] MG춘천동남 새마을금고 여름나기 물품지원",
+        "link": "https://n.news.naver.com/mnews/article/087/0001205449?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 16 Jul 2026 00:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "MG북춘천 새마을금고 실버 웰니스 프로그램 구축 사업 본격 돌입",
+        "link": "https://n.news.naver.com/mnews/article/087/0001205465?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 16 Jul 2026 00:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "울산 시금고 8월부터 예금금리 소폭 오를듯",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1062272",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 16 Jul 2026 00:02:00 +0900",
+        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
         "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
-      },
-      {
-        "title": "법 위에 군림하려는 새마을금고 이사장",
-        "link": "https://n.news.naver.com/mnews/article/658/0000149701?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Jul 2026 19:57:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "울산경남 새마을금고 , 현대사 녹여낸 가곡 콘서트 '위대한 청춘' 성료.....",
-        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1062237",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Jul 2026 19:40:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "경인아라 새마을금고 , 본점회관 개관 기념 '노을오케스트라 연주회' 개최",
-        "link": "https://www.ppss.kr/news/articleView.html?idxno=302285",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Jul 2026 18:40:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "새마을금고 , 지자체 금고 수주 추진… '공공 예수금' 실탄 확보 나선다",
-        "link": "https://www.g-enews.com/view.php?ud=202607141512105535cd0bfacc1c_1",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Jul 2026 18:02:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[더벨] 새마을금고 , NPL 소화 한계에 자회사 총동원…매입약정 승부수",
-        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607131716080680102625",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Jul 2026 17:32:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
         }
       }
     ],
     "otherFinance": [
       {
-        "title": "LS증권, CERCG ABCP 소송 4건 화해권고…540억원대 지급 결정",
-        "link": "http://www.4th.kr/news/articleView.html?idxno=2114828",
+        "title": "[ 농협 ] 임직원 700명 AI 실무교육 / 대학생 홍보단 제주 디지털 봉사 / 농...",
+        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2234845",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Jul 2026 22:10:00 +0900",
+        "pubDate": "Thu, 16 Jul 2026 00:40:00 +0900",
+        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "[ 금융 ] 우리자산신탁 분당 재건축 추진 / 기업은행 모임통장 출시 / NH투...",
+        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2234843",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 16 Jul 2026 00:26:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "NH투자증권, AFPRO 2026 박람회 개최",
-        "link": "http://www.bizwnews.com/news/articleView.html?idxno=140754",
+        "title": "NH 농협 캐피탈, 신규 브랜드 'NCAP' 공식 출범... \"장종환 대표, 신뢰받는...",
+        "link": "https://weeklytrade.co.kr/news/view.html?section=1&category=6&item=&no=100644",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Jul 2026 21:38:00 +0900",
+        "pubDate": "Thu, 16 Jul 2026 00:12:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "NH 농협 銀 경북영업부, 어르신 금융 사기 예방 교육",
-        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=553980",
+        "title": "평창 대화 농협 , 상호 금융 예수금 2천억·대출금 1천억 동시 돌파 눈길",
+        "link": "https://n.news.naver.com/mnews/article/087/0001205556?sid=102",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Jul 2026 21:34:00 +0900",
+        "pubDate": "Thu, 16 Jul 2026 00:09:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "평창 대화 농협 상호 금융 예수금 2000억원 달성탑 수상",
+        "link": "https://n.news.naver.com/mnews/article/654/0000190721?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 16 Jul 2026 00:07:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "농협 은행, '농식품 테크 스타트업 창업 박람회' 개최",
-        "link": "http://www.bizwnews.com/news/articleView.html?idxno=140745",
+        "title": "NH 농협 캐피탈, 신규 브랜드 ‘NCAP’ 론칭",
+        "link": "https://n.news.naver.com/mnews/article/022/0004143388?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Jul 2026 21:08:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "2차 공공기관 이전 '주목' 농협금융 지주 부산행?",
-        "link": "https://news.knn.co.kr/news/article/190125",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Jul 2026 20:46:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "경기 농협 , 11월 개최되는 'K-라이스페스타' 참가업체 모집",
-        "link": "https://www.fntimes.com/html/view.php?ud=202607152029079577dd55077bc2_18",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Jul 2026 20:32:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[DCM] 1분기 '어닝 서프라이즈' NH투자증권, 3000억 공모채 출격",
-        "link": "https://www.fntimes.com/html/view.php?ud=202607151952451788141825007d_18",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Jul 2026 20:30:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "농협 강원본부·강원특별자치도, 외국인 계절근로자 혹서기 물품 지원",
-        "link": "https://www.fntimes.com/html/view.php?ud=202607152018049963dd55077bc2_18",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Jul 2026 20:22:00 +0900",
+        "pubDate": "Wed, 15 Jul 2026 23:02:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "윌리엄스 뉴욕 연은 총재 \"인플레 피크 지나…금리 동결 가능\"",
-        "link": "https://n.news.naver.com/mnews/article/015/0005310522?sid=101",
+        "title": "BOC, 기준금리 2.25%로 동결…6회 연속(상보)",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4425237",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Jul 2026 22:31:00 +0900",
+        "pubDate": "Thu, 16 Jul 2026 01:16:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+        }
+      },
+      {
+        "title": "빚투·영끌족 어쩌나…금리 인상 전망에 이자폭탄 ‘공포’",
+        "link": "https://n.news.naver.com/mnews/article/021/0002805019?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 16 Jul 2026 01:15:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "윌리엄스 \"인플레 정점 통과…금리 동결 가능\"",
-        "link": "https://n.news.naver.com/mnews/article/014/0005548803?sid=101",
+        "title": "한은 금통위, 오늘 기준금리 결정…인상 유력",
+        "link": "https://n.news.naver.com/mnews/article/056/0012219144?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Jul 2026 22:26:00 +0900",
+        "pubDate": "Thu, 16 Jul 2026 01:01:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
+        "term": {
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+        }
       },
       {
-        "title": "가계부채 관리냐 주거 사다리냐…부동산 금융 정책 토론회서 격론",
-        "link": "https://n.news.naver.com/mnews/article/396/0000749751?sid=103",
+        "title": "워시 미 연준 의장 \"AI 투자發 물가 상승, 반드시 인플레는 아니다\"",
+        "link": "https://www.newspim.com/news/view/20260716000001",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Jul 2026 22:23:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "금융 위 \"10대 금융 기관 정상화·부실정리계획 승인…시스템 안정성 강화...",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3637283",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Jul 2026 21:06:00 +0900",
+        "pubDate": "Thu, 16 Jul 2026 00:35:00 +0900",
         "summary": "",
         "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
         }
       },
       {
-        "title": "군산원협, 15일부터 예금·적금 특별판매…최고 연 5.0% 금리",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3637274",
+        "title": "한은 “주담대 금리 0.5%P 오르면 1인당 이자 부담 年59만원 늘어”",
+        "link": "https://n.news.naver.com/mnews/article/020/0003734253?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Jul 2026 20:56:00 +0900",
+        "pubDate": "Thu, 16 Jul 2026 00:32:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
-      },
-      {
-        "title": "한은 CBDC ‘프로젝트 한강’ 2단계 시동…예금토큰 50만 명 쓴다",
-        "link": "https://n.news.naver.com/mnews/article/029/0003037323?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Jul 2026 20:48:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
-      },
-      {
-        "title": "청년 대출 풀까, 집값 불쏘시개 될까…부동산 금융 해법 격돌",
-        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7174471",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Jul 2026 18:56:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
         "term": null
       },
       {
-        "title": "“전세대출 공급, 취약계층에 한정해야” [부동산 금융정책 경청 토론회...",
-        "link": "https://www.kukinews.com/article/view/kuk202607150185",
+        "title": "“전세 만료 겨울이면, 대출 안나와 집도 못 사요”",
+        "link": "https://n.news.naver.com/mnews/article/025/0003537890?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 15 Jul 2026 18:08:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
+        "pubDate": "Thu, 16 Jul 2026 00:02:00 +0900",
+        "summary": "",
         "term": null
       }
     ]
