@@ -1,8 +1,16 @@
 {
-  "updatedAt": "2026-07-16T16:16:43.893Z",
-  "headline": "새마을금고 중앙회·새마을운동중앙회, 3억 원 규모 사회공헌 업무협약 ... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-07-16T19:10:23.526Z",
+  "headline": "동울산 새마을금고 , 방어진노인복지관에 초복 맞아 삼계탕 나눔 후원금 ... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "동울산 새마을금고 , 방어진노인복지관에 초복 맞아 삼계탕 나눔 후원금 ...",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1062364",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 17 Jul 2026 01:18:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "새마을금고 중앙회·새마을운동중앙회, 3억 원 규모 사회공헌 업무협약 ...",
         "link": "https://www.betanews.net/article/view/beta202607160121",
@@ -62,14 +70,6 @@
     ],
     "otherFinance": [
       {
-        "title": "BNK경남 은행 , 하반기 경영전략으로 지역 주력산업 금융 지원 강화",
-        "link": "https://www.tokenpost.kr/news/economy/378559",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Jul 2026 00:24:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
         "title": "4대 은행 보안 투자액 보니…KB국민은행 1위",
         "link": "https://n.news.naver.com/mnews/article/092/0002430887?sid=105",
         "source": "네이버뉴스",
@@ -124,9 +124,82 @@
         "pubDate": "Thu, 16 Jul 2026 21:16:00 +0900",
         "summary": "",
         "term": null
+      },
+      {
+        "title": "농협 은행 ‘NH크레딧온’ 구축…대안신용평가 활성화로 포용 금융",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=89454",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 16 Jul 2026 21:14:00 +0900",
+        "summary": "",
+        "term": null
       }
     ],
     "macro": [
+      {
+        "title": "기준금리 3년 6개월 만 인상…영끌족 이자 폭탄 현실로",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=312189",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 17 Jul 2026 04:00:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+        }
+      },
+      {
+        "title": "캔자스시티 연은 총재 \"인플레 여전히 너무 높아…정책 초점은 물가 안...",
+        "link": "https://n.news.naver.com/mnews/article/018/0006332053?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 17 Jul 2026 02:55:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "물가·환율·집값 폭등 속… ‘반도체 호황’에 충격 흡수 가능 판단",
+        "link": "https://n.news.naver.com/mnews/article/005/0001861539?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 17 Jul 2026 02:03:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "UBS, 경쟁사에 맡긴 고객 예금 1500억달러 공략",
+        "link": "https://www.g-enews.com/view.php?ud=2026071622563845549a1f309431_1",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 17 Jul 2026 02:02:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "금리 인상기엔 고정금리 대출-단기 예금 유리",
+        "link": "https://n.news.naver.com/mnews/article/020/0003734587?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 17 Jul 2026 01:43:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "“취약 대출자 부담 재정- 금융 정책으로 덜어줘야”",
+        "link": "https://n.news.naver.com/mnews/article/020/0003734588?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 17 Jul 2026 01:43:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "3년6개월만에 금리 인상… 연내 더 올린다",
+        "link": "https://n.news.naver.com/mnews/article/020/0003734560?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 17 Jul 2026 01:42:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
       {
         "title": "글로벌 ‘긴축 도미노’… 주담대 최고 금리 8% 가능성",
         "link": "https://n.news.naver.com/mnews/article/023/0003988078?sid=101",
@@ -147,25 +220,6 @@
         "term": null
       },
       {
-        "title": "47개월 만에 기준금리 인상…'빚투·영끌' 부담↑",
-        "link": "https://n.news.naver.com/mnews/article/055/0001373213?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Jul 2026 00:29:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Forward Guidance",
-          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
-        }
-      },
-      {
-        "title": "[사설] 한은 금리 인상은 ‘양날의 칼’…경제 충격 최소화가 관건",
-        "link": "https://n.news.naver.com/mnews/article/025/0003538226?sid=110",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Jul 2026 00:24:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
         "title": "서금원, 상반기 휴면예금 2058억원 지급…비대면 신청 63.9% 차지",
         "link": "https://www.gukjenews.com/news/articleView.html?idxno=3638521",
         "source": "네이버뉴스",
@@ -174,33 +228,6 @@
         "term": {
           "word": "Deposit Beta",
           "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
-      },
-      {
-        "title": "함양 양파, 대만 수출 확대…가격 안정·농가 소득 지킨다",
-        "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=660584",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 16 Jul 2026 21:06:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "GS건설, 디에스디삼호에 4400억 보증…본PF 전환ㆍ착공 속도 관건",
-        "link": "http://www.wikileaks-kr.org/news/articleView.html?idxno=189879",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 16 Jul 2026 18:24:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "연체율 비상·총량규제 압박에 상호금융 가계대출 28조 급감",
-        "link": "https://n.news.naver.com/mnews/article/009/0005708614?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 16 Jul 2026 17:57:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
         }
       }
     ]
