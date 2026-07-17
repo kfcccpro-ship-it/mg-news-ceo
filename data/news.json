@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T13:28:20.517Z",
+  "updatedAt": "2026-07-17T16:15:06.156Z",
   "headline": "막 오른 인천시금고 유치전…20년 지킨 신한 vs 청라 이전 하나 '격돌' 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -54,6 +54,22 @@
     ],
     "otherFinance": [
       {
+        "title": "하림-NH 농협 은행, 스마트 축산 협력 강화… AI 기술· 금융 지원으로 농가...",
+        "link": "http://www.youngnong.co.kr/news/articleView.html?idxno=60998",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 17 Jul 2026 23:20:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "하림-NH농협 은행 , 스마트 축산 협력 강화… AI 기술· 금융 지원으로 농가...",
+        "link": "http://www.youngnong.co.kr/news/articleView.html?idxno=60998",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 17 Jul 2026 23:20:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
         "title": "골드만삭스 “중앙 은행 매수, 금값 하단 지지”",
         "link": "https://www.tokenpost.kr/news/breaking/378838",
         "source": "네이버뉴스",
@@ -66,22 +82,6 @@
         "link": "https://n.news.naver.com/mnews/article/003/0014073067?sid=102",
         "source": "네이버뉴스",
         "pubDate": "Fri, 17 Jul 2026 19:58:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "농협 '지방 이전설'에…\"농협개혁\" vs \"이전 비효율\"",
-        "link": "https://n.news.naver.com/mnews/article/003/0014073067?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Jul 2026 19:58:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[A 현장] 신한 은행 '슈퍼SOL 금융 연구소', 체험형 이벤트로 관람객들 호...",
-        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=255588",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Jul 2026 19:44:00 +0900",
         "summary": "",
         "term": null
       },
@@ -103,6 +103,14 @@
       }
     ],
     "macro": [
+      {
+        "title": "신현송 “반도체 주가보다 가격을 보라”…메모리 호황 패러독스, 물가...",
+        "link": "https://n.news.naver.com/mnews/article/353/0000056084?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 18 Jul 2026 00:56:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "연내 3%대 기준금리 전망...주담대 최고 금리 8% 눈앞에",
         "link": "https://n.news.naver.com/mnews/article/052/0002380936?sid=101",
@@ -157,25 +165,6 @@
           "word": "Terminal Rate",
           "meaning": "기준금리 인상 사이클의 최종 수준에 대한 시장 기대"
         }
-      },
-      {
-        "title": "금리인상기 돌입, ‘주담대 8% 시대’ 올까 두려운 서민들",
-        "link": "https://n.news.naver.com/mnews/article/022/0004143819?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Jul 2026 11:31:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Terminal Rate",
-          "meaning": "기준금리 인상 사이클의 최종 수준에 대한 시장 기대"
-        }
-      },
-      {
-        "title": "높아진 대출 문턱에···실수요자 막히고 집값 안정은 '글쎄'",
-        "link": "https://www.seoulfn.com/news/articleView.html?idxno=633477",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Jul 2026 11:00:00 +0900",
-        "summary": "",
-        "term": null
       },
       {
         "title": "[통장잔GO] \"고금리 찾아 삼만리\"…연휴에 떠나는 '방구석 금융'",
