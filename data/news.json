@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T16:15:06.156Z",
+  "updatedAt": "2026-07-17T19:08:25.253Z",
   "headline": "막 오른 인천시금고 유치전…20년 지킨 신한 vs 청라 이전 하나 '격돌' 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -54,26 +54,37 @@
     ],
     "otherFinance": [
       {
+        "title": "[인사] 한국산업 은행",
+        "link": "https://weeklytrade.co.kr/news/view.html?section=1&category=81&item=&no=100668",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 18 Jul 2026 01:50:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "유럽중앙 은행 , 스테이블코인 예금 잠식 경고…디지털 유로 추진 속도",
+        "link": "https://www.tokenpost.kr/news/breaking/378892",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 18 Jul 2026 01:46:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "\"美와 경쟁하려면 몸집 키워야\"…EU, 은행 개혁안 발표",
+        "link": "https://n.news.naver.com/mnews/article/001/0016200922?sid=104",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 18 Jul 2026 01:36:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
         "title": "하림-NH 농협 은행, 스마트 축산 협력 강화… AI 기술· 금융 지원으로 농가...",
         "link": "http://www.youngnong.co.kr/news/articleView.html?idxno=60998",
         "source": "네이버뉴스",
         "pubDate": "Fri, 17 Jul 2026 23:20:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "하림-NH농협 은행 , 스마트 축산 협력 강화… AI 기술· 금융 지원으로 농가...",
-        "link": "http://www.youngnong.co.kr/news/articleView.html?idxno=60998",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Jul 2026 23:20:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "골드만삭스 “중앙 은행 매수, 금값 하단 지지”",
-        "link": "https://www.tokenpost.kr/news/breaking/378838",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Jul 2026 22:02:00 +0900",
         "summary": "",
         "term": null
       },
@@ -110,17 +121,6 @@
         "pubDate": "Sat, 18 Jul 2026 00:56:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "연내 3%대 기준금리 전망...주담대 최고 금리 8% 눈앞에",
-        "link": "https://n.news.naver.com/mnews/article/052/0002380936?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Jul 2026 22:19:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Forward Guidance",
-          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
-        }
       },
       {
         "title": "中企 연체율, 대기업의 4배 … 금리인상 기조에 '좌불안석'",
