@@ -1,16 +1,8 @@
 {
-  "updatedAt": "2026-07-17T19:08:25.253Z",
-  "headline": "막 오른 인천시금고 유치전…20년 지킨 신한 vs 청라 이전 하나 '격돌' 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-07-17T21:53:51.655Z",
+  "headline": "‘인척 개입’…부당대출 새마을금고 책임자들, 결국 자리 물러나 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
-      {
-        "title": "막 오른 인천시금고 유치전…20년 지킨 신한 vs 청라 이전 하나 '격돌'",
-        "link": "https://www.econovill.com/news/articleView.html?idxno=745486",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Jul 2026 14:08:00 +0900",
-        "summary": "",
-        "term": null
-      },
       {
         "title": "‘인척 개입’…부당대출 새마을금고 책임자들, 결국 자리 물러나",
         "link": "https://n.news.naver.com/mnews/article/666/0000115573?sid=102",
@@ -54,18 +46,10 @@
     ],
     "otherFinance": [
       {
-        "title": "[인사] 한국산업 은행",
-        "link": "https://weeklytrade.co.kr/news/view.html?section=1&category=81&item=&no=100668",
+        "title": "ECB, 스테이블코인 확산 경고…유럽 은행 예금 기반 흔들릴 수 있다",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=684994",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 18 Jul 2026 01:50:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "유럽중앙 은행 , 스테이블코인 예금 잠식 경고…디지털 유로 추진 속도",
-        "link": "https://www.tokenpost.kr/news/breaking/378892",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 18 Jul 2026 01:46:00 +0900",
+        "pubDate": "Sat, 18 Jul 2026 06:38:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": {
           "word": "Deposit Beta",
@@ -73,10 +57,40 @@
         }
       },
       {
-        "title": "\"美와 경쟁하려면 몸집 키워야\"…EU, 은행 개혁안 발표",
-        "link": "https://n.news.naver.com/mnews/article/001/0016200922?sid=104",
+        "title": "HSBC, 영란 은행 승인 받아 디지털 증권 샌드박스 진입",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=684992",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 18 Jul 2026 01:36:00 +0900",
+        "pubDate": "Sat, 18 Jul 2026 06:32:00 +0900",
+        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "포용 금융 압박 속 지방은행 부실 88%↑…건전성 경고등",
+        "link": "https://n.news.naver.com/mnews/article/243/0000100556?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 18 Jul 2026 06:31:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "포용 금융 압박 속 지방 은행 부실 88%↑…건전성 경고등",
+        "link": "https://n.news.naver.com/mnews/article/243/0000100556?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 18 Jul 2026 06:31:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "\"육계농가 경영 안정 돕는다\"…NH 농협 ·하림, 업무협약",
+        "link": "http://www.jeonmin.co.kr/news/articleView.html?idxno=443515",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 18 Jul 2026 04:20:00 +0900",
         "summary": "",
         "term": null
       },
@@ -103,23 +117,42 @@
         "pubDate": "Fri, 17 Jul 2026 16:44:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
-      },
-      {
-        "title": "[보험업계기상도]7월 셋째 주 ‘구름 조금’…삼성생명 등 ‘맑음’",
-        "link": "https://www.nspna.com/news/?mode=view&newsid=821019",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Jul 2026 12:20:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "macro": [
       {
-        "title": "신현송 “반도체 주가보다 가격을 보라”…메모리 호황 패러독스, 물가...",
-        "link": "https://n.news.naver.com/mnews/article/353/0000056084?sid=101",
+        "title": "[N2 포커스] 기준금리 인상에 '주담대' 폭등 우려...관건은 '추가 인상'",
+        "link": "https://www.news2day.co.kr/article/20260716500268",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 18 Jul 2026 00:56:00 +0900",
+        "pubDate": "Sat, 18 Jul 2026 06:52:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+        }
+      },
+      {
+        "title": "'이슈 픽 쌤과 함께' 최상엽 연세대 교수, 고금리·고환율… 금리 변동...",
+        "link": "https://www.lecturernews.com/news/articleView.html?idxno=206586",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 18 Jul 2026 06:26:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "대출 축소에 \"잔금 어떡하나\"...외곽 등 풍선효과 우려도",
+        "link": "https://n.news.naver.com/mnews/article/052/0002381033?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 18 Jul 2026 06:22:00 +0900",
         "summary": "",
+        "term": null
+      },
+      {
+        "title": "대출 빗장에 금리 인상까지…실수요자 이중고",
+        "link": "https://news.mtn.co.kr/news-detail/2026071614044898170",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 18 Jul 2026 06:04:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       },
       {
@@ -153,17 +186,6 @@
         "term": {
           "word": "Deposit Beta",
           "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
-      },
-      {
-        "title": "\"금리 8월 또 오른다\"…한은 긴축에 영끌족 '이자 폭탄' 걱정",
-        "link": "https://n.news.naver.com/mnews/article/015/0005311043?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Jul 2026 14:58:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Terminal Rate",
-          "meaning": "기준금리 인상 사이클의 최종 수준에 대한 시장 기대"
         }
       },
       {
