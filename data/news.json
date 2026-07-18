@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T19:03:34.613Z",
+  "updatedAt": "2026-07-18T21:51:18.713Z",
   "headline": "새마을금고 중앙회,새마을운동중앙회와 사회공헌사업 맞손 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -26,96 +26,155 @@
         "pubDate": "Fri, 17 Jul 2026 10:00:00 +0900",
         "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
         "term": null
-      },
-      {
-        "title": "동울산 새마을금고 , 방어진노인복지관에 초복 맞아 삼계탕 나눔 후원금 ...",
-        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1062364",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Jul 2026 01:18:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "스테이블코인 확산에 ‘ 은행 없는 세대’ 현실화하나",
-        "link": "https://www.tokenpost.kr/news/blockchain/379100",
+        "title": "보이스피싱 당하면 1000만원 보상…은행이 월 5000원 보험료 대신 내주는...",
+        "link": "https://n.news.naver.com/mnews/article/016/0002671782?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 19 Jul 2026 03:40:00 +0900",
+        "pubDate": "Sun, 19 Jul 2026 06:31:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[취준생을 위하여(305)] KB국민 은행 , 기업 금융 부터 AI 혁신까지…종합금...",
-        "link": "https://www.news2day.co.kr/article/20260717500010",
+        "title": "보이스피싱 당하면 1000만원 보상… 은행 이 월 5000원 보험료 대신 내주는...",
+        "link": "https://n.news.naver.com/mnews/article/016/0002671782?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 19 Jul 2026 02:02:00 +0900",
+        "pubDate": "Sun, 19 Jul 2026 06:31:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "DGIST·현풍 농협 , 미래 인재 육성 맞손",
-        "link": "https://www.kbsm.net/news/view.php?idx=527105",
+        "title": "시작된 기준금리 인상, '조달비용' 시름 깊어지는 카드사",
+        "link": "https://n.news.naver.com/mnews/article/008/0005387546?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 19 Jul 2026 00:06:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[비즈토크 ] 긴축 들어간 한국 은행 …기준금리 인상 영향은",
-        "link": "https://n.news.naver.com/mnews/article/629/0000517011?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 19 Jul 2026 00:04:00 +0900",
+        "pubDate": "Sun, 19 Jul 2026 06:10:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+        }
+      },
+      {
+        "title": "“은행 대출문 닫혔다”… 가계대출 한도 소진·금리 7.5% 육박, 실수요...",
+        "link": "https://www.kbmaeil.com/article/20260719500008",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 19 Jul 2026 06:08:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "국내 은행 가계대출 초과, 주담대 금리 상승 불가피",
+        "link": "https://www.tokenpost.kr/news/economy/379116",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 19 Jul 2026 06:06:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "24개월 최고 연 3.55%…부산은행 '더(The) 특판 정기예금' [이주의 은행...",
+        "link": "https://www.fntimes.com/html/view.php?ud=2026071609050358935e6e69892f_18",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 19 Jul 2026 06:02:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "\"문 닫히기 전에 받자\"…은행, 대출 문턱 더 높였다",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=140318",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 19 Jul 2026 06:00:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "은행권 가계대출 여력 바닥…금리 상승까지 실수요자 '이중고'",
+        "link": "https://n.news.naver.com/mnews/article/001/0016201438?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 19 Jul 2026 05:47:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      }
+    ],
+    "macro": [
+      {
+        "title": "\"1월엔 되고 7월엔 안돼\"…갚을 능력보다 '타이밍' 싸움 된 대출",
+        "link": "https://n.news.naver.com/mnews/article/008/0005387552?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 19 Jul 2026 06:45:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "원화 강세, 달러 가치 급락…1,470원대 환율 회복",
+        "link": "https://www.tokenpost.kr/news/economy/379120",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 19 Jul 2026 06:26:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "대출 금리는 '껑충'…예금 금리는 '찔끔'[금리인상 후폭풍]③",
+        "link": "https://n.news.naver.com/mnews/article/421/0009066242?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 19 Jul 2026 06:20:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": {
           "word": "Terminal Rate",
           "meaning": "기준금리 인상 사이클의 최종 수준에 대한 시장 기대"
         }
       },
       {
-        "title": "집·주식 돈줄 마른다…5대 은행 가계대출 한도 80% 소진",
-        "link": "https://www.theguru.co.kr/news/article.html?no=104539",
+        "title": "상호금융권 대출 부담 증대, 가계부채 관리 비상",
+        "link": "https://www.tokenpost.kr/news/economy/379119",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 19 Jul 2026 00:02:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "KB국민 은행 , 인니 'KB뱅크' 정상화 사활…인력은 감축·자본금은 확충 추...",
-        "link": "https://www.theguru.co.kr/news/article.html?no=104491",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 19 Jul 2026 00:02:00 +0900",
+        "pubDate": "Sun, 19 Jul 2026 06:16:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "농협 손해보험, AI 시대 소비자보호 강화…'공정성·설명가능성' 점검 나...",
-        "link": "http://www.youngnong.co.kr/news/articleView.html?idxno=60938",
+        "title": "상호 금융 권 대출 부담 증대, 가계부채 관리 비상",
+        "link": "https://www.tokenpost.kr/news/economy/379119",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 18 Jul 2026 23:22:00 +0900",
+        "pubDate": "Sun, 19 Jul 2026 06:16:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "경북 농협 , ‘세대 맞춤형 금융 교육’ 확대… 청소년 경제 습관·어르신...",
-        "link": "https://tk.newdaily.co.kr/site/data/html/2026/07/16/2026071600324.html",
+        "title": "대출 조이니 결국 있는 사람만…2억 이상 고액 마통만 늘었다",
+        "link": "https://n.news.naver.com/mnews/article/009/0005709000?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 18 Jul 2026 20:42:00 +0900",
+        "pubDate": "Sun, 19 Jul 2026 06:09:00 +0900",
         "summary": "",
         "term": null
-      }
-    ],
-    "macro": [
+      },
       {
-        "title": "군산원협, 100억 규모 예·적금 특판... 예금 최대 3.5%·적금 5.0%",
-        "link": "http://www.jeonmin.co.kr/news/articleView.html?idxno=443528",
+        "title": "이자는 늘고 한도는 줄고…'대출 절벽'에 점포 순회도",
+        "link": "https://n.news.naver.com/mnews/article/003/0014073762?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 18 Jul 2026 19:16:00 +0900",
+        "pubDate": "Sun, 19 Jul 2026 06:00:00 +0900",
         "summary": "",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
+        "term": null
+      },
+      {
+        "title": "상호금융 '집단대출 부메랑' 상반기 3조 쑥…연말까지 영업제한",
+        "link": "https://n.news.naver.com/mnews/article/001/0016201439?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 19 Jul 2026 05:49:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "상호 금융 '집단대출 부메랑' 상반기 3조 쑥…연말까지 영업제한",
+        "link": "https://n.news.naver.com/mnews/article/001/0016201439?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 19 Jul 2026 05:49:00 +0900",
+        "summary": "",
+        "term": null
       },
       {
         "title": "[통장잔GO] \"고금리 찾아 삼만리\"…연휴에 떠나는 '방구석 금융'",
@@ -123,22 +182,6 @@
         "source": "네이버뉴스",
         "pubDate": "Fri, 17 Jul 2026 09:34:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "기준 금리 인상에 커지는 이자부담, 대구 부동산 시장 더 얼어붙는다",
-        "link": "https://www.yeongnam.com/web/view.php?key=20260717028506577",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Jul 2026 09:28:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "公敵 전락 '삼닉 레버리지ETF'…금융당국은 궁극의 해결책 찾을수 있을...",
-        "link": "https://n.news.naver.com/mnews/article/079/0004169341?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Jul 2026 04:51:00 +0900",
-        "summary": "",
         "term": null
       }
     ]
