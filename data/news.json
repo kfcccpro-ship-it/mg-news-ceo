@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T02:29:38.026Z",
+  "updatedAt": "2026-07-18T05:26:03.111Z",
   "headline": "새마을금고 중앙회,새마을운동중앙회와 사회공헌사업 맞손 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -54,18 +54,50 @@
     ],
     "otherFinance": [
       {
-        "title": "\"코스닥 활성화 하자\" KB국민 은행 , 코스닥협회 업무협약",
-        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=255516",
+        "title": "솔라나, 3조원 돌파하며 토큰화 증권 시장 선도",
+        "link": "https://www.tokenpost.kr/news/cryptocurrency/379025",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 18 Jul 2026 11:00:00 +0900",
+        "pubDate": "Sat, 18 Jul 2026 14:10:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "\"지역경제 회복 최일선 나서다\" … BNK경남 은행 , '하반기 경영전략 회의...",
-        "link": "https://n.news.naver.com/mnews/article/277/0005791354?sid=102",
+        "title": "[위클리 뱅크이슈] \"인공지능이 미래\"…은행권 'AX' 전방위 확산",
+        "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=724547",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 18 Jul 2026 11:00:00 +0900",
+        "pubDate": "Sat, 18 Jul 2026 14:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[위클리 뱅크이슈] \"인공지능이 미래\"… 은행 권 'AX' 전방위 확산",
+        "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=724547",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 18 Jul 2026 14:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "은행권 하투 불붙나…임단협 결렬에 지방 이전 논란까지",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=847428",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 18 Jul 2026 13:20:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "은행 권 하투 불붙나…임단협 결렬에 지방 이전 논란까지",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=847428",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 18 Jul 2026 13:20:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "NH 농협 은행, 하림과 육계농가 경영지원 협약",
+        "link": "https://n.news.naver.com/mnews/article/003/0014073483?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 18 Jul 2026 13:00:00 +0900",
         "summary": "",
         "term": null
       },
@@ -78,76 +110,41 @@
         "term": null
       },
       {
-        "title": "신한투자증권, '신한 슈퍼SOL' 친구 초대 이벤트 9월까지",
-        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=266948",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 18 Jul 2026 10:34:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "2분기 GDP· 은행 연체율 나온다…다음주 경제지표 '주목'",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1716820",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 18 Jul 2026 10:24:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
-      },
-      {
         "title": "NH 농협 은행, 8개 기관과 '대안신용평가 얼라이언스' 출범…AI로 포용 금융 ...",
         "link": "https://www.thepublic.kr/news/articleView.html?idxno=311593",
         "source": "네이버뉴스",
         "pubDate": "Sat, 18 Jul 2026 10:18:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "여름휴가 특수 노리는 은행들…환전 마케팅 후끈",
-        "link": "https://www.ajunews.com/view/20260716152626012",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 18 Jul 2026 10:02:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "\"휴가철 소비 잡아라\"···카드사, 해외결제부터 레저·문화까지 혜택...",
-        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=422466",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 18 Jul 2026 08:40:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "macro": [
       {
-        "title": "“금리 계속 오른다는데, 대출 어떡해요” 입주 후 등기 늦어져 속타는...",
-        "link": "https://n.news.naver.com/mnews/article/016/0002671681?sid=101",
+        "title": "2분기 GDP 23일 공개…8월 금리 경로 가늠할 다음 주 핵심 지표",
+        "link": "https://www.betanews.net/article/view/beta202607180009",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 18 Jul 2026 11:00:00 +0900",
+        "pubDate": "Sat, 18 Jul 2026 13:30:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "\"여행 안 가고 삼전 산다\"…연휴 소비, 이렇게 바뀌었다",
-        "link": "https://n.news.naver.com/mnews/article/119/0003112450?sid=101",
+        "title": "연준 인사들 \"물가 안 잡히면 금리 인상 가능\"…AI 투자 단기 인플레 우...",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=1392596",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 18 Jul 2026 07:20:00 +0900",
-        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
-        "term": null
-      },
-      {
-        "title": "\"잔금 어쩌나\"…실수요자 대출 막히고 이자도 오른다[금리인상 후폭풍]...",
-        "link": "https://n.news.naver.com/mnews/article/421/0009065727?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 18 Jul 2026 07:00:00 +0900",
+        "pubDate": "Sat, 18 Jul 2026 13:20:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": {
-          "word": "Terminal Rate",
-          "meaning": "기준금리 인상 사이클의 최종 수준에 대한 시장 기대"
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
         }
+      },
+      {
+        "title": "[이호연의 D톡스] 고정이냐 변동이냐…금리 인상기, 주담대 셈법 더 복...",
+        "link": "https://n.news.naver.com/mnews/article/138/0002234541?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 18 Jul 2026 12:54:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
       },
       {
         "title": "[통장잔GO] \"고금리 찾아 삼만리\"…연휴에 떠나는 '방구석 금융'",
