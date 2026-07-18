@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T05:26:03.111Z",
+  "updatedAt": "2026-07-18T07:49:25.960Z",
   "headline": "새마을금고 중앙회,새마을운동중앙회와 사회공헌사업 맞손 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -9,14 +9,6 @@
         "source": "네이버뉴스",
         "pubDate": "Sat, 18 Jul 2026 09:24:00 +0900",
         "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "청라 시대 앞둔 하나은행, 신한과 인천시금고 맞대결",
-        "link": "https://www.sentv.co.kr/article/view/sentv202607160134",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 18 Jul 2026 08:02:00 +0900",
-        "summary": "",
         "term": null
       },
       {
@@ -54,10 +46,26 @@
     ],
     "otherFinance": [
       {
-        "title": "솔라나, 3조원 돌파하며 토큰화 증권 시장 선도",
-        "link": "https://www.tokenpost.kr/news/cryptocurrency/379025",
+        "title": "강회장이 임명한 강태영 NH 농협 은행장…연임 가능할까?",
+        "link": "https://n.news.naver.com/mnews/article/468/0001254291?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 18 Jul 2026 14:10:00 +0900",
+        "pubDate": "Sat, 18 Jul 2026 16:16:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "강회장이 임명한 강태영 NH농협 은행 장…연임 가능할까?",
+        "link": "https://n.news.naver.com/mnews/article/468/0001254291?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 18 Jul 2026 16:16:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[주장] 농협 의 지방이전, 과연 누구를 위한 것인가",
+        "link": "https://n.news.naver.com/mnews/article/047/0002522883?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 18 Jul 2026 14:41:00 +0900",
         "summary": "",
         "term": null
       },
@@ -70,23 +78,7 @@
         "term": null
       },
       {
-        "title": "[위클리 뱅크이슈] \"인공지능이 미래\"… 은행 권 'AX' 전방위 확산",
-        "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=724547",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 18 Jul 2026 14:00:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
         "title": "은행권 하투 불붙나…임단협 결렬에 지방 이전 논란까지",
-        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=847428",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 18 Jul 2026 13:20:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "은행 권 하투 불붙나…임단협 결렬에 지방 이전 논란까지",
         "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=847428",
         "source": "네이버뉴스",
         "pubDate": "Sat, 18 Jul 2026 13:20:00 +0900",
@@ -120,23 +112,31 @@
     ],
     "macro": [
       {
-        "title": "2분기 GDP 23일 공개…8월 금리 경로 가늠할 다음 주 핵심 지표",
-        "link": "https://www.betanews.net/article/view/beta202607180009",
+        "title": "다음 주 경제, 2분기 GDP '주목'…\"금리 향방 가를 핵심 지표 공개\"",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=362239",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 18 Jul 2026 13:30:00 +0900",
+        "pubDate": "Sat, 18 Jul 2026 16:44:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "연준 인사들 \"물가 안 잡히면 금리 인상 가능\"…AI 투자 단기 인플레 우...",
-        "link": "https://www.m-i.kr/news/articleView.html?idxno=1392596",
+        "title": "금융 硏 “‘CBDC·예금토큰’ 중심 다중통화 시스템 구축해야”",
+        "link": "https://www.etoday.co.kr/news/view/2604791",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 18 Jul 2026 13:20:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "pubDate": "Sat, 18 Jul 2026 16:20:00 +0900",
+        "summary": "",
         "term": {
-          "word": "Forward Guidance",
-          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
         }
+      },
+      {
+        "title": "韓 경기선행지수 26년 만에 최고…18개월 연속 상승",
+        "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=315223",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 18 Jul 2026 15:18:00 +0900",
+        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
+        "term": null
       },
       {
         "title": "[이호연의 D톡스] 고정이냐 변동이냐…금리 인상기, 주담대 셈법 더 복...",
