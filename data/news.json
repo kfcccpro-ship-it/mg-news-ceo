@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T13:14:48.457Z",
+  "updatedAt": "2026-07-18T15:57:09.739Z",
   "headline": "새마을금고 중앙회,새마을운동중앙회와 사회공헌사업 맞손 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -38,11 +38,54 @@
     ],
     "otherFinance": [
       {
-        "title": "공무원연금공단, 신한 은행 과 '퇴직공무원 디지털· 금융 역량 강화' 맞손",
-        "link": "https://www.cstimes.com/news/articleView.html?idxno=713837",
+        "title": "DGIST·현풍 농협 , 미래 인재 육성 맞손",
+        "link": "https://www.kbsm.net/news/view.php?idx=527105",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 18 Jul 2026 21:34:00 +0900",
-        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
+        "pubDate": "Sun, 19 Jul 2026 00:06:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[비즈토크 ] 긴축 들어간 한국 은행 …기준금리 인상 영향은",
+        "link": "https://n.news.naver.com/mnews/article/629/0000517011?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 19 Jul 2026 00:04:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Terminal Rate",
+          "meaning": "기준금리 인상 사이클의 최종 수준에 대한 시장 기대"
+        }
+      },
+      {
+        "title": "집·주식 돈줄 마른다…5대 은행 가계대출 한도 80% 소진",
+        "link": "https://www.theguru.co.kr/news/article.html?no=104539",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 19 Jul 2026 00:02:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "KB국민 은행 , 인니 'KB뱅크' 정상화 사활…인력은 감축·자본금은 확충 추...",
+        "link": "https://www.theguru.co.kr/news/article.html?no=104491",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 19 Jul 2026 00:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "트럼프 행정부, 불법 이민자 은행 서비스 제한 추진",
+        "link": "https://www.tokenpost.kr/news/breaking/379085",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 18 Jul 2026 23:48:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "농협 손해보험, AI 시대 소비자보호 강화…'공정성·설명가능성' 점검 나...",
+        "link": "http://www.youngnong.co.kr/news/articleView.html?idxno=60938",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 18 Jul 2026 23:22:00 +0900",
+        "summary": "",
         "term": null
       },
       {
@@ -54,55 +97,23 @@
         "term": null
       },
       {
-        "title": "경북농협, ‘세대 맞춤형 금융 교육’ 확대… 청소년 경제 습관·어르신...",
-        "link": "https://tk.newdaily.co.kr/site/data/html/2026/07/16/2026071600324.html",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 18 Jul 2026 20:42:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "카드값 밀린 것도 아닌데…직장인들 '뜨끔' 신용등급 깎는 행동들",
-        "link": "https://n.news.naver.com/mnews/article/277/0005791406?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 18 Jul 2026 19:27:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
         "title": "강회장이 임명한 강태영 NH 농협 은행장…연임 가능할까?",
         "link": "https://n.news.naver.com/mnews/article/468/0001254291?sid=101",
         "source": "네이버뉴스",
         "pubDate": "Sat, 18 Jul 2026 16:16:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "[주장] 농협 의 지방이전, 과연 누구를 위한 것인가",
-        "link": "https://n.news.naver.com/mnews/article/047/0002522883?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 18 Jul 2026 14:41:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[위클리 뱅크이슈] \"인공지능이 미래\"…은행권 'AX' 전방위 확산",
-        "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=724547",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 18 Jul 2026 14:00:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "은행권 하투 불붙나…임단협 결렬에 지방 이전 논란까지",
-        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=847428",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 18 Jul 2026 13:20:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "macro": [
+      {
+        "title": "대출 축소에 \"잔금 어떡하나\"...외곽 등 풍선효과 우려도",
+        "link": "https://n.news.naver.com/mnews/article/052/0002381271?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 18 Jul 2026 23:29:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "군산원협, 100억 규모 예·적금 특판... 예금 최대 3.5%·적금 5.0%",
         "link": "http://www.jeonmin.co.kr/news/articleView.html?idxno=443528",
@@ -113,25 +124,6 @@
           "word": "Deposit Beta",
           "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
         }
-      },
-      {
-        "title": "주요 美 연준 인사\"물가 안정 위해 필요시 금리 인상 가능\"",
-        "link": "https://www.g-enews.com/view.php?ud=202607181831164075c5557f8da8_1",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 18 Jul 2026 18:58:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Forward Guidance",
-          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
-        }
-      },
-      {
-        "title": "[이호연의 D톡스] 고정이냐 변동이냐…금리 인상기, 주담대 셈법 더 복...",
-        "link": "https://n.news.naver.com/mnews/article/138/0002234541?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 18 Jul 2026 12:54:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
       },
       {
         "title": "[통장잔GO] \"고금리 찾아 삼만리\"…연휴에 떠나는 '방구석 금융'",
