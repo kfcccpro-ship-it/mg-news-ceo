@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T15:57:58.015Z",
+  "updatedAt": "2026-07-19T19:05:34.607Z",
   "headline": "새마을금고 중앙회, 새마을운동중앙회와 지역사회 상생 협력 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -22,6 +22,14 @@
     ],
     "otherFinance": [
       {
+        "title": "기약없는 법인 코인투자… 은행 권 '한숨'",
+        "link": "https://n.news.naver.com/mnews/article/008/0005387719?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 20 Jul 2026 04:01:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
         "title": "잠자는 카드 포인트, 이용대금 차감·연회비 등으로 활용하세요",
         "link": "https://n.news.naver.com/mnews/article/023/0003988437?sid=101",
         "source": "네이버뉴스",
@@ -38,39 +46,7 @@
         "term": null
       },
       {
-        "title": "임종룡 “ 은행 , 지속 가능한 수익 구조 만들어야”",
-        "link": "https://n.news.naver.com/mnews/article/020/0003734903?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 20 Jul 2026 00:31:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "증시 빚투 늘자… 5대 은행 가계대출 年목표치보다 3500억 초과",
-        "link": "https://n.news.naver.com/mnews/article/020/0003734910?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 20 Jul 2026 00:31:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "9월부터 해외 은행 에서도 원화 계좌 만들어 실시간 결제",
-        "link": "https://n.news.naver.com/mnews/article/020/0003734901?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 20 Jul 2026 00:31:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
         "title": "카카오페이와 NH 농협 은행, 데이터 동맹 맺고 대안신용평가 시장 키운다",
-        "link": "http://www.technoa.co.kr/news/articleView.html?idxno=101162",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 20 Jul 2026 00:24:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "카카오페이와 NH농협 은행 , 데이터 동맹 맺고 대안신용평가 시장 키운다",
         "link": "http://www.technoa.co.kr/news/articleView.html?idxno=101162",
         "source": "네이버뉴스",
         "pubDate": "Mon, 20 Jul 2026 00:24:00 +0900",
@@ -84,27 +60,56 @@
         "pubDate": "Mon, 20 Jul 2026 00:02:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
-      }
-    ],
-    "macro": [
+      },
       {
-        "title": "1478원… 환율, 두달여 만에 최저 수준",
-        "link": "https://n.news.naver.com/mnews/article/020/0003734902?sid=101",
+        "title": "농협 생명, 기본자본 K-ICS 134%로 낮아져…CSM·잉여금 확대 [보험사 기본...",
+        "link": "https://www.fntimes.com/html/view.php?ud=202607162242594143dd55077bc2_18",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 20 Jul 2026 00:31:00 +0900",
+        "pubDate": "Mon, 20 Jul 2026 00:02:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "한은, 기준금리 2.75%로 인상… 물가 안정 초점",
-        "link": "https://n.news.naver.com/mnews/article/654/0000191082?sid=101",
+        "title": "현장 목소리로 '업무 혁신', 보험사 사내 공모전 확산",
+        "link": "https://www.insnews.co.kr/news/articleView.html?idxno=91870",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 20 Jul 2026 00:09:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Forward Guidance",
-          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
-        }
+        "pubDate": "Mon, 20 Jul 2026 00:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "파리서 만난 NH 농협금융 ·아문디…AI 운용·연금시장 동맹 강화한다",
+        "link": "https://www.apnews.kr/news/articleView.html?idxno=3049859",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 19 Jul 2026 23:16:00 +0900",
+        "summary": "",
+        "term": null
+      }
+    ],
+    "macro": [
+      {
+        "title": "내 이름으로 대출·휴대전화 못 만들게…1분이면 ‘보안 잠금’",
+        "link": "https://n.news.naver.com/mnews/article/662/0000099921?sid=105",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 20 Jul 2026 04:01:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[사설]부작용 큰 대출 총량규제, 개선 시급하다",
+        "link": "https://n.news.naver.com/mnews/article/008/0005387718?sid=110",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 20 Jul 2026 04:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "고점론 지운 한은… “반도체 가격 상승이 내수회복 이끈다”",
+        "link": "https://n.news.naver.com/mnews/article/005/0001861871?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 20 Jul 2026 02:06:00 +0900",
+        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
+        "term": null
       },
       {
         "title": "가계대출 중단 위기… 금리 올라 실수요자 ‘이중고’",
