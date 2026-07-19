@@ -1,187 +1,202 @@
 {
-  "updatedAt": "2026-07-18T21:51:18.713Z",
-  "headline": "새마을금고 중앙회,새마을운동중앙회와 사회공헌사업 맞손 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-07-19T02:43:22.788Z",
+  "headline": "농협 중앙회, 농민 부담 완화 위한 예산 2200억원 편성 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
-        "title": "새마을금고 중앙회,새마을운동중앙회와 사회공헌사업 맞손",
-        "link": "https://www.tournews21.com/news/articleView.html?idxno=138809",
+        "title": "농협 중앙회, 농민 부담 완화 위한 예산 2200억원 편성",
+        "link": "http://www.ikpnews.net/news/articleView.html?idxno=70993",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 18 Jul 2026 09:24:00 +0900",
+        "pubDate": "Sun, 19 Jul 2026 11:38:00 +0900",
         "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
         "term": null
       },
       {
-        "title": "‘인척 개입’…부당대출 새마을금고 책임자들, 결국 자리 물러나",
-        "link": "https://n.news.naver.com/mnews/article/666/0000115573?sid=102",
+        "title": "농협·신협· 새마을금고 집단대출, 상반기에만 3조 원 증가",
+        "link": "https://n.news.naver.com/mnews/article/056/0012220695?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Jul 2026 11:06:00 +0900",
+        "pubDate": "Sun, 19 Jul 2026 11:34:00 +0900",
         "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "새마을금고 중앙회·새마을운동중앙회, 지역 돌봄·청년 나눔 확산 위해...",
-        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=255521",
+        "title": "농협 ·신협·새마을금고 집단대출, 상반기에만 3조 원 증가",
+        "link": "https://n.news.naver.com/mnews/article/056/0012220695?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Jul 2026 10:00:00 +0900",
+        "pubDate": "Sun, 19 Jul 2026 11:34:00 +0900",
+        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "농협·신협·새마을금고 집단대출, 상반기에만 3조 원 증가",
+        "link": "https://n.news.naver.com/mnews/article/056/0012220695?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 19 Jul 2026 11:34:00 +0900",
+        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "새마을금고 중앙회, 취약계층 지원·청년 해외봉사활동에 3억 지원",
+        "link": "https://n.news.naver.com/mnews/article/421/0009066409?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 19 Jul 2026 10:19:00 +0900",
         "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "은행은 떠나버린 지방… 점포 지키며 마을 살리는 새마을금고",
+        "link": "https://n.news.naver.com/mnews/article/008/0005387599?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 19 Jul 2026 10:01:00 +0900",
+        "summary": "",
         "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "보이스피싱 당하면 1000만원 보상…은행이 월 5000원 보험료 대신 내주는...",
-        "link": "https://n.news.naver.com/mnews/article/016/0002671782?sid=101",
+        "title": "5대 은행, 가계대출 연간 목표 초과",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=307223",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 19 Jul 2026 06:31:00 +0900",
+        "pubDate": "Sun, 19 Jul 2026 11:40:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "5대 은행 , 가계대출 연간 목표 초과",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=307223",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 19 Jul 2026 11:40:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "한국 은행 , 2분기 성장률 발표…반도체 호황에 성장세 '주목'",
+        "link": "https://n.news.naver.com/mnews/article/421/0009066528?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 19 Jul 2026 11:33:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "보이스피싱 당하면 1000만원 보상… 은행 이 월 5000원 보험료 대신 내주는...",
-        "link": "https://n.news.naver.com/mnews/article/016/0002671782?sid=101",
+        "title": "NH 농협금융 , 아문디와 AI 운용·연금시장 대응 협력 강화",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2114915",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 19 Jul 2026 06:31:00 +0900",
+        "pubDate": "Sun, 19 Jul 2026 11:30:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "시작된 기준금리 인상, '조달비용' 시름 깊어지는 카드사",
-        "link": "https://n.news.naver.com/mnews/article/008/0005387546?sid=101",
+        "title": "은행권 가계대출 목표 초과…하반기 대출 문턱 더 높아진다",
+        "link": "https://n.news.naver.com/mnews/article/028/0002814698?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 19 Jul 2026 06:10:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Forward Guidance",
-          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
-        }
-      },
-      {
-        "title": "“은행 대출문 닫혔다”… 가계대출 한도 소진·금리 7.5% 육박, 실수요...",
-        "link": "https://www.kbmaeil.com/article/20260719500008",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 19 Jul 2026 06:08:00 +0900",
+        "pubDate": "Sun, 19 Jul 2026 11:28:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "국내 은행 가계대출 초과, 주담대 금리 상승 불가피",
-        "link": "https://www.tokenpost.kr/news/economy/379116",
+        "title": "은행 권 가계대출 목표 초과…하반기 대출 문턱 더 높아진다",
+        "link": "https://n.news.naver.com/mnews/article/028/0002814698?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 19 Jul 2026 06:06:00 +0900",
+        "pubDate": "Sun, 19 Jul 2026 11:28:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "24개월 최고 연 3.55%…부산은행 '더(The) 특판 정기예금' [이주의 은행...",
-        "link": "https://www.fntimes.com/html/view.php?ud=2026071609050358935e6e69892f_18",
+        "title": "BNK경남 은행 , '2026년 하반기 경영전략회의' 개최",
+        "link": "https://n.news.naver.com/mnews/article/088/0001019608?sid=102",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 19 Jul 2026 06:02:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
-      },
-      {
-        "title": "\"문 닫히기 전에 받자\"…은행, 대출 문턱 더 높였다",
-        "link": "https://www.ziksir.com/news/articleView.html?idxno=140318",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 19 Jul 2026 06:00:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "pubDate": "Sun, 19 Jul 2026 11:28:00 +0900",
+        "summary": "",
         "term": null
       },
       {
-        "title": "은행권 가계대출 여력 바닥…금리 상승까지 실수요자 '이중고'",
-        "link": "https://n.news.naver.com/mnews/article/001/0016201438?sid=101",
+        "title": "NH 농협 은행, 세종 우수고객 대상 ‘머니쇼’ 개최…5개 분야 자산관리 ...",
+        "link": "https://www.socialvalue.kr/news/view/1065579509981682",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 19 Jul 2026 05:47:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "pubDate": "Sun, 19 Jul 2026 11:26:00 +0900",
+        "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "\"1월엔 되고 7월엔 안돼\"…갚을 능력보다 '타이밍' 싸움 된 대출",
-        "link": "https://n.news.naver.com/mnews/article/008/0005387552?sid=101",
+        "title": "집값은 뛰고, 대출은 안해 주고…집 있는 신혼부부·청년층, 더 줄었네",
+        "link": "https://n.news.naver.com/mnews/article/018/0006332531?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 19 Jul 2026 06:45:00 +0900",
+        "pubDate": "Sun, 19 Jul 2026 11:34:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "원화 강세, 달러 가치 급락…1,470원대 환율 회복",
-        "link": "https://www.tokenpost.kr/news/economy/379120",
+        "title": "[이슈체크] GDP 4만달러 초읽기...환율 1,456원 아래면 올해 첫 돌파",
+        "link": "https://www.tfmedia.co.kr/news/article.html?no=205848",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 19 Jul 2026 06:26:00 +0900",
+        "pubDate": "Sun, 19 Jul 2026 11:32:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "대출 금리는 '껑충'…예금 금리는 '찔끔'[금리인상 후폭풍]③",
-        "link": "https://n.news.naver.com/mnews/article/421/0009066242?sid=101",
+        "title": "대출 한도 줄고, 금리는 오르고…실수요자 시름만 깊어진다",
+        "link": "https://n.news.naver.com/mnews/article/057/0001959204?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 19 Jul 2026 06:20:00 +0900",
+        "pubDate": "Sun, 19 Jul 2026 11:27:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Terminal Rate",
-          "meaning": "기준금리 인상 사이클의 최종 수준에 대한 시장 기대"
-        }
+        "term": null
       },
       {
-        "title": "상호금융권 대출 부담 증대, 가계부채 관리 비상",
-        "link": "https://www.tokenpost.kr/news/economy/379119",
+        "title": "“신규대출 막아도 3조 늘었다”…상호금융, 연말까지 대출문 잠근다",
+        "link": "https://www.etoday.co.kr/news/view/2604867",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 19 Jul 2026 06:16:00 +0900",
+        "pubDate": "Sun, 19 Jul 2026 11:20:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "상호 금융 권 대출 부담 증대, 가계부채 관리 비상",
-        "link": "https://www.tokenpost.kr/news/economy/379119",
+        "title": "“신규대출 막아도 3조 늘었다”…상호 금융 , 연말까지 대출문 잠근다",
+        "link": "https://www.etoday.co.kr/news/view/2604867",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 19 Jul 2026 06:16:00 +0900",
+        "pubDate": "Sun, 19 Jul 2026 11:20:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "대출 조이니 결국 있는 사람만…2억 이상 고액 마통만 늘었다",
-        "link": "https://n.news.naver.com/mnews/article/009/0005709000?sid=101",
+        "title": "'쌍끌이 압박'에 거래절벽 현실화 … 금리·규제에 발 묶인 실수요자 '이...",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/07/19/2026071900031.html",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 19 Jul 2026 06:09:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "이자는 늘고 한도는 줄고…'대출 절벽'에 점포 순회도",
-        "link": "https://n.news.naver.com/mnews/article/003/0014073762?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 19 Jul 2026 06:00:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "상호금융 '집단대출 부메랑' 상반기 3조 쑥…연말까지 영업제한",
-        "link": "https://n.news.naver.com/mnews/article/001/0016201439?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 19 Jul 2026 05:49:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "상호 금융 '집단대출 부메랑' 상반기 3조 쑥…연말까지 영업제한",
-        "link": "https://n.news.naver.com/mnews/article/001/0016201439?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 19 Jul 2026 05:49:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[통장잔GO] \"고금리 찾아 삼만리\"…연휴에 떠나는 '방구석 금융'",
-        "link": "https://n.news.naver.com/mnews/article/119/0003112363?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 17 Jul 2026 09:34:00 +0900",
+        "pubDate": "Sun, 19 Jul 2026 11:16:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "상반기만 3조 불어난 집단대출…상호금융권 ‘총량 규제’ 경고등",
+        "link": "https://www.viva100.com/article/20260719500242",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 19 Jul 2026 11:10:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "상반기만 3조 불어난 집단대출…상호 금융 권 ‘총량 규제’ 경고등",
+        "link": "https://www.viva100.com/article/20260719500242",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 19 Jul 2026 11:10:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "상호금융 '집단대출 부메랑' 상반기 3조 ↑",
+        "link": "https://n.news.naver.com/mnews/article/079/0004169605?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 19 Jul 2026 10:55:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "가계대출 조여도… 상호금융 집단대출 상반기 3조원 증가",
+        "link": "https://n.news.naver.com/mnews/article/366/0001180120?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 19 Jul 2026 10:51:00 +0900",
+        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
         "term": null
       }
     ]
