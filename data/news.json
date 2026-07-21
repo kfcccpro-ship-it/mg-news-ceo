@@ -1,188 +1,145 @@
 {
-  "updatedAt": "2026-07-20T21:59:33.400Z",
-  "headline": "새마을금고 중앙회, 임직원 대상 정보보호 캠페인 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-07-21T02:41:14.395Z",
+  "headline": "울산 시금고 예금금리 인상…경남은행 0.38%p↑, 농협 0.13%p↑ 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
-        "title": "새마을금고 중앙회, 임직원 대상 정보보호 캠페인",
-        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2238129",
+        "title": "울산 시금고 예금금리 인상…경남은행 0.38%p↑, 농협 0.13%p↑",
+        "link": "https://n.news.naver.com/mnews/article/421/0009070176?sid=102",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 20 Jul 2026 23:50:00 +0900",
+        "pubDate": "Tue, 21 Jul 2026 11:29:00 +0900",
+        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "새마을금고 중앙회 MG따숨봉사단, 여름철 삼계탕 나눔 봉사",
+        "link": "https://n.news.naver.com/mnews/article/021/0002805898?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 21 Jul 2026 11:22:00 +0900",
         "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
         "term": null
       },
       {
-        "title": "새마을금고 중앙회 출근길 캠페인, 임직원 정보보호 인식 높인다",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3641013",
+        "title": "새마을금고 중앙회, '건강 삼계탕 나눔' 봉사활동",
+        "link": "http://www.metroseoul.co.kr/article/20260721500154",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 20 Jul 2026 21:42:00 +0900",
+        "pubDate": "Tue, 21 Jul 2026 11:06:00 +0900",
         "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
         "term": null
       },
       {
-        "title": "새마을금고 중앙회, 임직원 '정보보호 캠페인' 실시…생활 속 실천 확산",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=311881",
+        "title": "새마을금고 중앙회 MG따숨봉사단, 어르신 건강한 여름나기 지원",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=221704",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 20 Jul 2026 20:54:00 +0900",
+        "pubDate": "Tue, 21 Jul 2026 10:58:00 +0900",
         "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
         "term": null
       },
       {
-        "title": "새마을금고 중앙회, 정보보호 인식 제고 캠페인 진행",
-        "link": "https://www.thedailypost.kr/news/articleView.html?idxno=114726",
+        "title": "사천시 장애인종합복지관, MG삼천포 새마을금고 와 함께하는 여름나기 이...",
+        "link": "https://www.newsgn.com/news/articleView.html?idxno=563249",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 20 Jul 2026 20:12:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "새마을금고 중앙회, 임직원 정보보호 인식 제고···'정보보호 캠페인'...",
-        "link": "https://www.ngonews.kr/news/articleView.html?idxno=233357",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 20 Jul 2026 19:00:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "새마을금고 , '생활 속 보안' 강조…임직원 정보보호 인식 높인다",
-        "link": "http://www.sisacast.kr/news/articleView.html?idxno=97962",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 20 Jul 2026 18:52:00 +0900",
+        "pubDate": "Tue, 21 Jul 2026 10:52:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[2금융 뉴스브리핑] 새마을금고 중앙회 임직원 '정보보호 캠페인' 실시",
-        "link": "https://www.asiatime.co.kr/article/20260720500387",
+        "title": "[더밸류 브리핑] 오늘의 상호금융 소식...신협중앙회· 새마을금고 중앙회",
+        "link": "http://www.thevaluenews.co.kr/news/view.php?idx=200187",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 20 Jul 2026 18:02:00 +0900",
+        "pubDate": "Tue, 21 Jul 2026 10:50:00 +0900",
+        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "[함께가자 우리ESG] 새마을금고 중앙회, 취약계층 어르신에 '건강 삼계탕...",
+        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=133192",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 21 Jul 2026 10:50:00 +0900",
+        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "[금융권 소식] 우리은행ㆍ 새마을금고 중앙회ㆍ신한은행(7.21)",
+        "link": "http://www.weeklytoday.com/news/articleView.html?idxno=786146",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 21 Jul 2026 10:40:00 +0900",
         "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
         "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "[단독]삼성전자, 바클레이즈와 맞손...美서 신용카드 출시",
-        "link": "https://thetracker.co.kr/View.aspx?No=4155247",
+        "title": "사회적기업 돕고 농촌 학생 응원… 농협금융 , 상생경영 확대",
+        "link": "https://www.ajunews.com/view/20260721110744125",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 21 Jul 2026 06:44:00 +0900",
+        "pubDate": "Tue, 21 Jul 2026 11:38:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[태광's 금융 맵]① 보험이 일군 중심축…50년 그룹史 '기틀'",
-        "link": "https://n.news.naver.com/mnews/article/293/0000087841?sid=101",
+        "title": "사회적기업 돕고 농촌 학생 응원…농협 금융 , 상생경영 확대",
+        "link": "https://www.ajunews.com/view/20260721110744125",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 21 Jul 2026 06:30:00 +0900",
+        "pubDate": "Tue, 21 Jul 2026 11:38:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[르포] \"멀리 안가도 되니 좋네요\"…농촌 우체국이 4대 은행 대출창구로",
-        "link": "https://n.news.naver.com/mnews/article/001/0016204752?sid=101",
+        "title": "기보, 하나 은행 과 협력 확대… 반도체 이어 수입기업까지 지원",
+        "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=42512",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 21 Jul 2026 06:30:00 +0900",
+        "pubDate": "Tue, 21 Jul 2026 11:38:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "조달비용은 뛰고 대출은 막히고 … 투자수익에 기댄 저축 은행",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/07/21/2026072100105.html",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 21 Jul 2026 11:38:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
       },
       {
-        "title": "우리은행 ESG채권 3.7조, 증가율도 1위...하나은행 7300억 '제자리 걸음...",
-        "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=759602",
+        "title": "NH 농협 은행, 올원사장님+ 고객에 ‘사장님 시원한 주간 선물’ 이벤트",
+        "link": "https://www.sentv.co.kr/article/view/sentv202607210069",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 21 Jul 2026 06:10:00 +0900",
+        "pubDate": "Tue, 21 Jul 2026 11:36:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "'지방 이전설' 도는 농협 …노조, 대규모 반대 집회 연다",
-        "link": "https://n.news.naver.com/mnews/article/421/0009069345?sid=101",
+        "title": "신한 은행 , ‘AX 서밋 2026’ 개최…AI 에이전트 점검",
+        "link": "https://www.sentv.co.kr/article/view/sentv202607210074",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 21 Jul 2026 05:41:00 +0900",
+        "pubDate": "Tue, 21 Jul 2026 11:36:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[포커스] 신사업 늘린 비씨카드, '결제망 빈자리' 시간이 필요해",
-        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=807136",
+        "title": "NH농협 은행 , 올원사장님+ 고객에 ‘사장님 시원한 주간 선물’ 이벤트",
+        "link": "https://www.sentv.co.kr/article/view/sentv202607210069",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 21 Jul 2026 05:00:00 +0900",
+        "pubDate": "Tue, 21 Jul 2026 11:36:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "NH 농협 캐피탈· 농협 물류, 혹서기 배송차주 지원 나서",
-        "link": "https://weeklytrade.co.kr/news/view.html?section=1&category=160&item=&no=100692",
+        "title": "광주 은행 , '여자하키 후원'... 고향사랑기부까지 잇단 동행",
+        "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=437333",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 21 Jul 2026 00:36:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "신한은행, 고객의 적립식 투자 '완주' 돕는다 外",
-        "link": "https://www.rcast.co.kr/news/articleView.html?idxno=31297",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 20 Jul 2026 19:00:00 +0900",
+        "pubDate": "Tue, 21 Jul 2026 11:36:00 +0900",
         "summary": "",
         "term": null
       }
     ],
-    "macro": [
-      {
-        "title": "野 “대출은 막고 대통령은 ‘매도인 금융 ’…기막힌 가이드라인”",
-        "link": "https://n.news.naver.com/mnews/article/011/0004643361?sid=100",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 21 Jul 2026 06:41:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "서울 집값 1년새 13% 뛰었는데…보금자리론 금리마저 인상",
-        "link": "https://n.news.naver.com/mnews/article/011/0004643347?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 21 Jul 2026 06:01:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "“잔금일 연초로 바꿨어요” 가슴 졸이는 주택담보대출 시장",
-        "link": "https://n.news.naver.com/mnews/article/032/0003459338?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 21 Jul 2026 06:00:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "꺼지지 않는 신용대출 증가세…\"고점 물린 개미들, 상환 여유도 없어\"",
-        "link": "https://n.news.naver.com/mnews/article/421/0009069329?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 21 Jul 2026 05:15:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "세금·금리까지 총동원했는데⋯서울 아파트 매물은 되레 줄었다",
-        "link": "https://www.etoday.co.kr/news/view/2605237",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 21 Jul 2026 05:02:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "[글로벌 SDGs 현장을 가다⑦] 경기지속협 연수단, KOICA 네팔 사무소 방...",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1327683",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 21 Jul 2026 01:46:00 +0900",
-        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
-        "term": null
-      },
-      {
-        "title": "[기자수첩] \"가계대출 총량 관리, 줄어든 대출과 남은 수요를 봐야\"",
-        "link": "http://www.bizwnews.com/news/articleView.html?idxno=141000",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 21 Jul 2026 01:44:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      }
-    ]
+    "macro": []
   }
 }
