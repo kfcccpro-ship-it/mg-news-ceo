@@ -1,180 +1,108 @@
 {
-  "updatedAt": "2026-07-21T22:02:45.225Z",
-  "headline": "\"소비자 신뢰 높인다\"… 새마을금고 , 금소법 선제 대응 나서 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-07-22T02:38:51.102Z",
+  "headline": "[22일 인천 연수구] 송도 새마을금고 ESG운영위원회, 식료품 꾸러미 후원... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
-        "title": "\"소비자 신뢰 높인다\"… 새마을금고 , 금소법 선제 대응 나서",
-        "link": "https://n.news.naver.com/mnews/article/277/0005792736?sid=101",
+        "title": "[22일 인천 연수구] 송도 새마을금고 ESG운영위원회, 식료품 꾸러미 후원...",
+        "link": "https://www.asiatime.co.kr/article/20260722500140",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Jul 2026 06:15:00 +0900",
+        "pubDate": "Wed, 22 Jul 2026 11:22:00 +0900",
         "summary": "",
-        "term": null
-      },
-      {
-        "title": "새마을금고 봉사단, '건강 삼계탕 나눔'…어르신에 직접 전달",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3642350",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 21 Jul 2026 23:16:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "일산 새마을금고 , 고양시 '지방세 유공자' 선정",
-        "link": "http://www.mygoyang.com/news/articleView.html?idxno=89600",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 21 Jul 2026 22:28:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "새마을금고 중앙회, 어르신 대상 삼계탕 나눔 봉사",
-        "link": "https://www.thedailypost.kr/news/articleView.html?idxno=114742",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 21 Jul 2026 20:38:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "산청군 \"지방보조금 전용계좌 새마을금고 서도 개설\"",
-        "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=641514",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 21 Jul 2026 19:28:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "새마을금고 중앙회, '건강 삼계탕' 나눔 봉사…어르신 여름나기 응원",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=312072",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 21 Jul 2026 19:00:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
         "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "'빚투'에 기타대출 목표치 3.2배 폭주…당황한 은행, 주담대 한도 '반토...",
-        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=362384",
+        "title": "은행 중소기업 대출 연체율 11년 만에 1%대…기업부실 경고등",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=745800",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Jul 2026 07:02:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "[Who Is ?] 강진두 KB증권 대표이사 사장",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=442568",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Jul 2026 07:02:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "\"조달비용 늘고 대출 막히고\"…기준금리 인상에 저축 은행 '진퇴양난'",
-        "link": "https://n.news.naver.com/mnews/article/119/0003113540?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Jul 2026 07:02:00 +0900",
+        "pubDate": "Wed, 22 Jul 2026 11:38:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": {
-          "word": "Forward Guidance",
-          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
         }
       },
       {
-        "title": "'빚투'에 기타대출 목표치 3.2배 폭주…당황한 은행 , 주담대 한도 '반토...",
-        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=362384",
+        "title": "코스피 등 돌린 돈 하루 1조원씩 은행 으로 … 고객 잡기 금리 경쟁 본격...",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/07/22/2026072200123.html",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Jul 2026 07:02:00 +0900",
+        "pubDate": "Wed, 22 Jul 2026 11:34:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "[증권사 연금전쟁] ③ 은행 계 영토 확장전, NH 선두에 KB·신한 '경쟁'",
-        "link": "https://www.fetv.co.kr/news/articleView.html?idxno=306821",
+        "title": "NH 농협 카드, 모바일 단독 카드 58종으로 확대",
+        "link": "https://n.news.naver.com/mnews/article/629/0000517988?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Jul 2026 07:00:00 +0900",
+        "pubDate": "Wed, 22 Jul 2026 11:33:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "KB국민 은행 , 8월 말까지 '숨은 금융 자산 찾아주기' 캠페인…휴면예금·...",
-        "link": "https://www.public25.com/news/articleView.html?idxno=51117",
+        "title": "\"지갑도 앱도 안쓰네\"…카드사, 간편결제 대응 총력",
+        "link": "https://www.kbanker.co.kr/news/articleView.html?idxno=225480",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Jul 2026 07:00:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "pubDate": "Wed, 22 Jul 2026 11:32:00 +0900",
+        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "은행 연체율 두 달째 상승…9년 7개월 만에 최고치",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=851621",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 22 Jul 2026 11:32:00 +0900",
+        "summary": "",
         "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
         }
       },
       {
-        "title": "경찰, 신한 은행 '땡겨요' 간부 수사 착수…쿠팡이츠 영업비밀 도용 혐의",
-        "link": "https://www.itbiznews.com/news/articleView.html?idxno=219641",
+        "title": "신한 은행 , 서울시립대학교와 상호공동발전 MOU...미래세대 특화 금융 지...",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=534450",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Jul 2026 07:00:00 +0900",
+        "pubDate": "Wed, 22 Jul 2026 11:32:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "기타대출은 목표치 3배 넘겼는데…은행들, 주담대부터 죄었다",
-        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=307406",
+        "title": "수협 은행 , 해양환경공단과 주거래 은행 협약",
+        "link": "http://www.efnews.co.kr/news/articleView.html?idxno=131132",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Jul 2026 06:50:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "pubDate": "Wed, 22 Jul 2026 11:32:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[뉴스워커_NH 농협 은행] 신용보증기금과 3830억원 규모 금융 지원 협약",
+        "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=437551",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 22 Jul 2026 11:28:00 +0900",
+        "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "이 대통령 “부동산 불로소득” 언급에 세제 개편 관심…이달 20일간 수...",
-        "link": "https://n.news.naver.com/mnews/article/022/0004144900?sid=101",
+        "title": "“잔금대출 막혀 새집 입주 못할 판” [이슈&뷰]",
+        "link": "https://n.news.naver.com/mnews/article/016/0002673367?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Jul 2026 07:02:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "대출 완화 요구 44%…게시판에 쌓인 부동산 민심, 정부 기조와 ‘동상이...",
-        "link": "https://n.news.naver.com/mnews/article/011/0004643797?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Jul 2026 07:01:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "'빚투' 열풍에 마이너스 통장 텅텅…\"기타대출 목표치 3배 초과\"",
-        "link": "https://n.news.naver.com/mnews/article/660/0000113598?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Jul 2026 06:46:00 +0900",
+        "pubDate": "Wed, 22 Jul 2026 11:32:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "주택담보대출 금리 7.5% 돌파, 기준금리 역할 약화",
-        "link": "https://www.tokenpost.kr/news/economy/379980",
+        "title": "삼일PwC·MG암코 \"부실자산 시장 확대…우량 자산 선별해야\"",
+        "link": "https://n.news.naver.com/mnews/article/277/0005792989?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Jul 2026 06:38:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "pubDate": "Wed, 22 Jul 2026 10:51:00 +0900",
+        "summary": "",
         "term": {
-          "word": "Forward Guidance",
-          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
         }
-      },
-      {
-        "title": "금리 8% 시대 오나…주담대 상단 7.5% 돌파, 가계·기업 '이자 쇼크'",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1717202",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Jul 2026 06:36:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "\"대출 접수도 어렵다\"…계약·잔금 앞둔 차주들 '발동동'",
-        "link": "https://n.news.naver.com/mnews/article/421/0009071528?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Jul 2026 06:10:00 +0900",
-        "summary": "",
-        "term": null
       }
     ]
   }
