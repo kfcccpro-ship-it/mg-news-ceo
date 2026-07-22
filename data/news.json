@@ -1,8 +1,16 @@
 {
-  "updatedAt": "2026-07-22T08:28:50.308Z",
-  "headline": "사단법인 한국출산장려진흥회중앙회, 희망플러스 수기 공모전 시상식 초... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-07-22T11:09:23.208Z",
+  "headline": "새마을금고 행안부 약발 안 먹혀…금감원이 관리감독해야 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "새마을금고 행안부 약발 안 먹혀…금감원이 관리감독해야",
+        "link": "https://n.news.naver.com/mnews/article/658/0000150319?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 22 Jul 2026 19:32:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "사단법인 한국출산장려진흥회중앙회, 희망플러스 수기 공모전 시상식 초...",
         "link": "https://www.thepowernews.co.kr/view.php?ud=202607221633513322c923548bdf_7",
@@ -18,108 +26,103 @@
         "pubDate": "Wed, 22 Jul 2026 16:36:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "[포토뉴스]포남 새마을금고 , 중복맞이 삼계탕 100개 후원",
-        "link": "https://n.news.naver.com/mnews/article/087/0001206611?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Jul 2026 16:07:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "\"성희롱에 상품권 부정판매\"…지역 새마을금고 비위 줄줄이 '내부통제 ...",
-        "link": "https://n.news.naver.com/mnews/article/629/0000518115?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Jul 2026 15:56:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "[ 금융 게시판] 고객 접점 넓히는 금융 사들…수협·신한·농협·카카오뱅...",
-        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=205338",
+        "title": "몰라서 못 받은 금리 할인 줄인다 … 은행 대출 감면 조건 개선",
+        "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=244391",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Jul 2026 17:28:00 +0900",
+        "pubDate": "Wed, 22 Jul 2026 19:56:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "대출금리 감면받기 쉬워진다…카드실적 제외대상 대폭 축소",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=847837",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 22 Jul 2026 19:54:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "NIM",
+          "meaning": "금리 변화가 금융기관 수익성에 미치는 영향을 보여주는 핵심 지표"
+        }
+      },
+      {
+        "title": "교차모집 보험설계사도 고용보험 가입 가능해져",
+        "link": "https://www.insnews.co.kr/news/articleView.html?idxno=92003",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 22 Jul 2026 19:50:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[인사] Sh수협 은행",
-        "link": "https://www.seoulfn.com/news/articleView.html?idxno=633899",
+        "title": "카드사 채권금리 4.5% 근접…하반기 차환물량 부담 늘어",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=264840",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Jul 2026 17:27:00 +0900",
+        "pubDate": "Wed, 22 Jul 2026 19:38:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "박광욱 조합장 \"사료는 싸게, 돼지는 비싸게… 대한민국 1등 양돈 농협 역...",
+        "link": "https://www.farminsight.net/news/articleView.html?idxno=16686",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 22 Jul 2026 19:14:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[인사]Sh수협 은행",
-        "link": "http://www.metroseoul.co.kr/article/20260722500417",
+        "title": "농협 , '복숭아데이' 맞아 국산 복숭아 최대 30% 할인",
+        "link": "https://www.fntimes.com/html/view.php?ud=202607221902063990dd55077bc2_18",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Jul 2026 17:26:00 +0900",
+        "pubDate": "Wed, 22 Jul 2026 19:06:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "국민 은행 , AI 전문가 정윤경 교수 사외이사 추천…디지털 전문성 강화",
-        "link": "http://www.srtimes.kr/news/articleView.html?idxno=208078",
+        "title": "농협금융 'NH미소금융재단' 설립 착수, 이찬우 \"포용금융은 금융회사 의...",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=442891",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Jul 2026 17:26:00 +0900",
-        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "신한 은행 , 서울시립대학교와 상호 공동발전 업무협약",
-        "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1096731",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Jul 2026 17:26:00 +0900",
+        "pubDate": "Wed, 22 Jul 2026 19:06:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "교차모집 보험설계사·유치원 방과후강사도 고용보험…내년 1만7000명 새...",
-        "link": "https://www.greened.kr/news/articleView.html?idxno=345691",
+        "title": "농협 은행, 신용보증기금과 3830억원 규모 생산적 금융 지원",
+        "link": "https://n.news.naver.com/mnews/article/662/0000100246?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Jul 2026 17:25:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "KB국민 은행 , 신임 사외이사 후보에 정윤경 성균관대 교수 추천",
-        "link": "https://www.cnbizm.com/news/articleView.html?idxno=309316",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Jul 2026 17:24:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "하나 은행 , KSQI 고객접점 부문 11년 연속 1위",
-        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=312794",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Jul 2026 17:24:00 +0900",
+        "pubDate": "Wed, 22 Jul 2026 19:05:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "[대출시장 대혼란] 벼랑 끝 내몰린 주담대…규제와 금리 부담 '이중고'",
-        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607221207240910059",
+        "title": "[아유경제_특집] 2026년 부동산 대토론회… 공급부터 금융 까지 '정책 공...",
+        "link": "http://www.areyou.co.kr/news/articleView.html?idxno=94577",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Jul 2026 17:22:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "pubDate": "Wed, 22 Jul 2026 20:04:00 +0900",
+        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
         "term": null
       },
       {
-        "title": "[대출시장 대혼란]주담대 막히고 연체율 치솟고",
-        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607221358480560096",
+        "title": "서울 뛰고 경기 오를 때…인천 자산가치 제자리",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1327852",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Jul 2026 17:22:00 +0900",
+        "pubDate": "Wed, 22 Jul 2026 19:36:00 +0900",
+        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
+        "term": null
+      },
+      {
+        "title": "정부, 블록체인 기반 '예금토큰 민간 인프라' 본격 확산",
+        "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148968619&call_from=naver_news",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 22 Jul 2026 19:35:00 +0900",
         "summary": "",
         "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
         }
       }
     ]
