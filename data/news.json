@@ -1,8 +1,16 @@
 {
-  "updatedAt": "2026-07-22T11:09:23.208Z",
-  "headline": "새마을금고 행안부 약발 안 먹혀…금감원이 관리감독해야 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-07-22T13:53:20.791Z",
+  "headline": "동울산 새마을금고 , 조선해양축제 성공 개최 부채 1000개 지원 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "동울산 새마을금고 , 조선해양축제 성공 개최 부채 1000개 지원",
+        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=579648",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 22 Jul 2026 21:42:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "새마을금고 행안부 약발 안 먹혀…금감원이 관리감독해야",
         "link": "https://n.news.naver.com/mnews/article/658/0000150319?sid=102",
@@ -18,112 +26,82 @@
         "pubDate": "Wed, 22 Jul 2026 17:04:00 +0900",
         "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
         "term": null
-      },
-      {
-        "title": "백재훈 전 감사, 광양시 새마을금고 이사장 당선…‘투명경영’시험대 ...",
-        "link": "https://n.news.naver.com/mnews/article/310/0000138545?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Jul 2026 16:36:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "몰라서 못 받은 금리 할인 줄인다 … 은행 대출 감면 조건 개선",
-        "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=244391",
+        "title": "산업 은행 , 여수 석유화학 사업재편 금융 지원 논의",
+        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2242057",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Jul 2026 19:56:00 +0900",
+        "pubDate": "Wed, 22 Jul 2026 22:46:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "기업은행, 변동형 주담대 중단…은행권 '대출 셧다운' 확산",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=745865",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 22 Jul 2026 22:42:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "대출금리 감면받기 쉬워진다…카드실적 제외대상 대폭 축소",
-        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=847837",
+        "title": "기업 은행 , 변동형 주담대 중단… 은행 권 '대출 셧다운' 확산",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=745865",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Jul 2026 19:54:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "NIM",
-          "meaning": "금리 변화가 금융기관 수익성에 미치는 영향을 보여주는 핵심 지표"
-        }
-      },
-      {
-        "title": "교차모집 보험설계사도 고용보험 가입 가능해져",
-        "link": "https://www.insnews.co.kr/news/articleView.html?idxno=92003",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Jul 2026 19:50:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "카드사 채권금리 4.5% 근접…하반기 차환물량 부담 늘어",
-        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=264840",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Jul 2026 19:38:00 +0900",
+        "pubDate": "Wed, 22 Jul 2026 22:42:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "박광욱 조합장 \"사료는 싸게, 돼지는 비싸게… 대한민국 1등 양돈 농협 역...",
-        "link": "https://www.farminsight.net/news/articleView.html?idxno=16686",
+        "title": "[인사] Sh수협 은행",
+        "link": "https://www.pointe.co.kr/news/articleView.html?idxno=82128",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Jul 2026 19:14:00 +0900",
+        "pubDate": "Wed, 22 Jul 2026 22:42:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "농협 , '복숭아데이' 맞아 국산 복숭아 최대 30% 할인",
-        "link": "https://www.fntimes.com/html/view.php?ud=202607221902063990dd55077bc2_18",
+        "title": "[ 금융 HOT 뉴스] 신한 은행 , 한국산업의 서비스품질지수 은행 산업 1위…...",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=141227",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Jul 2026 19:06:00 +0900",
+        "pubDate": "Wed, 22 Jul 2026 22:32:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "농협금융 'NH미소금융재단' 설립 착수, 이찬우 \"포용금융은 금융회사 의...",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=442891",
+        "title": "[ 금융 ] 농협 은행 중소기업 보증 / 국민은행 AI 사외이사 / 하나 금융 학교...",
+        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2242054",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Jul 2026 19:06:00 +0900",
+        "pubDate": "Wed, 22 Jul 2026 22:30:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "농협 은행, 신용보증기금과 3830억원 규모 생산적 금융 지원",
-        "link": "https://n.news.naver.com/mnews/article/662/0000100246?sid=101",
+        "title": "[ 금융 ] 농협 은행 중소기업 보증 / 국민 은행 AI 사외이사 / 하나 금융 학교...",
+        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2242054",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Jul 2026 19:05:00 +0900",
+        "pubDate": "Wed, 22 Jul 2026 22:30:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "LS증권, 한화투자증권과 약 558억원 공동 분담…CERCG 분쟁 8년만에 마침...",
+        "link": "https://www.news2day.co.kr/article/20260722500372",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 22 Jul 2026 22:24:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "[아유경제_특집] 2026년 부동산 대토론회… 공급부터 금융 까지 '정책 공...",
-        "link": "http://www.areyou.co.kr/news/articleView.html?idxno=94577",
+        "title": "이 대통령, 내일 부동산 백분 토론...성난 민심 달랠까",
+        "link": "https://n.news.naver.com/mnews/article/052/0002383178?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Jul 2026 20:04:00 +0900",
+        "pubDate": "Wed, 22 Jul 2026 22:39:00 +0900",
         "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
         "term": null
-      },
-      {
-        "title": "서울 뛰고 경기 오를 때…인천 자산가치 제자리",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1327852",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Jul 2026 19:36:00 +0900",
-        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
-        "term": null
-      },
-      {
-        "title": "정부, 블록체인 기반 '예금토큰 민간 인프라' 본격 확산",
-        "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148968619&call_from=naver_news",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 22 Jul 2026 19:35:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
       }
     ]
   }
