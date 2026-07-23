@@ -1,22 +1,30 @@
 {
-  "updatedAt": "2026-07-23T11:09:35.314Z",
-  "headline": "농협 중앙회 본부, 경북으로 이전 돼야 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-07-23T13:59:07.930Z",
+  "headline": "전북도발전연합회 “새만금 카지노· 농협 중앙회 유치해야” 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
-        "title": "농협 중앙회 본부, 경북으로 이전 돼야",
-        "link": "https://www.dkilbo.com/news/articleView.html?idxno=549507",
+        "title": "전북도발전연합회 “새만금 카지노· 농협 중앙회 유치해야”",
+        "link": "https://n.news.naver.com/mnews/article/056/0012224134?sid=102",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 23 Jul 2026 20:00:00 +0900",
+        "pubDate": "Thu, 23 Jul 2026 22:08:00 +0900",
         "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
         "term": null
       },
       {
-        "title": "[기자수첩] 농협 중앙회 지방 이전, 명분 있나",
-        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2451966",
+        "title": "전북도발전연합회 “새만금 카지노·농협중앙회 유치해야”",
+        "link": "https://n.news.naver.com/mnews/article/056/0012224134?sid=102",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 23 Jul 2026 19:44:00 +0900",
+        "pubDate": "Thu, 23 Jul 2026 22:08:00 +0900",
         "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "HD현대重 새마을금고 , 어르신 특식 대접",
+        "link": "http://www.ujeil.com/news/articleView.html?idxno=389259",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 23 Jul 2026 20:26:00 +0900",
+        "summary": "",
         "term": null
       },
       {
@@ -62,100 +70,106 @@
     ],
     "otherFinance": [
       {
-        "title": "BNK경남 은행 ·경남도 '2026년 경남 청년 금융 교육' 실시",
-        "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=641718",
+        "title": "[ 금융 ] 우리 은행 네이버페이 연금상담 / ABL생명 취약계층 삼계탕 나눔",
+        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2243768",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 23 Jul 2026 20:06:00 +0900",
+        "pubDate": "Thu, 23 Jul 2026 22:40:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "한은, 8월 통안증권 최대 6.8조원 발행",
-        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5044026",
+        "title": "[ 금융 ] 국민은행 예금토큰 결제 / 하나 금융 다문화가정대상 / 미래에셋...",
+        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2243766",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 23 Jul 2026 20:04:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "KB국민 은행 , 취약계층 아동·청소년·장애인 맞춤형 복지 지원",
-        "link": "https://www.ngonews.kr/news/articleView.html?idxno=233663",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 23 Jul 2026 20:02:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[기획] 합병론이 들춘 지방 은행 속사정…본업 기업대출도 고전",
-        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=807539",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 23 Jul 2026 20:00:00 +0900",
+        "pubDate": "Thu, 23 Jul 2026 22:30:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
       },
       {
-        "title": "충북 농협 , 상반기 경영성과 분석회의",
-        "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1090016",
+        "title": "[ 금융 ] 국민 은행 예금토큰 결제 / 하나 금융 다문화가정대상 / 미래에셋...",
+        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2243766",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 23 Jul 2026 19:20:00 +0900",
+        "pubDate": "Thu, 23 Jul 2026 22:30:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "신한투자증권, 상반기 순이익 123% 증가… 주식 활황 덕분",
+        "link": "https://www.tokenpost.kr/news/economy/380551",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 23 Jul 2026 22:28:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[ 금융 게시판] 퇴직연금 경쟁, 플랫폼에서 수익률까지…우리· 농협 ·부산...",
-        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=205418",
+        "title": "[ 금융 ] 농협 은행 NH포인트 이벤트 / 우리 금융 굿윌스토어 개점 / 하나은...",
+        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2243765",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 23 Jul 2026 19:00:00 +0900",
-        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "[2 금융 뉴스브리핑] 수협 어촌 '바람소득' 창출 위해 산은과 협력",
-        "link": "https://www.asiatime.co.kr/article/20260723500445",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 23 Jul 2026 18:20:00 +0900",
+        "pubDate": "Thu, 23 Jul 2026 22:24:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "농협發 지방이전에 금융노조 투쟁 확산…8월 대규모 집회",
-        "link": "https://www.ajunews.com/view/20260723141034075",
+        "title": "NH 농협 은행 인천본부, 인천교육청과 '현장 직업체험 프로그램' 운영",
+        "link": "https://www.fntimes.com/html/view.php?ud=202607232204177730dd55077bc2_18",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 23 Jul 2026 17:48:00 +0900",
+        "pubDate": "Thu, 23 Jul 2026 22:08:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "NH농협 은행 인천본부, 인천교육청과 '현장 직업체험 프로그램' 운영",
+        "link": "https://www.fntimes.com/html/view.php?ud=202607232204177730dd55077bc2_18",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 23 Jul 2026 22:08:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "강원특별자치도·강원 농협 , 농산물 가격안정 총력…소비촉진·가격보전...",
+        "link": "https://www.fntimes.com/html/view.php?ud=2026072321584313dd55077bc2_18",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 23 Jul 2026 22:04:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "유주택자 전세대출 겨냥한 이재명 “청년 등 서민에만 ‘핀셋 지원’”",
-        "link": "https://n.news.naver.com/mnews/article/081/0003664121?sid=101",
+        "title": "ECB, 주요 정책금리 동결… 이르면 올 하반기 추가 금리 인상 시사",
+        "link": "https://www.newspim.com/news/view/20260723001333",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 23 Jul 2026 20:05:00 +0900",
-        "summary": "",
+        "pubDate": "Thu, 23 Jul 2026 22:41:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "대출은 막고 입주는 하라…매교역 팰루시드 6천명의 절규 [기자수첩]",
-        "link": "https://www.cfnews.kr/news/article.html?no=110457",
+        "title": "'부동산정책 대토론회'...김·정·송 '3파전 압축'",
+        "link": "https://n.news.naver.com/mnews/article/052/0002383733?sid=100",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 23 Jul 2026 20:04:00 +0900",
-        "summary": "",
+        "pubDate": "Thu, 23 Jul 2026 22:37:00 +0900",
+        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
         "term": null
       },
       {
-        "title": "이 대통령 전세대출 규제 시사… 인천 무주택자들 \"월세 뛴다\"vs\"공공임...",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363732201",
+        "title": "트럼프 중동 경고에 유가·금리 급등…비트코인도 흔들렸다",
+        "link": "https://www.tokenpost.kr/news/cryptocurrency/380547",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 23 Jul 2026 20:04:00 +0900",
-        "summary": "",
+        "pubDate": "Thu, 23 Jul 2026 22:18:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "'3%는 기본, 4% 눈앞'…금리 인상에 예금 유치 경쟁 재점화",
-        "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=661062",
+        "title": "금리 오르자 다시 뜨는 ‘예테크’…4%대 예금상품 속속 등장",
+        "link": "https://n.news.naver.com/mnews/article/123/0002387118?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 23 Jul 2026 18:48:00 +0900",
+        "pubDate": "Thu, 23 Jul 2026 21:57:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": {
           "word": "Deposit Beta",
