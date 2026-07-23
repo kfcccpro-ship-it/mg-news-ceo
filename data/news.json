@@ -1,8 +1,24 @@
 {
-  "updatedAt": "2026-07-23T02:44:27.624Z",
-  "headline": "“어려울땐 더 나눠야죠”… 새마을금고 , 포용금융 2000억 지원 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-07-23T05:53:51.135Z",
+  "headline": "[단독] 성남 새마을금고 서 규정 어긴 100억대 한도초과 대출 의혹 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "[단독] 성남 새마을금고 서 규정 어긴 100억대 한도초과 대출 의혹",
+        "link": "https://n.news.naver.com/mnews/article/666/0000116318?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 23 Jul 2026 14:04:00 +0900",
+        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "목포 새마을금고 , 호텔 살린 운영사를 '불법점유자'로?…목포오션호텔...",
+        "link": "https://www.kmaeil.com/news/articleView.html?idxno=646286",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 23 Jul 2026 12:46:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "“어려울땐 더 나눠야죠”… 새마을금고 , 포용금융 2000억 지원",
         "link": "https://n.news.naver.com/mnews/article/021/0002806475?sid=102",
@@ -14,26 +30,58 @@
     ],
     "otherFinance": [
       {
-        "title": "해상풍력 수익 어업인에게…수협, ‘바람소득’ 금융 모델 구축",
-        "link": "https://n.news.naver.com/mnews/article/119/0003114137?sid=101",
+        "title": "신한 금융 , 상반기 순익 3조4427억원 ‘역대 최대’…증권이 끌고 은행 이...",
+        "link": "https://n.news.naver.com/mnews/article/117/0004087725?sid=103",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 23 Jul 2026 11:41:00 +0900",
+        "pubDate": "Thu, 23 Jul 2026 14:51:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "산업 은행 ·수협, 해상풍력 금융 지원 업무협약 체결",
-        "link": "http://www.finomy.com/news/articleView.html?idxno=257855",
+        "title": "NH 농협 은행, 세종 학교운동부에 6000만 원…학생선수 성장 뒷받침",
+        "link": "https://www.aflnews.co.kr/news/articleView.html?idxno=325057",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 23 Jul 2026 11:40:00 +0900",
+        "pubDate": "Thu, 23 Jul 2026 14:50:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "KB국민 은행 , 예금토큰 결제 인프라 확대 사업 참여… 디지털 결제 생태...",
-        "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=42583",
+        "title": "하나 은행 , 소상공인 지원 2차 모집 … 환경개선·AI 컨설팅에 3,500곳 선...",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=87049",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 23 Jul 2026 11:40:00 +0900",
+        "pubDate": "Thu, 23 Jul 2026 14:50:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "NH농협 은행 , 세종 학교운동부에 6000만 원…학생선수 성장 뒷받침",
+        "link": "https://www.aflnews.co.kr/news/articleView.html?idxno=325057",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 23 Jul 2026 14:50:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "강태영 NH 농협 은행장, 강원 찾아 소통 행보…\"지역 특화 금융 지원 강화...",
+        "link": "https://n.news.naver.com/mnews/article/421/0009075420?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 23 Jul 2026 14:49:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "강태영 NH농협 은행 장, 강원 찾아 소통 행보…\"지역 특화 금융 지원 강화...",
+        "link": "https://n.news.naver.com/mnews/article/421/0009075420?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 23 Jul 2026 14:49:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "시중은행, 예금토큰 결제 인프라 확대 사업 참여(종합)",
+        "link": "https://n.news.naver.com/mnews/article/001/0016211216?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 23 Jul 2026 14:46:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": {
           "word": "Deposit Beta",
@@ -41,79 +89,52 @@
         }
       },
       {
-        "title": "은행앱으로 송금, 카드·PG사가 정산…‘예금토큰’ 상용화 속도",
-        "link": "https://n.news.naver.com/mnews/article/016/0002674014?sid=101",
+        "title": "NH 농협 노조 \"본사 지방 이전, 비용만 수천억원\" [전문]",
+        "link": "https://www.dailybrief.co.kr/news/articleView.html?idxno=6382",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 23 Jul 2026 11:39:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
-      },
-      {
-        "title": "카드론 3441억 줄었지만…현금서비스·리볼빙은 늘어",
-        "link": "https://www.businessplus.kr/news/articleView.html?idxno=114492",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 23 Jul 2026 11:38:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "NH 농협 손보, 양자내성암호 기반 보안체계 도입",
-        "link": "https://sateconomy.co.kr/news/view/1065573590496944",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 23 Jul 2026 11:36:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "실험실 나온 예금토큰, 이젠 일상 결제로…NH 농협 은행, QR코드 결제서비...",
-        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=270201",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 23 Jul 2026 11:34:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
-      },
-      {
-        "title": "농협 은행, '3분기 연속' 퇴직연금 원리금비보장 수익률 1위",
-        "link": "https://n.news.naver.com/mnews/article/014/0005551889?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 23 Jul 2026 11:30:00 +0900",
+        "pubDate": "Thu, 23 Jul 2026 14:43:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "한은, 금융 중개지원대출 개편…지방 중소기업 지원도 확대",
-        "link": "https://www.ajunews.com/view/20260723112404808",
+        "title": "[다시 덮친 고금리] 좀비기업 35%·연체율 11년 만에 최고…다시 시작된...",
+        "link": "https://www.ajunews.com/view/20260723142348112",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 23 Jul 2026 11:42:00 +0900",
+        "pubDate": "Thu, 23 Jul 2026 14:52:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "잔금대출 막힌 입주 예정자 호소에…李 \"일리 있다\" 대책 지시",
+        "link": "https://n.news.naver.com/mnews/article/079/0004171370?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 23 Jul 2026 14:51:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "한은, 금융 중개지원대출 10여년 만에 개편…\"통화정책 기능 강화\"",
-        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4426436",
+        "title": "\"잔금대출 안나와 입주 못해\"…대통령 \"황당무계한 일 최소화\"",
+        "link": "https://n.news.naver.com/mnews/article/648/0000049131?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 23 Jul 2026 11:40:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Forward Guidance",
-          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
-        }
+        "pubDate": "Thu, 23 Jul 2026 14:51:00 +0900",
+        "summary": "",
+        "term": null
       },
       {
-        "title": "[더벨][PF Radar] '포스코이앤씨 시공' 용인 임대주택 개발, 본PF 4000억 성...",
-        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607210010435610106718",
+        "title": "대구경북 수신 다시 증가세…5월 1조5763억원 늘어",
+        "link": "https://n.news.naver.com/mnews/article/088/0001020380?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 23 Jul 2026 07:02:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
-        "term": null
+        "pubDate": "Thu, 23 Jul 2026 14:31:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
       }
     ]
   }
