@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-07-23T16:26:06.298Z",
-  "headline": "HD현대중 새마을금고 , 중복 맞아 지역노인에 무료 특식 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-07-23T19:17:16.320Z",
+  "headline": "[포토뉴스] 춘천동부 새마을금고 MG희망나눔 물품 전달 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
-        "title": "HD현대중 새마을금고 , 중복 맞아 지역노인에 무료 특식",
-        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1062916",
+        "title": "[포토뉴스] 춘천동부 새마을금고 MG희망나눔 물품 전달",
+        "link": "https://n.news.naver.com/mnews/article/087/0001207013?sid=101",
         "source": "네이버뉴스",
         "pubDate": "Fri, 24 Jul 2026 00:02:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[포토뉴스] 춘천동부 새마을금고 MG희망나눔 물품 전달",
-        "link": "https://n.news.naver.com/mnews/article/087/0001207013?sid=101",
+        "title": "HD현대중 새마을금고 , 중복 맞아 지역노인에 무료 특식",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1062916",
         "source": "네이버뉴스",
         "pubDate": "Fri, 24 Jul 2026 00:02:00 +0900",
         "summary": "",
@@ -28,16 +28,16 @@
         "term": null
       },
       {
-        "title": "[사설] 새마을금고 사유화 이사장 권한 개편 필요하다",
-        "link": "https://n.news.naver.com/mnews/article/658/0000150426?sid=110",
+        "title": "[기자수첩] 금고 이사장 전횡, 지금도 진행중",
+        "link": "https://n.news.naver.com/mnews/article/658/0000150428?sid=102",
         "source": "네이버뉴스",
         "pubDate": "Thu, 23 Jul 2026 19:27:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[기자수첩] 금고 이사장 전횡, 지금도 진행중",
-        "link": "https://n.news.naver.com/mnews/article/658/0000150428?sid=102",
+        "title": "[사설] 새마을금고 사유화 이사장 권한 개편 필요하다",
+        "link": "https://n.news.naver.com/mnews/article/658/0000150426?sid=110",
         "source": "네이버뉴스",
         "pubDate": "Thu, 23 Jul 2026 19:27:00 +0900",
         "summary": "",
@@ -50,38 +50,27 @@
         "pubDate": "Thu, 23 Jul 2026 17:24:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "\"전천후적인 소비자 보호 체계 구축\"… 새마을금고 , 금소법 완벽 대비",
-        "link": "http://www.lkp.news/news/articleView.html?idxno=82202",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 23 Jul 2026 17:02:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "우리 은행 , 네이버페이서 IRP 상담 서비스… 은행 권 첫 진출",
-        "link": "https://n.news.naver.com/mnews/article/005/0001862832?sid=101",
+        "title": "생보사 5곳 보험약관대출, 5개월만에 1.9조 이례적 급증",
+        "link": "https://n.news.naver.com/mnews/article/008/0005390245?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 24 Jul 2026 00:49:00 +0900",
-        "summary": "",
+        "pubDate": "Fri, 24 Jul 2026 04:01:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "타셋, 스테이블코인 준비금 플랫폼 공개…중소 은행 참여 확대 나섰다",
+        "link": "https://www.tokenpost.kr/news/blockchain/380674",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 24 Jul 2026 03:22:00 +0900",
+        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
         "title": "5대은행 예금 금리 줄인상… 1년 만기 연 3%대로",
-        "link": "https://n.news.naver.com/mnews/article/023/0003989316?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 24 Jul 2026 00:36:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
-      },
-      {
-        "title": "5대 은행 예금 금리 줄인상… 1년 만기 연 3%대로",
         "link": "https://n.news.naver.com/mnews/article/023/0003989316?sid=101",
         "source": "네이버뉴스",
         "pubDate": "Fri, 24 Jul 2026 00:36:00 +0900",
@@ -134,28 +123,34 @@
     ],
     "macro": [
       {
-        "title": "“집 있는 사람 왜 전세대출 해주나”… 청년·신혼부부 핀셋 지원 예고",
-        "link": "https://n.news.naver.com/mnews/article/023/0003989363?sid=101",
+        "title": "이재명 부동산 대토론회, 28개의 질문과 숙제.",
+        "link": "https://slownews.kr/163675",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 24 Jul 2026 00:51:00 +0900",
-        "summary": "",
+        "pubDate": "Fri, 24 Jul 2026 04:16:00 +0900",
+        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
         "term": null
       },
       {
-        "title": "이 대통령 “보유세 강화” 시장은 “대출 규제 완화”",
-        "link": "https://n.news.naver.com/mnews/article/025/0003539817?sid=100",
+        "title": "우리 금융 'CET1' 1위 눈앞, 임종룡 자본비율 개선 성과",
+        "link": "https://n.news.naver.com/mnews/article/008/0005390251?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 24 Jul 2026 00:32:00 +0900",
+        "pubDate": "Fri, 24 Jul 2026 04:02:00 +0900",
         "summary": "",
-        "term": null
+        "term": {
+          "word": "CET1",
+          "meaning": "손실흡수력을 보여주는 대표적인 자본적정성 지표"
+        }
       },
       {
-        "title": "ECB, 금리 동결…\"에너지 가격 주시, 9월 인상 가능성\"",
-        "link": "https://n.news.naver.com/mnews/article/421/0009076190?sid=104",
+        "title": "5년 만에 '연 3%대 성장' 가시권… 금리인상 명분도 커졌다",
+        "link": "https://n.news.naver.com/mnews/article/008/0005390241?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 24 Jul 2026 00:16:00 +0900",
+        "pubDate": "Fri, 24 Jul 2026 04:00:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
+        "term": {
+          "word": "Terminal Rate",
+          "meaning": "기준금리 인상 사이클의 최종 수준에 대한 시장 기대"
+        }
       },
       {
         "title": "\"잔금대출 살펴보자\" \"헬기 타겠다\"…이대통령, 193분 부동산 대토론회",
@@ -172,6 +167,17 @@
         "pubDate": "Thu, 23 Jul 2026 17:16:00 +0900",
         "summary": "",
         "term": null
+      },
+      {
+        "title": "“기업은 빌리고 가계는 갚았다”…대구·경북 예금 회복세 ‘뚜렷’",
+        "link": "https://www.kukinews.com/article/view/kuk202607230072",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 23 Jul 2026 17:02:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
       }
     ]
   }
