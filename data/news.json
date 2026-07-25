@@ -1,8 +1,16 @@
 {
-  "updatedAt": "2026-07-25T05:44:11.239Z",
-  "headline": "대한노인회 경기 안산시 상록구지회, 경로당에 MG안산서부 새마을금고 의... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-07-25T08:05:40.050Z",
+  "headline": "성남의 한 A 새마을금고 ‘절차 생략·2억5천 부당지급’ 지적에도 징계... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "성남의 한 A 새마을금고 ‘절차 생략·2억5천 부당지급’ 지적에도 징계...",
+        "link": "https://n.news.naver.com/mnews/article/666/0000116561?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 25 Jul 2026 15:32:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "대한노인회 경기 안산시 상록구지회, 경로당에 MG안산서부 새마을금고 의...",
         "link": "https://www.100ssd.co.kr/news/articleView.html?idxno=211325",
@@ -50,17 +58,41 @@
         "pubDate": "Fri, 24 Jul 2026 20:42:00 +0900",
         "summary": "새마을금고 건전성 관리 흐름과 연결해 볼 수 있는 기사입니다.",
         "term": null
-      },
-      {
-        "title": "새마을금고 중앙회, 어린이 140명 대상 금융교육 진행",
-        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=267794",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 24 Jul 2026 20:10:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
-        "term": null
       }
     ],
     "otherFinance": [
+      {
+        "title": "은행은 임금, 농협은 지방이전… 금융권 ‘두 갈래 투쟁’ 8월 격화",
+        "link": "https://n.news.naver.com/mnews/article/661/0000080514?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 25 Jul 2026 16:40:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "은행은 임금, 농협 은 지방이전… 금융 권 ‘두 갈래 투쟁’ 8월 격화",
+        "link": "https://n.news.naver.com/mnews/article/661/0000080514?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 25 Jul 2026 16:40:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "은행 은 임금, 농협은 지방이전… 금융 권 ‘두 갈래 투쟁’ 8월 격화",
+        "link": "https://n.news.naver.com/mnews/article/661/0000080514?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 25 Jul 2026 16:40:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "우리 금융 , 비 은행 만 보인다…정진완 연임 시험대에",
+        "link": "https://www.peoplewatch.co.kr/article/view/ppw202607250006",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 25 Jul 2026 16:20:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "[이호연의 D톡스] 시중은행 정기예금 3.2%…저축은행은 4%",
         "link": "https://n.news.naver.com/mnews/article/138/0002235418?sid=101",
@@ -74,36 +106,6 @@
       },
       {
         "title": "[은행 실속 한눈에] 비대면 연금 상담·연 4.5% 적금…자산관리 혜택",
-        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5044149",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 25 Jul 2026 14:00:00 +0900",
-        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "[이호연의 D톡스] 시중 은행 정기예금 3.2%…저축 은행 은 4%",
-        "link": "https://n.news.naver.com/mnews/article/138/0002235418?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 25 Jul 2026 14:00:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
-      },
-      {
-        "title": "[토큰 금융 ] ㊥ 은행 은 예금을, 운용사는 펀드를···월가가 토큰을 쓰는...",
-        "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=256484",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 25 Jul 2026 14:00:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
-      },
-      {
-        "title": "[ 은행 실속 한눈에] 비대면 연금 상담·연 4.5% 적금…자산관리 혜택",
         "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5044149",
         "source": "네이버뉴스",
         "pubDate": "Sat, 25 Jul 2026 14:00:00 +0900",
@@ -125,46 +127,22 @@
         "pubDate": "Sat, 25 Jul 2026 11:20:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "포항시, 8월 카드형·모바일 포항사랑상품권 190억 원 규모 10% 할인 판매",
-        "link": "https://www.sentv.co.kr/article/view/sentv202607240197",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 24 Jul 2026 22:52:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "macro": [
       {
-        "title": "\"2년 전 계약했는데 잔금대출 막혀\"…토론회 이후 '집단대출' 물꼬",
-        "link": "https://n.news.naver.com/mnews/article/666/0000116557?sid=100",
+        "title": "[금상소] 금리 오르자 돌아온 ‘예테크’…내게 맞는 전략은",
+        "link": "https://www.etoday.co.kr/news/view/2607023",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 25 Jul 2026 14:38:00 +0900",
-        "summary": "",
+        "pubDate": "Sat, 25 Jul 2026 17:00:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "'팰다르크'가 누구?…이 대통령에 직접 호소하자 '대출 길' 열렸다",
-        "link": "https://n.news.naver.com/mnews/article/053/0000060205?sid=101",
+        "title": "李대통령에 직접 호소하니 잔금대출 뚫렸다 … '매교역 팰루시드' 입주...",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/07/25/2026072500023.html",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 25 Jul 2026 14:10:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "\"내가 도대체 뭘 본거지\" … 주연 대통령·단역이 된 대출·뒷통수 맞은...",
-        "link": "https://www.newdaily.co.kr/site/data/html/2026/07/24/2026072400100.html",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 25 Jul 2026 13:02:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "집단대출 총량 규제는 완화…전세대출 보증비율은 70%로 낮춰",
-        "link": "https://n.news.naver.com/mnews/article/011/0004645084?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 25 Jul 2026 10:50:00 +0900",
+        "pubDate": "Sat, 25 Jul 2026 16:42:00 +0900",
         "summary": "",
         "term": null
       }
