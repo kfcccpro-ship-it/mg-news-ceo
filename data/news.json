@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T16:00:34.880Z",
+  "updatedAt": "2026-07-26T19:09:48.530Z",
   "headline": "[포토뉴스]횡성 새마을금고 경로장 방문 건강음식 전달 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -54,6 +54,36 @@
     ],
     "otherFinance": [
       {
+        "title": "가계대출 연체율 10년 만에 최고… 은행들 중기 대출에 담보·보증 요구",
+        "link": "https://n.news.naver.com/mnews/article/005/0001863213?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 27 Jul 2026 02:38:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "가계대출 연체율 10년 만에 최고… 은행 들 중기 대출에 담보·보증 요구",
+        "link": "https://n.news.naver.com/mnews/article/005/0001863213?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 27 Jul 2026 02:38:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "하나 은행 -인천신용보증기금 업무협약…55억원 특별출연",
+        "link": "https://ic.newdaily.co.kr/site/data/html/2026/07/27/2026072700004.html",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 27 Jul 2026 01:12:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
         "title": "영월 농협 , 상반기 상호 금융 ·종합업적평가 ‘2관왕’",
         "link": "https://n.news.naver.com/mnews/article/087/0001207412?sid=102",
         "source": "네이버뉴스",
@@ -62,40 +92,8 @@
         "term": null
       },
       {
-        "title": "평창우체국, 4대 은행 신용대출 신청 서비스 시작",
-        "link": "https://n.news.naver.com/mnews/article/087/0001207427?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Jul 2026 00:08:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "[스카이 View] 은행 떠나도, 금융 떠나면 안 돼",
-        "link": "https://m.skyedaily.com/news_view.html?ID=308327",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Jul 2026 00:04:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "부천축산 농협 , 어려운 경제 속 안정 성장…조합원 실익 강화",
-        "link": "https://www.fntimes.com/html/view.php?ud=202607250025501920dd55077bc2_18",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Jul 2026 00:02:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "성남 농협 , 자산 1조9천억 달성…안정 경영 기반 강화",
-        "link": "https://www.fntimes.com/html/view.php?ud=202607250037391412dd55077bc2_18",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Jul 2026 00:02:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "부발 농협 , 비전 2030 선포…미래 5년 성장 청사진",
-        "link": "https://www.fntimes.com/html/view.php?ud=202607250032066019dd55077bc2_18",
+        "title": "세종대왕 농협 , 경제·신용사업 성장 지속 발전 기반 마련",
+        "link": "https://www.fntimes.com/html/view.php?ud=202607250034174485dd55077bc2_18",
         "source": "네이버뉴스",
         "pubDate": "Mon, 27 Jul 2026 00:02:00 +0900",
         "summary": "",
@@ -116,9 +114,49 @@
         "pubDate": "Mon, 27 Jul 2026 00:02:00 +0900",
         "summary": "",
         "term": null
+      },
+      {
+        "title": "부발 농협 , 비전 2030 선포…미래 5년 성장 청사진",
+        "link": "https://www.fntimes.com/html/view.php?ud=202607250032066019dd55077bc2_18",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 27 Jul 2026 00:02:00 +0900",
+        "summary": "",
+        "term": null
       }
     ],
     "macro": [
+      {
+        "title": "막혔던 잔금대출 길 뚫린다… 이주비 대출한도 '신축기준' 상향",
+        "link": "https://n.news.naver.com/mnews/article/008/0005391133?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 27 Jul 2026 04:05:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "\"입주 코앞서 집 날릴 판\" 숨통…잔금·이주비·중도금대출, 총량서 뺀다",
+        "link": "https://n.news.naver.com/mnews/article/008/0005391126?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 27 Jul 2026 04:05:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "50조달러 금융 권도 나섰는데...美 암호화폐 법안, 결국 좌초되나",
+        "link": "http://coinreaders.com/249602",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 27 Jul 2026 03:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "환율 떨어졌지만 안심 못한다?… “ADR 환전 일시적 효과”",
+        "link": "https://n.news.naver.com/mnews/article/005/0001863212?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 27 Jul 2026 02:35:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "고금리에… 금융 사 순익 13조 최대, 가계 연체율은 10년새 최악",
         "link": "https://n.news.naver.com/mnews/article/020/0003736592?sid=101",
@@ -129,22 +167,6 @@
           "word": "Delinquency",
           "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
         }
-      },
-      {
-        "title": "[사설] 국정 지지율 깎은 부동산 정책, 세금 인상만으론 안 된다",
-        "link": "https://n.news.naver.com/mnews/article/025/0003540279?sid=110",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Jul 2026 00:26:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "[이현상의 시시각각] 부동산 문제, 결기보다 더 중요한 것",
-        "link": "https://n.news.naver.com/mnews/article/025/0003540274?sid=110",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Jul 2026 00:20:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
-        "term": null
       }
     ]
   }
