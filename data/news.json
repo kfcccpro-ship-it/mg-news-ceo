@@ -1,8 +1,40 @@
 {
-  "updatedAt": "2026-07-26T13:21:47.616Z",
-  "headline": "“이사장 더 엄격히 뽑아야 새마을금고 제대로 개혁” 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-07-26T16:00:34.880Z",
+  "headline": "[포토뉴스]횡성 새마을금고 경로장 방문 건강음식 전달 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "[포토뉴스]횡성 새마을금고 경로장 방문 건강음식 전달",
+        "link": "https://n.news.naver.com/mnews/article/087/0001207459?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 27 Jul 2026 00:09:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "횡성 새마을금고 중복 맞이 경로당 음식 전달",
+        "link": "https://n.news.naver.com/mnews/article/654/0000192085?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 27 Jul 2026 00:05:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "농협 중앙회 경기본부장 “농업인 실익 중심 농업 구현”",
+        "link": "https://www.fntimes.com/html/view.php?ud=202607250023087229dd55077bc2_18",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 27 Jul 2026 00:02:00 +0900",
+        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "새마을금고 , 진주 8개 어린이집 원아 140명...유아 금융교육 참여",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3646649",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 26 Jul 2026 23:06:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "“이사장 더 엄격히 뽑아야 새마을금고 제대로 개혁”",
         "link": "https://n.news.naver.com/mnews/article/658/0000150580?sid=102",
@@ -22,107 +54,96 @@
     ],
     "otherFinance": [
       {
-        "title": "아직도 2%대 통장 쓰세요?… 5대 은행 예·적금 금리 줄줄이 인상",
-        "link": "https://www.ggilbo.com/news/articleView.html?idxno=1170903",
+        "title": "영월 농협 , 상반기 상호 금융 ·종합업적평가 ‘2관왕’",
+        "link": "https://n.news.naver.com/mnews/article/087/0001207412?sid=102",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 26 Jul 2026 22:00:00 +0900",
+        "pubDate": "Mon, 27 Jul 2026 00:08:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "평창우체국, 4대 은행 신용대출 신청 서비스 시작",
+        "link": "https://n.news.naver.com/mnews/article/087/0001207427?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 27 Jul 2026 00:08:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "[iN The Scene] 이호성 하나 은행 장 “인천 경제활성화 금융 파트너 될 것...",
-        "link": "https://www.inthenews.co.kr/news/article.html?no=89757",
+        "title": "[스카이 View] 은행 떠나도, 금융 떠나면 안 돼",
+        "link": "https://m.skyedaily.com/news_view.html?ID=308327",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 26 Jul 2026 21:48:00 +0900",
+        "pubDate": "Mon, 27 Jul 2026 00:04:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "문경경찰서, 보이스피싱 피해 막은 농협 직원에 감사장",
-        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=554903",
+        "title": "부천축산 농협 , 어려운 경제 속 안정 성장…조합원 실익 강화",
+        "link": "https://www.fntimes.com/html/view.php?ud=202607250025501920dd55077bc2_18",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 26 Jul 2026 21:24:00 +0900",
+        "pubDate": "Mon, 27 Jul 2026 00:02:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "올 하반기 카드 이용시 대출금리 감면 확대",
-        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=554882",
+        "title": "성남 농협 , 자산 1조9천억 달성…안정 경영 기반 강화",
+        "link": "https://www.fntimes.com/html/view.php?ud=202607250037391412dd55077bc2_18",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 26 Jul 2026 21:24:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "NIM",
-          "meaning": "금리 변화가 금융기관 수익성에 미치는 영향을 보여주는 핵심 지표"
-        }
-      },
-      {
-        "title": "KB국민 은행 수출입결제에 블록체인 도입…JP모간 키넥시스와 협력",
-        "link": "https://www.inthenews.co.kr/news/article.html?no=89756",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 26 Jul 2026 21:06:00 +0900",
+        "pubDate": "Mon, 27 Jul 2026 00:02:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "서청주 농협 종합업적평가 전국 1위",
-        "link": "http://www.cctimes.kr/news/articleView.html?idxno=918487",
+        "title": "부발 농협 , 비전 2030 선포…미래 5년 성장 청사진",
+        "link": "https://www.fntimes.com/html/view.php?ud=202607250032066019dd55077bc2_18",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 26 Jul 2026 20:24:00 +0900",
+        "pubDate": "Mon, 27 Jul 2026 00:02:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "농산물 잘 팔아 조합원 소득 돕는 농협 돼야",
-        "link": "http://www.ikpnews.net/news/articleView.html?idxno=71031",
+        "title": "오정 농협 , 영농지원 확대· 금융 사업 성과 눈길",
+        "link": "https://www.fntimes.com/html/view.php?ud=202607250040401621dd55077bc2_18",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 26 Jul 2026 20:18:00 +0900",
+        "pubDate": "Mon, 27 Jul 2026 00:02:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "증권·카드 뜀박질… 은행 제자리걸음, 보험 뒷걸음",
-        "link": "https://n.news.naver.com/mnews/article/022/0004145997?sid=101",
+        "title": "부천 농협 , 신용·경제사업 성장…순이익 51억원 달성",
+        "link": "https://www.fntimes.com/html/view.php?ud=202607250030109930dd55077bc2_18",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 26 Jul 2026 19:39:00 +0900",
+        "pubDate": "Mon, 27 Jul 2026 00:02:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "KB국민, 블록체인 기반 수출입 기업결제 서비스 내달 출시",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=546113",
+        "title": "고금리에… 금융 사 순익 13조 최대, 가계 연체율은 10년새 최악",
+        "link": "https://n.news.naver.com/mnews/article/020/0003736592?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 26 Jul 2026 21:58:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "AI 알고리즘이 초래할 채권 시장 ‘순간적 유동성 증발'",
-        "link": "https://n.news.naver.com/mnews/article/023/0003989695?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 26 Jul 2026 21:17:00 +0900",
-        "summary": "",
+        "pubDate": "Mon, 27 Jul 2026 00:31:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": {
-          "word": "LCR",
-          "meaning": "단기 유동성 충격 대응 능력을 보여주는 지표"
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
         }
       },
       {
-        "title": "‘매교역 팰루시드’ 집단대출 막혀 날벼락",
-        "link": "https://www.kyeongin.com/article/1767936",
+        "title": "[사설] 국정 지지율 깎은 부동산 정책, 세금 인상만으론 안 된다",
+        "link": "https://n.news.naver.com/mnews/article/025/0003540279?sid=110",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 26 Jul 2026 19:56:00 +0900",
-        "summary": "",
+        "pubDate": "Mon, 27 Jul 2026 00:26:00 +0900",
+        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
         "term": null
       },
       {
-        "title": "금융당국, 청년·서민 실수요자 대출 총량 관리서 제외 검토",
-        "link": "https://n.news.naver.com/mnews/article/448/0000629438?sid=101",
+        "title": "[이현상의 시시각각] 부동산 문제, 결기보다 더 중요한 것",
+        "link": "https://n.news.naver.com/mnews/article/025/0003540274?sid=110",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 26 Jul 2026 14:40:00 +0900",
-        "summary": "",
+        "pubDate": "Mon, 27 Jul 2026 00:20:00 +0900",
+        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
         "term": null
       }
     ]
