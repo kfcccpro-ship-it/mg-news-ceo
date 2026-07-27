@@ -1,80 +1,108 @@
 {
-  "updatedAt": "2026-07-27T02:55:14.267Z",
-  "headline": "하나 은행 , 인천 지역경제 활성화에 힘 보탠다 등 타 금융권 동향을 비교해볼 필요가 있습니다.",
+  "updatedAt": "2026-07-27T06:30:45.914Z",
+  "headline": "\"이사장에게 찍히면 퇴사해야\"… 새마을금고 노동자들의 절규 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
-    "mg": [],
+    "mg": [
+      {
+        "title": "\"이사장에게 찍히면 퇴사해야\"… 새마을금고 노동자들의 절규",
+        "link": "http://worknworld.kctu.org/news/articleView.html?idxno=509719",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 27 Jul 2026 15:20:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "대한노인회 경북 봉화군지회, 봉화군 새마을금고 와 삼계탕 대접 행사가져",
+        "link": "https://www.100ssd.co.kr/news/articleView.html?idxno=211151",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 27 Jul 2026 14:22:00 +0900",
+        "summary": "",
+        "term": null
+      }
+    ],
     "otherFinance": [
       {
-        "title": "하나 은행 , 인천 지역경제 활성화에 힘 보탠다",
-        "link": "http://www.bizwnews.com/news/articleView.html?idxno=141558",
+        "title": "Sh수협 은행 , 상반기 총자산 70조원…세전이익 2034억원",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687293",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Jul 2026 11:54:00 +0900",
+        "pubDate": "Mon, 27 Jul 2026 15:30:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "홍콩 ELS 과징금, 이달 또 넘긴다…롯데카드 제재는 마무리",
-        "link": "https://n.news.naver.com/mnews/article/374/0000523870?sid=101",
+        "title": "수협의 해상풍력 상생 구축... 어촌을 밝히는 푸른 바람",
+        "link": "http://www.lkp.news/news/articleView.html?idxno=82291",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Jul 2026 11:51:00 +0900",
+        "pubDate": "Mon, 27 Jul 2026 15:30:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "NH 농협 은행, AI 기반 기업여신 심사체계 구축…'에이전틱 AI 뱅크' 속도",
-        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=251633",
+        "title": "하나 은행 , ‘2026 KSQI’ 은행 부문 11년 연속 1위 선정",
+        "link": "https://www.sentv.co.kr/article/view/sentv202607270106",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Jul 2026 11:48:00 +0900",
+        "pubDate": "Mon, 27 Jul 2026 15:30:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "BNK부산 은행 , 지방 은행 첫 AI 보이스봇 상담…24시간 운영",
-        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=264989",
+        "title": "광주 은행 , 5대 경영 목표로 미래 대비… AI 역량 강화 주목",
+        "link": "https://www.tokenpost.kr/news/economy/381614",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Jul 2026 11:48:00 +0900",
+        "pubDate": "Mon, 27 Jul 2026 15:28:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "NH농협 은행 , AI 기반 기업여신 심사체계 구축…'에이전틱 AI 뱅크' 속도",
-        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=251633",
+        "title": "광주 은행 , 하반기 경영전략 발표…영업·건전성·AI 역량 강화",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3647413",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Jul 2026 11:48:00 +0900",
+        "pubDate": "Mon, 27 Jul 2026 15:28:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "인도네시아 중앙 은행 총재 돌연 사임…루피아 약세에 시장 '긴장'",
-        "link": "https://n.news.naver.com/mnews/article/421/0009080655?sid=101",
+        "title": "Sh수협 은행 , 상반기 총자산 70조 달성…하반기 영업전략 공유",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=141291",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Jul 2026 11:46:00 +0900",
+        "pubDate": "Mon, 27 Jul 2026 15:26:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "희비 갈린 은행 실적…신한 '리딩뱅크', 우리· 농협 銀 주춤",
-        "link": "https://n.news.naver.com/mnews/article/003/0014090032?sid=101",
+        "title": "충북 농협 , 'NH10년든든 회전예금' 출시",
+        "link": "https://www.dynews.co.kr/news/articleView.html?idxno=859453",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Jul 2026 11:41:00 +0900",
-        "summary": "",
-        "term": null
+        "pubDate": "Mon, 27 Jul 2026 15:24:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
       },
       {
-        "title": "NH투자증권, 디지털자산 전담조직 신설…토큰증권 제도화 선제 대응",
-        "link": "https://www.socialvalue.kr/news/view/1065579908183992",
+        "title": "증평 농협 , 상반기 종합업적평가·상호 금융 대상 2관왕",
+        "link": "https://www.dynews.co.kr/news/articleView.html?idxno=859454",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Jul 2026 11:40:00 +0900",
-        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
+        "pubDate": "Mon, 27 Jul 2026 15:24:00 +0900",
+        "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "예금으로 미장으로…국장 개미 유동성 줄어든다",
-        "link": "https://n.news.naver.com/mnews/article/374/0000523868?sid=101",
+        "title": "아산시, '집단대출 300억' 추가 확보… 탕정 푸르지오 입주 숨통",
+        "link": "https://www.newstnt.com/news/articleView.html?idxno=711742",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Jul 2026 11:48:00 +0900",
+        "pubDate": "Mon, 27 Jul 2026 15:28:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "AI 패권에 5조달러 쏟는다…미국 ‘자금조달 총력전’",
+        "link": "https://www.etoday.co.kr/news/view/2607878",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 27 Jul 2026 15:26:00 +0900",
         "summary": "",
         "term": {
           "word": "LCR",
@@ -82,43 +110,19 @@
         }
       },
       {
-        "title": "[이슈체크] 가계대출 규제 이중 트랙…실수요 풀고 비거주는 조이고",
-        "link": "https://www.tfmedia.co.kr/news/article.html?no=206026",
+        "title": "아산시, 입주 예정 아파트 대출총량 규제 적극 대응",
+        "link": "https://www.dynews.co.kr/news/articleView.html?idxno=859359",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Jul 2026 11:40:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "주담대, 일주일새 1조 눈덩이…연말 ‘대출절벽’ 공포 현실화",
-        "link": "https://n.news.naver.com/mnews/article/016/0002675598?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Jul 2026 11:32:00 +0900",
+        "pubDate": "Mon, 27 Jul 2026 15:24:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "마포구, 소상공인 특별신용보증 415억 확대…저금리 금융지원",
-        "link": "https://www.hg-times.com/news/articleView.html?idxno=303896",
+        "title": "주담대 묶이자 신용대출 기지개?…5월 경기 가계대출 한달새 1조원대↑",
+        "link": "https://n.news.naver.com/mnews/article/666/0000116774?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Jul 2026 10:42:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "‘가려운 곳 긁어준다“… 똑소리 나는 마포 경기 대책",
-        "link": "https://n.news.naver.com/mnews/article/081/0003664866?sid=100",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Jul 2026 10:10:00 +0900",
-        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
-        "term": null
-      },
-      {
-        "title": "마포구, 소상공인 특별신용보증 415억 확대…저금리 대출 지원",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3646823",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Jul 2026 09:12:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "pubDate": "Mon, 27 Jul 2026 15:11:00 +0900",
+        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
         "term": null
       }
     ]
