@@ -1,16 +1,8 @@
 {
-  "updatedAt": "2026-07-27T22:06:59.655Z",
-  "headline": "사무 금융 노조 \" 농협 중앙회, 노동안전 관리 책임져야\" 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-07-28T02:31:57.568Z",
+  "headline": "봉덕3동 새마을금고 , 중복 맞아 어르신 보양식 나눔 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
-      {
-        "title": "사무 금융 노조 \" 농협 중앙회, 노동안전 관리 책임져야\"",
-        "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=235914",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 28 Jul 2026 06:34:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
       {
         "title": "봉덕3동 새마을금고 , 중복 맞아 어르신 보양식 나눔",
         "link": "https://www.dkilbo.com/news/articleView.html?idxno=549769",
@@ -18,100 +10,97 @@
         "pubDate": "Mon, 27 Jul 2026 18:36:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "\"이사장에게 찍히면 퇴사해야\"… 새마을금고 노동자들의 절규",
-        "link": "http://worknworld.kctu.org/news/articleView.html?idxno=509719",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Jul 2026 15:20:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "강태영號 농협 은행, 소호대출 성장 1%대 그쳐···ROE·비이자익 '동반...",
-        "link": "https://www.fntimes.com/html/view.php?ud=202607271933392027b4a7c6999c_18",
+        "title": "하나 은행 , 대구에 시니어 특화 '하나더넥스트 라운지' 개설",
+        "link": "https://www.eroun.net/news/articleView.html?idxno=86402",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 28 Jul 2026 07:02:00 +0900",
+        "pubDate": "Tue, 28 Jul 2026 11:30:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "하나 은행 , 7년 만에 포모사본드 시장 복귀…3억 달러 조달",
+        "link": "https://www.g-enews.com/view.php?ud=202607281104428945bb91c46fcd_1",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 28 Jul 2026 11:30:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[증권사 PF 잔불]⑦ 키움證 PF 두 배 '껑충'…자본관리 '시험대'",
+        "link": "https://n.news.naver.com/mnews/article/293/0000088201?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 28 Jul 2026 11:30:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "하나 은행 , '하나더넥스트' 전국 확대 시동…대구중앙 라운지 개점",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=222346",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 28 Jul 2026 11:28:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "하나 은행 , 포모사본드 3억달러 발행…역대 최저 가산금리로 조달 성공",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=208491",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 28 Jul 2026 11:28:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "이찬우號 농협금융 수수료익 71% 성장 '기염'···ROE 희석 '과제' [2026 ...",
-        "link": "https://www.fntimes.com/html/view.php?ud=202607271657597360b4a7c6999c_18",
+        "title": "IBK기업 은행 , 피카츄부터 메타몽까지…포켓몬 체크카드 출시",
+        "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=315678",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 28 Jul 2026 07:02:00 +0900",
+        "pubDate": "Tue, 28 Jul 2026 11:28:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "장민영號 기업 은행 , 중기대출 270조 ‘포용 금융 선봉’…순익은 9% 감소...",
-        "link": "https://www.fntimes.com/html/view.php?ud=2026072717480566725e6e69892f_18",
+        "title": "금융 위, 5대은행 긴급 소집…잔금대출 해법 논의",
+        "link": "https://n.news.naver.com/mnews/article/421/0009082865?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 28 Jul 2026 07:02:00 +0900",
+        "pubDate": "Tue, 28 Jul 2026 11:20:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "이찬우號 농협 금융 수수료익 71% 성장 '기염'···ROE 희석 '과제' [2026 ...",
-        "link": "https://www.fntimes.com/html/view.php?ud=202607271657597360b4a7c6999c_18",
+        "title": "170조 '치매머니' 잡아라…은행권, 치매 고객 모시기 경쟁 가속",
+        "link": "http://www.dailypop.kr/news/articleView.html?idxno=100949",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 28 Jul 2026 07:02:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "우리 금융 비 은행 비중 22% 돌파… 우리투자증권 ‘2조원 대형사’ 안착",
-        "link": "https://www.ceoscoredaily.com/page/view/2026072700333306397",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 28 Jul 2026 07:02:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "강태영號 농협 은행 , 소호대출 성장 1%대 그쳐···ROE·비이자익 '동반...",
-        "link": "https://www.fntimes.com/html/view.php?ud=202607271933392027b4a7c6999c_18",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 28 Jul 2026 07:02:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "[더벨][thebell note] 증권신고서의 디폴트값",
-        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607230322100430108554",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 28 Jul 2026 07:02:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[THE CEO] 이찬우 농협금융 지주 회장",
-        "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=724641",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 28 Jul 2026 06:30:00 +0900",
+        "pubDate": "Tue, 28 Jul 2026 11:10:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "기업 통장에 달러 쌓인다…외화예금 역대 최대규모",
-        "link": "https://www.news2day.co.kr/article/20260727500280",
+        "title": "신규 대출 사실상 '0'...2금융권도 대출 옥죄기",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=1395976",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 28 Jul 2026 07:04:00 +0900",
+        "pubDate": "Tue, 28 Jul 2026 10:56:00 +0900",
         "summary": "",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
+        "term": null
       },
       {
-        "title": "[더벨][PF Radar] '한화 건설부문 시공' 안성 데이터센터 본PF 눈앞",
-        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607241520089440107880",
+        "title": "신규 대출 사실상 '0'...2 금융 권도 대출 옥죄기",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=1395976",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 28 Jul 2026 07:02:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
+        "pubDate": "Tue, 28 Jul 2026 10:56:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "\"주식 영끌·빚투 줄인다\"…금감원, 소득·자산별 '가계 투자 가이드' 만...",
+        "link": "https://n.news.naver.com/mnews/article/277/0005795556?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 28 Jul 2026 10:54:00 +0900",
+        "summary": "",
         "term": null
       },
       {
@@ -121,33 +110,6 @@
         "pubDate": "Tue, 28 Jul 2026 06:58:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
-      },
-      {
-        "title": "민원 모이면 풀리고, 혼자면 막힌다? 잔금대출의 두 얼굴",
-        "link": "https://n.news.naver.com/mnews/article/005/0001863482?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 28 Jul 2026 06:02:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[패트롤] 수원시-경기광주시-여주시-평택시",
-        "link": "https://www.ekn.kr/web/view.php?key=20260728020076686",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 28 Jul 2026 05:34:00 +0900",
-        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
-        "term": null
-      },
-      {
-        "title": "전남광주 서·남부, 금융기관 수신 늘고 여신 '주춤'",
-        "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000052650",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 27 Jul 2026 16:55:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
       }
     ]
   }
