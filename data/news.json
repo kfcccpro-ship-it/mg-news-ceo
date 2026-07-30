@@ -1,14 +1,30 @@
 {
-  "updatedAt": "2026-07-30T08:26:19.760Z",
-  "headline": "농협 중앙회, 스마트워크 기술 미국 이어 중국 특허 확보 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-07-30T11:07:30.191Z",
+  "headline": "[ 농협 ] 상호 금융 전자점자 / 중앙회 스마트워크 특허 / 목우촌 20주년 할... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
-        "title": "농협 중앙회, 스마트워크 기술 미국 이어 중국 특허 확보",
-        "link": "https://www.thepowernews.co.kr/view.php?ud=202607301643451899de3f0aa1be_7",
+        "title": "[ 농협 ] 상호 금융 전자점자 / 중앙회 스마트워크 특허 / 목우촌 20주년 할...",
+        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2251443",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Jul 2026 17:14:00 +0900",
+        "pubDate": "Thu, 30 Jul 2026 18:40:00 +0900",
         "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "MG 새마을금고 서구협의회, 서구인재육성재단에 후원금 1000만 원 기탁",
+        "link": "https://www.dkilbo.com/news/articleView.html?idxno=550108",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 30 Jul 2026 17:46:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "“존중과 감사로 하나가 됐다” MG 새마을금고 강경진 감독, 부임 후 5번...",
+        "link": "https://m.sports.naver.com/general/article/449/0000354951",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 30 Jul 2026 17:35:00 +0900",
+        "summary": "",
         "term": null
       },
       {
@@ -18,124 +34,166 @@
         "pubDate": "Thu, 30 Jul 2026 16:30:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "새마을금고 서구협의회, 행복마당 푸드마켓과 함께 소외계층 '온기 나눔...",
-        "link": "https://www.mhns.co.kr/news/articleView.html?idxno=754975",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Jul 2026 15:18:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "NH 농협 생명, AX·DX 역량 강화 위한 '디지털 썸머위크' 실시",
-        "link": "http://www.sisacast.kr/news/articleView.html?idxno=98330",
+        "title": "기업 자금조달, 은행 대출도 회사채도 막혔다 … \"위험가중치 완화 시급...",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=87357",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Jul 2026 17:24:00 +0900",
-        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "KB국민 은행 , BIS '프로젝트 아고라' 참여…글로벌 지급결제 검증",
-        "link": "https://www.seoultimes.news/news/article.html?no=2000098329",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Jul 2026 17:22:00 +0900",
-        "summary": "",
+        "pubDate": "Thu, 30 Jul 2026 19:54:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": {
-          "word": "CET1",
-          "meaning": "손실흡수력을 보여주는 대표적인 자본적정성 지표"
+          "word": "LCR",
+          "meaning": "단기 유동성 충격 대응 능력을 보여주는 지표"
         }
       },
       {
-        "title": "웰컴저축 은행 , 금융 콘텐츠 경쟁력 인정…블로그 대상 5연패",
-        "link": "http://www.sisacast.kr/news/articleView.html?idxno=98332",
+        "title": "미국 기준금리 5번째 동결했지만 불확실성 커지자 한국 은행 셈법은 더욱...",
+        "link": "https://n.news.naver.com/mnews/article/032/0003461437?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Jul 2026 17:22:00 +0900",
+        "pubDate": "Thu, 30 Jul 2026 19:54:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+        }
+      },
+      {
+        "title": "KB국민銀, 일본 은행 과 예금토큰 기반 해외 지급결제 검증 마쳐",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7176779",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 30 Jul 2026 19:36:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "무보, 유럽 스마트폰 수출 지원에 1억달러 무역보험 제공",
+        "link": "http://www.lawissue.co.kr/view.php?ud=202607301932231381f4ab64559d_12",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 30 Jul 2026 19:34:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "웰컴저축 은행 , 금융 콘텐츠 경쟁력 인정…'소셜아이어워드' 은행분야 블...",
-        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=356762",
+        "title": "전북 은행 , '전주세계소리축제' 개최 위한 후원금 1억원 전달",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=141997",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Jul 2026 17:22:00 +0900",
+        "pubDate": "Thu, 30 Jul 2026 19:34:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "BNK부산·경남 은행 , 금융 소비자보호위 신설…CCO 독립성 강화",
-        "link": "https://www.newspim.com/news/view/20260730001416",
+        "title": "대전 중구, 농협 3곳 '치매극복선도단체' 신규 지정",
+        "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1091364",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Jul 2026 17:21:00 +0900",
+        "pubDate": "Thu, 30 Jul 2026 19:24:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "NH 농협 은행 NH투자증권 상반기 순이익 차이 '2천억', 강태영 '수익성' '건...",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=443580",
+        "title": "양구군 농협 , 칭찬으로 만드는 조직문화… 우수직원 시상",
+        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1279708",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Jul 2026 17:20:00 +0900",
+        "pubDate": "Thu, 30 Jul 2026 19:12:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "차익실현도, 손절 자금도 은행으로⋯‘빚투 열기’ 빠르게 식는다 [공포...",
-        "link": "https://www.etoday.co.kr/news/view/2609280",
+        "title": "농협금융 , 산업안전보건공단과 맞손…산업안전 연계 ESG 지원 확대",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=362850",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Jul 2026 17:18:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "널뛰는 증시에 24조원 ‘은행 피신’⋯투자금 대이동 [공포가 부른 역머...",
-        "link": "https://www.etoday.co.kr/news/view/2609256",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Jul 2026 17:18:00 +0900",
+        "pubDate": "Thu, 30 Jul 2026 19:10:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "잔금대출 풀린다는데…지방 미분양은 '사각지대'",
-        "link": "https://n.news.naver.com/mnews/article/015/0005315728?sid=101",
+        "title": "양손 묶인 인뱅의 돌파구는 '사장님 대출'",
+        "link": "https://n.news.naver.com/mnews/article/015/0005315841?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Jul 2026 17:24:00 +0900",
+        "pubDate": "Thu, 30 Jul 2026 20:01:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "中추격 따돌린다…국민성장펀드, LGD·테크윙에 1.3조 저리대출",
-        "link": "https://www.kukinews.com/article/view/kuk202607300168",
+        "title": "주택·투자 수요…부산 가계대출 증가폭 확대",
+        "link": "https://n.news.naver.com/mnews/article/658/0000151031?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Jul 2026 17:24:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "국민성장펀드, 'OLED 초격차' LG디스플레이에 1.5조 저리대출",
-        "link": "https://n.news.naver.com/mnews/article/079/0004174033?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Jul 2026 17:23:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "하나 금융 , 잠실 마이스 개발 4조원 PF 주관",
-        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=356736",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Jul 2026 17:22:00 +0900",
+        "pubDate": "Thu, 30 Jul 2026 19:59:00 +0900",
         "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
         "term": null
       },
       {
-        "title": "금리 오르고 주가 내리고…'빚투족' 부담 커진다",
-        "link": "https://www.namdonews.com/news/articleView.html?idxno=918579",
+        "title": "한은 “불확실성 확대”… 8월 금리 인상 힘 받나",
+        "link": "https://n.news.naver.com/mnews/article/022/0004147230?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Jul 2026 17:18:00 +0900",
+        "pubDate": "Thu, 30 Jul 2026 19:52:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "\"시중銀 대출 축소에 자금조달 더 어려워\"",
+        "link": "https://n.news.naver.com/mnews/article/009/0005714658?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 30 Jul 2026 19:50:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "LCR",
+          "meaning": "단기 유동성 충격 대응 능력을 보여주는 지표"
+        }
+      },
+      {
+        "title": "평택·이천·파주까지 번진 ‘잔금대출 한도’ 문제",
+        "link": "https://www.kyeongin.com/article/1768199",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 30 Jul 2026 19:36:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "한은 \"예금토큰 지급 시스템 실거래 테스트 참여\"",
+        "link": "https://n.news.naver.com/mnews/article/052/0002386817?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 30 Jul 2026 18:46:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "금리 오르고 연체 늘고…가계대출 부담 커진다",
+        "link": "https://www.sentv.co.kr/article/view/sentv202607300062",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 30 Jul 2026 18:42:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "PF부실·대출규제…먹거리 사라진 상호금융",
+        "link": "https://n.news.naver.com/mnews/article/009/0005714632?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 30 Jul 2026 18:01:00 +0900",
+        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "'영끌·빚투'…한 달만에 제주 가계대출 1400억원 증가",
+        "link": "https://www.jemin.com/news/articleView.html?idxno=841117",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 30 Jul 2026 17:32:00 +0900",
+        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
         "term": null
       },
       {
@@ -148,22 +206,6 @@
           "word": "Delinquency",
           "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
         }
-      },
-      {
-        "title": "제주 가계대출 급증…한 달 새 1454억 원, 기업대출은 72억 원",
-        "link": "https://www.newsjeju.net/news/articleView.html?idxno=424003",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Jul 2026 15:30:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "총량규제에 막혔던 상호금융 … 집단대출 예외에 숨통 트이나",
-        "link": "https://biz.newdaily.co.kr/site/data/html/2026/07/30/2026073000128.html",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Jul 2026 11:26:00 +0900",
-        "summary": "",
-        "term": null
       }
     ]
   }
