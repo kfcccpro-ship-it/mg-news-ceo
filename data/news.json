@@ -1,158 +1,123 @@
 {
-  "updatedAt": "2026-07-29T22:01:10.507Z",
-  "headline": "새마을금고 , 노후 경로당 냉난방 설비 개선 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-07-30T02:24:31.946Z",
+  "headline": "보이스피싱 당하면 1000만원 보상…은행권, 보상보험 경쟁 등 타 금융권 동향을 비교해볼 필요가 있습니다.",
   "categories": {
-    "mg": [
-      {
-        "title": "새마을금고 , 노후 경로당 냉난방 설비 개선",
-        "link": "https://n.news.naver.com/mnews/article/014/0005554760?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 29 Jul 2026 18:12:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "북춘천 새마을금고 '제2회 이사장배 파크골프대회' 성료",
-        "link": "https://n.news.naver.com/mnews/article/654/0000192676?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 29 Jul 2026 17:54:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "새마을금고 , 노후 경로당 13곳 친환경 리모델링⋯2억원 기부",
-        "link": "https://www.etoday.co.kr/news/view/2608906",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 29 Jul 2026 17:02:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[포토뉴스] MG북춘천 새마을금고 , 제2회 이사장배 파크골프대회 개최",
-        "link": "https://n.news.naver.com/mnews/article/087/0001208204?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 29 Jul 2026 17:01:00 +0900",
-        "summary": "",
-        "term": null
-      }
-    ],
+    "mg": [],
     "otherFinance": [
       {
-        "title": "은행권 예·적금 금리이어 대출 금리도 앞다퉈 인상할듯...KB국민 31일부...",
-        "link": "https://www.public25.com/news/articleView.html?idxno=51716",
+        "title": "보이스피싱 당하면 1000만원 보상…은행권, 보상보험 경쟁",
+        "link": "https://n.news.naver.com/mnews/article/016/0002677314?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Jul 2026 07:00:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "[삼성증권 인사&조직] ③이기덕 상무, 'IPO 전문가 라인업'으로 존재감 ...",
-        "link": "https://www.fetv.co.kr/news/articleView.html?idxno=307444",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Jul 2026 07:00:00 +0900",
+        "pubDate": "Thu, 30 Jul 2026 11:22:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "은행 권 예·적금 금리이어 대출 금리도 앞다퉈 인상할듯...KB국민 31일부...",
-        "link": "https://www.public25.com/news/articleView.html?idxno=51716",
+        "title": "보이스피싱 당하면 1000만원 보상… 은행 권, 보상보험 경쟁",
+        "link": "https://n.news.naver.com/mnews/article/016/0002677314?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Jul 2026 07:00:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "금융 노조 농협 지부 \"본사 이전하면 파업\"",
-        "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=235973",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Jul 2026 06:34:00 +0900",
+        "pubDate": "Thu, 30 Jul 2026 11:22:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "농협 본사 이전 반대···조합원 4천명 광화문 집결",
-        "link": "http://www.newsfarm.co.kr/news/articleView.html?idxno=101827",
+        "title": "보험 담보로 빌린 돈, 집 담보로 빌린 돈만큼 커졌다",
+        "link": "https://n.news.naver.com/mnews/article/016/0002677310?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Jul 2026 06:30:00 +0900",
+        "pubDate": "Thu, 30 Jul 2026 11:21:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "은행권 다음달 입주 예정 서울 반포 래미안 트리니원 조합원 잔금대출 ...",
-        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607291140298830968",
+        "title": "조달금리 2년 8개월 만에 최고...카드사 하반기 실적 최대 변수",
+        "link": "https://n.news.naver.com/mnews/article/016/0002677309?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Jul 2026 06:22:00 +0900",
+        "pubDate": "Thu, 30 Jul 2026 11:21:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "NIM",
+          "meaning": "금리 변화가 금융기관 수익성에 미치는 영향을 보여주는 핵심 지표"
+        }
+      },
+      {
+        "title": "NH 농협 생명, 3주간 임직원 'AI 특훈'",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=307996",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 30 Jul 2026 11:20:00 +0900",
+        "summary": "",
         "term": null
       },
       {
-        "title": "5대 시중은행, 중소기업·소상공인 대출 인색...하나은행만 증가폭 돋보...",
-        "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=760318",
+        "title": "토스뱅크·KB국민은행·NH 농협 은행 인기비결은?...대학생들의 금융 권 취...",
+        "link": "https://www.news2day.co.kr/article/20260730500062",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Jul 2026 06:16:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "pubDate": "Thu, 30 Jul 2026 11:20:00 +0900",
+        "summary": "",
         "term": null
       },
       {
-        "title": "농협 4000명 거리로, 국책은행도 공동집회…'이전 반대' 확산",
-        "link": "https://n.news.naver.com/mnews/article/421/0009086978?sid=101",
+        "title": "KB국민 은행 , AI 청소년 멘토링 'KB라스쿨'...소비자 관심도 증가",
+        "link": "http://www.thebigdata.co.kr/view.php?ud=202607301108007552df3c2a17b7_23",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Jul 2026 06:00:00 +0900",
+        "pubDate": "Thu, 30 Jul 2026 11:20:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "한산 농협 ·동서천 농협 , 합병 논의 '급물살'",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3650783",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 30 Jul 2026 11:18:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "동양생명, 성대규 체제 1년…수익성·건전성 모두 잡아",
-        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=205745",
+        "title": "하나 금융 , 잠실 MICE 개발 4조원 PF 주도…'One IB' 전략 시험대 오른다",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=205778",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Jul 2026 07:00:00 +0900",
+        "pubDate": "Thu, 30 Jul 2026 11:22:00 +0900",
+        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "카카오뱅크, 서울 6개 자치구와 소상공인 170억원 대출 지원",
+        "link": "https://www.cnbnews.com/news/articleView.html?idxno=1009755",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 30 Jul 2026 11:22:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "류경기 중랑구청장, 중소기업·상인 영업하기 좋은 도시 만들어... 8년간...",
-        "link": "https://n.news.naver.com/mnews/article/016/0002677098?sid=102",
+        "title": "“잃고 나서야 소중함을 알았습니다”…증시 떠난 돈, ‘연 3%’ 예금으...",
+        "link": "https://n.news.naver.com/mnews/article/009/0005714291?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Jul 2026 06:57:00 +0900",
-        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
-        "term": null
-      },
-      {
-        "title": "“상가 공실에 이자도 못 냅니다”…임대업자 연체율 급등",
-        "link": "https://n.news.naver.com/mnews/article/009/0005714113?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Jul 2026 06:54:00 +0900",
+        "pubDate": "Thu, 30 Jul 2026 11:20:00 +0900",
         "summary": "",
         "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
         }
       },
       {
-        "title": "[대출 규제 역설] '주거' 풀고 '생계'는 조이고…'엇박자' 논란",
-        "link": "https://n.news.naver.com/mnews/article/119/0003116316?sid=101",
+        "title": "[사설] 美 금리 동결에도 장기 채권값 급락, 인플레 압력 대비할 때",
+        "link": "https://n.news.naver.com/mnews/article/016/0002677307?sid=110",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Jul 2026 06:50:00 +0900",
-        "summary": "",
+        "pubDate": "Thu, 30 Jul 2026 11:20:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "딜레마 빠진 정부, 총량규제 어쩌나…집단대출 관리대상 유지하되 총량...",
-        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607291343592550991",
+        "title": "기준금리 8월에 또 인상? 8%대로 향하는 주담대 금리",
+        "link": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=87234",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Jul 2026 06:22:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "대출 막혀 하반기 입주 앞둔 7만 가구 '잔금 비상'…둔촌주공 때는 어땠...",
-        "link": "https://n.news.naver.com/mnews/article/421/0009086914?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 30 Jul 2026 05:00:00 +0900",
-        "summary": "",
-        "term": null
+        "pubDate": "Thu, 30 Jul 2026 11:08:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+        }
       }
     ]
   }
