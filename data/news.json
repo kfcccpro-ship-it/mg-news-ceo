@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T19:24:00.760Z",
+  "updatedAt": "2026-07-31T22:05:06.424Z",
   "headline": "새마을금고 'MG따숨봉사단', 취약 어르신 주거 환경 개선 봉사활동 전개 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -36,19 +36,19 @@
         "term": null
       },
       {
-        "title": "[더밸류 브리핑] 오늘의 금융계 소식...BNK금융그룹·신협중앙회· 새마을 ...",
-        "link": "http://www.thevaluenews.co.kr/news/view.php?idx=200470",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 31 Jul 2026 17:14:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
         "title": "새마을금고 MG따숨봉사단, 독거노인 주거환경 개선",
         "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=661715",
         "source": "네이버뉴스",
         "pubDate": "Fri, 31 Jul 2026 17:14:00 +0900",
         "summary": "",
+        "term": null
+      },
+      {
+        "title": "[더밸류 브리핑] 오늘의 금융계 소식...BNK금융그룹·신협중앙회· 새마을 ...",
+        "link": "http://www.thevaluenews.co.kr/news/view.php?idx=200470",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 31 Jul 2026 17:14:00 +0900",
+        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
         "term": null
       },
       {
@@ -69,6 +69,22 @@
       }
     ],
     "otherFinance": [
+      {
+        "title": "증권사 실적 의존도 높아진 4대 금융 …하반기 수익성 시험대",
+        "link": "https://www.ceoscoredaily.com/page/view/2026073114402270871",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 01 Aug 2026 07:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "생보사, 간병인 보험 일당 ’20만원‘ 경쟁 재현… 당국도 예의주시",
+        "link": "https://n.news.naver.com/mnews/article/366/0001183627?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 01 Aug 2026 06:01:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "소비자경보 하루 만에 현장검사…금감원, 은행 ETF 판매관행 정조준",
         "link": "https://www.koreareport.co.kr/news/articleView.html?idxno=51874",
@@ -94,52 +110,93 @@
         "term": null
       },
       {
-        "title": "국내 5대 금융 지주 및 은행, 금융 체계상 주요 금융 기관 선정",
-        "link": "https://www.g-enews.com/view.php?ud=202607312012093036638475ab2b_1",
+        "title": "[2금융 뉴스브리핑] 인천저축은행 창립 55주년 연 5.5% 정기적금 특판",
+        "link": "https://www.asiatime.co.kr/article/20260731500182",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 31 Jul 2026 20:18:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "농협 은행, 대학생 봉사단 ‘N돌핀 14기’ 역량강화 교육 진행",
-        "link": "https://n.news.naver.com/mnews/article/662/0000100947?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 31 Jul 2026 20:03:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "농협 은행, 모두투어와 손잡고 ‘NH모두트래블리적금’ 특판 출시",
-        "link": "https://n.news.naver.com/mnews/article/662/0000100945?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 31 Jul 2026 19:59:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "농협 은행, 1000억원 규모 한국형 녹색채권 발행",
-        "link": "https://n.news.naver.com/mnews/article/662/0000100944?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 31 Jul 2026 19:57:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "금감원 'ETF 신탁 수수료' 은행 현장검사…7배 많은 수수료 의심",
-        "link": "https://www.newspim.com/news/view/20260731001429",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 31 Jul 2026 19:56:00 +0900",
+        "pubDate": "Fri, 31 Jul 2026 17:50:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "전자 금융 업체 10곳, 경영개선 명령... 자본 건전성 강화시행",
-        "link": "https://www.tokenpost.kr/news/policy/383444",
+        "title": "[주식 소화불량①] ‘예측 불가’ 증시에 지친 개미, 3%대 예금 찾는다",
+        "link": "https://n.news.naver.com/mnews/article/119/0003117173?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 01 Aug 2026 02:48:00 +0900",
+        "pubDate": "Sat, 01 Aug 2026 07:03:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "[강태영號 수익성 경고등] 기업 금융 외쳤지만…여전히 '가계 중심'",
+        "link": "https://news.dealsitetv.com/articles/173896",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 01 Aug 2026 07:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "\"대출 없어도 돼\" 주식 팔아 강남 집 샀는데…증시 '휘청', 부동산 향방...",
+        "link": "https://n.news.naver.com/mnews/article/008/0005394211?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 01 Aug 2026 07:00:00 +0900",
+        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "숨 고르는 원·달러 환율…추세적 안정 여부는 불투명",
+        "link": "https://n.news.naver.com/mnews/article/003/0014102106?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 01 Aug 2026 07:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "‘한·일 동시 개입’ 관측에 환율 13.4원 급락…1,424원 마감",
+        "link": "https://www.betanews.net/article/view/beta202607310067",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 01 Aug 2026 06:38:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "BOJ, 기준금리 1% 동결...올해 경제성장률 전망 0.5%→0.6%로 상향",
+        "link": "https://www.betanews.net/article/view/beta202607310069",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 01 Aug 2026 06:26:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+        }
+      },
+      {
+        "title": "워시 미 연준의장, 금리 결정 횟수 줄일까 검토중-NYT",
+        "link": "https://n.news.naver.com/mnews/article/003/0014102078?sid=104",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 01 Aug 2026 06:19:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+        }
+      },
+      {
+        "title": "코스피 출렁이고 집값 뛰고…7월도 가계대출 늘었다",
+        "link": "https://n.news.naver.com/mnews/article/011/0004647503?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 01 Aug 2026 06:01:00 +0900",
+        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "[머니브리핑] 잔금대출 숨통 트였지만⋯8월 대출은 괜찮을까",
+        "link": "https://www.etoday.co.kr/news/view/2609858",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 01 Aug 2026 06:00:00 +0900",
         "summary": "",
         "term": null
       },
@@ -153,36 +210,6 @@
           "word": "Deposit Beta",
           "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
         }
-      },
-      {
-        "title": "5월 금융 기관 예금 2.8조 급감·대출은 확대…자금 이탈 가속화",
-        "link": "http://www.jeonmin.co.kr/news/articleView.html?idxno=444388",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 01 Aug 2026 02:44:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
-      },
-      {
-        "title": "바킨, 추가 금리 인상 신중론…연준 논쟁 시사했다",
-        "link": "https://www.tokenpost.kr/news/breaking/383435",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 01 Aug 2026 01:58:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Forward Guidance",
-          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
-        }
-      },
-      {
-        "title": "한국·일본이 함께 환율 방어…외신 “미국도 가세 3각 공조”",
-        "link": "https://n.news.naver.com/mnews/article/353/0000056228?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 01 Aug 2026 01:47:00 +0900",
-        "summary": "",
-        "term": null
       }
     ]
   }
