@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T13:20:19.059Z",
+  "updatedAt": "2026-08-01T15:59:58.508Z",
   "headline": "\"어르신 힘내세요\" 새마을금고 MG따숨봉사단, 취약 어르신 주거환경 개... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -50,43 +50,11 @@
         "pubDate": "Fri, 31 Jul 2026 17:14:00 +0900",
         "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
         "term": null
-      },
-      {
-        "title": "새마을금고 MG따숨봉사단, 독거노인 주거환경 개선",
-        "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=661715",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 31 Jul 2026 17:14:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "신한 은행 , 전국 영업점 ‘무더위 쉼터’ 운영…9월 말까지 개방",
-        "link": "https://www.viva100.com/article/20260801500211",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 01 Aug 2026 21:20:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "유럽중앙 은행 , 스테이블코인에 중대 경고…암호화폐 투자자는 우려해야...",
-        "link": "http://coinreaders.com/250715",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 01 Aug 2026 20:30:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
         "title": "이찬우 회장 “지역경제활성화 농협금융 이 가장 잘해…포용금융 집중”",
-        "link": "https://www.inthenews.co.kr/news/article.html?no=90039",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 01 Aug 2026 19:46:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "이찬우 회장 “지역경제활성화 농협 금융 이 가장 잘해…포용 금융 집중”",
         "link": "https://www.inthenews.co.kr/news/article.html?no=90039",
         "source": "네이버뉴스",
         "pubDate": "Sat, 01 Aug 2026 19:46:00 +0900",
@@ -118,15 +86,23 @@
         "term": null
       },
       {
-        "title": "대전 첫 포용 금융 거점, 신탄진 농협 '동행창구'",
-        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2431590",
+        "title": "[2금융 뉴스브리핑] 인천저축은행 창립 55주년 연 5.5% 정기적금 특판",
+        "link": "https://www.asiatime.co.kr/article/20260731500182",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 01 Aug 2026 10:46:00 +0900",
+        "pubDate": "Fri, 31 Jul 2026 17:50:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
+      {
+        "title": "[김남현의 채권썰] 빨랐던 금리 하락, 다시 박스권",
+        "link": "https://www.etoday.co.kr/news/view/2610004",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 01 Aug 2026 23:46:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
       {
         "title": "신한자산신탁, 부동산 PF 부실 덮으려 알짜 '리츠운용사' 합병 논란",
         "link": "https://www.ngonews.kr/news/articleView.html?idxno=234338",
