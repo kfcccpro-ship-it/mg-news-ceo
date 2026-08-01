@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T05:55:09.347Z",
+  "updatedAt": "2026-08-01T08:20:29.856Z",
   "headline": "\"어르신 힘내세요\" 새마을금고 MG따숨봉사단, 취약 어르신 주거환경 개... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -44,14 +44,6 @@
         "term": null
       },
       {
-        "title": "새마을금고 MG따숨봉사단, 독거노인 주거환경 개선",
-        "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=661715",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 31 Jul 2026 17:14:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
         "title": "[더밸류 브리핑] 오늘의 금융계 소식...BNK금융그룹·신협중앙회· 새마을 ...",
         "link": "http://www.thevaluenews.co.kr/news/view.php?idx=200470",
         "source": "네이버뉴스",
@@ -60,15 +52,47 @@
         "term": null
       },
       {
-        "title": "새마을금고 MG따숨봉사단, 독거노인 주거환경 개선 봉사",
-        "link": "https://www.globale.co.kr/news/articleView.html?idxno=39644",
+        "title": "새마을금고 MG따숨봉사단, 독거노인 주거환경 개선",
+        "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=661715",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 31 Jul 2026 17:12:00 +0900",
+        "pubDate": "Fri, 31 Jul 2026 17:14:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "otherFinance": [
+      {
+        "title": "BNK부산·경남 은행 , ′ 금융 소비자보호위원회′ 신설",
+        "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=287628",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 01 Aug 2026 16:10:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "신탄진 농협 , '포용 금융 동행창구' 대전 1호점 개설",
+        "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=901720",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 01 Aug 2026 16:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "당일 시세 흐름 한 눈에…한국투자증권, MTS 화면 개편",
+        "link": "https://n.news.naver.com/mnews/article/138/0002236255?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 01 Aug 2026 15:28:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "“환전 수수료 아껴 맛집 가요”…현금 환전 대신 ‘트래블카드’ 챙긴...",
+        "link": "https://n.news.naver.com/mnews/article/138/0002236254?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 01 Aug 2026 15:27:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "상반기 지주계 보험사 순익 25.5% '뚝'…\"계리가정·금리 등 영향\"",
         "link": "https://www.asiatime.co.kr/article/20260729500199",
@@ -79,14 +103,6 @@
       },
       {
         "title": "[은행 실속 한눈에] 여행 적금·포켓몬 카드...'맞춤형 상품' 경쟁",
-        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5046702",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 01 Aug 2026 14:00:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[ 은행 실속 한눈에] 여행 적금·포켓몬 카드...'맞춤형 상품' 경쟁",
         "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5046702",
         "source": "네이버뉴스",
         "pubDate": "Sat, 01 Aug 2026 14:00:00 +0900",
@@ -108,24 +124,30 @@
         "pubDate": "Sat, 01 Aug 2026 10:00:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "[2금융 뉴스브리핑] 인천저축은행 창립 55주년 연 5.5% 정기적금 특판",
-        "link": "https://www.asiatime.co.kr/article/20260731500182",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 31 Jul 2026 17:50:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "macro": [
       {
-        "title": "[기고]장부 밖에서 자라는 위험…사모대출 시장과 AI",
-        "link": "https://n.news.naver.com/mnews/article/648/0000049430?sid=101",
+        "title": "연준 매파 3인, 인플레 장기화 경고…금리인상 촉구",
+        "link": "https://n.news.naver.com/mnews/article/293/0000088466?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 01 Aug 2026 14:00:00 +0900",
-        "summary": "",
-        "term": null
+        "pubDate": "Sat, 01 Aug 2026 17:00:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+        }
+      },
+      {
+        "title": "신한자산신탁, 부동산 PF 부실 덮으려 알짜 '리츠운용사' 합병 논란",
+        "link": "https://www.ngonews.kr/news/articleView.html?idxno=234338",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 01 Aug 2026 15:02:00 +0900",
+        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
       },
       {
         "title": "\"쌀때 쟁여놓자\"...800원대 엔화에 환전·예금 동반 증가",
