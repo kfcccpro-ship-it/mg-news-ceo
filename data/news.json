@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T08:20:29.856Z",
+  "updatedAt": "2026-08-01T10:39:35.968Z",
   "headline": "\"어르신 힘내세요\" 새마을금고 MG따숨봉사단, 취약 어르신 주거환경 개... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -62,10 +62,18 @@
     ],
     "otherFinance": [
       {
-        "title": "BNK부산·경남 은행 , ′ 금융 소비자보호위원회′ 신설",
-        "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=287628",
+        "title": "중징계 피한 롯데카드, 신용등급 하락 우려↓…펀더멘탈 회복이 변수",
+        "link": "https://www.ekn.kr/web/view.php?key=20260801023578545",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 01 Aug 2026 16:10:00 +0900",
+        "pubDate": "Sat, 01 Aug 2026 19:10:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "핀다, 저축 은행 품고 '핀다뱅크' 도전… 금융 사 도약 성공할까",
+        "link": "https://www.sentv.co.kr/article/view/sentv202607310112",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 01 Aug 2026 17:20:00 +0900",
         "summary": "",
         "term": null
       },
@@ -74,22 +82,6 @@
         "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=901720",
         "source": "네이버뉴스",
         "pubDate": "Sat, 01 Aug 2026 16:00:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "당일 시세 흐름 한 눈에…한국투자증권, MTS 화면 개편",
-        "link": "https://n.news.naver.com/mnews/article/138/0002236255?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 01 Aug 2026 15:28:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "“환전 수수료 아껴 맛집 가요”…현금 환전 대신 ‘트래블카드’ 챙긴...",
-        "link": "https://n.news.naver.com/mnews/article/138/0002236254?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 01 Aug 2026 15:27:00 +0900",
         "summary": "",
         "term": null
       },
@@ -118,15 +110,34 @@
         "term": null
       },
       {
-        "title": "NH 농협 은행, 1000억 규모 한국형 녹색채권 발행...친환경 금융 확대",
-        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=257116",
+        "title": "[2금융 뉴스브리핑] 인천저축은행 창립 55주년 연 5.5% 정기적금 특판",
+        "link": "https://www.asiatime.co.kr/article/20260731500182",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 01 Aug 2026 10:00:00 +0900",
+        "pubDate": "Fri, 31 Jul 2026 17:50:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
+      {
+        "title": "7월 물가 3% 밑돌까…한은 ‘8월 연속 인상’ 향방 가른다",
+        "link": "https://n.news.naver.com/mnews/article/016/0002678230?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 01 Aug 2026 19:01:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "연준 금리 동결에 BTC·ETH 출렁…인하 신호는 없었다",
+        "link": "https://www.tokenpost.kr/news/breaking/383580",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 01 Aug 2026 18:00:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+        }
+      },
       {
         "title": "연준 매파 3인, 인플레 장기화 경고…금리인상 촉구",
         "link": "https://n.news.naver.com/mnews/article/293/0000088466?sid=101",
