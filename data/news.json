@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T19:09:31.131Z",
+  "updatedAt": "2026-08-02T21:56:16.031Z",
   "headline": "김인 MG중앙회장, 38개 실천과제로 경영혁신 시동 [상호금융 경영혁신 ... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -8,14 +8,6 @@
         "link": "https://www.fntimes.com/html/view.php?ud=202607312209242728dd55077bc2_18",
         "source": "네이버뉴스",
         "pubDate": "Mon, 03 Aug 2026 00:02:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "' 농협 중앙회 지방 이전' 이슈에 농협 개혁 의제 잡아먹힐 판",
-        "link": "http://www.ikpnews.net/news/articleView.html?idxno=71110",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 02 Aug 2026 20:48:00 +0900",
         "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
         "term": null
       },
@@ -38,90 +30,111 @@
     ],
     "otherFinance": [
       {
-        "title": "금리인상 앞둔 은행권, 수익 늘릴 실탄 장전",
-        "link": "https://n.news.naver.com/mnews/article/008/0005394515?sid=101",
+        "title": "[N2 포커스]은행권 노사갈등 확산…지방이전 반발·인터넷은행 첫 파업...",
+        "link": "https://www.news2day.co.kr/article/20260731500275",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 03 Aug 2026 04:00:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "pubDate": "Mon, 03 Aug 2026 06:54:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[N2 포커스] 은행 권 노사갈등 확산…지방이전 반발·인터넷 은행 첫 파업...",
+        "link": "https://www.news2day.co.kr/article/20260731500275",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 03 Aug 2026 06:54:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "농협 , 모바일뱅킹 1위 지켰다… 하나은행·아이엠뱅크 추격, 디지털 금...",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=473659",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 03 Aug 2026 06:52:00 +0900",
+        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "농협, 모바일뱅킹 1위 지켰다… 하나 은행 ·아이엠뱅크 추격, 디지털 금...",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=473659",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 03 Aug 2026 06:52:00 +0900",
+        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "[법상 공공기관 아니지만] 공제회· 농협 , 가라앉지 않는 '지방이전 불안...",
+        "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=236030",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 03 Aug 2026 06:34:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[법상 공공기관 아니지만] 공제회·농협, 가라앉지 않는 '지방이전 불안...",
+        "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=236030",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 03 Aug 2026 06:34:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "4년 반 새 5.5배 뛴 농협 부실…정부, NPL펀드로 급한 불 끈다[Pick코노미...",
+        "link": "https://n.news.naver.com/mnews/article/011/0004647840?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 03 Aug 2026 06:32:00 +0900",
+        "summary": "",
         "term": {
-          "word": "Terminal Rate",
-          "meaning": "기준금리 인상 사이클의 최종 수준에 대한 시장 기대"
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
         }
       },
       {
-        "title": "잦은 거래 유도해 수수료 노렸나… 은행 ETF 판매 관행 들여다본다",
-        "link": "https://n.news.naver.com/mnews/article/008/0005394516?sid=101",
+        "title": "[브랜드평판] 미래에셋증권, 금융 마이데이터 8월 1위... 현대카드, 하나...",
+        "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=53006",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 03 Aug 2026 04:00:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "금리인상 앞둔 은행 권, 수익 늘릴 실탄 장전",
-        "link": "https://n.news.naver.com/mnews/article/008/0005394515?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 03 Aug 2026 04:00:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Terminal Rate",
-          "meaning": "기준금리 인상 사이클의 최종 수준에 대한 시장 기대"
-        }
-      },
-      {
-        "title": "[이슈체크] '빚투'에 마통 6일간 1.8조↑…5대은행 주담대 대폭 증가",
-        "link": "https://www.tfmedia.co.kr/news/article.html?no=206165",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 03 Aug 2026 02:46:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[이슈체크] '빚투'에 마통 6일간 1.8조↑…5대 은행 주담대 대폭 증가",
-        "link": "https://www.tfmedia.co.kr/news/article.html?no=206165",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 03 Aug 2026 02:46:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "하나 은행 , '하나 농어업인 우대통장' 출시…농어업인 경영주와 동행",
-        "link": "http://www.bizwnews.com/news/articleView.html?idxno=142090",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 03 Aug 2026 01:38:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "NH 농협 은행, 남구에 장학금 300만원 전달",
-        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1063553",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 03 Aug 2026 00:02:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "농협 개혁 근본 대안 '연합회 체제 전환'",
-        "link": "http://www.ikpnews.net/news/articleView.html?idxno=71109",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 02 Aug 2026 20:48:00 +0900",
+        "pubDate": "Mon, 03 Aug 2026 06:14:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "[사설] 환율 하락, 물가·민생 안정으로 이어져야",
-        "link": "https://n.news.naver.com/mnews/article/008/0005394519?sid=110",
+        "title": "집단대출 총량규제 예외 검토… 상호금융 \"막힌 숨통 트이나\"",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=1397617",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 03 Aug 2026 04:00:00 +0900",
+        "pubDate": "Mon, 03 Aug 2026 06:54:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "정부, 신축 아파트 입주자 겨냥 대출 ‘핀셋 지원’",
-        "link": "https://n.news.naver.com/mnews/article/022/0004147835?sid=101",
+        "title": "집단대출 총량규제 예외 검토… 상호 금융 \"막힌 숨통 트이나\"",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=1397617",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 02 Aug 2026 22:02:00 +0900",
+        "pubDate": "Mon, 03 Aug 2026 06:54:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "자동차담보대출도 'LTV 100%' 족쇄… 서민 급전 창구 또 좁아진다",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=1397518",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 03 Aug 2026 06:54:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "원·달러 환율 한 달 새 125.4원 급락… 개인들, 서둘러 달러 매수",
+        "link": "https://n.news.naver.com/mnews/article/022/0004147877?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 03 Aug 2026 06:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "새 아파트는 되고, 기존 아파트는 안 되고… ‘잔금대출 완화’ 형평성...",
+        "link": "https://n.news.naver.com/mnews/article/081/0003666880?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 03 Aug 2026 05:05:00 +0900",
         "summary": "",
         "term": null
       },
@@ -145,17 +158,6 @@
         "term": {
           "word": "Delinquency",
           "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
-      },
-      {
-        "title": "주식 활황이던 지난 5월 전북 금융기관 예금 2조 이상 감소",
-        "link": "https://n.news.naver.com/mnews/article/659/0000045674?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 02 Aug 2026 07:05:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
         }
       }
     ]
