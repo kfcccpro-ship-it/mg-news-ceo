@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T15:59:58.819Z",
+  "updatedAt": "2026-08-02T19:09:31.131Z",
   "headline": "김인 MG중앙회장, 38개 실천과제로 경영혁신 시동 [상호금융 경영혁신 ... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -38,19 +38,57 @@
     ],
     "otherFinance": [
       {
-        "title": "\"상반기 사상 최대 실적\"… 코스피 45% 폭락에 증권사 '먹구름'",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3653524",
+        "title": "금리인상 앞둔 은행권, 수익 늘릴 실탄 장전",
+        "link": "https://n.news.naver.com/mnews/article/008/0005394515?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 03 Aug 2026 00:20:00 +0900",
+        "pubDate": "Mon, 03 Aug 2026 04:00:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Terminal Rate",
+          "meaning": "기준금리 인상 사이클의 최종 수준에 대한 시장 기대"
+        }
+      },
+      {
+        "title": "잦은 거래 유도해 수수료 노렸나… 은행 ETF 판매 관행 들여다본다",
+        "link": "https://n.news.naver.com/mnews/article/008/0005394516?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 03 Aug 2026 04:00:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[사설] 부동산에 휘둘리는 은행 대출… 금융 고유역할 방기 말아야",
-        "link": "https://n.news.naver.com/mnews/article/015/0005316514?sid=110",
+        "title": "금리인상 앞둔 은행 권, 수익 늘릴 실탄 장전",
+        "link": "https://n.news.naver.com/mnews/article/008/0005394515?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 03 Aug 2026 00:07:00 +0900",
+        "pubDate": "Mon, 03 Aug 2026 04:00:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Terminal Rate",
+          "meaning": "기준금리 인상 사이클의 최종 수준에 대한 시장 기대"
+        }
+      },
+      {
+        "title": "[이슈체크] '빚투'에 마통 6일간 1.8조↑…5대은행 주담대 대폭 증가",
+        "link": "https://www.tfmedia.co.kr/news/article.html?no=206165",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 03 Aug 2026 02:46:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[이슈체크] '빚투'에 마통 6일간 1.8조↑…5대 은행 주담대 대폭 증가",
+        "link": "https://www.tfmedia.co.kr/news/article.html?no=206165",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 03 Aug 2026 02:46:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "하나 은행 , '하나 농어업인 우대통장' 출시…농어업인 경영주와 동행",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=142090",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 03 Aug 2026 01:38:00 +0900",
+        "summary": "",
         "term": null
       },
       {
@@ -68,74 +106,15 @@
         "pubDate": "Sun, 02 Aug 2026 20:48:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "은행들 ‘대한외국인’ 잡아라…이주노동자 맞춤 일요일 영업도",
-        "link": "https://n.news.naver.com/mnews/article/032/0003461850?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 02 Aug 2026 20:44:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "영천 임고 농협 직원, 보이스피싱 8000만원 피해 막아",
-        "link": "https://www.hidomin.com/news/articleView.html?idxno=715654",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 02 Aug 2026 20:32:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "농협 은행 울산중앙 금융 센터, 사랑의 장학금",
-        "link": "http://www.ujeil.com/news/articleView.html?idxno=389703",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 02 Aug 2026 19:28:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "롤러코스피 탈출해 정기예금으로... 5대은행 잔액 한달새 25조 늘었다 [...",
-        "link": "https://n.news.naver.com/mnews/article/014/0005556132?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 02 Aug 2026 19:10:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
       }
     ],
     "macro": [
       {
-        "title": "[탐사경] '1,560원→1,420원' 한 달 만에 뒤집힌 환율…1400원 붕괴보다...",
-        "link": "https://www.moneystorm.kr/news/articleView.html?idxno=5431",
+        "title": "[사설] 환율 하락, 물가·민생 안정으로 이어져야",
+        "link": "https://n.news.naver.com/mnews/article/008/0005394519?sid=110",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 03 Aug 2026 00:53:00 +0900",
+        "pubDate": "Mon, 03 Aug 2026 04:00:00 +0900",
         "summary": "",
-        "term": null
-      },
-      {
-        "title": "한국, 美·日과 발맞추듯 외환 개입… ‘환율 1300원대’ 전망 나와",
-        "link": "https://n.news.naver.com/mnews/article/023/0003991008?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 03 Aug 2026 00:52:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "한·미·일 ‘엔화 공동방어’… “원·달러 환율 1300원 후반대 갈 수도...",
-        "link": "https://n.news.naver.com/mnews/article/005/0001864503?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 03 Aug 2026 00:20:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "금리·수수료 모두 잡았다…하나 금융 지주 실적 체력 입증",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=473563",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 03 Aug 2026 00:06:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       },
       {
