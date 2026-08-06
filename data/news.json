@@ -1,8 +1,40 @@
 {
-  "updatedAt": "2026-08-06T02:33:06.104Z",
-  "headline": "구미시·강동 새마을금고 , 이동노동자 쉼터 '휴(休)마루' 운영 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-08-06T05:48:17.317Z",
+  "headline": "[금융 브리핑] 수협중앙회·신협중앙회· 새마을금고 중앙회 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "[금융 브리핑] 수협중앙회·신협중앙회· 새마을금고 중앙회",
+        "link": "http://www.niceeconomy.co.kr/news/articleView.html?idxno=90444",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 06 Aug 2026 14:34:00 +0900",
+        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "인천시 금고 지정계획 공고, 은행 간 경쟁 본격화",
+        "link": "http://www.incheonin.com/news/articleView.html?idxno=119875",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 06 Aug 2026 13:34:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "인천 미추홀구 숭의누리도서관·제물포 새마을금고 , 어린이 경제교육 실...",
+        "link": "https://www.kmaeil.com/news/articleView.html?idxno=647740",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 06 Aug 2026 12:42:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "구미강동 새마을금고 , 이동노동자 쉼터 '휴마루' 8곳 지원",
+        "link": "https://www.kbsm.net/news/view.php?idx=529426",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 06 Aug 2026 12:36:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "구미시·강동 새마을금고 , 이동노동자 쉼터 '휴(休)마루' 운영",
         "link": "https://www.m-i.kr/news/articleView.html?idxno=1399462",
@@ -18,129 +50,100 @@
         "pubDate": "Thu, 06 Aug 2026 10:02:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "인천시, 시 금고 지정 절차 시작···2027~2030년 4년 약정",
-        "link": "https://www.incheontoday.com/news/articleView.html?idxno=322028",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 06 Aug 2026 09:22:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "새마을금고 , 숨은 공제금 10월 31일까지 찾아주기 캠페인",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3656908",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 05 Aug 2026 22:20:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "못 갚는 대출 급증...은행 건전성 '빨간불'",
-        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=257839",
+        "title": "웰컴저축 은행 , 무더위 쉼터 운영",
+        "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=661994",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 06 Aug 2026 11:30:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "Sh수협은행,상상인증권 인수한다…연내 거래완료 추진",
-        "link": "http://www.seouleconews.com/news/articleView.html?idxno=92891",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 06 Aug 2026 11:30:00 +0900",
+        "pubDate": "Thu, 06 Aug 2026 14:46:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "Sh수협 은행 ,상상인증권 인수한다…연내 거래완료 추진",
-        "link": "http://www.seouleconews.com/news/articleView.html?idxno=92891",
+        "title": "IBK기업 은행 , 비대면 'i-ONE 햇살론 특례보증' 출시",
+        "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4099318",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 06 Aug 2026 11:30:00 +0900",
+        "pubDate": "Thu, 06 Aug 2026 14:46:00 +0900",
+        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "[서경대 MFS] AI와 디지털 혁신을 담은 모바일 은행 , DBS digibank",
+        "link": "https://www.tfmedia.co.kr/news/article.html?no=206287",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 06 Aug 2026 14:44:00 +0900",
+        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "\"어린이뮤지컬로 경제 배워요\" 하나 은행 , '재크의 요술지갑' 여름방학 ...",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=257904",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 06 Aug 2026 14:44:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "못 갚는 대출 급증... 은행 건전성 '빨간불'",
-        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=257839",
+        "title": "BNK경남 은행 , 오는 12일 '가족 문화 페스티벌 야구관람행사' 개최",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1393440",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 06 Aug 2026 11:30:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "하나 은행 ‘어린이 경제뮤지컬’ 금융 교육 공헌…올해 19년째",
-        "link": "https://n.news.naver.com/mnews/article/016/0002680375?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 06 Aug 2026 11:30:00 +0900",
+        "pubDate": "Thu, 06 Aug 2026 14:42:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "부산우유 농협 강래수 조합장 \" 금융 은 탄탄하게, 경제사업은 혁신\"",
-        "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=389854",
+        "title": "공정위, 은행·증권사 15곳 국고채 담합 심의…역대급 과징금 폭탄 터지...",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=209306",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 06 Aug 2026 11:28:00 +0900",
+        "pubDate": "Thu, 06 Aug 2026 14:40:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "전북 은행 , 완주군에 '시원키트' 60세트 기탁",
-        "link": "http://www.jeollailbo.com/news/articleView.html?idxno=807432",
+        "title": "농협 광주본부, '건전결산·보이스피싱 예방' 하반기 역량 집중",
+        "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=440102",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 06 Aug 2026 11:28:00 +0900",
+        "pubDate": "Thu, 06 Aug 2026 14:40:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "Sh수협 은행 , 상상인증권 인수 추진…비 은행 사업 확대 속도",
-        "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=62516",
+        "title": "[ 금융 家] Sh수협은행 ㅣ 상상인증권 인수 추진…사업 다각화 가속",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=595324",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 06 Aug 2026 11:26:00 +0900",
+        "pubDate": "Thu, 06 Aug 2026 14:36:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "케이뱅크, 알뜰폰·AI 부동산 경매 서비스 출시…생활 금융 플랫폼 경쟁...",
-        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=206135",
+        "title": "금리 인상·대출 규제에 수도권 분양심리 '뚝'…비수도권은 개선",
+        "link": "https://n.news.naver.com/mnews/article/422/0000893032?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 06 Aug 2026 11:32:00 +0900",
+        "pubDate": "Thu, 06 Aug 2026 14:43:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "금리 뛰는데…중저신용자 연체율 4년 만에 최고",
+        "link": "https://n.news.naver.com/mnews/article/138/0002236855?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 06 Aug 2026 14:42:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "[단독] KB부동산신탁, 책임준공 1심 연패…\"항소할 것\"",
+        "link": "https://www.dailybrief.co.kr/news/articleView.html?idxno=6478",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 06 Aug 2026 14:31:00 +0900",
         "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "팰루시드가 흔든 대출 총량제…당국 예외 검토에 집단대출 확대 조짐",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1719367",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 06 Aug 2026 11:24:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "'대출 절벽' 내몰린 상호금융…잔금대출 완화에 숨통 트나",
-        "link": "https://n.news.naver.com/mnews/article/119/0003118739?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 06 Aug 2026 07:10:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "집단대출 대란, 정비조합·건설사 공사비 조달 문제까지 초래…가계대출...",
-        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608051533466710927",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 06 Aug 2026 06:22:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "상호금융 ‘단비’ 내릴까…집단대출 규제 완화 기대감",
-        "link": "https://www.kukinews.com/article/view/kuk202608050153",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 06 Aug 2026 06:02:00 +0900",
-        "summary": "",
         "term": null
       }
     ]
