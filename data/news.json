@@ -1,15 +1,26 @@
 {
-  "updatedAt": "2026-08-07T03:11:43.474Z",
-  "headline": "인천시, 17조원 시금고 공모 돌입···28일부터 접수 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-08-07T07:14:38.357Z",
+  "headline": "3370억 새마을금고 계정계 차세대, 우선협상대상자에 LG CNS 선정 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
-        "title": "인천시, 17조원 시금고 공모 돌입···28일부터 접수",
-        "link": "https://www.seoulfn.com/news/articleView.html?idxno=635172",
+        "title": "3370억 새마을금고 계정계 차세대, 우선협상대상자에 LG CNS 선정",
+        "link": "https://n.news.naver.com/mnews/article/138/0002237039?sid=105",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 07 Aug 2026 12:09:00 +0900",
+        "pubDate": "Fri, 07 Aug 2026 15:21:00 +0900",
         "summary": "",
         "term": null
+      },
+      {
+        "title": "'임기 반년' 김인 새마을금고 중앙회장…합병·NPL 매각 속도전에 민심 ...",
+        "link": "https://n.news.naver.com/mnews/article/629/0000522685?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 07 Aug 2026 15:01:00 +0900",
+        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
       },
       {
         "title": "장학금 기부 이어 삼계탕 나눔까지... 안암동 새마을금고 , 취약계층에 ...",
@@ -22,77 +33,77 @@
     ],
     "otherFinance": [
       {
-        "title": "은행 신규 가계대출 금리 상승세...신한 5% 돌파 넘기도",
-        "link": "https://n.news.naver.com/mnews/article/014/0005558598?sid=101",
+        "title": "하나 은행 , 7일부터 비대면 주담대 신규 취급 중단",
+        "link": "https://n.news.naver.com/mnews/article/277/0005800361?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 07 Aug 2026 12:01:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "pubDate": "Fri, 07 Aug 2026 16:12:00 +0900",
+        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "상상인증권 품는 Sh수협 은행 …비 은행 라인업 강화, 지주사 전환 속도 낸...",
-        "link": "https://www.ziksir.com/news/articleView.html?idxno=142474",
+        "title": "NH 농협 은행 'NH모두트래블리적금' 8일 만에 1만좌 완판",
+        "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=205630",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 07 Aug 2026 12:00:00 +0900",
+        "pubDate": "Fri, 07 Aug 2026 16:10:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[경제소식] NH 농협 은행, 'NH모두트래블리적금' 조기 완판",
-        "link": "http://www.4th.kr/news/articleView.html?idxno=2115969",
+        "title": "신협, 전북 해상풍력에 1000억원 금융 지원... '생산적 금융 ' 확대",
+        "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=205616",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 07 Aug 2026 11:58:00 +0900",
+        "pubDate": "Fri, 07 Aug 2026 16:10:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[경제소식] NH농협 은행 , 'NH모두트래블리적금' 조기 완판",
-        "link": "http://www.4th.kr/news/articleView.html?idxno=2115969",
+        "title": "[골든크로스 종목] 팬오션·기업 은행 ·E1 진시스템· 유비온 주목을",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475396",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 07 Aug 2026 11:58:00 +0900",
+        "pubDate": "Fri, 07 Aug 2026 16:10:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "상상인증권 인수 나선 수협 은행 … 비 은행 사업 확대",
-        "link": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=87332",
+        "title": "우리 은행 , 전북 해상풍력 금융 지원 나선다... 4천억원 고창사업 참여",
+        "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=205623",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 07 Aug 2026 11:58:00 +0900",
+        "pubDate": "Fri, 07 Aug 2026 16:10:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "NH 농협 은행 '모두트래블리적금' 8일 만에 완판",
-        "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1098068",
+        "title": "NH농협 은행 'NH모두트래블리적금' 8일 만에 1만좌 완판",
+        "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=205630",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 07 Aug 2026 11:50:00 +0900",
+        "pubDate": "Fri, 07 Aug 2026 16:10:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "농협 ·신한·국민은행 디에이치방배 잔금대출 '감정가 50%' 검토",
-        "link": "https://n.news.naver.com/mnews/article/374/0000526200?sid=101",
+        "title": "BNK경남 은행 , 폭염 속 이동노동자 지원... 생수 1만5000개 전달",
+        "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=205633",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 07 Aug 2026 11:45:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "pubDate": "Fri, 07 Aug 2026 16:10:00 +0900",
+        "summary": "",
         "term": null
       },
       {
-        "title": "디에이치방배 잔금대출 푼다…은행별 1천억씩 공급할 듯",
-        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429144",
+        "title": "9월 열리는 OK저축 은행 읏맨 오픈, 얼리버드 예매 시 최대 20% 할인",
+        "link": "https://m.sports.naver.com/golf/article/119/0003119519",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 07 Aug 2026 11:44:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "pubDate": "Fri, 07 Aug 2026 16:08:00 +0900",
+        "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "\"더위 먹겠는데 소비는 무슨\"…여름 금통위 영향 줄까",
-        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429146",
+        "title": "디에이치방배 잔금대출 숨통…KB·신한·하나, 1000억씩 공급",
+        "link": "https://n.news.naver.com/mnews/article/011/0004649593?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 07 Aug 2026 12:10:00 +0900",
-        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
+        "pubDate": "Fri, 07 Aug 2026 15:46:00 +0900",
+        "summary": "",
         "term": null
       }
     ]
