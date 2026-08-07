@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T15:55:21.176Z",
+  "updatedAt": "2026-08-07T18:56:05.023Z",
   "headline": "새마을금고 , '숨은 공제금 찾아주기' 캠페인 실시 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -33,10 +33,34 @@
     ],
     "otherFinance": [
       {
+        "title": "뉴욕멜론 은행 , 스트래티지 주식 145만달러 추가 매입",
+        "link": "https://www.tokenpost.kr/news/breaking/386854",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 08 Aug 2026 03:10:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "하나 은행 , 변동금리·비대면 주택담보대출 일시 중단… 마이너스통장 한...",
+        "link": "https://www.tokenpost.kr/news/economy/386820",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 08 Aug 2026 01:28:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
         "title": "[ 금융 ] NH 농협 생명 폭염 안전망 / NH 농협 은행 여행적금 완판 / 우리은행...",
         "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2260420",
         "source": "네이버뉴스",
         "pubDate": "Fri, 07 Aug 2026 22:30:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "농협 , 폭염·가뭄에 3000억 긴급 투입…강호동 \"피해 최소화에 집중\"",
+        "link": "https://www.apnews.kr/news/articleView.html?idxno=3050365",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 07 Aug 2026 22:24:00 +0900",
         "summary": "",
         "term": null
       },
@@ -46,14 +70,6 @@
         "source": "네이버뉴스",
         "pubDate": "Fri, 07 Aug 2026 22:24:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "농협 , 폭염·가뭄에 3000억 긴급 투입…강호동 \"피해 최소화에 집중\"",
-        "link": "https://www.apnews.kr/news/articleView.html?idxno=3050365",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 07 Aug 2026 22:24:00 +0900",
-        "summary": "",
         "term": null
       },
       {
@@ -82,34 +98,29 @@
         "pubDate": "Fri, 07 Aug 2026 18:50:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "체크카드 브랜드평판 8월 분석… NH농협카드 1위·KB국민카드 2위·현대...",
-        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=595686",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 07 Aug 2026 11:10:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "체크카드 2026년 8월 브랜드평판...NH농협카드, KB국민카드, 현대카드 順",
-        "link": "https://www.energy-news.co.kr/news/articleView.html?idxno=227299",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 07 Aug 2026 11:02:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "macro": [
       {
-        "title": "美 기준금리 또 동결되나…7월 고용 예상밖 감소 전환",
-        "link": "https://n.news.naver.com/mnews/article/008/0005397188?sid=101",
+        "title": "역머니무브…한달 새 정기예금 35.5조 증가",
+        "link": "https://n.news.naver.com/mnews/article/353/0000056292?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 07 Aug 2026 23:44:00 +0900",
+        "pubDate": "Sat, 08 Aug 2026 01:31:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "정기예금 잔액 990조 시대…자금 쏠림에도 금리는 시들",
+        "link": "https://n.news.naver.com/mnews/article/353/0000056280?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 08 Aug 2026 00:58:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": {
-          "word": "Forward Guidance",
-          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
         }
       },
       {
@@ -118,25 +129,6 @@
         "source": "네이버뉴스",
         "pubDate": "Fri, 07 Aug 2026 18:35:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "단일종목 레버리지가 쏘아 올린 머니무브...②정기예금",
-        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=206204",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 07 Aug 2026 18:30:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
-      },
-      {
-        "title": "강남도 잔금대출 푼다…분양가 대신 감정가 LTV 검토",
-        "link": "https://n.news.naver.com/mnews/article/374/0000526288?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 07 Aug 2026 18:17:00 +0900",
-        "summary": "",
         "term": null
       }
     ]
