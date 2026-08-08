@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T21:38:17.147Z",
+  "updatedAt": "2026-08-08T01:38:23.117Z",
   "headline": "새마을금고 , '숨은 공제금 찾아주기' 캠페인 실시 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -33,10 +33,10 @@
     ],
     "otherFinance": [
       {
-        "title": "불붙은 은행 고객유치…예금이자 3%는 기본, 8%도 속속",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092167585",
+        "title": "“롤러코스피 지쳤다”…5대 은행 정기예금 한 달 새 35.5조 급증",
+        "link": "http://www.segyebiz.com/newsView/20260808505768?OutUrl=naver",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 08 Aug 2026 06:00:00 +0900",
+        "pubDate": "Sat, 08 Aug 2026 10:34:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": {
           "word": "Deposit Beta",
@@ -44,117 +44,93 @@
         }
       },
       {
-        "title": "'국책은행 3사' 직원들, 다음주 여의도 거리 나서는 까닭은",
-        "link": "https://www.etoday.co.kr/news/view/2612168",
+        "title": "AI 데이터센터 투자 확대…글로벌 은행 기업 금융 ‘새 먹거리’ 부상",
+        "link": "https://www.viva100.com/article/20260808500093",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 08 Aug 2026 06:00:00 +0900",
+        "pubDate": "Sat, 08 Aug 2026 10:30:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[베스트&워스트] 삼성전자·SK하이닉스 밀린 한 주…상상인증권은 85% 급...",
-        "link": "https://www.etoday.co.kr/news/view/2612275",
+        "title": "\"하나 수성 vs 신한 추격\"...트래블카드 시장 격전",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=855162",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 08 Aug 2026 06:00:00 +0900",
+        "pubDate": "Sat, 08 Aug 2026 10:00:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "'국책 은행 3사' 직원들, 다음주 여의도 거리 나서는 까닭은",
-        "link": "https://www.etoday.co.kr/news/view/2612168",
+        "title": "5대 시중은행, 정기예금 990조 돌파…일주일 새 6.5조↑",
+        "link": "https://n.news.naver.com/mnews/article/003/0014115336?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 08 Aug 2026 06:00:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[ 금융 ] NH 농협 생명 폭염 안전망 / NH 농협 은행 여행적금 완판 / 우리은행...",
-        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2260420",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 07 Aug 2026 22:30:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "디에이치방배 잔금대출 푼다… 은행별 1000억원씩 공급할 듯",
-        "link": "https://n.news.naver.com/mnews/article/022/0004149271?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 07 Aug 2026 22:24:00 +0900",
+        "pubDate": "Sat, 08 Aug 2026 10:00:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
       },
       {
-        "title": "농협 , 폭염·가뭄에 3000억 긴급 투입…강호동 \"피해 최소화에 집중\"",
-        "link": "https://www.apnews.kr/news/articleView.html?idxno=3050365",
+        "title": "5대 시중 은행 , 정기예금 990조 돌파…일주일 새 6.5조↑",
+        "link": "https://n.news.naver.com/mnews/article/003/0014115336?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 07 Aug 2026 22:24:00 +0900",
+        "pubDate": "Sat, 08 Aug 2026 10:00:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "농협 , 폭염·가뭄 대응 총력…재해자금 3000억원 긴급 지원",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=206227",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 08 Aug 2026 09:00:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "“회수 기대 안 해”…연체율 늘어도 ‘포용 금융 ’ 힘쓰는 은행들",
-        "link": "https://n.news.naver.com/mnews/article/022/0004149251?sid=101",
+        "title": "금리 인상 여파에 은행 부실채권 급증…NPL 8년來 최고",
+        "link": "https://n.news.naver.com/mnews/article/002/0002451451?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 07 Aug 2026 19:34:00 +0900",
-        "summary": "",
+        "pubDate": "Sat, 08 Aug 2026 08:29:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": {
           "word": "Delinquency",
           "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
         }
+      },
+      {
+        "title": "전국 은행 '무더위 쉼터'로 변신...\"더울 땐 쉬어가세요\"",
+        "link": "https://www.newsway.co.kr/news/view?ud=2026080714285329627",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 08 Aug 2026 08:06:00 +0900",
+        "summary": "",
+        "term": null
       }
     ],
     "macro": [
       {
-        "title": "금리보다 수익률… 코스피 급락에도 원화가 강해진 이유는",
-        "link": "https://n.news.naver.com/mnews/article/366/0001185023?sid=101",
+        "title": "주식 열풍에 '빚투'...증가한 대출에 우려",
+        "link": "https://n.news.naver.com/mnews/article/052/0002390536?sid=102",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 08 Aug 2026 06:03:00 +0900",
+        "pubDate": "Sat, 08 Aug 2026 10:07:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "선착순이 된 대출…하나銀도 비대면·변동금리 주담대 중단",
+        "link": "https://n.news.naver.com/mnews/article/448/0000632237?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 08 Aug 2026 10:02:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "금리 뛰고 문턱 높아지자…인뱅으로 주담대 오픈런",
-        "link": "https://n.news.naver.com/mnews/article/008/0005397203?sid=101",
+        "title": "“롤러코스피 지쳤다” 예금 35.5조 몰렸는데, 금리 떨어진 이유",
+        "link": "https://n.news.naver.com/mnews/article/025/0003543062?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 08 Aug 2026 06:00:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "LCR",
-          "meaning": "단기 유동성 충격 대응 능력을 보여주는 지표"
-        }
-      },
-      {
-        "title": "“주식 잃고 대출도 막혔다”…600조 날린 개미들, 삼전닉스에 다시 희...",
-        "link": "https://n.news.naver.com/mnews/article/029/0003041256?sid=105",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 08 Aug 2026 05:50:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "'하닉-베선트' 구원 등판, 환율 1300원대 복귀 가능할까",
-        "link": "https://n.news.naver.com/mnews/article/079/0004176711?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 08 Aug 2026 05:01:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "역머니무브…한달 새 정기예금 35.5조 증가",
-        "link": "https://n.news.naver.com/mnews/article/353/0000056292?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 08 Aug 2026 01:31:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
-      },
-      {
-        "title": "정기예금 잔액 990조 시대…자금 쏠림에도 금리는 시들",
-        "link": "https://n.news.naver.com/mnews/article/353/0000056280?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 08 Aug 2026 00:58:00 +0900",
+        "pubDate": "Sat, 08 Aug 2026 08:00:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": {
           "word": "Deposit Beta",
