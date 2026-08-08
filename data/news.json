@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T12:47:24.382Z",
+  "updatedAt": "2026-08-08T15:28:45.416Z",
   "headline": "미래에셋자산운용- 새마을금고 'TIGER 미국배당다우존스 ETF' 개인 순매수... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -41,6 +41,30 @@
     ],
     "otherFinance": [
       {
+        "title": "한국 금융 지주, 순익 1조원 육박…\"증권업 둔화 우려 주가에 이미 반영\"",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475503",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 09 Aug 2026 00:16:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "5대 은행, '이 돈은 포기'… 회수 포기 대출 1조2천억",
+        "link": "https://www.ggilbo.com/news/articleView.html?idxno=1173448",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 08 Aug 2026 23:30:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "5대 은행 , '이 돈은 포기'… 회수 포기 대출 1조2천억",
+        "link": "https://www.ggilbo.com/news/articleView.html?idxno=1173448",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 08 Aug 2026 23:30:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
         "title": "KB국민 은행 , 외국인 고객 참여단 'KB Global Star 서포터즈' 모집",
         "link": "https://www.job-post.co.kr/news/articleView.html?idxno=223399",
         "source": "네이버뉴스",
@@ -65,14 +89,6 @@
         "term": null
       },
       {
-        "title": "중국 인민 은행 의 금 보유량 급증… 21개월 연속 사상 최대 기록",
-        "link": "https://www.gokorea.kr/news/articleView.html?idxno=874483",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 08 Aug 2026 20:18:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
         "title": "농업재해보험, 기후위기시대 ‘농가소득 안정’ 효과 톡톡",
         "link": "https://n.news.naver.com/mnews/article/662/0000101457?sid=101",
         "source": "네이버뉴스",
@@ -90,25 +106,17 @@
           "word": "Deposit Beta",
           "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
         }
-      },
-      {
-        "title": "장종환 농협 캐피탈 대표, 금리 상승·주가 하락 수익성 일시 하락…렌터...",
-        "link": "https://www.fntimes.com/html/view.php?ud=2026072421495788598a55064dd1_18",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 08 Aug 2026 17:34:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "“휴가 때 이 카드 써볼까?”...해외 10개국서 10% 즉시 할인",
-        "link": "https://n.news.naver.com/mnews/article/024/0000107426?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 08 Aug 2026 17:01:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "macro": [
+      {
+        "title": "피치 \"증시 약세, 금융 권 직접 충격 적지만 부동산에 영향\"",
+        "link": "https://n.news.naver.com/mnews/article/656/0000183566?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 08 Aug 2026 22:17:00 +0900",
+        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
       {
         "title": "피치 “韓 증시 침체 길어지면 부동산 투자 심리도 위축”",
         "link": "https://n.news.naver.com/mnews/article/011/0004649849?sid=101",
