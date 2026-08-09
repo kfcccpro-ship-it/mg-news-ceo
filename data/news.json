@@ -1,8 +1,40 @@
 {
-  "updatedAt": "2026-08-09T04:17:23.640Z",
-  "headline": "미래에셋자산운용- 새마을금고 'TIGER 미국배당다우존스 ETF' 개인 순매수... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-08-09T06:55:49.237Z",
+  "headline": "\"지방금고 제도, 지역 은행 에 '기울어진 운동장'\" 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "\"지방금고 제도, 지역 은행 에 '기울어진 운동장'\"",
+        "link": "https://n.news.naver.com/mnews/article/088/0001022768?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 09 Aug 2026 15:49:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "대형 시중 은행 지방금고 진출에 지역 은행 '흔들'… \"생태계 보호 장치 ...",
+        "link": "https://n.news.naver.com/mnews/article/088/0001022767?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 09 Aug 2026 15:47:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "대형은행 지역 금고 탈환 공세… 자금유출 우려 커진다",
+        "link": "https://n.news.naver.com/mnews/article/088/0001022766?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 09 Aug 2026 15:44:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "대형 은행 지역 금고 탈환 공세… 자금유출 우려 커진다",
+        "link": "https://n.news.naver.com/mnews/article/088/0001022766?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 09 Aug 2026 15:44:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "미래에셋자산운용- 새마을금고 'TIGER 미국배당다우존스 ETF' 개인 순매수...",
         "link": "http://www.wsobi.com/news/articleView.html?idxno=316153",
@@ -41,18 +73,48 @@
     ],
     "otherFinance": [
       {
-        "title": "대정 농협 고동완 계장, 고객 투자사기 피해금 3억7000만원 회수",
-        "link": "http://www.samdailbo.com/news/articleView.html?idxno=268711",
+        "title": "5대 은행 마통 연체율 0.22%…청년·고령층 빚투 적신호",
+        "link": "https://n.news.naver.com/mnews/article/009/0005718494?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 09 Aug 2026 13:12:00 +0900",
+        "pubDate": "Sun, 09 Aug 2026 15:41:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "[단독]배당도 못하는데 자본비율까지 '쇼크'..보험 해약준비금 바꾼다",
+        "link": "https://n.news.naver.com/mnews/article/008/0005397436?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 09 Aug 2026 15:30:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "CET1",
+          "meaning": "손실흡수력을 보여주는 대표적인 자본적정성 지표"
+        }
+      },
+      {
+        "title": "농협 직원 신속 대응에 고객 피해금 전액 회수",
+        "link": "https://www.jejumaeil.net/news/articleView.html?idxno=403487",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 09 Aug 2026 14:48:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "NH 농협 생명, 폭염 대응 농업인 안전망 강화",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1719678",
+        "title": "2차 공공기관 이전 앞두고 국책은행 ‘공동전선’…11일 첫 대규모 집회",
+        "link": "http://www.segyebiz.com/newsView/20260809509755?OutUrl=naver",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 09 Aug 2026 11:44:00 +0900",
+        "pubDate": "Sun, 09 Aug 2026 14:30:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "한국투자금융지주, 상반기 순익 우리·NH 농협금융 추월",
+        "link": "https://n.news.naver.com/mnews/article/009/0005718437?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 09 Aug 2026 14:24:00 +0900",
         "summary": "",
         "term": null
       },
@@ -67,10 +129,10 @@
     ],
     "macro": [
       {
-        "title": "'빚투' 열풍에 마통 연체율 급증…청년·노인 연체율 특히 '심각'",
-        "link": "https://n.news.naver.com/mnews/article/002/0002451489?sid=101",
+        "title": "증시 조정 영향?…청년·고령층 마통 연체율 높아",
+        "link": "https://n.news.naver.com/mnews/article/422/0000893971?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 09 Aug 2026 13:04:00 +0900",
+        "pubDate": "Sun, 09 Aug 2026 15:44:00 +0900",
         "summary": "",
         "term": {
           "word": "Delinquency",
@@ -78,10 +140,18 @@
         }
       },
       {
-        "title": "증시 꺾이자 날아든 '빚투 청구서'…청년·고령층 마통 연체↑",
-        "link": "https://n.news.naver.com/mnews/article/079/0004176835?sid=101",
+        "title": "1600원 코앞이더니 1300원?…환율 변동성 금융 위기 이후 '최대'",
+        "link": "https://n.news.naver.com/mnews/article/015/0005318804?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 09 Aug 2026 13:03:00 +0900",
+        "pubDate": "Sun, 09 Aug 2026 15:42:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "레버리지 투자 ‘부메랑’…20대·60대부터 대출 연체 경고등",
+        "link": "https://www.mediapen.com/news/view/1115201",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 09 Aug 2026 15:20:00 +0900",
         "summary": "",
         "term": {
           "word": "Delinquency",
@@ -89,34 +159,10 @@
         }
       },
       {
-        "title": "금감원, 마트 상품권으로 보이스피싱 피해금 세탁 '소비자 경보'",
-        "link": "http://www.kdfnews.com/news/articleView.html?idxno=186262",
+        "title": "'빚투 청구서' 날아왔나…청년·고령층 마통 연체율 빨간불",
+        "link": "https://n.news.naver.com/mnews/article/018/0006348257?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 09 Aug 2026 13:02:00 +0900",
-        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
-        "term": null
-      },
-      {
-        "title": "‘K-수출스타 500’의 든든한 조력자, 5대 기관",
-        "link": "https://n.news.naver.com/mnews/article/262/0000019595?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 09 Aug 2026 13:01:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "'1600원' 육박하던 롤러코스터 환율, 1300원대 눈앞",
-        "link": "https://biz.newdaily.co.kr/site/data/html/2026/08/09/2026080900035.html",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 09 Aug 2026 12:40:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "주가 급락에 빚투 어쩌나…청년·고령층 마통 연체 급증",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1719680",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 09 Aug 2026 12:06:00 +0900",
+        "pubDate": "Sun, 09 Aug 2026 15:08:00 +0900",
         "summary": "",
         "term": {
           "word": "Delinquency",
@@ -124,10 +170,43 @@
         }
       },
       {
-        "title": "“빚투 후폭풍 시작됐나”… 청년·고령층 마통 연체 빠르게 늘었다",
-        "link": "https://m.skyedaily.com/news_view.html?ID=309437",
+        "title": "빚투 청구서 날아왔다…20·60대 마통 연체 '빨간불'",
+        "link": "https://n.news.naver.com/mnews/article/656/0000183599?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 09 Aug 2026 12:02:00 +0900",
+        "pubDate": "Sun, 09 Aug 2026 15:02:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "증시 급락에 날아든 '빚투 청구서'…청년·고령층 마통 연체↑",
+        "link": "https://n.news.naver.com/mnews/article/088/0001022752?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 09 Aug 2026 14:41:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "'빚투 후폭풍' 시작되나…청년·고령층 마통 연체 '빨간불'",
+        "link": "https://www.ajunews.com/view/20260809140229661",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 09 Aug 2026 14:30:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "마통 연체율 가파른 상승…20대·60대 연체 '급증'",
+        "link": "https://n.news.naver.com/mnews/article/014/0005558954?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 09 Aug 2026 14:15:00 +0900",
         "summary": "",
         "term": {
           "word": "Delinquency",
@@ -143,19 +222,11 @@
         "term": null
       },
       {
-        "title": "금리 올려도 안 잡히는 집값…한은에 쏠리는 눈",
-        "link": "https://n.news.naver.com/mnews/article/648/0000049653?sid=101",
+        "title": "PF 막힌 상호금융…\"서민금융 확대하려면 비수도권 규제 완화해야\"",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=691081",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 09 Aug 2026 12:00:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "환율 1300원대 눈앞… 변동성 금융 위기 후 최대",
-        "link": "https://n.news.naver.com/mnews/article/023/0003992002?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 09 Aug 2026 11:53:00 +0900",
-        "summary": "",
+        "pubDate": "Sun, 09 Aug 2026 08:34:00 +0900",
+        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
         "term": null
       }
     ]
