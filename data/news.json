@@ -1,8 +1,16 @@
 {
-  "updatedAt": "2026-08-10T18:56:36.677Z",
-  "headline": "새마을금고 , 'MG+ 트래블로그 하나카드' 출시 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-08-10T21:40:31.816Z",
+  "headline": "새마을금고 , 'MG+ 트래블로그 하나카드' 출시…\"해외·일상 혜택 담았다... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "새마을금고 , 'MG+ 트래블로그 하나카드' 출시…\"해외·일상 혜택 담았다...",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=142921",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 11 Aug 2026 05:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "새마을금고 , 'MG+ 트래블로그 하나카드' 출시",
         "link": "https://www.gukjenews.com/news/articleView.html?idxno=3660956",
@@ -26,30 +34,54 @@
         "pubDate": "Mon, 10 Aug 2026 19:08:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "\"해외선 환전 수수료 제로, 국내선 생활비 10% 싹둑\"… 새마을금고 , 'MG+...",
-        "link": "http://www.dailysmart.co.kr/news/articleView.html?idxno=128091",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 10 Aug 2026 17:56:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "증권사 웃는데… 은행 권 '눈물의 퇴직연금'",
-        "link": "https://n.news.naver.com/mnews/article/008/0005398064?sid=101",
+        "title": "KT, NH 농협 은행 차세대 AICC 구축…“상담시간 20% 단축”",
+        "link": "https://n.news.naver.com/mnews/article/011/0004650406?sid=105",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 11 Aug 2026 03:30:00 +0900",
+        "pubDate": "Tue, 11 Aug 2026 06:30:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "불체자 은행 거래 규제 강화 본격화",
-        "link": "http://www.koreatimes.com/article/1624952",
+        "title": "KT, NH농협 은행 차세대 AICC 구축…“상담시간 20% 단축”",
+        "link": "https://n.news.naver.com/mnews/article/011/0004650406?sid=105",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 11 Aug 2026 01:46:00 +0900",
+        "pubDate": "Tue, 11 Aug 2026 06:30:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "3대 국책은행 집회에 예보는 토론회…지방이전 '반대 전선' 확산",
+        "link": "https://n.news.naver.com/mnews/article/421/0009106737?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 11 Aug 2026 06:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "금융 권, '은행+비은행' 성장 공식 확산…수협은행 '종합 금융 그룹' 참여...",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=206313",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 11 Aug 2026 06:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "대출 빗장에도…서울 신협 주택대출 415억 증가",
+        "link": "https://n.news.naver.com/mnews/article/011/0004650386?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 11 Aug 2026 05:31:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "[브랜드평판] 하나은행 이호성, 은행 CEO 8월 1위... 아이엠뱅크 강정훈...",
+        "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=53254",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 11 Aug 2026 05:28:00 +0900",
         "summary": "",
         "term": null
       },
@@ -68,57 +100,60 @@
         "pubDate": "Tue, 11 Aug 2026 00:31:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "농협 상호 금융 , 고객 자산 보호 앞장… '보이스피싱 제로 실천 결의대회...",
-        "link": "http://www.youngnong.co.kr/news/articleView.html?idxno=61466",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 11 Aug 2026 00:00:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "이찬우 NH 농협금융 지주 회장 \"경영계획 끊임없이 점검·수정\"",
-        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7178324",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 10 Aug 2026 23:48:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "NH 농협금융 '경영계획 Review' 첫 도입…하반기 전략 재정비",
-        "link": "https://www.koreareport.co.kr/news/articleView.html?idxno=52049",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 10 Aug 2026 22:00:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "농협 , ‘섬의 날’ 맞아 우리 농축산물 소비촉진·고향사랑기부 홍보",
-        "link": "https://www.fntimes.com/html/view.php?ud=202608102052524759dd55077bc2_18",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 10 Aug 2026 21:02:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "macro": [
       {
-        "title": "美 고용 충격, 연준 9월 금리 동결론 무게 속 내부 진통 격화",
-        "link": "https://www.g-enews.com/view.php?ud=202608101601311384fbbec65dfb_1",
+        "title": "클리블랜드 연은 총재 \"한 번 올려선 부족…금리 여러 번 인상해야\"",
+        "link": "https://n.news.naver.com/mnews/article/421/0009106756?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 11 Aug 2026 03:46:00 +0900",
+        "pubDate": "Tue, 11 Aug 2026 06:29:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "써클, 스테이블코인 5조달러 시장서도 “저평가” 논란",
+        "link": "https://www.wikitree.co.kr/articles/1151634",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 11 Aug 2026 06:28:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "美·日 공동개입 약발빠진 엔화…결국 日 금리인상 수순? [글로벌 뉴스픽...",
+        "link": "https://n.news.naver.com/mnews/article/374/0000526667?sid=104",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 11 Aug 2026 06:27:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": {
-          "word": "Forward Guidance",
-          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+          "word": "Terminal Rate",
+          "meaning": "기준금리 인상 사이클의 최종 수준에 대한 시장 기대"
         }
       },
       {
-        "title": "고객자금 조달해 '대출' 4년간 17조↑… '부실' 위험 잠가야",
-        "link": "https://n.news.naver.com/mnews/article/008/0005398060?sid=101",
+        "title": "\"잠도 못자고, 꼭두새벽부터 오픈런\"…'대출 선착순' 시대",
+        "link": "https://n.news.naver.com/mnews/article/003/0014119002?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 11 Aug 2026 03:03:00 +0900",
+        "pubDate": "Tue, 11 Aug 2026 06:00:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "LCR",
+          "meaning": "단기 유동성 충격 대응 능력을 보여주는 지표"
+        }
+      },
+      {
+        "title": "3000세대 넘는데 한도는 5000억…디에이치방배 '선착순 대출' 혼란",
+        "link": "https://n.news.naver.com/mnews/article/421/0009106704?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 11 Aug 2026 05:40:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[박근종 칼럼] 일자리 증가 폭 반토막에 청년·고령층 '마통' 연체 급증...",
+        "link": "https://www.mhns.co.kr/news/articleView.html?idxno=756103",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 11 Aug 2026 05:36:00 +0900",
         "summary": "",
         "term": {
           "word": "Delinquency",
@@ -126,12 +161,23 @@
         }
       },
       {
-        "title": "[취재수첩] 주택담보대출 2조2831억 원 늘어…11개월 만에 최대폭",
-        "link": "https://www.cnbnews.com/news/articleView.html?idxno=1010971",
+        "title": "'중금리 대출' 늘리라는데 가계대출은 조이고…2금융권 '이중 부담'",
+        "link": "https://n.news.naver.com/mnews/article/417/0001154926?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 10 Aug 2026 21:12:00 +0900",
-        "summary": "",
+        "pubDate": "Tue, 11 Aug 2026 05:00:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
+      },
+      {
+        "title": "새벽 5시부터 ‘대출런’…5년 만에 부활한 대출총량제 공포",
+        "link": "https://n.news.naver.com/mnews/article/025/0003543534?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 11 Aug 2026 05:00:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "LCR",
+          "meaning": "단기 유동성 충격 대응 능력을 보여주는 지표"
+        }
       }
     ]
   }
