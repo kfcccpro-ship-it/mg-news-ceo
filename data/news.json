@@ -1,8 +1,38 @@
 {
-  "updatedAt": "2026-08-11T01:43:45.412Z",
-  "headline": "[더벨][국민연금 CIO 후보군 분석] 박천석 전 새마을금고 부문장, 두 번... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-08-11T04:19:01.580Z",
+  "headline": "'90억 부실 대출' 부산 새마을금고 전직 임원들, 재판서 혐의 부인 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "'90억 부실 대출' 부산 새마을금고 전직 임원들, 재판서 혐의 부인",
+        "link": "https://n.news.naver.com/mnews/article/421/0009107589?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 11 Aug 2026 11:47:00 +0900",
+        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "'90억 부실대출' 부산 새마을금고 임원들, 혐의 전면부인",
+        "link": "https://n.news.naver.com/mnews/article/003/0014119996?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 11 Aug 2026 11:34:00 +0900",
+        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "신한 '20년 수성' vs 하나 '청라 도전'…인천시 금고 전략은?",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=849950",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 11 Aug 2026 10:52:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "[더벨][국민연금 CIO 후보군 분석] 박천석 전 새마을금고 부문장, 두 번...",
         "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608070954398480103257",
@@ -34,105 +64,95 @@
         "pubDate": "Tue, 11 Aug 2026 05:02:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "새마을금고 , 'MG+ 트래블로그 하나카드' 출시",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3660956",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 10 Aug 2026 21:36:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "새마을금고 , 해외·일상 혜택 담은 'MG+ 트래블로그 하나카드' 출시",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=314471",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 10 Aug 2026 20:20:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "NH 농협 은행, '농심천심' 예·적금 출시…적금 최고 8.15%",
-        "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1098286",
+        "title": "국책은행· 농협 등 금융 기관 '지방 이전설'에 뿔난 금융 노조…\"정책협약...",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=877582",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 11 Aug 2026 10:42:00 +0900",
+        "pubDate": "Tue, 11 Aug 2026 13:18:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "농협 , 폭염·가뭄 대응 총력…재해자금 3000억원 긴급 지원",
-        "link": "http://www.newsfarm.co.kr/news/articleView.html?idxno=101920",
+        "title": "국책 은행 ·농협 등 금융 기관 '지방 이전설'에 뿔난 금융 노조…\"정책협약...",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=877582",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 11 Aug 2026 10:42:00 +0900",
+        "pubDate": "Tue, 11 Aug 2026 13:18:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "박지훈 카드 흥행, 환전은 신기록…카드사 '여름 질주' [카드톡톡]",
-        "link": "https://www.m-i.kr/news/articleView.html?idxno=1400947",
+        "title": "거래패턴만 보던 FDS 옛말···탐지 범위 넓히는 4대 은행 고도화 경쟁",
+        "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=257130",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 11 Aug 2026 10:42:00 +0900",
+        "pubDate": "Tue, 11 Aug 2026 13:16:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "농협 은행, ‘NH농심천심예·적금’ 출시…최고 연 8.15%",
-        "link": "https://n.news.naver.com/mnews/article/138/0002237356?sid=101",
+        "title": "자본은 채웠는데 방어막은 얇아졌다… 농협 은행 충당금의 역설",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=209582",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 11 Aug 2026 10:42:00 +0900",
+        "pubDate": "Tue, 11 Aug 2026 13:12:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "자본은 채웠는데 방어막은 얇아졌다…농협 은행 충당금의 역설",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=209582",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 11 Aug 2026 13:12:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "NH 농협 은행, 창립기념 예·적금 출시⋯최고 연 8.15%",
+        "link": "https://www.etoday.co.kr/news/view/2613217",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 11 Aug 2026 13:08:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "토스·고려저축 은행 ·PFCT, '토스스코어' 활용해 중저신용자 대출심사 고...",
-        "link": "https://www.fetv.co.kr/news/articleView.html?idxno=308168",
+        "title": "KB 금융 회장 후보 이재근, 국민은행장 3년...ELS·LTV·국고채 제재 시계...",
+        "link": "https://www.insight.co.kr/news/567575",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 11 Aug 2026 10:42:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "NH농협 은행 , '농심천심' 예·적금 출시…적금 최고 8.15%",
-        "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1098286",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 11 Aug 2026 10:42:00 +0900",
+        "pubDate": "Tue, 11 Aug 2026 12:48:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[더벨][국민연금 CIO 후보군 분석] 김호진 전 수협 본부장, OCIO로 다진 '...",
-        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608061635474320109115",
+        "title": "NH 농협 은행 대학생 봉사단'N돌핀', 어린이 금융 멘토로 활약",
+        "link": "http://www.cctimes.kr/news/articleView.html?idxno=921265",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 11 Aug 2026 10:42:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "저축 은행 권에 부는 'AI 바람' [저축 은행 톡톡]",
-        "link": "https://www.m-i.kr/news/articleView.html?idxno=1400899",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 11 Aug 2026 10:42:00 +0900",
+        "pubDate": "Tue, 11 Aug 2026 12:34:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "카카오뱅크, 인뱅 최초 전국 17개 시·도 이자지원 대출",
-        "link": "https://www.cstimes.com/news/articleView.html?idxno=716376",
+        "title": "서민 살린다며 총량 깎더니 '신혼대출' 늘려라?... 금융 권 '대혼란'",
+        "link": "https://www.newsway.co.kr/news/view?ud=2026081110560959675",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 11 Aug 2026 10:40:00 +0900",
+        "pubDate": "Tue, 11 Aug 2026 13:16:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "카카오뱅크, 인뱅 최초 전국 신용보증재단과 '이자지원 보증서대출' 협...",
-        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=315029",
+        "title": "무섭게 치솟는 중기대출 금리…금리하단 한달새 0.11%p↑",
+        "link": "https://www.mediapen.com/news/view/1115626",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 11 Aug 2026 10:40:00 +0900",
-        "summary": "",
+        "pubDate": "Tue, 11 Aug 2026 12:10:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       },
       {
