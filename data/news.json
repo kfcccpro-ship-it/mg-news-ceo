@@ -1,23 +1,31 @@
 {
-  "updatedAt": "2026-08-12T13:08:27.987Z",
-  "headline": "KB국민·신한·우리·기업 은행 덮친 대출사기…사고액 490억원 등 타 금융권 동향을 비교해볼 필요가 있습니다.",
+  "updatedAt": "2026-08-12T15:58:29.557Z",
+  "headline": "[인터뷰] DSRV가 그리는 마다가스카르 금융 의 미래…“웹3.0 은행 도전” 등 타 금융권 동향을 비교해볼 필요가 있습니다.",
   "categories": {
     "mg": [],
     "otherFinance": [
       {
-        "title": "KB국민·신한·우리·기업 은행 덮친 대출사기…사고액 490억원",
-        "link": "https://www.betanews.net/article/view/beta202608120087",
+        "title": "[인터뷰] DSRV가 그리는 마다가스카르 금융 의 미래…“웹3.0 은행 도전”",
+        "link": "https://byline.network/?p=9004111222615177",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 12 Aug 2026 22:04:00 +0900",
+        "pubDate": "Thu, 13 Aug 2026 00:30:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[지금이뉴스] 대출 어려운데 \"총량제와 무관\"...정부, 은행 이어 당국까...",
+        "link": "https://n.news.naver.com/mnews/article/437/0000505924?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 13 Aug 2026 00:13:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "대출사기 금융 사고 490억… 은행 권 정정 공시 잇따라",
-        "link": "https://www.econovill.com/news/articleView.html?idxno=747839",
+        "title": "진천 광헤원 농협 , 세심한 맞춤형 지원과 정도경영의 완벽한 실현",
+        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2433972",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 12 Aug 2026 21:36:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "pubDate": "Wed, 12 Aug 2026 23:44:00 +0900",
+        "summary": "",
         "term": null
       },
       {
@@ -37,14 +45,6 @@
         "term": null
       },
       {
-        "title": "KB국민 은행 , 지방 청년 취업 돕는다…'KB-Bridge' 네트워크 캠프 개최",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=314785",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 12 Aug 2026 21:32:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
         "title": "KT·NH 농협 은행, AI가 상담 넘어 금융 업무 직접 처리",
         "link": "https://byline.network/?p=9004111222614949",
         "source": "네이버뉴스",
@@ -53,37 +53,48 @@
         "term": null
       },
       {
-        "title": "[ 금융 ] 부산은행 코미디축제 후원 / NH 농협 은행 농촌아동 교육지원",
-        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2265039",
+        "title": "저축銀·농협 주택대출 5년새 47% 급증…“예금받아 손쉽게 장사”",
+        "link": "https://n.news.naver.com/mnews/article/011/0004651071?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 12 Aug 2026 20:20:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[ 금융 ] 신한은행 해양산업 금융 지원 / 예가람저축은행 에너지 취약계층...",
-        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2265038",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 12 Aug 2026 20:10:00 +0900",
-        "summary": "",
-        "term": null
+        "pubDate": "Wed, 12 Aug 2026 16:41:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
       }
     ],
     "macro": [
       {
-        "title": "인뱅, 저신용자가 가계대출 금리 더 싸게 빌린다",
-        "link": "https://n.news.naver.com/mnews/article/022/0004150576?sid=101",
+        "title": "연말까지 5개월 남았는데… 5대銀, 가계대출 목표치 벌써 47% 초과",
+        "link": "https://n.news.naver.com/mnews/article/005/0001866575?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 12 Aug 2026 22:02:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "pubDate": "Thu, 13 Aug 2026 00:53:00 +0900",
+        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
         "term": null
       },
       {
-        "title": "추경호 대구시장, 건설경기 해법 찾는다…제3차 비상경제대책회의",
-        "link": "https://www.naeil.com/news/read/598651?ref=naver",
+        "title": "이자도 제대로 못 갚는 ‘깡통대출’ 6조4000억원 쌓여",
+        "link": "https://n.news.naver.com/mnews/article/023/0003992665?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 12 Aug 2026 21:58:00 +0900",
-        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
+        "pubDate": "Thu, 13 Aug 2026 00:32:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "‘생산적 금융 ’에도… 1년간 대출증가 58%는 대기업몫",
+        "link": "https://n.news.naver.com/mnews/article/020/0003740482?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 13 Aug 2026 00:31:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[하현옥의 시시각각] 시혜와 배려의 대상이 된 대출",
+        "link": "https://n.news.naver.com/mnews/article/025/0003544054?sid=110",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 13 Aug 2026 00:20:00 +0900",
+        "summary": "",
         "term": null
       },
       {
