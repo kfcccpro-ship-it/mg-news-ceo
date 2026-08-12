@@ -1,109 +1,105 @@
 {
-  "updatedAt": "2026-08-12T07:23:52.476Z",
-  "headline": "한밭 새마을금고 , '여름에도 행복해孝' 행사 후원금 전달 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-08-12T10:04:05.638Z",
+  "headline": "KB국민 은행 36억 금융 사고 발생…\"시행사·허위 분양자 대출 사기\" 등 타 금융권 동향을 비교해볼 필요가 있습니다.",
   "categories": {
-    "mg": [
-      {
-        "title": "한밭 새마을금고 , '여름에도 행복해孝' 행사 후원금 전달",
-        "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=903770",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 12 Aug 2026 14:18:00 +0900",
-        "summary": "",
-        "term": null
-      }
-    ],
+    "mg": [],
     "otherFinance": [
       {
-        "title": "NH 농협 은행·넷마블 '초록사다리 여름캠프' 개최·'페이트/그랜드 오더...",
-        "link": "http://www.wsobi.com/news/articleView.html?idxno=316398",
+        "title": "KB국민 은행 36억 금융 사고 발생…\"시행사·허위 분양자 대출 사기\"",
+        "link": "https://n.news.naver.com/mnews/article/421/0009110963?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 12 Aug 2026 16:20:00 +0900",
+        "pubDate": "Wed, 12 Aug 2026 19:03:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "다올 금융 그룹, 악재 잇따라… 증권 제재 이어 이병철 회장 경찰 조사",
+        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=357367",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 12 Aug 2026 19:02:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "충북대팀, 2026 한국 은행 통화정책 경시대회 '장려상 '수상",
-        "link": "https://www.inews365.com/news/article.html?no=931567",
+        "title": "“한 건인 줄 알았는데 또 터졌다”… 은행 권 대출사기 속출, 490억 달해",
+        "link": "https://n.news.naver.com/mnews/article/009/0005720296?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 12 Aug 2026 16:20:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Forward Guidance",
-          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
-        }
+        "pubDate": "Wed, 12 Aug 2026 19:01:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
       },
       {
-        "title": "BNK부산 은행 , 빈 점포를 창업 공간으로 바꿔···지역 상권 회복 견인",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1395321",
+        "title": "[포커스] 4대 은행 없는 49곳… 농협 이 메운 '소멸지역 금융 지도'",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=809563",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 12 Aug 2026 16:20:00 +0900",
+        "pubDate": "Wed, 12 Aug 2026 19:00:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "KB국민 은행 , 지방 청년 AI·데이터 교육 강화…취업 지원도 확대",
-        "link": "https://www.g-enews.com/view.php?ud=202608121555226554cd0bfacc1c_1",
+        "title": "[포커스] 4대 은행 없는 49곳…농협이 메운 '소멸지역 금융 지도'",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=809563",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 12 Aug 2026 16:20:00 +0900",
+        "pubDate": "Wed, 12 Aug 2026 19:00:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "개미는 울었는데 증권사는 역대급 잔치··· 투자자 보호는 시늉만",
-        "link": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307265",
+        "title": "KB국민 은행 , 36억대 금융 사고 발생…\"시행사·허위 분양자 공모 대출사...",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=877768",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 12 Aug 2026 16:20:00 +0900",
+        "pubDate": "Wed, 12 Aug 2026 18:58:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "BNK​​​​​​​경남 은행 , 지역 군장병 대상 '충성 금융 교육'",
+        "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=643127",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 12 Aug 2026 18:58:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "BNK부산 은행 , 부산 빈 점포 50곳 창업공간으로…소상공인 지원",
-        "link": "https://www.g-enews.com/view.php?ud=202608121602118303cd0bfacc1c_1",
+        "title": "미래에셋증권, 2분기 순익 1.9조…5대 은행 모두 제쳤다",
+        "link": "https://n.news.naver.com/mnews/article/020/0003740432?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 12 Aug 2026 16:20:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "신한 은행 , 군 장병 삼성전자 제품 구매 지원…전용몰 가입 절차 간소화",
-        "link": "https://www.g-enews.com/view.php?ud=20260812145428514cd0bfacc1c_1",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 12 Aug 2026 16:20:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "NH농협 은행 ·넷마블 '초록사다리 여름캠프' 개최·'페이트/그랜드 오더...",
-        "link": "http://www.wsobi.com/news/articleView.html?idxno=316398",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 12 Aug 2026 16:20:00 +0900",
+        "pubDate": "Wed, 12 Aug 2026 18:38:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "“주담대·전세대출 서류 다시 떼야 하나”… 금융 권 ‘자동조회 차단’...",
-        "link": "https://n.news.naver.com/mnews/article/138/0002237593?sid=101",
+        "title": "한화생명, 자본 부담에도 애큐온 품는다…\"여신 기능 강화\"",
+        "link": "https://dealsite.co.kr/articles/167096",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 12 Aug 2026 16:21:00 +0900",
+        "pubDate": "Wed, 12 Aug 2026 19:02:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "“대출 받기, 하늘의 별 따기인데”...한은, 직원 150명에 주택대출 60억...",
-        "link": "https://n.news.naver.com/mnews/article/022/0004150456?sid=101",
+        "title": "[경제전망대] 수요층이 판단한 하반기 부동산시장 전망",
+        "link": "https://www.kyeongin.com/article/1768922",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 12 Aug 2026 16:20:00 +0900",
+        "pubDate": "Wed, 12 Aug 2026 19:00:00 +0900",
+        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "[이슈분석] “내 집 들어가려는데 전세금 막혔다”…퇴거대출에 꼬인 실...",
+        "link": "https://www.tfmedia.co.kr/news/article.html?no=206435",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 12 Aug 2026 18:54:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "주담대 금리 年 8% 가능성…더 깊어진 영끌족 시름",
-        "link": "https://n.news.naver.com/mnews/article/015/0005320089?sid=101",
+        "title": "수수료 이익 10배 뛴 ETF신탁… 금감원, KPI 등 손질 예고",
+        "link": "https://n.news.naver.com/mnews/article/014/0005560784?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 12 Aug 2026 16:12:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "pubDate": "Wed, 12 Aug 2026 18:26:00 +0900",
+        "summary": "",
         "term": null
       },
       {
