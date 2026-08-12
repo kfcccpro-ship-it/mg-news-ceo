@@ -1,105 +1,116 @@
 {
-  "updatedAt": "2026-08-12T04:46:12.465Z",
-  "headline": "[포토뉴스]동원주 새마을금고 취약계층 라면 후원 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-08-12T07:23:52.476Z",
+  "headline": "한밭 새마을금고 , '여름에도 행복해孝' 행사 후원금 전달 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
-        "title": "[포토뉴스]동원주 새마을금고 취약계층 라면 후원",
-        "link": "https://n.news.naver.com/mnews/article/087/0001210979?sid=102",
+        "title": "한밭 새마을금고 , '여름에도 행복해孝' 행사 후원금 전달",
+        "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=903770",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 12 Aug 2026 11:20:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "함께일하는재단- 새마을금고 , 아워시선과 손잡고 전통 원단 활용 패브릭...",
-        "link": "https://www.lifein.news/news/articleView.html?idxno=20368",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 12 Aug 2026 09:42:00 +0900",
+        "pubDate": "Wed, 12 Aug 2026 14:18:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "부산축산 농협 , NH 농협 생명 부산총국 '1분기 BEST 농축협' 선정",
-        "link": "https://www.cnbnews.com/news/articleView.html?idxno=1011242",
+        "title": "NH 농협 은행·넷마블 '초록사다리 여름캠프' 개최·'페이트/그랜드 오더...",
+        "link": "http://www.wsobi.com/news/articleView.html?idxno=316398",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 12 Aug 2026 13:44:00 +0900",
+        "pubDate": "Wed, 12 Aug 2026 16:20:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "하나 은행 , 강남 삼성동에 '외환자본거래센터' 개점",
-        "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4100385",
+        "title": "충북대팀, 2026 한국 은행 통화정책 경시대회 '장려상 '수상",
+        "link": "https://www.inews365.com/news/article.html?no=931567",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 12 Aug 2026 13:44:00 +0900",
+        "pubDate": "Wed, 12 Aug 2026 16:20:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+        }
+      },
+      {
+        "title": "BNK부산 은행 , 빈 점포를 창업 공간으로 바꿔···지역 상권 회복 견인",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1395321",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 12 Aug 2026 16:20:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "미래에셋증권, 업계 최초 2분기 연속 '순익 1조원' 돌파",
-        "link": "https://www.cnbizm.com/news/articleView.html?idxno=311295",
+        "title": "KB국민 은행 , 지방 청년 AI·데이터 교육 강화…취업 지원도 확대",
+        "link": "https://www.g-enews.com/view.php?ud=202608121555226554cd0bfacc1c_1",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 12 Aug 2026 13:44:00 +0900",
+        "pubDate": "Wed, 12 Aug 2026 16:20:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "신한 은행 , 부산 조선·방산 기업 금융 지원 강화…'SOL클러스터' 가동",
-        "link": "https://www.cnbizm.com/news/articleView.html?idxno=311294",
+        "title": "개미는 울었는데 증권사는 역대급 잔치··· 투자자 보호는 시늉만",
+        "link": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307265",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 12 Aug 2026 13:44:00 +0900",
+        "pubDate": "Wed, 12 Aug 2026 16:20:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "하나 은행 , 강남에 외환 서비스 집결…'외환자본거래센터' 개점",
-        "link": "https://www.cnbizm.com/news/articleView.html?idxno=311292",
+        "title": "BNK부산 은행 , 부산 빈 점포 50곳 창업공간으로…소상공인 지원",
+        "link": "https://www.g-enews.com/view.php?ud=202608121602118303cd0bfacc1c_1",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 12 Aug 2026 13:44:00 +0900",
+        "pubDate": "Wed, 12 Aug 2026 16:20:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "실명계좌는 없어도, 준비는 달랐다… 우리·하나 은행 의 두 가지 가상자...",
-        "link": "https://www.greened.kr/news/articleView.html?idxno=347479",
+        "title": "신한 은행 , 군 장병 삼성전자 제품 구매 지원…전용몰 가입 절차 간소화",
+        "link": "https://www.g-enews.com/view.php?ud=20260812145428514cd0bfacc1c_1",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 12 Aug 2026 13:43:00 +0900",
+        "pubDate": "Wed, 12 Aug 2026 16:20:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "5대 은행 무수익여신 6조원 돌파",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3424539",
+        "title": "NH농협 은행 ·넷마블 '초록사다리 여름캠프' 개최·'페이트/그랜드 오더...",
+        "link": "http://www.wsobi.com/news/articleView.html?idxno=316398",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 12 Aug 2026 13:40:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "NH 농협 은행, AI 컨택센터 구축…상담내용 요약·맞춤 답변 지원",
-        "link": "https://www.fetv.co.kr/news/articleView.html?idxno=308288",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 12 Aug 2026 13:40:00 +0900",
+        "pubDate": "Wed, 12 Aug 2026 16:20:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "규제 위에 총량, 부작용엔 예외 … '오징어 게임' 만든 李 정부 대출 정...",
-        "link": "https://biz.newdaily.co.kr/site/data/html/2026/08/12/2026081200115.html",
+        "title": "“주담대·전세대출 서류 다시 떼야 하나”… 금융 권 ‘자동조회 차단’...",
+        "link": "https://n.news.naver.com/mnews/article/138/0002237593?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 12 Aug 2026 11:10:00 +0900",
+        "pubDate": "Wed, 12 Aug 2026 16:21:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "26조원 '잔금대출 절벽'에 입주 발동동..8월 입주전망지수도 꺾여",
-        "link": "https://kpenews.com/View.aspx?No=4183255",
+        "title": "“대출 받기, 하늘의 별 따기인데”...한은, 직원 150명에 주택대출 60억...",
+        "link": "https://n.news.naver.com/mnews/article/022/0004150456?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 12 Aug 2026 10:20:00 +0900",
+        "pubDate": "Wed, 12 Aug 2026 16:20:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "주담대 금리 年 8% 가능성…더 깊어진 영끌족 시름",
+        "link": "https://n.news.naver.com/mnews/article/015/0005320089?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 12 Aug 2026 16:12:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "'집단대출 막자 더 커진 풍선효과' 셈법 복잡해진 금융당국",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=1401385",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 12 Aug 2026 14:54:00 +0900",
         "summary": "",
         "term": null
       }
