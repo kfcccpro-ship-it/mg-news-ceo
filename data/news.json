@@ -1,104 +1,94 @@
 {
-  "updatedAt": "2026-08-12T21:44:11.750Z",
-  "headline": "\"저축성보험은 밀리고 보장은 키운다\"…생보사들, 한은 경고 속 보장성... 등 타 금융권 동향을 비교해볼 필요가 있습니다.",
+  "updatedAt": "2026-08-13T01:57:55.859Z",
+  "headline": "새마을금고 , 'MG+ 트래블로그 하나카드' 출시 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
-    "mg": [],
+    "mg": [
+      {
+        "title": "새마을금고 , 'MG+ 트래블로그 하나카드' 출시",
+        "link": "https://www.namdonews.com/news/articleView.html?idxno=919955",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 13 Aug 2026 10:56:00 +0900",
+        "summary": "",
+        "term": null
+      }
+    ],
     "otherFinance": [
       {
-        "title": "\"저축성보험은 밀리고 보장은 키운다\"…생보사들, 한은 경고 속 보장성...",
-        "link": "http://www.fins.co.kr/news/articleView.html?idxno=109587",
+        "title": "포레스텔라·임창정·린 한자리에…광주 은행 '하모니 콘서트'",
+        "link": "https://www.namdonews.com/news/articleView.html?idxno=919956",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 13 Aug 2026 06:36:00 +0900",
+        "pubDate": "Thu, 13 Aug 2026 10:54:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[브랜드평판] SBI저축 은행 , 저축 은행 8월 1위... OK저축 은행 , 웰컴저축은...",
-        "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=53361",
+        "title": "하나 은행 , 청년전월세 안심 보험 무료 지원…“최대 3억까지 보상”",
+        "link": "https://n.news.naver.com/mnews/article/138/0002237666?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 13 Aug 2026 06:34:00 +0900",
+        "pubDate": "Thu, 13 Aug 2026 10:53:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "中 중앙 은행 , 10년 만에 '단독 5개년 계획' 발표… 위안화 국제화와 '금...",
-        "link": "https://www.g-enews.com/view.php?ud=2026081223205170080c8c1c064d_1",
+        "title": "하나 은행 , 청년에 '전월세 계약보험' 권리보험 무료 제공",
+        "link": "https://www.newsmap.co.kr/news/articleView.html?idxno=2231",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 13 Aug 2026 06:26:00 +0900",
+        "pubDate": "Thu, 13 Aug 2026 10:52:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "8월 17일 광복절 대체공휴일, 주식· 은행 ·병원·택배·우체국·구청 공...",
-        "link": "https://www.lecturernews.com/news/articleView.html?idxno=208169",
+        "title": "우리 은행 , 전북 발달장애인 스포츠 체험행사 열어",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=476997",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 13 Aug 2026 06:26:00 +0900",
+        "pubDate": "Thu, 13 Aug 2026 10:52:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "저축은행 모임통장 진입…금리·카드로 틈새 공략",
-        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608121415459640776",
+        "title": "NH 농협 은행, 포용 금융 확대...지역 기업에 1500억 지원",
+        "link": "http://www.newsian.co.kr/news/articleView.html?idxno=93686",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 13 Aug 2026 06:22:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "저축 은행 모임통장 진입…금리·카드로 틈새 공략",
-        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608121415459640776",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 13 Aug 2026 06:22:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "뛰는 증권사, 잠자던 은행 앞섰다…미래·한투 '예적금'시장' 넘봐",
-        "link": "https://n.news.naver.com/mnews/article/421/0009111197?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 13 Aug 2026 06:00:00 +0900",
+        "pubDate": "Thu, 13 Aug 2026 10:46:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "농협 경남본부, 하반기 건전경영 강화… 금융 환경 변화 대응 나서",
-        "link": "https://www.kukinews.com/article/view/kuk202608130007",
+        "title": "NH 농협 은행, 포용 금융 확대…지역기반 기업 1500억 지원",
+        "link": "https://n.news.naver.com/mnews/article/003/0014124965?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 13 Aug 2026 05:46:00 +0900",
+        "pubDate": "Thu, 13 Aug 2026 10:44:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "농협 상호 금융 , 말복 맞아 어르신 1000명에 삼계탕 나눔",
+        "link": "https://www.newsmap.co.kr/news/articleView.html?idxno=2225",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 13 Aug 2026 10:36:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "NH 농협 은행 올원뱅크서 아이돌봄 신청 한 번에",
+        "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1098509",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 13 Aug 2026 10:36:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "美 7월 근원물가 0.2%↑ … 연준 매파 '9월 금리인상론' 힘 빠졌다",
-        "link": "https://www.newdaily.co.kr/site/data/html/2026/08/13/2026081300015.html",
+        "title": "中, 대출금리 체계 손본다…LPR 단일 기준서 DR 병행 체제로 [차이나 워...",
+        "link": "https://n.news.naver.com/mnews/article/015/0005320428?sid=104",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 13 Aug 2026 06:36:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Forward Guidance",
-          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
-        }
-      },
-      {
-        "title": "비정상의 정상화?…'저신용자 대출금리 역전' 완화 조짐",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092167977",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 13 Aug 2026 06:30:00 +0900",
+        "pubDate": "Thu, 13 Aug 2026 10:52:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": {
           "word": "NIM",
           "meaning": "금리 변화가 금융기관 수익성에 미치는 영향을 보여주는 핵심 지표"
         }
-      },
-      {
-        "title": "넉 달 새 2조 늘었지만 현장은 '발동동'…잔금대출 숨통 트일까",
-        "link": "https://n.news.naver.com/mnews/article/003/0014124278?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 13 Aug 2026 06:00:00 +0900",
-        "summary": "",
-        "term": null
       }
     ]
   }
