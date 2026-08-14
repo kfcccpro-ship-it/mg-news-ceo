@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T18:53:20.647Z",
+  "updatedAt": "2026-08-14T21:24:07.619Z",
   "headline": "MG 새마을금고 , 배우 조정석 모델 신규 광고 캠페인 공개 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -70,10 +70,26 @@
     ],
     "otherFinance": [
       {
-        "title": "광복절엔 장병 챙기고, 경기장에선 한국 스포츠 밀고... 하나 은행 의 '스...",
-        "link": "https://m.sports.naver.com/general/article/450/0000153336",
+        "title": "임금인상·성과급·지방이전까지… 은행 권 노사갈등 '점입가경'",
+        "link": "https://www.asiatime.co.kr/article/20260814500367",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 15 Aug 2026 02:52:00 +0900",
+        "pubDate": "Sat, 15 Aug 2026 06:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "“무분별한 지방 분산, 실무에 악영향”… 은행 권 파업 ‘확대일로’",
+        "link": "https://n.news.naver.com/mnews/article/009/0005721413?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 15 Aug 2026 06:01:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[ 금융 Pick] 8.15 광복 맞아 '나라사랑카드' 이벤트 봇물…신한 은행 ·하...",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=206570",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 15 Aug 2026 06:00:00 +0900",
         "summary": "",
         "term": null
       },
@@ -82,14 +98,6 @@
         "link": "https://www.thebilliards.kr/news/articleView.html?idxno=31702",
         "source": "네이버뉴스",
         "pubDate": "Sat, 15 Aug 2026 02:42:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "외국인도 현지 은행 원화 계좌로 24시간 거래한다",
-        "link": "https://n.news.naver.com/mnews/article/020/0003741042?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 15 Aug 2026 01:45:00 +0900",
         "summary": "",
         "term": null
       },
@@ -124,55 +132,39 @@
         "pubDate": "Fri, 14 Aug 2026 20:38:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "폭염 속 남양주 시민 건강 지킨다… 농협 ·축산농가, 삼계탕 500세트 나눔",
-        "link": "https://www.fntimes.com/html/view.php?ud=202608142030271863dd55077bc2_18",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 14 Aug 2026 20:34:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "macro": [
       {
-        "title": "미 중소기업청, 에너지 대출 90% 보증 도입",
-        "link": "https://www.tokenpost.kr/news/policy/391152",
+        "title": "최고 연 9% 적금 눈길… 고금리 적금 완판 행진",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092168170",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 15 Aug 2026 02:20:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "생산성 1.4% 증가에도 굴스비 AI 금리 경고",
-        "link": "https://www.tokenpost.kr/news/cryptocurrency/391135",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 15 Aug 2026 01:50:00 +0900",
+        "pubDate": "Sat, 15 Aug 2026 06:10:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "굴스비, 7월 금리 동결 지지했다",
-        "link": "https://www.tokenpost.kr/news/cryptocurrency/391134",
+        "title": "[금상소]의미 되새기고 혜택도 챙기고⋯광복절 기념 고금리 예·적금 등...",
+        "link": "https://www.etoday.co.kr/news/view/2614712",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 15 Aug 2026 01:48:00 +0900",
+        "pubDate": "Sat, 15 Aug 2026 06:00:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "1600원 넘보던 환율, 150원 급락… 對美투자 늘면 다시 뛸 수도",
-        "link": "https://n.news.naver.com/mnews/article/020/0003741041?sid=101",
+        "title": "[박근종 칼럼] 금리의 역습, 가계 상환 부담 커지고 소비 여력 위축 우려...",
+        "link": "https://www.mhns.co.kr/news/articleView.html?idxno=756531",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 15 Aug 2026 01:45:00 +0900",
-        "summary": "",
+        "pubDate": "Sat, 15 Aug 2026 05:20:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "금융 위원장 “부동산 대책 자금지원 총력을”… 주담대 숨통 언제 트일...",
-        "link": "https://n.news.naver.com/mnews/article/022/0004151063?sid=101",
+        "title": "“집값 35억인데 대출은 1.7억?”…‘디에이치방배’ 비명에 정부 결국...",
+        "link": "https://n.news.naver.com/mnews/article/022/0004151084?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 14 Aug 2026 19:46:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
+        "pubDate": "Sat, 15 Aug 2026 05:02:00 +0900",
+        "summary": "",
         "term": null
       },
       {
