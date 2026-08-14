@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T15:51:25.077Z",
+  "updatedAt": "2026-08-14T18:53:20.647Z",
   "headline": "MG 새마을금고 , 배우 조정석 모델 신규 광고 캠페인 공개 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -70,10 +70,26 @@
     ],
     "otherFinance": [
       {
-        "title": "우리 은행 , '2026 LCK FINALS' 초대권 440장 증정",
-        "link": "http://www.bizwnews.com/news/articleView.html?idxno=143371",
+        "title": "광복절엔 장병 챙기고, 경기장에선 한국 스포츠 밀고... 하나 은행 의 '스...",
+        "link": "https://m.sports.naver.com/general/article/450/0000153336",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 15 Aug 2026 00:22:00 +0900",
+        "pubDate": "Sat, 15 Aug 2026 02:52:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "'하나카드 잔혹사' 이틀 연속 7세트 10:11 역전패…PBA 팀리그 2R 3연패",
+        "link": "https://www.thebilliards.kr/news/articleView.html?idxno=31702",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 15 Aug 2026 02:42:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "외국인도 현지 은행 원화 계좌로 24시간 거래한다",
+        "link": "https://n.news.naver.com/mnews/article/020/0003741042?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 15 Aug 2026 01:45:00 +0900",
         "summary": "",
         "term": null
       },
@@ -82,22 +98,6 @@
         "link": "https://n.news.naver.com/mnews/article/022/0004151080?sid=101",
         "source": "네이버뉴스",
         "pubDate": "Sat, 15 Aug 2026 00:01:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "유산·유언 신탁…고령화 사회에 시니어 서비스 강화하는 은행 들",
-        "link": "https://n.news.naver.com/mnews/article/022/0004151080?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 15 Aug 2026 00:01:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[증권 뉴스브리핑] 투자자문·일임업 수익 2.3조/신한투자증권, 상반기...",
-        "link": "https://www.asiatime.co.kr/article/20260814500417",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 14 Aug 2026 23:40:00 +0900",
         "summary": "",
         "term": null
       },
@@ -136,15 +136,36 @@
     ],
     "macro": [
       {
-        "title": "[광화문에서/지민구]과거보다 길어질 금리인상기… 영끌-빚투에 울리는...",
-        "link": "https://n.news.naver.com/mnews/article/020/0003741008?sid=110",
+        "title": "미 중소기업청, 에너지 대출 90% 보증 도입",
+        "link": "https://www.tokenpost.kr/news/policy/391152",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 14 Aug 2026 23:10:00 +0900",
+        "pubDate": "Sat, 15 Aug 2026 02:20:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "생산성 1.4% 증가에도 굴스비 AI 금리 경고",
+        "link": "https://www.tokenpost.kr/news/cryptocurrency/391135",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 15 Aug 2026 01:50:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Terminal Rate",
-          "meaning": "기준금리 인상 사이클의 최종 수준에 대한 시장 기대"
-        }
+        "term": null
+      },
+      {
+        "title": "굴스비, 7월 금리 동결 지지했다",
+        "link": "https://www.tokenpost.kr/news/cryptocurrency/391134",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 15 Aug 2026 01:48:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "1600원 넘보던 환율, 150원 급락… 對美투자 늘면 다시 뛸 수도",
+        "link": "https://n.news.naver.com/mnews/article/020/0003741041?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 15 Aug 2026 01:45:00 +0900",
+        "summary": "",
+        "term": null
       },
       {
         "title": "금융 위원장 “부동산 대책 자금지원 총력을”… 주담대 숨통 언제 트일...",
