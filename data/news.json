@@ -1,8 +1,16 @@
 {
-  "updatedAt": "2026-08-15T15:19:52.984Z",
-  "headline": "[금융] MG 새마을금고 지역밀착 광고 / iM뱅크 방화 피해 지원 / iM뱅크 신... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-08-15T18:28:34.139Z",
+  "headline": "MG 새마을금고 , 조정석 새 CF 공개…지역 밀착 '승부수' 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "MG 새마을금고 , 조정석 새 CF 공개…지역 밀착 '승부수'",
+        "link": "https://www.thedailypost.kr/news/articleView.html?idxno=115020",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 16 Aug 2026 00:20:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "[금융] MG 새마을금고 지역밀착 광고 / iM뱅크 방화 피해 지원 / iM뱅크 신...",
         "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2268400",
@@ -46,6 +54,38 @@
     ],
     "otherFinance": [
       {
+        "title": "신한 은행 , ITZY 유나와 함께한 '신한 나라사랑카드' 영상 공개",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=143476",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 16 Aug 2026 03:12:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[분석] \"직투 대신 적립식\"···4대 은행, 펀드 판매 1년 새 '4배'",
+        "link": "https://www.smartbizn.com/news/articleView.html?idxno=151286",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 16 Aug 2026 02:36:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[분석] \"직투 대신 적립식\"···4대 은행 , 펀드 판매 1년 새 '4배'",
+        "link": "https://www.smartbizn.com/news/articleView.html?idxno=151286",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 16 Aug 2026 02:36:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "이스라엘 최대 은행 레우미, 2022년 무산된 크립토 재도전…갤럭시와 202...",
+        "link": "https://www.wikitree.co.kr/articles/1152705",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 16 Aug 2026 00:26:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
         "title": "은행권 큰손 된 외국인 고객…예금 27조 맡겼다",
         "link": "https://www.theguru.co.kr/news/article.html?no=105840",
         "source": "네이버뉴스",
@@ -88,55 +128,26 @@
           "word": "Deposit Beta",
           "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
         }
-      },
-      {
-        "title": "전북 은행 , 최고 연 4.50% '현대자동차 X JB 특판적금' 출시",
-        "link": "http://www.bizwnews.com/news/articleView.html?idxno=143378",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 15 Aug 2026 23:38:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "18억달러 마스터카드 인수, 상원 법안 심사와 맞물렸다",
-        "link": "https://www.tokenpost.kr/news/policy/391442",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 15 Aug 2026 22:22:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "이자도 못 갚는다… 5대 은행 '깡통대출' 6조원 첫 돌파",
-        "link": "https://www.ggilbo.com/news/articleView.html?idxno=1174900",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 15 Aug 2026 17:36:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "상상인, 증권·조선기자재 쌍끌이 흑자···\"재도약 발판\" 마련",
-        "link": "http://www.finomy.com/news/articleView.html?idxno=259308",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 15 Aug 2026 15:26:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "macro": [
+      {
+        "title": "굴스비 “美 물가 조금 개선”…9월 금리인상 기대 후퇴",
+        "link": "https://www.g-enews.com/view.php?ud=2026081522274078109a1f309431_1",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 16 Aug 2026 03:02:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Terminal Rate",
+          "meaning": "기준금리 인상 사이클의 최종 수준에 대한 시장 기대"
+        }
+      },
       {
         "title": "[무조건간다] 20억 빚에 파산…700억 사기 대출의 2차 가해",
         "link": "https://n.news.naver.com/mnews/article/422/0000896170?sid=102",
         "source": "네이버뉴스",
         "pubDate": "Sat, 15 Aug 2026 18:57:00 +0900",
         "summary": "",
-        "term": null
-      },
-      {
-        "title": "가계대출 총량 늘어도…2금융권 한도는 제자리",
-        "link": "https://n.news.naver.com/mnews/article/011/0004651926?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 14 Aug 2026 17:57:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
         "term": null
       }
     ]
