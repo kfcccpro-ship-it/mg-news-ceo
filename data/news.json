@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T21:24:07.619Z",
+  "updatedAt": "2026-08-15T01:12:35.607Z",
   "headline": "MG 새마을금고 , 배우 조정석 모델 신규 광고 캠페인 공개 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -58,114 +58,88 @@
         "pubDate": "Fri, 14 Aug 2026 17:24:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "[더밸류 브리핑] NH농협은행, ‘1만좌 완판’ 흥행… 새마을금고 새 얼굴...",
-        "link": "http://www.thevaluenews.co.kr/news/view.php?idx=200824",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 14 Aug 2026 17:04:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "임금인상·성과급·지방이전까지… 은행 권 노사갈등 '점입가경'",
-        "link": "https://www.asiatime.co.kr/article/20260814500367",
+        "title": "신한 은행 \"개인형 IRP 1800만원 납입하면 포인트\" 이벤트",
+        "link": "https://n.news.naver.com/mnews/article/003/0014129291?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 15 Aug 2026 06:02:00 +0900",
+        "pubDate": "Sat, 15 Aug 2026 10:00:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "“무분별한 지방 분산, 실무에 악영향”… 은행 권 파업 ‘확대일로’",
-        "link": "https://n.news.naver.com/mnews/article/009/0005721413?sid=101",
+        "title": "기보·인천시·하나 은행 , 인천 첨단 미래산업 육성 위해 총 1500억 규모 ...",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=258981",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 15 Aug 2026 06:01:00 +0900",
+        "pubDate": "Sat, 15 Aug 2026 10:00:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[ 금융 Pick] 8.15 광복 맞아 '나라사랑카드' 이벤트 봇물…신한 은행 ·하...",
-        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=206570",
+        "title": "금시세(금값)는?…美 물가·금리 전망에 쏠린 시선, 달러·중앙 은행 수요...",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=598337",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 15 Aug 2026 06:00:00 +0900",
+        "pubDate": "Sat, 15 Aug 2026 09:58:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "\"코스피 9000 시대 효과\" 대형 증권사들, 상반기 순익 6조원 육박...주요...",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=315015",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 15 Aug 2026 09:20:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "'하나카드 잔혹사' 이틀 연속 7세트 10:11 역전패…PBA 팀리그 2R 3연패",
-        "link": "https://www.thebilliards.kr/news/articleView.html?idxno=31702",
+        "title": "5대 은행, 정기예금 999조 돌파…1000조 시대 '초읽기'",
+        "link": "https://n.news.naver.com/mnews/article/003/0014129246?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 15 Aug 2026 02:42:00 +0900",
+        "pubDate": "Sat, 15 Aug 2026 09:00:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "[은행가] 하나 금융 , 지역 중장년 구직자 일자리 지원 外",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=758954",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 15 Aug 2026 08:28:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "유산·유언 신탁…고령화 사회에 시니어 서비스 강화하는 은행들",
-        "link": "https://n.news.naver.com/mnews/article/022/0004151080?sid=101",
+        "title": "\"카드론 더 받을 수 있을까?\"… 총량 완화에 2금융권 기대감↑",
+        "link": "https://n.news.naver.com/mnews/article/008/0005400525?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 15 Aug 2026 00:01:00 +0900",
+        "pubDate": "Sat, 15 Aug 2026 08:00:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "상반기 증권사 최고 보수 CEO NH투자증권 윤병운 86억, 은행은 카카오뱅...",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=444870",
+        "title": "미래에셋증권, 상반기 2.9조 벌었다…한투·5대 은행 모두 제쳐",
+        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5051591",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 14 Aug 2026 20:44:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "농협 상호 금융 , AI 확산 본격화…전사적 AX 전환 속도",
-        "link": "https://www.fntimes.com/html/view.php?ud=202608142040374462dd55077bc2_18",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 14 Aug 2026 20:42:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "남인천 농협 이태선 조합장, 농협 창립 65주년 기념 국무총리표창 수상",
-        "link": "https://www.fntimes.com/html/view.php?ud=202608142036143963dd55077bc2_18",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 14 Aug 2026 20:38:00 +0900",
+        "pubDate": "Sat, 15 Aug 2026 08:00:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "최고 연 9% 적금 눈길… 고금리 적금 완판 행진",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092168170",
+        "title": "오픈런 이제 없다?..대출한도에서 집단대출은 빼고, 추가한도 더 준다",
+        "link": "https://n.news.naver.com/mnews/article/008/0005400541?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 15 Aug 2026 06:10:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "[금상소]의미 되새기고 혜택도 챙기고⋯광복절 기념 고금리 예·적금 등...",
-        "link": "https://www.etoday.co.kr/news/view/2614712",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 15 Aug 2026 06:00:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "[박근종 칼럼] 금리의 역습, 가계 상환 부담 커지고 소비 여력 위축 우려...",
-        "link": "https://www.mhns.co.kr/news/articleView.html?idxno=756531",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 15 Aug 2026 05:20:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "“집값 35억인데 대출은 1.7억?”…‘디에이치방배’ 비명에 정부 결국...",
-        "link": "https://n.news.naver.com/mnews/article/022/0004151084?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 15 Aug 2026 05:02:00 +0900",
+        "pubDate": "Sat, 15 Aug 2026 09:00:00 +0900",
         "summary": "",
-        "term": null
+        "term": {
+          "word": "LCR",
+          "meaning": "단기 유동성 충격 대응 능력을 보여주는 지표"
+        }
       },
       {
         "title": "가계대출 총량 늘어도…2금융권 한도는 제자리",
