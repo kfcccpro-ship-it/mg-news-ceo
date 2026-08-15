@@ -1,8 +1,16 @@
 {
-  "updatedAt": "2026-08-15T01:12:35.607Z",
-  "headline": "MG 새마을금고 , 배우 조정석 모델 신규 광고 캠페인 공개 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-08-15T03:38:05.599Z",
+  "headline": "[금융] MG 새마을금고 지역밀착 광고 / iM뱅크 방화 피해 지원 / iM뱅크 신... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "[금융] MG 새마을금고 지역밀착 광고 / iM뱅크 방화 피해 지원 / iM뱅크 신...",
+        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2268400",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 15 Aug 2026 11:30:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "MG 새마을금고 , 배우 조정석 모델 신규 광고 캠페인 공개",
         "link": "https://www.betanews.net/article/view/beta202608140061",
@@ -62,53 +70,34 @@
     ],
     "otherFinance": [
       {
-        "title": "신한 은행 \"개인형 IRP 1800만원 납입하면 포인트\" 이벤트",
-        "link": "https://n.news.naver.com/mnews/article/003/0014129291?sid=101",
+        "title": "[H1 분석] 5대 금융 지주…\"비은행은 KB·균형은 신한·본업은 하나·포트...",
+        "link": "http://www.economytalk.kr/news/articleView.html?idxno=423527",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 15 Aug 2026 10:00:00 +0900",
+        "pubDate": "Sat, 15 Aug 2026 12:32:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "기보·인천시·하나 은행 , 인천 첨단 미래산업 육성 위해 총 1500억 규모 ...",
-        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=258981",
+        "title": "[H1 분석] 5대 금융 지주…\"비 은행 은 KB·균형은 신한·본업은 하나·포트...",
+        "link": "http://www.economytalk.kr/news/articleView.html?idxno=423527",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 15 Aug 2026 10:00:00 +0900",
+        "pubDate": "Sat, 15 Aug 2026 12:32:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "금시세(금값)는?…美 물가·금리 전망에 쏠린 시선, 달러·중앙 은행 수요...",
-        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=598337",
+        "title": "[ 금융 ] KB 안티스미싱 / 농협 적금 1만좌 완판 / IBK 다문화 아동 아트캠...",
+        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2268398",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 15 Aug 2026 09:58:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "\"코스피 9000 시대 효과\" 대형 증권사들, 상반기 순익 6조원 육박...주요...",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=315015",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 15 Aug 2026 09:20:00 +0900",
+        "pubDate": "Sat, 15 Aug 2026 11:30:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "5대 은행, 정기예금 999조 돌파…1000조 시대 '초읽기'",
-        "link": "https://n.news.naver.com/mnews/article/003/0014129246?sid=101",
+        "title": "[ 농협 ] 상호 금융 AI 전환 / 식품연구소 부산물 자원화 / 농협 식품 저당...",
+        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2268397",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 15 Aug 2026 09:00:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
-      },
-      {
-        "title": "[은행가] 하나 금융 , 지역 중장년 구직자 일자리 지원 外",
-        "link": "https://www.slist.kr/news/articleView.html?idxno=758954",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 15 Aug 2026 08:28:00 +0900",
+        "pubDate": "Sat, 15 Aug 2026 11:20:00 +0900",
         "summary": "",
         "term": null
       },
@@ -119,27 +108,16 @@
         "pubDate": "Sat, 15 Aug 2026 08:00:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "미래에셋증권, 상반기 2.9조 벌었다…한투·5대 은행 모두 제쳐",
-        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5051591",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 15 Aug 2026 08:00:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "macro": [
       {
-        "title": "오픈런 이제 없다?..대출한도에서 집단대출은 빼고, 추가한도 더 준다",
-        "link": "https://n.news.naver.com/mnews/article/008/0005400541?sid=101",
+        "title": "금리 최대 18% ‘엔비디아 파이낸싱’…“2008년 위기 떠올라”",
+        "link": "https://n.news.naver.com/mnews/article/011/0004652071?sid=104",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 15 Aug 2026 09:00:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "LCR",
-          "meaning": "단기 유동성 충격 대응 능력을 보여주는 지표"
-        }
+        "pubDate": "Sat, 15 Aug 2026 12:15:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
       },
       {
         "title": "가계대출 총량 늘어도…2금융권 한도는 제자리",
