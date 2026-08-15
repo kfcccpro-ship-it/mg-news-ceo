@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T09:25:20.456Z",
+  "updatedAt": "2026-08-15T12:36:06.111Z",
   "headline": "[금융] MG 새마을금고 지역밀착 광고 / iM뱅크 방화 피해 지원 / iM뱅크 신... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -42,46 +42,30 @@
         "pubDate": "Fri, 14 Aug 2026 17:58:00 +0900",
         "summary": "",
         "term": null
-      },
+      }
+    ],
+    "otherFinance": [
       {
-        "title": "MG 새마을금고 , 조정석 신규 CF 공개… 지역밀착 금융 강조",
-        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=357455",
+        "title": "마스터카드, 리플 RLUSD로 제미니 결제 정산 추진…비트코인은 무관 서...",
+        "link": "https://www.wikitree.co.kr/articles/1152686",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 14 Aug 2026 17:38:00 +0900",
+        "pubDate": "Sat, 15 Aug 2026 20:28:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "새마을금고 , 사회연대에 2000억 대출...수익·건전성 시험대",
-        "link": "http://www.wikileaks-kr.org/news/articleView.html?idxno=190967",
+        "title": "KB국민 은행 KB스타뱅킹서 실시간 스미싱 탐지서비스 출시",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=90557",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 14 Aug 2026 17:26:00 +0900",
-        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
+        "pubDate": "Sat, 15 Aug 2026 20:06:00 +0900",
+        "summary": "",
         "term": null
-      }
-    ],
-    "otherFinance": [
+      },
       {
         "title": "이자도 못 갚는다… 5대 은행 '깡통대출' 6조원 첫 돌파",
         "link": "https://www.ggilbo.com/news/articleView.html?idxno=1174900",
         "source": "네이버뉴스",
         "pubDate": "Sat, 15 Aug 2026 17:36:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "[머니브리핑] 대출 총량 2배 늘린다는데⋯ 은행 별 빗장 언제 풀릴까",
-        "link": "https://www.etoday.co.kr/news/view/2614825",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 15 Aug 2026 17:00:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "은행 권 대출사기 잇따라… 금융 사고 490억원 육박, 내부통제 ‘도마’",
-        "link": "https://www.ekn.kr/web/view.php?key=20260815025013128",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 15 Aug 2026 16:56:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       },
@@ -102,14 +86,6 @@
         "term": null
       },
       {
-        "title": "[ 금융 ] KB 안티스미싱 / 농협 적금 1만좌 완판 / IBK 다문화 아동 아트캠...",
-        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2268398",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 15 Aug 2026 11:30:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
         "title": "\"카드론 더 받을 수 있을까?\"… 총량 완화에 2금융권 기대감↑",
         "link": "https://n.news.naver.com/mnews/article/008/0005400525?sid=101",
         "source": "네이버뉴스",
@@ -120,11 +96,11 @@
     ],
     "macro": [
       {
-        "title": "주식 열기 식자 가계대출 증가세도 주춤 [Pick코노미]",
-        "link": "https://n.news.naver.com/mnews/article/011/0004652104?sid=101",
+        "title": "[무조건간다] 20억 빚에 파산…700억 사기 대출의 2차 가해",
+        "link": "https://n.news.naver.com/mnews/article/422/0000896170?sid=102",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 15 Aug 2026 17:00:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
+        "pubDate": "Sat, 15 Aug 2026 18:57:00 +0900",
+        "summary": "",
         "term": null
       },
       {
