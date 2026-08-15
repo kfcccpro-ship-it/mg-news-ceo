@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T03:38:05.599Z",
+  "updatedAt": "2026-08-15T06:37:07.461Z",
   "headline": "[금융] MG 새마을금고 지역밀착 광고 / iM뱅크 방화 피해 지원 / iM뱅크 신... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -58,27 +58,43 @@
         "pubDate": "Fri, 14 Aug 2026 17:26:00 +0900",
         "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
         "term": null
-      },
-      {
-        "title": "MG 새마을금고 , 배우 조정석과 광고 캠페인 '으쌰라으쌰'",
-        "link": "https://www.globale.co.kr/news/articleView.html?idxno=39881",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 14 Aug 2026 17:24:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "[H1 분석] 5대 금융 지주…\"비은행은 KB·균형은 신한·본업은 하나·포트...",
-        "link": "http://www.economytalk.kr/news/articleView.html?idxno=423527",
+        "title": "상상인, 증권·조선기자재 쌍끌이 흑자···\"재도약 발판\" 마련",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=259308",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 15 Aug 2026 12:32:00 +0900",
+        "pubDate": "Sat, 15 Aug 2026 15:26:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[H1 분석] 5대 금융 지주…\"비 은행 은 KB·균형은 신한·본업은 하나·포트...",
+        "title": "씨티 은행 , 美 상원에 클래러티법 통과 촉구…암호화폐 반등 불씨 될까",
+        "link": "http://coinreaders.com/252971",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 15 Aug 2026 14:54:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "수출입 은행 ·게이츠재단, SMR 금융 협력 논의…K-원전 글로벌 진출 지원",
+        "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=86815",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 15 Aug 2026 14:44:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "부동산 대책에도 집값은 글쎄…\" 은행 ·건설주는 훈풍\" [주末머니]",
+        "link": "https://n.news.naver.com/mnews/article/277/0005803515?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 15 Aug 2026 14:35:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[H1 분석] 5대 금융 지주…\"비은행은 KB·균형은 신한·본업은 하나·포트...",
         "link": "http://www.economytalk.kr/news/articleView.html?idxno=423527",
         "source": "네이버뉴스",
         "pubDate": "Sat, 15 Aug 2026 12:32:00 +0900",
@@ -94,14 +110,6 @@
         "term": null
       },
       {
-        "title": "[ 농협 ] 상호 금융 AI 전환 / 식품연구소 부산물 자원화 / 농협 식품 저당...",
-        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2268397",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 15 Aug 2026 11:20:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
         "title": "\"카드론 더 받을 수 있을까?\"… 총량 완화에 2금융권 기대감↑",
         "link": "https://n.news.naver.com/mnews/article/008/0005400525?sid=101",
         "source": "네이버뉴스",
@@ -112,11 +120,11 @@
     ],
     "macro": [
       {
-        "title": "금리 최대 18% ‘엔비디아 파이낸싱’…“2008년 위기 떠올라”",
-        "link": "https://n.news.naver.com/mnews/article/011/0004652071?sid=104",
+        "title": "美법무부, '원자재 큰손' 레이디언트 대출서류 위조의혹 조사",
+        "link": "https://n.news.naver.com/mnews/article/374/0000527718?sid=104",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 15 Aug 2026 12:15:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "pubDate": "Sat, 15 Aug 2026 15:35:00 +0900",
+        "summary": "",
         "term": null
       },
       {
