@@ -1,47 +1,71 @@
 {
-  "updatedAt": "2026-08-16T12:37:47.718Z",
-  "headline": "MG 새마을금고 , 조정석과 신규 광고 공개…지역 밀착 금융 강조 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-08-16T15:20:20.445Z",
+  "headline": "\"'MG+S' 흥행 잇는다\"… 새마을금고 , MZ세대 카드시장 정조준 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
-        "title": "MG 새마을금고 , 조정석과 신규 광고 공개…지역 밀착 금융 강조",
-        "link": "https://www.fetv.co.kr/news/articleView.html?idxno=308473",
+        "title": "\"'MG+S' 흥행 잇는다\"… 새마을금고 , MZ세대 카드시장 정조준",
+        "link": "https://n.news.naver.com/mnews/article/629/0000524946?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 16 Aug 2026 09:00:00 +0900",
+        "pubDate": "Mon, 17 Aug 2026 00:01:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "신한 은행 , 'IRP 1800 가득이요~' 이벤트 실시",
-        "link": "http://www.bizwnews.com/news/articleView.html?idxno=143419",
+        "title": "신한 은행 , 비이자이익 뒷걸음질 '이자 장사' 의존 심화",
+        "link": "https://www.insnews.co.kr/news/articleView.html?idxno=92267",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 16 Aug 2026 21:30:00 +0900",
+        "pubDate": "Mon, 17 Aug 2026 00:02:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[올댓차이나] 中 7월 은행 대출 71.5조원 순감소…차입 수요 부진",
-        "link": "https://n.news.naver.com/mnews/article/003/0014130428?sid=104",
+        "title": "[기자의 눈] 외국계 보험사 매각설이 던지는 질문",
+        "link": "https://www.insnews.co.kr/news/articleView.html?idxno=92263",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 16 Aug 2026 21:07:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "달린 만큼 적립해준다...‘러너 특화 카드’ 뭐길래",
-        "link": "https://n.news.naver.com/mnews/article/024/0000107587?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 16 Aug 2026 21:01:00 +0900",
+        "pubDate": "Mon, 17 Aug 2026 00:02:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "OCC, 트럼프家 40억달러 USD1 신탁 은행 승인…비트고서 발행권 넘겨받는...",
-        "link": "https://www.wikitree.co.kr/articles/1152800",
+        "title": "[ 금융 이슈 Summary] 환율 급등락에 따른 보험권 변동성 관리 과제",
+        "link": "https://www.insnews.co.kr/news/articleView.html?idxno=92281",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 16 Aug 2026 20:50:00 +0900",
+        "pubDate": "Mon, 17 Aug 2026 00:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[한국보험신문-연세대 국제학대학원 공동기획] 중국 가상자산 규제 강화...",
+        "link": "https://www.insnews.co.kr/news/articleView.html?idxno=91353",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 17 Aug 2026 00:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "중국 보험사, '건강고지 면제'로 상업의료보험 상품 확대",
+        "link": "https://www.insnews.co.kr/news/articleView.html?idxno=92250",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 17 Aug 2026 00:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "돌아온 보험사 M&A의 계절… 종합 금융 그룹 '마지막 퍼즐' 맞춘다",
+        "link": "https://www.insnews.co.kr/news/articleView.html?idxno=92286",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 17 Aug 2026 00:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "4대 은행 급여, 삼성전자 넘었다…상반기만 7150만원",
+        "link": "https://n.news.naver.com/mnews/article/005/0001867163?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 16 Aug 2026 22:49:00 +0900",
         "summary": "",
         "term": null
       },
@@ -52,43 +76,38 @@
         "pubDate": "Sun, 16 Aug 2026 20:40:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "“삼전보다 더 잘 번다”…상반기 급여만 7150만 원 챙긴 은행원",
-        "link": "https://n.news.naver.com/mnews/article/011/0004652233?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 16 Aug 2026 19:04:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "주담대 지켜라…마통부터 잠그는 은행들",
-        "link": "https://n.news.naver.com/mnews/article/081/0003670816?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 16 Aug 2026 18:53:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "4대 은행원 상반기 평균급여 7150만원… 삼성전자 앞질러",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092168277",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 16 Aug 2026 17:32:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "macro": [
       {
-        "title": "'30조 여력' 배분 협의...'대출 오픈런' 해소될까?",
-        "link": "https://n.news.naver.com/mnews/article/052/0002394089?sid=101",
+        "title": "금리·연체율 오르는데…가계빚 첫 2000조",
+        "link": "https://n.news.naver.com/mnews/article/025/0003544743?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 16 Aug 2026 20:39:00 +0900",
-        "summary": "",
+        "pubDate": "Mon, 17 Aug 2026 00:05:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": {
-          "word": "LCR",
-          "meaning": "단기 유동성 충격 대응 능력을 보여주는 지표"
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
         }
+      },
+      {
+        "title": "영끌·빚투에 가계빚 사상 첫 2000조…기준금리 인상땐 치명타",
+        "link": "https://n.news.naver.com/mnews/article/009/0005721802?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 16 Aug 2026 23:06:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+        }
+      },
+      {
+        "title": "가계 빚 사상 첫 2000조 돌파에도 대출 더 해준다",
+        "link": "https://n.news.naver.com/mnews/article/022/0004151359?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 16 Aug 2026 21:44:00 +0900",
+        "summary": "",
+        "term": null
       },
       {
         "title": "가계대출 증가분 30조 ‘ 금융 사 배분’ 실무 협의 착수",
@@ -121,25 +140,6 @@
         "pubDate": "Sun, 16 Aug 2026 17:56:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "집단대출 비중 큰 상호 금융 … 당국 규제완화에 한숨돌려",
-        "link": "https://n.news.naver.com/mnews/article/009/0005721750?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 16 Aug 2026 17:56:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "증시에 데인 예테크족 … 특판예금으로 달려갔다",
-        "link": "https://n.news.naver.com/mnews/article/009/0005721748?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 16 Aug 2026 17:56:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
       },
       {
         "title": "“중도금·잔금대출 막힐까 걱정했는데”…입주 실수요자 숨통 트이나",
