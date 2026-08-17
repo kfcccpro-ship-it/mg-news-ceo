@@ -1,8 +1,24 @@
 {
-  "updatedAt": "2026-08-17T15:25:23.583Z",
-  "headline": "새마을금고 , '으쌰라으쌰'로 전국 응원....조정석과 함께한 새 광고 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-08-17T18:38:35.243Z",
+  "headline": "[사설] 시금고 설명회 ‘비공개’ 논란…‘깜깜이’ 오명 자초할라 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "[사설] 시금고 설명회 ‘비공개’ 논란…‘깜깜이’ 오명 자초할라",
+        "link": "https://n.news.naver.com/mnews/article/666/0000119474?sid=110",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 18 Aug 2026 03:04:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "인천 시금고 선정 착수...\"안정성 vs 지역사회 기여\"",
+        "link": "https://n.news.naver.com/mnews/article/052/0002394482?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 18 Aug 2026 01:50:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "새마을금고 , '으쌰라으쌰'로 전국 응원....조정석과 함께한 새 광고",
         "link": "https://www.gukjenews.com/news/articleView.html?idxno=3666621",
@@ -22,15 +38,15 @@
     ],
     "otherFinance": [
       {
-        "title": "연 최고 8~9%대 적금 등장… 은행으로 ‘역머니무브’",
-        "link": "https://n.news.naver.com/mnews/article/005/0001867361?sid=101",
+        "title": "수출입 은행 , 글렌코어에 10억 달러 투자…구리 공급망 확보",
+        "link": "https://www.tfmedia.co.kr/news/article.html?no=206516",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 18 Aug 2026 00:15:00 +0900",
+        "pubDate": "Tue, 18 Aug 2026 01:34:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "연 최고 8~9%대 적금 등장… 은행 으로 ‘역머니무브’",
+        "title": "연 최고 8~9%대 적금 등장… 은행으로 ‘역머니무브’",
         "link": "https://n.news.naver.com/mnews/article/005/0001867361?sid=101",
         "source": "네이버뉴스",
         "pubDate": "Tue, 18 Aug 2026 00:15:00 +0900",
@@ -46,53 +62,61 @@
         "term": null
       },
       {
-        "title": "하나 은행 , 인천 민생·혁신기업에 3800억원 금융 지원",
-        "link": "http://www.press9.kr/news/articleView.html?idxno=81169",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 18 Aug 2026 00:12:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "KB국민 은행 , KB스타뱅킹에 실시간 스미싱 탐지 기능",
-        "link": "http://www.press9.kr/news/articleView.html?idxno=81170",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 18 Aug 2026 00:12:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "KB국민 은행 , 경남 폭우 피해 고객에 최대 5억원 금융 지원",
-        "link": "http://www.press9.kr/news/articleView.html?idxno=81173",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 18 Aug 2026 00:12:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "BNK경남 은행 , 창원 소상공인에 125억원 특별대출",
-        "link": "http://www.press9.kr/news/articleView.html?idxno=81167",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 18 Aug 2026 00:12:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
         "title": "KB ‘PB·RMʼ·신한 ‘회계사 특채ʼ…전략별 인재 선발 [은행권 채용 ...",
         "link": "https://www.fntimes.com/html/view.php?ud=202608142124471735dd55077bc2_18",
         "source": "네이버뉴스",
         "pubDate": "Tue, 18 Aug 2026 00:02:00 +0900",
         "summary": "",
         "term": null
+      },
+      {
+        "title": "고금리 카드론 늘고 은행 가산금리 올라…대출총량제의 역설",
+        "link": "https://n.news.naver.com/mnews/article/025/0003544910?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 18 Aug 2026 00:02:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "NH 농협금융 , 퇴직연금 경쟁력 강화… 그룹 역량 결집",
+        "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=43063",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 17 Aug 2026 22:42:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "NH 농협금융 , 은행·증권·운용 역량 결집…퇴직연금 경쟁력 강화",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693532",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 17 Aug 2026 21:06:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "2026년 하반기 전북 농협 「상호 금융 사업추진방향」교육",
+        "link": "https://sjbnews.com/news/news.php?number=885348",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 17 Aug 2026 20:24:00 +0900",
+        "summary": "",
+        "term": null
       }
     ],
     "macro": [
       {
-        "title": "BNK 금융 지주, 부산 치과의사에 대출·의료기기 리스 금융 지원",
-        "link": "http://www.press9.kr/news/articleView.html?idxno=81168",
+        "title": "수출물가 49% 밀어올린 반도체, 딜로이트가 던진 과열 경고장",
+        "link": "https://www.g-enews.com/view.php?ud=202608171651225490fbbec65dfb_1",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 18 Aug 2026 00:12:00 +0900",
+        "pubDate": "Tue, 18 Aug 2026 03:06:00 +0900",
         "summary": "",
+        "term": null
+      },
+      {
+        "title": "다시 빛나는 금… 美 금리 공포 걷히자 한 달 새 12% 급등",
+        "link": "https://n.news.naver.com/mnews/article/005/0001867387?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 18 Aug 2026 02:18:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       },
       {
@@ -100,14 +124,6 @@
         "link": "https://biz.newdaily.co.kr/site/data/html/2026/08/17/2026081700107.html",
         "source": "네이버뉴스",
         "pubDate": "Mon, 17 Aug 2026 19:36:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "금리·비과세·배당 예전만 못하다…늙어가는 상호금융의 위기",
-        "link": "https://n.news.naver.com/mnews/article/015/0005321609?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 17 Aug 2026 17:48:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       },
