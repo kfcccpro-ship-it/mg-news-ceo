@@ -1,16 +1,8 @@
 {
-  "updatedAt": "2026-08-17T21:25:33.365Z",
-  "headline": "‘15조 경북도 금고’에 KB 첫 도전장 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-08-18T01:11:48.267Z",
+  "headline": "새마을금고 , '으쌰라으쌰'로 전국 응원....조정석과 함께한 새 광고 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
-      {
-        "title": "‘15조 경북도 금고’에 KB 첫 도전장",
-        "link": "https://n.news.naver.com/mnews/article/022/0004151619?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 18 Aug 2026 06:03:00 +0900",
-        "summary": "",
-        "term": null
-      },
       {
         "title": "새마을금고 , '으쌰라으쌰'로 전국 응원....조정석과 함께한 새 광고",
         "link": "https://www.gukjenews.com/news/articleView.html?idxno=3666621",
@@ -30,66 +22,66 @@
     ],
     "otherFinance": [
       {
-        "title": "상호금융 셧다운 풀릴까…결국 은행권이 집단대출 흡수",
-        "link": "https://n.news.naver.com/mnews/article/421/0009117870?sid=101",
+        "title": "\"모집한도 2000억원\"…한국투자증권, 'IMA S6' 출시",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=540582",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 18 Aug 2026 06:10:00 +0900",
+        "pubDate": "Tue, 18 Aug 2026 10:10:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "은행 권, 경남 집중호우지역 지원…'우대금리·만기연장'",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=857400",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 18 Aug 2026 10:10:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "상호 금융 셧다운 풀릴까…결국 은행권이 집단대출 흡수",
-        "link": "https://n.news.naver.com/mnews/article/421/0009117870?sid=101",
+        "title": "KB국민 은행 , 김앤장 법률사무소와 상속 금융 비즈니스 상호협력 MOU 체결",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=540579",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 18 Aug 2026 06:10:00 +0900",
+        "pubDate": "Tue, 18 Aug 2026 10:10:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "광주 은행 수도권 점포 16→10개 줄여…전남권 3개 신설 추진",
+        "link": "https://n.news.naver.com/mnews/article/001/0016255668?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 18 Aug 2026 10:09:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "KB국민 은행 , 김앤장과 상속·증여 원스톱 자산승계 협력",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=81204",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 18 Aug 2026 10:06:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "가계대출 옥죄니 '카드론' 들썩…연 16% 이상 차주 40% 돌파",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=717049",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 18 Aug 2026 10:00:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "상호 금융 셧다운 풀릴까…결국 은행 권이 집단대출 흡수",
-        "link": "https://n.news.naver.com/mnews/article/421/0009117870?sid=101",
+        "title": "가계대출 목표치 잘 맞춘 은행에 추가 총량 더 배분한다",
+        "link": "https://n.news.naver.com/mnews/article/016/0002684919?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 18 Aug 2026 06:10:00 +0900",
+        "pubDate": "Tue, 18 Aug 2026 09:58:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "이상한 KDB생명 매각법(feat. 산업 은행 )",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1720628",
+        "title": "강진 농협 , 농협 창립 65주년 '농심천심 특별상' 수상",
+        "link": "https://www.aflnews.co.kr/news/articleView.html?idxno=326462",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 18 Aug 2026 06:08:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "정진완 우리 은행 장 연임 적신호…'행장 잔혹사' 끊을 수 있을까",
-        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5051403",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 18 Aug 2026 06:06:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "“ 금융 사다리 단차 낮춰야”···성실상환자 은행 권 복귀길 넓힌다 [김...",
-        "link": "https://www.fntimes.com/html/view.php?ud=202608180532476626b4a7c6999c_18",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 18 Aug 2026 06:06:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "금융 기관 지방 이전 밑그림 구체화…금감원 세종· 농협 부산 거론",
-        "link": "http://www.fins.co.kr/news/articleView.html?idxno=109613",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 18 Aug 2026 06:02:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "'서대문 NH 농협금융 타운' 해체?…부산, 나주 분리 이전론에 직원들 반발",
-        "link": "https://realty.chosun.com/site/data/html_dir/2026/08/14/2026081402415.html",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 18 Aug 2026 06:02:00 +0900",
+        "pubDate": "Tue, 18 Aug 2026 09:58:00 +0900",
         "summary": "",
         "term": null
       }
@@ -102,25 +94,6 @@
         "pubDate": "Tue, 18 Aug 2026 04:00:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "'30조' 풀고 집단대출 한도 뗐다…대출 숨통트일까",
-        "link": "https://www.ggilbo.com/news/articleView.html?idxno=1175735",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 17 Aug 2026 15:48:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "상호금융, PF 규제에 '삼중고'…부실채권 정리 조직 키운다",
-        "link": "https://www.m-i.kr/news/articleView.html?idxno=1402414",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 17 Aug 2026 12:04:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
       }
     ]
   }
