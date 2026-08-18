@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T15:31:07.754Z",
+  "updatedAt": "2026-08-18T18:37:26.801Z",
   "headline": "[금융] 새마을금고 소상공인 2000억원 지원 / iM뱅크 야구 적금 최고 8% 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -45,38 +45,57 @@
         "pubDate": "Tue, 18 Aug 2026 17:58:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "새마을금고 ·지자체, 소상공인 '고금리 짐' 덜어준다",
-        "link": "http://www.sportsq.co.kr/news/articleView.html?idxno=497581",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 18 Aug 2026 17:44:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
+      {
+        "title": "美 연준 대차대조표 축소 난제…“ 은행 지준 수요부터 줄여야”",
+        "link": "https://www.g-enews.com/view.php?ud=2026081823222920829a1f309431_1",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 19 Aug 2026 03:02:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+        }
+      },
+      {
+        "title": "이스라엘 최대 은행 , 가상화폐 거래 지원",
+        "link": "https://www.khgames.co.kr/news/articleView.html?idxno=307440",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 19 Aug 2026 02:56:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "안성시 지방세·세외수입 납부 편리해진다…가상계좌 6개 은행 운영",
+        "link": "http://www.newstown.co.kr/news/articleView.html?idxno=712811",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 19 Aug 2026 00:44:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "5대 은행 주담대 가산금리 7년 만에 최고",
+        "link": "https://n.news.naver.com/mnews/article/023/0003993630?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 19 Aug 2026 00:33:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "5대 은행 가산금리 3.27% 역대 최고… 주담대 이자 부담 산더미",
+        "link": "https://n.news.naver.com/mnews/article/020/0003741680?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 19 Aug 2026 00:32:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
       {
         "title": "NH 농협 캐피탈, 말복 맞아 ‘농심천심(農心天心)’ 여름나기 행사 진행",
         "link": "https://weeklytrade.co.kr/news/view.html?section=1&category=160&item=&no=101078",
         "source": "네이버뉴스",
         "pubDate": "Wed, 19 Aug 2026 00:20:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "트럼프 암호화폐 기업 은행 예비인가…민주 상원 \"뻔뻔한 자기거래\"",
-        "link": "https://www.tfmedia.co.kr/news/article.html?no=206553",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 19 Aug 2026 00:20:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "수해 피해 고객 숨통 틔운다… 은행 권 긴급 금융 지원",
-        "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3072342",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 19 Aug 2026 00:02:00 +0900",
         "summary": "",
         "term": null
       },
@@ -95,33 +114,33 @@
         "pubDate": "Tue, 18 Aug 2026 23:34:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "농협 목우촌, 프리미엄 건강즙 ‘흑염소진액 本’ 출시",
-        "link": "https://www.fntimes.com/html/view.php?ud=202608182320376676dd55077bc2_18",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 18 Aug 2026 23:26:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "검단 농협 , ‘쌀의 날’ 맞아 취약계층에 사랑의 쌀 나눔",
-        "link": "https://www.fntimes.com/html/view.php?ud=202608182314324439dd55077bc2_18",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 18 Aug 2026 23:18:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "안양원예 농협 , 22년 만에 농협 최고 영예 ‘총화상’",
-        "link": "https://n.news.naver.com/mnews/article/662/0000102116?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 18 Aug 2026 22:23:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "macro": [
+      {
+        "title": "美 장기금리 상승에 가계 '비명'…30년 모기지 6.75%",
+        "link": "https://n.news.naver.com/mnews/article/018/0006353772?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 19 Aug 2026 03:23:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "금감원 지방이전 땐 출장비만 40억?...\"연 3만명 서울로 역출장\"",
+        "link": "https://n.news.naver.com/mnews/article/008/0005401571?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 19 Aug 2026 03:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "미 30년 국채 금리 19년 만에 최고치...일본·프랑스도 급등세",
+        "link": "https://n.news.naver.com/mnews/article/052/0002395014?sid=104",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 19 Aug 2026 02:54:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
       {
         "title": "대출 죄려 가산금리 올려…주담대 부담 5년 만에 최대치",
         "link": "https://www.ziksir.com/news/articleView.html?idxno=143447",
