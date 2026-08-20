@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-20T12:48:49.716Z",
-  "headline": "새마을금고 , 상반기 부실채권 3.5조 매각 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-08-20T15:32:44.701Z",
+  "headline": "새마을금고 연체율 5%대로 하락.....상반기 부실채권 3.4조 매각 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
-        "title": "새마을금고 , 상반기 부실채권 3.5조 매각",
-        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=557221",
+        "title": "새마을금고 연체율 5%대로 하락.....상반기 부실채권 3.4조 매각",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3670232",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 20 Aug 2026 21:34:00 +0900",
+        "pubDate": "Thu, 20 Aug 2026 23:06:00 +0900",
         "summary": "새마을금고 건전성 관리 흐름과 연결해 볼 수 있는 기사입니다.",
         "term": {
           "word": "Delinquency",
@@ -15,7 +15,18 @@
         }
       },
       {
-        "title": "새마을금고, 상반기 부실채권 3.5조 매각",
+        "title": "연체율 잡기 총력전… 새마을금고 상반기 부실채권 3조 4783억원 매각",
+        "link": "http://www.ttlnews.com/news/articleView.html?idxno=3135703",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 20 Aug 2026 23:00:00 +0900",
+        "summary": "새마을금고 건전성 관리 흐름과 연결해 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "새마을금고 , 상반기 부실채권 3.5조 매각",
         "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=557221",
         "source": "네이버뉴스",
         "pubDate": "Thu, 20 Aug 2026 21:34:00 +0900",
@@ -65,104 +76,85 @@
         "pubDate": "Thu, 20 Aug 2026 18:26:00 +0900",
         "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
         "term": null
-      },
-      {
-        "title": "부실채권 3.5조원 털어냈다 … 새마을금고 건전성회복 속도",
-        "link": "https://n.news.naver.com/mnews/article/009/0005723719?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 20 Aug 2026 18:06:00 +0900",
-        "summary": "새마을금고 건전성 관리 흐름과 연결해 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
-      },
-      {
-        "title": "[금융 HOT 뉴스] 새마을금고 , 부실채권 3.5조 정리…금고 합병으로 건전...",
-        "link": "http://www.bizwnews.com/news/articleView.html?idxno=143849",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 20 Aug 2026 18:04:00 +0900",
-        "summary": "새마을금고 건전성 관리 흐름과 연결해 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
       }
     ],
     "otherFinance": [
       {
-        "title": "울주경찰서, 1500만원 보이스피싱 막은 은행원에 감사장",
-        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=581383",
+        "title": "[취재수첩] 보험사에 유독 불리한 예보료 인상안",
+        "link": "https://n.news.naver.com/mnews/article/015/0005323079?sid=110",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 20 Aug 2026 21:42:00 +0900",
+        "pubDate": "Fri, 21 Aug 2026 00:19:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "중울산 농협 본점, 포용 금융 동행창구 울산 1호점 개소",
-        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=581391",
+        "title": "농협 은행 변동형 주담대 재개…한도 제약 여전",
+        "link": "https://n.news.naver.com/mnews/article/654/0000196308?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 20 Aug 2026 21:42:00 +0900",
+        "pubDate": "Fri, 21 Aug 2026 00:09:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "울주경찰서, 1500만원 보이스피싱 막은 은행 원에 감사장",
-        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=581383",
+        "title": "화천 농협 , 조합원 자녀 25명에 장학금 2,500만원 전달",
+        "link": "https://n.news.naver.com/mnews/article/087/0001212601?sid=102",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 20 Aug 2026 21:42:00 +0900",
+        "pubDate": "Fri, 21 Aug 2026 00:02:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[DCM] 교보생명, K-ICS 강화 위해 신종자본증권 3000억 발행",
-        "link": "https://www.fntimes.com/html/view.php?ud=202608201816148051141825007d_18",
+        "title": "울산 농협 '포용 금융 동행창구', 중울산 농협 본점에 1호점 개소",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1065084",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 20 Aug 2026 21:36:00 +0900",
+        "pubDate": "Fri, 21 Aug 2026 00:02:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "봉화군- 농협 봉화군지부, 지역 농업 발전 협력",
-        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=557202",
+        "title": "[Biz & Now] 신한 은행 , 신용 하위 50% 고객에 연 5.5% 대출",
+        "link": "https://n.news.naver.com/mnews/article/025/0003545777?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 20 Aug 2026 21:34:00 +0900",
+        "pubDate": "Fri, 21 Aug 2026 00:02:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "[사랑방] 한국 은행 신임 부총재 권민수",
+        "link": "https://n.news.naver.com/mnews/article/025/0003545766?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 21 Aug 2026 00:01:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "산은 이어 기업 은행 까지…94억 금융 사고",
-        "link": "https://www.kukinews.com/article/view/kuk202608200237",
+        "title": "NH 농협 , 주담대 빗장 풀었다…가계대출 정상화 시험대",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=143710",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 20 Aug 2026 21:28:00 +0900",
-        "summary": "",
+        "pubDate": "Fri, 21 Aug 2026 00:00:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "\"세종 가면 이직 고민\"... 금융 위·금감원·국책은행 세종 이전 검토에 ...",
-        "link": "https://www.insight.co.kr/news/569101",
+        "title": "신한은행, 중저신용 고객 위한 '슈퍼SOL중금리대출' 출시 外",
+        "link": "https://www.rcast.co.kr/news/articleView.html?idxno=31483",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 20 Aug 2026 20:28:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "1천500만원 보이스피싱 막은 은행원",
-        "link": "http://www.ujeil.com/news/articleView.html?idxno=390711",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 20 Aug 2026 20:22:00 +0900",
-        "summary": "",
+        "pubDate": "Thu, 20 Aug 2026 23:00:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "금감원, 비청산 장외파생 증거금 가이드라인 연장",
-        "link": "http://www.bizwnews.com/news/articleView.html?idxno=143901",
+        "title": "‘이틀연속’ 환율 1300원대…‘두번연속’ 금리인상 부담 더나",
+        "link": "https://n.news.naver.com/mnews/article/025/0003545790?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 20 Aug 2026 21:42:00 +0900",
-        "summary": "",
-        "term": null
+        "pubDate": "Fri, 21 Aug 2026 00:02:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Terminal Rate",
+          "meaning": "기준금리 인상 사이클의 최종 수준에 대한 시장 기대"
+        }
       },
       {
         "title": "금융당국, 21일 2금융권 대출 배분 논의",
@@ -178,14 +170,6 @@
         "source": "네이버뉴스",
         "pubDate": "Thu, 20 Aug 2026 18:33:00 +0900",
         "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "금융위, 남부 수해 피해 가계·중소기업에 긴급 금융지원",
-        "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148970363&call_from=naver_news",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 20 Aug 2026 18:19:00 +0900",
-        "summary": "",
         "term": null
       }
     ]
