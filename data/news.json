@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T15:32:44.701Z",
+  "updatedAt": "2026-08-20T18:37:49.301Z",
   "headline": "새마을금고 연체율 5%대로 하락.....상반기 부실채권 3.4조 매각 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -59,6 +59,14 @@
         }
       },
       {
+        "title": "새마을금고 ·신협, 대출 숨통 트인다",
+        "link": "https://n.news.naver.com/mnews/article/015/0005322989?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 20 Aug 2026 18:26:00 +0900",
+        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
         "title": "NPL 3.5조 정리·합병 3배 확대… 새마을금고 , 체질개선 고삐",
         "link": "https://www.apnews.kr/news/articleView.html?idxno=3050586",
         "source": "네이버뉴스",
@@ -68,24 +76,38 @@
           "word": "Delinquency",
           "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
         }
-      },
-      {
-        "title": "새마을금고 ·신협, 대출 숨통 트인다",
-        "link": "https://n.news.naver.com/mnews/article/015/0005322989?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 20 Aug 2026 18:26:00 +0900",
-        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "[취재수첩] 보험사에 유독 불리한 예보료 인상안",
-        "link": "https://n.news.naver.com/mnews/article/015/0005323079?sid=110",
+        "title": "크라켄 “크락 카드” 리워드 최대 2%, 경쟁사보다 낮지만 조건 없이 지...",
+        "link": "https://www.wikitree.co.kr/articles/1153772",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 21 Aug 2026 00:19:00 +0900",
+        "pubDate": "Fri, 21 Aug 2026 03:16:00 +0900",
         "summary": "",
         "term": null
+      },
+      {
+        "title": "NH 농협 은행 'NH농심천심 예금' 출시 8일만에 소진",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7179919",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 21 Aug 2026 01:26:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "NH농협 은행 'NH농심천심 예금' 출시 8일만에 소진",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7179919",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 21 Aug 2026 01:26:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
       },
       {
         "title": "농협 은행 변동형 주담대 재개…한도 제약 여전",
@@ -112,22 +134,6 @@
         "term": null
       },
       {
-        "title": "[Biz & Now] 신한 은행 , 신용 하위 50% 고객에 연 5.5% 대출",
-        "link": "https://n.news.naver.com/mnews/article/025/0003545777?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 21 Aug 2026 00:02:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "[사랑방] 한국 은행 신임 부총재 권민수",
-        "link": "https://n.news.naver.com/mnews/article/025/0003545766?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 21 Aug 2026 00:01:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
         "title": "NH 농협 , 주담대 빗장 풀었다…가계대출 정상화 시험대",
         "link": "https://www.ziksir.com/news/articleView.html?idxno=143710",
         "source": "네이버뉴스",
@@ -146,14 +152,25 @@
     ],
     "macro": [
       {
-        "title": "‘이틀연속’ 환율 1300원대…‘두번연속’ 금리인상 부담 더나",
-        "link": "https://n.news.naver.com/mnews/article/025/0003545790?sid=101",
+        "title": "美 연준, ‘인플레 고착’ 우려 확산…금리 인상론 힘받아",
+        "link": "https://www.g-enews.com/view.php?ud=2026082021030859829a1f309431_1",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 21 Aug 2026 00:02:00 +0900",
+        "pubDate": "Fri, 21 Aug 2026 03:02:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": {
-          "word": "Terminal Rate",
-          "meaning": "기준금리 인상 사이클의 최종 수준에 대한 시장 기대"
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+        }
+      },
+      {
+        "title": "금리 잡으려다 물가 폭탄?...연준에 맞선 미 재무부",
+        "link": "https://n.news.naver.com/mnews/article/052/0002396088?sid=104",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 21 Aug 2026 02:39:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
         }
       },
       {
