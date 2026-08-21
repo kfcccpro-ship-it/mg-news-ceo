@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T18:35:28.475Z",
+  "updatedAt": "2026-08-21T21:23:32.030Z",
   "headline": "[금융] iM뱅크재단 대학생 장학금 / 새마을금고 수해복구 키트 지원 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -28,14 +28,6 @@
         "term": null
       },
       {
-        "title": "강호동 농협 중앙회장, 경남 호우 피해 농업 현장 찾아 피해 상황 경청",
-        "link": "http://www.econotelling.com/news/articleView.html?idxno=21163",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 21 Aug 2026 20:38:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
         "title": "새마을금고 , 부실 털고 금고 합치고…정상화 ‘박차’",
         "link": "https://www.sentv.co.kr/article/view/sentv202608210124",
         "source": "네이버뉴스",
@@ -57,6 +49,22 @@
     ],
     "otherFinance": [
       {
+        "title": "경기 농협 , ‘NH개인파킹통장·파킹모아적금’ 출시…여유자금 관리부터...",
+        "link": "https://www.fntimes.com/html/view.php?ud=202608212028446930dd55077bc2_18",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 22 Aug 2026 05:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "NH 농협 노조 \"근거 없이 농협 지방 이전 졸속 추진\"",
+        "link": "https://n.news.naver.com/mnews/article/052/0002396618?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 22 Aug 2026 04:22:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
         "title": "[포토] 농협 상호 금융 , 'NH파킹모아적금' 출시",
         "link": "https://n.news.naver.com/mnews/article/018/0006355963?sid=100",
         "source": "네이버뉴스",
@@ -73,14 +81,6 @@
         "term": null
       },
       {
-        "title": "[포토] 폭우 피해농가 찾은 강호동 농협 회장",
-        "link": "https://n.news.naver.com/mnews/article/018/0006355956?sid=100",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 21 Aug 2026 23:05:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
         "title": "[포토] 농협 , 경남 폭우 피해 현장 방문",
         "link": "https://n.news.naver.com/mnews/article/018/0006355958?sid=100",
         "source": "네이버뉴스",
@@ -89,37 +89,91 @@
         "term": null
       },
       {
-        "title": "농협 강원본부 “폭염에도 들녘은 멈추지 않는다”…계절근로자 안전 지...",
-        "link": "https://www.fntimes.com/html/view.php?ud=202608212009181698dd55077bc2_18",
+        "title": "[포토] 폭우 피해농가 찾은 강호동 농협 회장",
+        "link": "https://n.news.naver.com/mnews/article/018/0006355956?sid=100",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 21 Aug 2026 20:38:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "농협 축산경제, 전사적 합심해 축산물 유통 경쟁력 높인다",
-        "link": "https://www.fntimes.com/html/view.php?ud=202608212012134694dd55077bc2_18",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 21 Aug 2026 20:38:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "NH 농협 은행, 1480명 참여 ‘복합재난 대응훈련’… 금융 서비스 중단 막는...",
-        "link": "https://www.fntimes.com/html/view.php?ud=202608212034115465dd55077bc2_18",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 21 Aug 2026 20:38:00 +0900",
+        "pubDate": "Fri, 21 Aug 2026 23:05:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "스위스프랑 약세, 해외 금리 기대가 갈랐다",
-        "link": "https://www.tokenpost.kr/news/cryptocurrency/395222",
+        "title": "美 국채 바이백도 못 누른 장기금리…30년물 5.27%, 韓 조달비용 압박",
+        "link": "https://sateconomy.co.kr/news/view/1065560831215169",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 22 Aug 2026 00:22:00 +0900",
+        "pubDate": "Sat, 22 Aug 2026 06:16:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "개인도 기업도 “달러 쌀 때 쟁여놓자”…달러예금 15조원 줍줍했다",
+        "link": "https://n.news.naver.com/mnews/article/009/0005724256?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 22 Aug 2026 06:15:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "[DQN] ABL생명 신계약 CSM 성장세 두각…수익성 1위 신한라이프·성장세...",
+        "link": "https://www.fntimes.com/html/view.php?ud=2026082021455387468a55064dd1_18",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 22 Aug 2026 06:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "\"2 금융 권 중금리대출 총량관리 제외\"…중·저신용자 '안도'",
+        "link": "https://www.asiatime.co.kr/article/20260821500280",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 22 Aug 2026 06:02:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "[주간증시전망] 美금리 충격에 출렁인 코스피…엔비디아 실적이 다음 분...",
+        "link": "https://www.ajunews.com/view/20260822020904868",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 22 Aug 2026 06:02:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "총량 규제도 안했는데…내수 침체에 교회·물고기 담보 대출도 부진",
+        "link": "https://n.news.naver.com/mnews/article/025/0003545991?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 22 Aug 2026 06:00:00 +0900",
+        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
+        "term": null
+      },
+      {
+        "title": "[머니브리핑] 금리 인상 한 번 더?…27일 금통위 ‘체크포인트’",
+        "link": "https://www.etoday.co.kr/news/view/2616851",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 22 Aug 2026 06:00:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "코스피 발목 잡는 ‘보이지 않는 손’, 미국 장기국채 금리의 정체[경제...",
+        "link": "https://n.news.naver.com/mnews/article/032/0003465662?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 22 Aug 2026 06:00:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "3억 대출, 이자만 200만원?...영끌족 잠이 안온다",
+        "link": "https://n.news.naver.com/mnews/article/374/0000528792?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 22 Aug 2026 06:00:00 +0900",
+        "summary": "",
         "term": null
       },
       {
@@ -127,14 +181,6 @@
         "link": "https://n.news.naver.com/mnews/article/011/0004654007?sid=101",
         "source": "네이버뉴스",
         "pubDate": "Fri, 21 Aug 2026 19:09:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "2금융권 중금리·집단대출 총량서 뺀다…7월 초과분은 '소급 없음'",
-        "link": "https://www.m-i.kr/news/articleView.html?idxno=1404796",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 21 Aug 2026 18:58:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       }
