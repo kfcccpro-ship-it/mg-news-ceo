@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T15:32:33.306Z",
+  "updatedAt": "2026-08-21T18:35:28.475Z",
   "headline": "[금융] iM뱅크재단 대학생 장학금 / 새마을금고 수해복구 키트 지원 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -73,14 +73,6 @@
         "term": null
       },
       {
-        "title": "[포토] 농협 , 경남 폭우 피해 현장 방문",
-        "link": "https://n.news.naver.com/mnews/article/018/0006355958?sid=100",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 21 Aug 2026 23:05:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
         "title": "[포토] 폭우 피해농가 찾은 강호동 농협 회장",
         "link": "https://n.news.naver.com/mnews/article/018/0006355956?sid=100",
         "source": "네이버뉴스",
@@ -89,10 +81,10 @@
         "term": null
       },
       {
-        "title": "NH 농협 은행, 1480명 참여 ‘복합재난 대응훈련’… 금융 서비스 중단 막는...",
-        "link": "https://www.fntimes.com/html/view.php?ud=202608212034115465dd55077bc2_18",
+        "title": "[포토] 농협 , 경남 폭우 피해 현장 방문",
+        "link": "https://n.news.naver.com/mnews/article/018/0006355958?sid=100",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 21 Aug 2026 20:38:00 +0900",
+        "pubDate": "Fri, 21 Aug 2026 23:05:00 +0900",
         "summary": "",
         "term": null
       },
@@ -111,6 +103,14 @@
         "pubDate": "Fri, 21 Aug 2026 20:38:00 +0900",
         "summary": "",
         "term": null
+      },
+      {
+        "title": "NH 농협 은행, 1480명 참여 ‘복합재난 대응훈련’… 금융 서비스 중단 막는...",
+        "link": "https://www.fntimes.com/html/view.php?ud=202608212034115465dd55077bc2_18",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 21 Aug 2026 20:38:00 +0900",
+        "summary": "",
+        "term": null
       }
     ],
     "macro": [
@@ -119,14 +119,6 @@
         "link": "https://www.tokenpost.kr/news/cryptocurrency/395222",
         "source": "네이버뉴스",
         "pubDate": "Sat, 22 Aug 2026 00:22:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "재정정책 충돌…한은은 금리 인상 돈 죄기, 정부는 800조 예산 돈 풀기",
-        "link": "https://n.news.naver.com/mnews/article/353/0000056386?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 22 Aug 2026 00:02:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       },
