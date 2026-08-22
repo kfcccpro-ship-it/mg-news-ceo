@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T12:37:50.466Z",
+  "updatedAt": "2026-08-22T15:20:06.475Z",
   "headline": "\"복구지원 총력\" 강호동 농협 중앙회장, 경남 집중호우 피해현장 방문 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -8,14 +8,6 @@
         "link": "https://n.news.naver.com/mnews/article/079/0004181196?sid=102",
         "source": "네이버뉴스",
         "pubDate": "Sat, 22 Aug 2026 16:47:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "강호동 농협 중앙회장, 거제 수해현장 점검…\"영농·일상 회복 끝까지 지...",
-        "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=84813",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 22 Aug 2026 12:54:00 +0900",
         "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
         "term": null
       },
@@ -38,6 +30,22 @@
     ],
     "otherFinance": [
       {
+        "title": "양산 농협 , 양산시인재육성장학재단에 장학금 기탁",
+        "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=643715",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 22 Aug 2026 22:26:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "강호동 농협 회장, 거제 수해 피해 농가 직접 방문",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=541938",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 22 Aug 2026 21:50:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
         "title": "광주 은행 , 광주비엔날레에 1억 후원",
         "link": "http://www.gjdream.com/news/articleView.html?idxno=672058",
         "source": "네이버뉴스",
@@ -57,22 +65,6 @@
         }
       },
       {
-        "title": "이화여대기술지주-신한 은행 , 창업기업 성장 지원",
-        "link": "https://www.naeil.com/news/read/599653?ref=naver",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 22 Aug 2026 19:20:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "\"4대 은행 중 인니 실적 최하위\"…정진완 우리 은행 , 6577만 달러 회수전...",
-        "link": "https://www.the-today.com/news/articleView.html?idxno=88787",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 22 Aug 2026 19:12:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
         "title": "강호동 농협 회장, 거제 수해 현장 점검…\"영농 재개 지원 총력\"",
         "link": "https://n.news.naver.com/mnews/article/119/0003124198?sid=101",
         "source": "네이버뉴스",
@@ -87,17 +79,25 @@
         "pubDate": "Sat, 22 Aug 2026 14:00:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "경북 농협 , 새의성 농협 ‘위더스상’ 수상",
-        "link": "https://tk.newdaily.co.kr/site/data/html/2026/08/22/2026082200017.html",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 22 Aug 2026 13:12:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "macro": [
+      {
+        "title": "엔비디아 기대감과 금리 우려의 '이중주' [주간 증시 전망]",
+        "link": "https://n.news.naver.com/mnews/article/119/0003124205?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 23 Aug 2026 00:11:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "[한은] 생산자물가 11개월 만에 하락…전북 '비용 반등' 경계",
+        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=705183",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 22 Aug 2026 21:40:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "美 국채 '안전자산 프리미엄' 흔들…금리 오르고 달러 내려, 韓 조달비...",
         "link": "http://sateconomy.co.kr/news/view/1065615490021156",
@@ -105,25 +105,6 @@
         "pubDate": "Sat, 22 Aug 2026 21:22:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
-      },
-      {
-        "title": "\"월요일 국장 또 폭등?\"…삼성전자·SK하이닉스, 美금리·엔비디아에 주...",
-        "link": "https://www.ajunews.com/view/20260821171126525",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 22 Aug 2026 20:10:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "[김남현의 채권썰] 시장 충격은 기준금리 동결시 더 클 듯",
-        "link": "https://www.etoday.co.kr/news/view/2617053",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 22 Aug 2026 19:58:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Forward Guidance",
-          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
-        }
       },
       {
         "title": "구제역에 소 못 팔자…문경시, 대출이자 지원 나섰다",
