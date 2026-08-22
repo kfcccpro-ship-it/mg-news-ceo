@@ -1,8 +1,16 @@
 {
-  "updatedAt": "2026-08-22T06:38:49.379Z",
-  "headline": "강호동 농협 중앙회장, 거제 수해현장 점검…\"영농·일상 회복 끝까지 지... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-08-22T09:25:36.420Z",
+  "headline": "\"복구지원 총력\" 강호동 농협 중앙회장, 경남 집중호우 피해현장 방문 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "\"복구지원 총력\" 강호동 농협 중앙회장, 경남 집중호우 피해현장 방문",
+        "link": "https://n.news.naver.com/mnews/article/079/0004181196?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 22 Aug 2026 16:47:00 +0900",
+        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
       {
         "title": "강호동 농협 중앙회장, 거제 수해현장 점검…\"영농·일상 회복 끝까지 지...",
         "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=84813",
@@ -34,46 +42,51 @@
         "pubDate": "Fri, 21 Aug 2026 23:22:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "새마을금고 , 부실 털고 금고 합치고…정상화 ‘박차’",
-        "link": "https://www.sentv.co.kr/article/view/sentv202608210124",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 21 Aug 2026 19:26:00 +0900",
-        "summary": "새마을금고 건전성 관리 흐름과 연결해 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
       }
     ],
     "otherFinance": [
       {
-        "title": "[통장사용설명서] 최고 연 12% KB카드쓰담적금…누가 받을 수 있나",
-        "link": "https://www.smarttoday.co.kr/ko-kr/articles/110684",
+        "title": "강호동 농협 회장, 거제 수해 현장 점검…\"영농 재개 지원 총력\"",
+        "link": "https://n.news.naver.com/mnews/article/119/0003124198?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 22 Aug 2026 15:02:00 +0900",
+        "pubDate": "Sat, 22 Aug 2026 18:14:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[Q2 분석] \"역대급 장세를 완벽 흡수\" 대신증권…영업익 165%·순익 243%, ...",
-        "link": "http://www.economytalk.kr/news/articleView.html?idxno=423662",
+        "title": "저축 은행 주담대 금리도 '줄인상'…한투·SBI·OK 등 오름세",
+        "link": "https://www.newsway.co.kr/news/view?ud=2026082113294774974",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 22 Aug 2026 14:44:00 +0900",
+        "pubDate": "Sat, 22 Aug 2026 17:18:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "BNK경남 은행 , 김해시와 '소상공인 희망나눔 상생 금융 ' 맞손",
+        "link": "https://n.news.naver.com/mnews/article/079/0004181197?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 22 Aug 2026 16:47:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "미 은행 자본요건 4.8% 완화안, AI 대출 여력 시험",
+        "link": "https://www.tokenpost.kr/news/policy/395608",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 22 Aug 2026 16:32:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "소진공, 태안군·하나 은행 등 6개 기관과 '상권 활성화' MOU 체결",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=717642",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 22 Aug 2026 15:54:00 +0900",
         "summary": "",
         "term": null
       },
       {
         "title": "\"상속·증여 시장 잡아라\"…은행권, 자산승계 경쟁 본격화",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1398057",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 22 Aug 2026 14:00:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "\"상속·증여 시장 잡아라\"… 은행 권, 자산승계 경쟁 본격화",
         "link": "https://daily.hankooki.com/news/articleView.html?idxno=1398057",
         "source": "네이버뉴스",
         "pubDate": "Sat, 22 Aug 2026 14:00:00 +0900",
@@ -89,31 +102,26 @@
         "term": null
       },
       {
-        "title": "강호동 농협 회장, 거제 수해 현장 점검…복구 지원 총력",
-        "link": "https://n.news.naver.com/mnews/article/448/0000635022?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 22 Aug 2026 11:01:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
         "title": "범 농협 , 경남 거제 폭우피해 복구지원에 총력",
         "link": "https://n.news.naver.com/mnews/article/662/0000102451?sid=102",
         "source": "네이버뉴스",
         "pubDate": "Sat, 22 Aug 2026 11:01:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "NH 농협 은행, 인천공항 '스마트패스' 서비스 NH올원뱅크에 도입...얼굴인...",
-        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=259455",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 22 Aug 2026 11:00:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "macro": [
+      {
+        "title": "[N위크] 기준금리 동결할까 인상할까…코스피 최고 7500 예측",
+        "link": "https://www.tfmedia.co.kr/news/article.html?no=206639",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 22 Aug 2026 16:26:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+        }
+      },
       {
         "title": "구제역에 소 못 팔자…문경시, 대출이자 지원 나섰다",
         "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4081747",
