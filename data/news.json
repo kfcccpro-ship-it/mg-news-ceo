@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T15:21:29.458Z",
+  "updatedAt": "2026-08-23T18:28:21.431Z",
   "headline": "춘천동부 새마을금고 파크골프대회 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -62,35 +62,19 @@
     ],
     "otherFinance": [
       {
+        "title": "[이슈체크] 상반기 은행 권 이자이익 32조원 '역대 최대'…당기순익↓",
+        "link": "https://www.tfmedia.co.kr/news/article.html?no=206657",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 24 Aug 2026 01:56:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
         "title": "5대 은행 집단대출 확대…가계대출 잔액 연간 목표 초과",
         "link": "https://www.cbci.co.kr/news/articleView.html?idxno=600470",
         "source": "네이버뉴스",
         "pubDate": "Mon, 24 Aug 2026 00:06:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "중국 금융 당국, 태풍 '돌핀' 대응… 보험금 76억 위안 지급",
-        "link": "https://www.insnews.co.kr/news/articleView.html?idxno=92337",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 24 Aug 2026 00:02:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "정신과 진료 이력 있으면 실손보험 가입 불가?",
-        "link": "https://www.danbinews.com/news/articleView.html?idxno=33624",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 23 Aug 2026 21:46:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "새고성 농협 영현지점 폐쇄안에 조합원 반발",
-        "link": "http://www.gnmaeil.com/news/articleView.html?idxno=593199",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 23 Aug 2026 21:42:00 +0900",
-        "summary": "",
         "term": null
       },
       {
@@ -111,6 +95,33 @@
       }
     ],
     "macro": [
+      {
+        "title": "미니애폴리스 연은 총재 \"이란 충돌 장기화하면 추가 금리인상 필요\"",
+        "link": "https://n.news.naver.com/mnews/article/421/0009128059?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 24 Aug 2026 03:23:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Terminal Rate",
+          "meaning": "기준금리 인상 사이클의 최종 수준에 대한 시장 기대"
+        }
+      },
+      {
+        "title": "美 금리 인하 앞둔 기관 자금, 중기 채권·전력망 AI로 이동",
+        "link": "https://www.g-enews.com/view.php?ud=202608231615345738fbbec65dfb_1",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 24 Aug 2026 03:16:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "美재무, 국채금리 급등 '대증요법'으로 눌러보려다 참교육 당해",
+        "link": "https://www.tfmedia.co.kr/news/article.html?no=206659",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 24 Aug 2026 02:56:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
       {
         "title": "대출 여력 30조 늘었는데…KB '주담대 3억' 빗장 풀릴까",
         "link": "https://n.news.naver.com/mnews/article/629/0000526742?sid=101",
