@@ -1,8 +1,16 @@
 {
-  "updatedAt": "2026-08-25T12:45:56.158Z",
-  "headline": "김희수 도의장 \" 농협 중앙회 전북 이전 촉구\" 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-08-25T15:41:07.746Z",
+  "headline": "새마을금고 , 거제·통영에 1억 6000만원 성금·구호품 지원 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "새마을금고 , 거제·통영에 1억 6000만원 성금·구호품 지원",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3674664",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 25 Aug 2026 22:40:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "김희수 도의장 \" 농협 중앙회 전북 이전 촉구\"",
         "link": "https://jtv.co.kr/news/article.php?id=70747",
@@ -39,14 +47,6 @@
         "term": null
       },
       {
-        "title": "[시론] 인천시금고 공모 논란, '행정 협치'의 시험대",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1330407",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 25 Aug 2026 20:20:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
         "title": "[금융] iM뱅크 AI·블록체인 경진대회 / 새마을금고 거제·통영 수해 지...",
         "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2277513",
         "source": "네이버뉴스",
@@ -73,18 +73,10 @@
     ],
     "otherFinance": [
       {
-        "title": "경남 은행 ·신용보증·기술보증기금 전략·미래산업 중기 1000억 금융 지원",
-        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=581688",
+        "title": "IBK기업 은행 , 1200억 원 장기연체 채권 소각...장기 연체자 5000여 명 구제",
+        "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=63370",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 25 Aug 2026 21:42:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "IBK기업 은행 , 장기연체 채권 1200억원 소각…5000여명 재기 지원",
-        "link": "https://www.betanews.net/article/view/beta202608250091",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 25 Aug 2026 21:32:00 +0900",
+        "pubDate": "Wed, 26 Aug 2026 00:26:00 +0900",
         "summary": "",
         "term": {
           "word": "Delinquency",
@@ -92,10 +84,34 @@
         }
       },
       {
-        "title": "1200억 빚 지우고 비인기 종목 키우고... IBK기업 은행 , 금융 ·스포츠로 ...",
-        "link": "https://m.sports.naver.com/general/article/450/0000153605",
+        "title": "국책 은행 ·금감원·예보까지… 공공기관 지방 이전설에 반발 확산",
+        "link": "https://n.news.naver.com/mnews/article/005/0001868961?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 25 Aug 2026 21:31:00 +0900",
+        "pubDate": "Wed, 26 Aug 2026 00:18:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "평창 주민 금융 편의 UP…우체국서 시중 은행 대출",
+        "link": "https://n.news.naver.com/mnews/article/654/0000196960?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 26 Aug 2026 00:06:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "퇴직연금 증권으로 '머니무브'…은행 '고객 잡기' 전략은",
+        "link": "https://n.news.naver.com/mnews/article/629/0000527547?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 26 Aug 2026 00:01:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "은행 서비스에 AI 입히다",
+        "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3073148",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 26 Aug 2026 00:00:00 +0900",
         "summary": "",
         "term": null
       },
@@ -108,46 +124,25 @@
         "term": null
       },
       {
-        "title": "경남농협 '1조 포용 금융 지원' 달성 총력",
-        "link": "http://www.gnmaeil.com/news/articleView.html?idxno=593411",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 25 Aug 2026 21:28:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "BNK경남 은행 , 미래전략산업 1천억 지원",
-        "link": "http://www.gnmaeil.com/news/articleView.html?idxno=593409",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 25 Aug 2026 21:28:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
         "title": "농협 은행 경남본부, '경남특화 생산적 금융 ' 강화…1조원 목표",
         "link": "https://n.news.naver.com/mnews/article/079/0004182313?sid=102",
         "source": "네이버뉴스",
         "pubDate": "Tue, 25 Aug 2026 20:29:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "NH 농협 은행 경북본부, 경북 학생들에 ‘장학금 2억원’ 통 큰 지원",
-        "link": "https://tk.newdaily.co.kr/site/data/html/2026/08/25/2026082500370.html",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 25 Aug 2026 20:26:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "macro": [
       {
-        "title": "대출 총량 늘리자 집단 대출만 '숨통'…일반 대출 수요자 '울상'",
-        "link": "https://n.news.naver.com/mnews/article/448/0000635627?sid=101",
+        "title": "내일 금통위… 기준금리 연속 인상할까",
+        "link": "https://n.news.naver.com/mnews/article/023/0003994867?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 25 Aug 2026 21:23:00 +0900",
-        "summary": "",
-        "term": null
+        "pubDate": "Wed, 26 Aug 2026 00:32:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+        }
       },
       {
         "title": "경기도내 상호금융 직원 비리로 얼룩 서민 돈으로 불법대출 꼬리 물어",
