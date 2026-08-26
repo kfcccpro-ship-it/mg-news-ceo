@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T12:50:55.809Z",
+  "updatedAt": "2026-08-26T16:17:10.773Z",
   "headline": "이성윤 의원, 농협 중앙회 전북 이전 촉구…법 개정이 첫 관문 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -13,14 +13,6 @@
       },
       {
         "title": "삼척 영화관 지키는 새마을금고 …연 12만명 문화공간 제공",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3675895",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 26 Aug 2026 21:42:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "삼척 영화관 지키는 새마을금고…연 12만명 문화공간 제공",
         "link": "https://www.gukjenews.com/news/articleView.html?idxno=3675895",
         "source": "네이버뉴스",
         "pubDate": "Wed, 26 Aug 2026 21:42:00 +0900",
@@ -50,39 +42,42 @@
         "pubDate": "Wed, 26 Aug 2026 19:08:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "새마을금고 , 지역사회공헌 확대...올 상반기 2000억 지원",
-        "link": "https://n.news.naver.com/mnews/article/011/0004655518?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 26 Aug 2026 18:41:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "IBK기업 은행 , 장지규 신임 IBK인도네시아 은행 법인장 임용…해외 법인장...",
-        "link": "https://www.insidevina.com/news/articleView.html?idxno=43908",
+        "title": "[단신]우리 은행 -기보, 3대 메가프로젝트에 1조 대출",
+        "link": "https://n.news.naver.com/mnews/article/020/0003743621?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 26 Aug 2026 21:38:00 +0900",
-        "summary": "",
+        "pubDate": "Thu, 27 Aug 2026 00:31:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "하나 은행 서도 24억 금융 사고…산은·기은에 이어 또 ‘외부인 사기’",
-        "link": "https://n.news.naver.com/mnews/article/020/0003743592?sid=101",
+        "title": "한국 은행 , 오늘 기준금리 결정...2연속 인상 '촉각'",
+        "link": "https://n.news.naver.com/mnews/article/052/0002398723?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 26 Aug 2026 21:38:00 +0900",
-        "summary": "",
+        "pubDate": "Thu, 27 Aug 2026 00:23:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+        }
+      },
+      {
+        "title": "[ 금융 家] NH 농협 은행 ⑤ㅣ AI·디지털 전환 속도…영업점부터 상담·생활...",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=600686",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 27 Aug 2026 00:10:00 +0900",
+        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "기보-우리 은행 , 9750억 협약보증…첨단산업 기업에 100% 보증 지원",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3675889",
+        "title": "[ 금융 家] NH농협 은행 ⑤ㅣ AI·디지털 전환 속도…영업점부터 상담·생활...",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=600686",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 26 Aug 2026 21:34:00 +0900",
-        "summary": "",
+        "pubDate": "Thu, 27 Aug 2026 00:10:00 +0900",
+        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
@@ -111,34 +106,69 @@
         "pubDate": "Wed, 26 Aug 2026 20:56:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "[ 금융 ] 카카오페이 체크카드 머니연결 / KB국민은행 스타벅스 제휴통장...",
-        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2279081",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 26 Aug 2026 20:26:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "농협 경남본부, 집중호우 피해 조합원·지역민 금융 지원 나서",
-        "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=644093",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 26 Aug 2026 19:56:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "macro": [
       {
-        "title": "연체율 오르고 대출 막히고...지역 기업·가계 ‘벼랑 끝’",
-        "link": "https://n.news.naver.com/mnews/article/655/0000032551?sid=101",
+        "title": "한은 금통위, 기준금리 연속 인상할까…동결 전망도",
+        "link": "https://n.news.naver.com/mnews/article/056/0012245388?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 26 Aug 2026 21:25:00 +0900",
+        "pubDate": "Thu, 27 Aug 2026 01:00:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+        }
+      },
+      {
+        "title": "주담대 금리 2년 8개월만에 최고치… 변동금리 쏠림 더 심화",
+        "link": "https://n.news.naver.com/mnews/article/005/0001869214?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 27 Aug 2026 00:52:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "대출 여력 30조원 늘지만… 주택 실수요자 주담대는 여전히 ‘좁은 문’",
+        "link": "https://n.news.naver.com/mnews/article/023/0003995088?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 27 Aug 2026 00:32:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "금리 오르는데… 불리한 변동형 주담대 12년새 최고",
+        "link": "https://n.news.naver.com/mnews/article/020/0003743618?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 27 Aug 2026 00:31:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "중소기업 대출 급감…광주·전남 '돈줄' 가계로 향했다",
+        "link": "http://www.gjdream.com/news/articleView.html?idxno=672161",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 27 Aug 2026 00:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "대출이자 또 뛰나...'빚 다이어트' 시급",
+        "link": "http://www.00news.co.kr/news/articleView.html?idxno=106136",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 26 Aug 2026 22:32:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "국내 예금 토큰을 글로벌 결제망으로…수호아이오·파티오르 연동 추진",
+        "link": "https://www.venturesquare.net/1108797/",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 26 Aug 2026 22:15:00 +0900",
         "summary": "",
         "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
         }
       },
       {
@@ -167,17 +197,6 @@
         "pubDate": "Wed, 26 Aug 2026 18:57:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
-      },
-      {
-        "title": "[머니 마이웨이] 빚 연체돼도 최소 생활비는 지킨다···생계비계좌 사...",
-        "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=257852",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 26 Aug 2026 18:56:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
       }
     ]
   }
