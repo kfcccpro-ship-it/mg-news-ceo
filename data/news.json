@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T20:38:57.891Z",
+  "updatedAt": "2026-08-30T23:13:50.345Z",
   "headline": "새마을금고 , 사회연대경제 활성화 추진...375억 금융지원 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -26,130 +26,83 @@
         "pubDate": "Sun, 30 Aug 2026 17:32:00 +0900",
         "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
         "term": null
-      },
-      {
-        "title": "“사회연대경제조직 활성화”… 새마을금고 , 375억 원 금융지원",
-        "link": "https://n.news.naver.com/mnews/article/021/0002814873?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 30 Aug 2026 15:28:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "새마을금고 , 사회연대경제조직에 375억원 규모 지원",
-        "link": "http://www.metroseoul.co.kr/article/20260830500213",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 30 Aug 2026 15:14:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "KB국민 은행 , 청년 1000명에 SW·AI 교육...'KB IT's Your Life' 7기 수료",
-        "link": "https://www.insight.co.kr/news/570968",
+        "title": "국내 은행 건전성 소폭 개선…2분기 순이익 늘어난 영향",
+        "link": "https://n.news.naver.com/mnews/article/023/0003995790?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 31 Aug 2026 05:34:00 +0900",
+        "pubDate": "Mon, 31 Aug 2026 08:12:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "신용점수 900점보다 600점이 더 싸다?…은행권 대출금리 '역전'",
-        "link": "https://n.news.naver.com/mnews/article/421/0009140493?sid=101",
+        "title": "사고 터져야 알았다…새 수법에 은행 권 ‘사후대응’ 딜레마",
+        "link": "https://dealsite.co.kr/articles/168018",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 31 Aug 2026 05:30:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "NIM",
-          "meaning": "금리 변화가 금융기관 수익성에 미치는 영향을 보여주는 핵심 지표"
-        }
-      },
-      {
-        "title": "신용점수 900점보다 600점이 더 싸다?… 은행 권 대출금리 '역전'",
-        "link": "https://n.news.naver.com/mnews/article/421/0009140493?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 31 Aug 2026 05:30:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "NIM",
-          "meaning": "금리 변화가 금융기관 수익성에 미치는 영향을 보여주는 핵심 지표"
-        }
-      },
-      {
-        "title": "은행 만큼 커진 '연쇄부실 위험'…증권사엔 없는 '위기 플랜'",
-        "link": "https://n.news.naver.com/mnews/article/008/0005406820?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 31 Aug 2026 05:17:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
-      },
-      {
-        "title": "“롤러코스피 대신 예금”… 5대 은행 정기예금 사상 첫 1000조",
-        "link": "https://n.news.naver.com/mnews/article/081/0003674885?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 31 Aug 2026 05:04:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
-      },
-      {
-        "title": "은행 지점 줄이자 더 좁아진 취업문…대세는 ‘핀셋 채용’",
-        "link": "https://n.news.naver.com/mnews/article/081/0003674892?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 31 Aug 2026 05:04:00 +0900",
+        "pubDate": "Mon, 31 Aug 2026 08:02:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "롤러코스피 지쳐 유턴, 은행 정기예금 1000조 돌파",
-        "link": "https://n.news.naver.com/mnews/article/020/0003744389?sid=101",
+        "title": "두 달새 카드론 4600억 줄였더니… 18% 고금리 빚 6000억 늘었다",
+        "link": "https://n.news.naver.com/mnews/article/023/0003995789?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 31 Aug 2026 00:31:00 +0900",
+        "pubDate": "Mon, 31 Aug 2026 07:54:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "국내은행 BIS 총자본비율 15.77%…\"전 은행 규제비율 크게 상회\"",
+        "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=63582",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 31 Aug 2026 07:46:00 +0900",
+        "summary": "",
         "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+          "word": "CET1",
+          "meaning": "손실흡수력을 보여주는 대표적인 자본적정성 지표"
         }
       },
       {
-        "title": "대화 농협 , 상호 금융 대출금1,000억원 달성탑 수상",
-        "link": "https://n.news.naver.com/mnews/article/087/0001214449?sid=102",
+        "title": "NH 농협금융 , 4000억 펀드 조성... 첨단산업 육성 박차",
+        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=135033",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 31 Aug 2026 00:18:00 +0900",
+        "pubDate": "Mon, 31 Aug 2026 07:30:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "농협 충북본부, 상호 금융 건전성 강화 '총력'",
+        "link": "https://www.aflnews.co.kr/news/articleView.html?idxno=327097",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 31 Aug 2026 07:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "7% 금리 제시한 저축은행들…증시로 가던 자금, 발길 돌릴까",
+        "link": "https://n.news.naver.com/mnews/article/018/0006360633?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 31 Aug 2026 07:02:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "농협 경남본부, 거제·통영 수해복구에 700명 투입…500억원 긴급자금 지...",
+        "link": "https://www.kukinews.com/article/view/kuk202608310007",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 31 Aug 2026 07:02:00 +0900",
+        "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "“완전 고용”에도 ‘정권 압력’ 불편한 금리 예측 [트럼프 스톡커]",
-        "link": "https://n.news.naver.com/mnews/article/011/0004656700?sid=104",
+        "title": "한은, 물가·성장 압력에 기준금리 3%로 연속 인상…주담대 8%대 부담↑",
+        "link": "https://www.newswhoplus.com/news/articleView.html?idxno=68273",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 31 Aug 2026 05:30:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "상호 금융 예적금↓ 연체율↑…건전성 ‘빨간불’",
-        "link": "https://n.news.naver.com/mnews/article/662/0000103051?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 31 Aug 2026 05:03:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
-      },
-      {
-        "title": "기준금리 인상에 주담대 8%까지?…이자부담 무거워진다",
-        "link": "https://n.news.naver.com/mnews/article/079/0004183934?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 31 Aug 2026 05:02:00 +0900",
+        "pubDate": "Mon, 31 Aug 2026 07:30:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": {
           "word": "Forward Guidance",
@@ -157,11 +110,19 @@
         }
       },
       {
-        "title": "\"860원대 원엔 환율\"… 엔화 가치 급락에 '이것' 몰렸다",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3678967",
+        "title": "연 9% 이자에 금리까지 올랐다…'빚투' 부담 더 커지나 [백투백 인상]",
+        "link": "https://n.news.naver.com/mnews/article/119/0003127074?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 31 Aug 2026 00:20:00 +0900",
-        "summary": "",
+        "pubDate": "Mon, 31 Aug 2026 07:08:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "주거사업장 PF 규제 2년 유예 … 방심은 금물 [바른 컴플라이언스리포트...",
+        "link": "https://n.news.naver.com/mnews/article/009/0005727857?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 31 Aug 2026 07:01:00 +0900",
+        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
         "term": null
       },
       {
