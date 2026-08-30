@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-30T11:22:34.749Z",
-  "headline": "인천시금고 선정 절차 개시…시중은행, 치열한 수싸움 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-08-30T16:09:11.177Z",
+  "headline": "새마을금고 , 사회연대경제 활성화 추진...375억 금융지원 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
-        "title": "인천시금고 선정 절차 개시…시중은행, 치열한 수싸움",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1330767",
+        "title": "새마을금고 , 사회연대경제 활성화 추진...375억 금융지원",
+        "link": "http://www.newsbrite.net/news/articleView.html?idxno=200029",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 30 Aug 2026 19:06:00 +0900",
+        "pubDate": "Sun, 30 Aug 2026 23:50:00 +0900",
         "summary": "",
         "term": null
       },
@@ -46,94 +46,108 @@
     ],
     "otherFinance": [
       {
-        "title": "경남 농협 , 거제·통영 폭우 피해현장에 총력 지원",
-        "link": "https://n.news.naver.com/mnews/article/079/0004183912?sid=102",
+        "title": "비트코인 다시 품는 이스라엘 최대 은행 …2027년 가상자산 거래 재도전",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=602294",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 30 Aug 2026 19:57:00 +0900",
+        "pubDate": "Mon, 31 Aug 2026 00:40:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "경남농협, 거제·통영 폭우 피해현장에 총력 지원",
-        "link": "https://n.news.naver.com/mnews/article/079/0004183912?sid=102",
+        "title": "롤러코스피 지쳐 유턴, 은행 정기예금 1000조 돌파",
+        "link": "https://n.news.naver.com/mnews/article/020/0003744389?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 30 Aug 2026 19:57:00 +0900",
+        "pubDate": "Mon, 31 Aug 2026 00:31:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "ELS 사태 없게… 은행 고위험상품 심사에 전문가 참여 의무화",
+        "link": "https://n.news.naver.com/mnews/article/020/0003744390?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 31 Aug 2026 00:31:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "무보, 기업·하나 은행 출연 R&D 혁신기업 무역 금융 제공",
-        "link": "https://www.viva100.com/article/20260830500746",
+        "title": "대화 농협 , 상호 금융 대출금1,000억원 달성탑 수상",
+        "link": "https://n.news.naver.com/mnews/article/087/0001214449?sid=102",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 30 Aug 2026 19:44:00 +0900",
+        "pubDate": "Mon, 31 Aug 2026 00:18:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "농협 강원본부 상호 금융 사업 추진 교육",
+        "link": "https://n.news.naver.com/mnews/article/654/0000197807?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 31 Aug 2026 00:09:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "BNK경남 은행 , '전통시장 상품권' 전달",
-        "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=644304",
+        "title": "평창 대화 농협 상호 금융 대출금 1000억원 달성탑 수상",
+        "link": "https://n.news.naver.com/mnews/article/654/0000197754?sid=102",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 30 Aug 2026 19:34:00 +0900",
+        "pubDate": "Mon, 31 Aug 2026 00:06:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "농협금융 , 상생·성장펀드 2호 4000억으로 확대…연내 1조원 채운다",
+        "link": "https://www.apnews.kr/news/articleView.html?idxno=3050839",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 31 Aug 2026 00:04:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "NH 농협금융 , 4000억원 '상생·성장 펀드' 조성… 기업금융 모험자본 '퀀...",
-        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=358124",
+        "title": "송춘수 농협 손보 대표, 정책보험 앞세워 기후위기 대응 [손보사 일반보...",
+        "link": "https://www.fntimes.com/html/view.php?ud=202608282250584096dd55077bc2_18",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 30 Aug 2026 19:32:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "NH 농협금융 , '상생·성장 펀드 2호' 4000억원 규모 조성… 기업금융 투자...",
-        "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=43351",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 30 Aug 2026 19:12:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "의령경찰서, 신종사기 피해 예방 동부 농협 지정지점 직원 감사장 전달",
-        "link": "http://www.gndomin.com/news/articleView.html?idxno=487304",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 30 Aug 2026 18:48:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "NH 농협 은행 전북본부, ‘희망2026 나눔 유공자’표창 수상",
-        "link": "https://sjbnews.com/news/news.php?number=886360",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 30 Aug 2026 18:33:00 +0900",
+        "pubDate": "Mon, 31 Aug 2026 00:02:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "대출 규제 피하고 신혼부부 혜택… 강북·도봉·노원 등 중저가 아파트...",
-        "link": "https://n.news.naver.com/mnews/article/021/0002814908?sid=101",
+        "title": "반도체 낙수… 물가 광범위 자극 가능성",
+        "link": "https://n.news.naver.com/mnews/article/005/0001869822?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 30 Aug 2026 20:07:00 +0900",
+        "pubDate": "Mon, 31 Aug 2026 00:24:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "금감원 KB 금융 검사, 회장 인사 개입 우려일까",
-        "link": "http://sateconomy.co.kr/news/view/1065610840799353",
+        "title": "\"860원대 원엔 환율\"… 엔화 가치 급락에 '이것' 몰렸다",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3678967",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 30 Aug 2026 20:04:00 +0900",
+        "pubDate": "Mon, 31 Aug 2026 00:20:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "\"3억 빌리면 월 220만원\"… 주담대 금리 8% 시대 눈앞",
-        "link": "https://n.news.naver.com/mnews/article/014/0005568324?sid=101",
+        "title": "\"서울 전셋값 4억 넘었는데\"… 현실 겉도는 신혼부부 버팀목 대출 기준",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3678857",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 30 Aug 2026 18:31:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "pubDate": "Mon, 31 Aug 2026 00:20:00 +0900",
+        "summary": "",
         "term": null
+      },
+      {
+        "title": "강원 상호금융 '역대 최대' 예금 1조원 이탈",
+        "link": "https://n.news.naver.com/mnews/article/654/0000197786?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 31 Aug 2026 00:08:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
       },
       {
         "title": "주담대 금리 2년 8개월 만에 최고… 가계 이자 부담 커진다",
@@ -141,30 +155,6 @@
         "source": "네이버뉴스",
         "pubDate": "Sun, 30 Aug 2026 18:10:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "늘어난 대출 여력 30조 중 주담대·신용대출 6조~8조 배정될 듯",
-        "link": "https://www.ajunews.com/view/20260830142345935",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 30 Aug 2026 15:00:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "가계대출 신규 여력 30조 배분 마무리…일반 주담대·신용대출은 6조~8조...",
-        "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=88400",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 30 Aug 2026 14:34:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "상호금융, 집단대출 잇따라 재개…실수요자 중심으로 대출 문 연다",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1400484",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 30 Aug 2026 14:00:00 +0900",
-        "summary": "",
         "term": null
       }
     ]
