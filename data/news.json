@@ -1,108 +1,148 @@
 {
-  "updatedAt": "2026-08-30T23:13:50.345Z",
-  "headline": "새마을금고 , 사회연대경제 활성화 추진...375억 금융지원 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-08-31T04:01:06.920Z",
+  "headline": "새마을금고 , 사회적기업·소상공인에 1.1조원 규모 특례보증대출 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
-        "title": "새마을금고 , 사회연대경제 활성화 추진...375억 금융지원",
-        "link": "http://www.newsbrite.net/news/articleView.html?idxno=200029",
+        "title": "새마을금고 , 사회적기업·소상공인에 1.1조원 규모 특례보증대출",
+        "link": "http://www.metroseoul.co.kr/article/20260831500134",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 30 Aug 2026 23:50:00 +0900",
+        "pubDate": "Mon, 31 Aug 2026 13:00:00 +0900",
+        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "새마을금고 , 1000억 출연해 1.1조 푼다…소상공인 특례보증 실시",
+        "link": "https://www.the-today.com/news/articleView.html?idxno=89201",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 31 Aug 2026 12:48:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "사회적기업·협동조합에 '금융 숨통'… 새마을금고 375억 지원",
-        "link": "https://www.namdonews.com/news/articleView.html?idxno=921643",
+        "title": "세종시교육청, 2030년까지 교육예산 관리 금고 지정 일반경쟁 공고",
+        "link": "http://www.cctimes.kr/news/articleView.html?idxno=924432",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 30 Aug 2026 17:58:00 +0900",
+        "pubDate": "Mon, 31 Aug 2026 12:48:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "새마을금고 , 사회연대경제조직에 375억원 금융지원",
-        "link": "http://www.bizwnews.com/news/articleView.html?idxno=144651",
+        "title": "새마을금고 , 1.1조원 특례보증대출...포용금융 강화",
+        "link": "http://www.newsbrite.net/news/articleView.html?idxno=200072",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 30 Aug 2026 17:32:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
+        "pubDate": "Mon, 31 Aug 2026 12:36:00 +0900",
+        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "새마을금고 , 사회적기업에 1.1조 대출…다음달 1일 출시",
+        "link": "https://www.nspna.com/news/?mode=view&newsid=826222",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 31 Aug 2026 12:28:00 +0900",
+        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "새마을금고 , 사회적기업·지역 소상공인에 1.1조원 규모 특례보증대출",
+        "link": "https://n.news.naver.com/mnews/article/016/0002690613?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 31 Aug 2026 11:58:00 +0900",
+        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "사천·남해·하동 새마을금고 , 파크골프로 화합",
+        "link": "https://www.idomin.com/news/articleView.html?idxno=2013587",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 31 Aug 2026 11:36:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "새마을금고 , 사회적기업·지역 소상공인에 1조1000억원 대출 공급",
+        "link": "https://n.news.naver.com/mnews/article/277/0005809546?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 31 Aug 2026 11:26:00 +0900",
+        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
         "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "국내 은행 건전성 소폭 개선…2분기 순이익 늘어난 영향",
-        "link": "https://n.news.naver.com/mnews/article/023/0003995790?sid=101",
+        "title": "하나 은행 , ‘행운기부런 적금’ 1억740만원 기부금 조성",
+        "link": "http://www.metroseoul.co.kr/article/20260831500167",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 31 Aug 2026 08:12:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "사고 터져야 알았다…새 수법에 은행 권 ‘사후대응’ 딜레마",
-        "link": "https://dealsite.co.kr/articles/168018",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 31 Aug 2026 08:02:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "두 달새 카드론 4600억 줄였더니… 18% 고금리 빚 6000억 늘었다",
-        "link": "https://n.news.naver.com/mnews/article/023/0003995789?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 31 Aug 2026 07:54:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "국내은행 BIS 총자본비율 15.77%…\"전 은행 규제비율 크게 상회\"",
-        "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=63582",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 31 Aug 2026 07:46:00 +0900",
+        "pubDate": "Mon, 31 Aug 2026 13:00:00 +0900",
         "summary": "",
         "term": {
-          "word": "CET1",
-          "meaning": "손실흡수력을 보여주는 대표적인 자본적정성 지표"
+          "word": "LCR",
+          "meaning": "단기 유동성 충격 대응 능력을 보여주는 지표"
         }
       },
       {
-        "title": "NH 농협금융 , 4000억 펀드 조성... 첨단산업 육성 박차",
-        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=135033",
+        "title": "신한 은행 ·기보, 기업승계·M&A에 438억원 금융 지원",
+        "link": "http://www.metroseoul.co.kr/article/20260831500161",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 31 Aug 2026 07:30:00 +0900",
+        "pubDate": "Mon, 31 Aug 2026 13:00:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "농협 충북본부, 상호 금융 건전성 강화 '총력'",
-        "link": "https://www.aflnews.co.kr/news/articleView.html?idxno=327097",
+        "title": "우리 은행 , 대학생 홍보대사 통해 브랜드 소통 강화",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=131288",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 31 Aug 2026 07:02:00 +0900",
+        "pubDate": "Mon, 31 Aug 2026 13:00:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "7% 금리 제시한 저축은행들…증시로 가던 자금, 발길 돌릴까",
-        "link": "https://n.news.naver.com/mnews/article/018/0006360633?sid=101",
+        "title": "증권업계, 벤처 회수시장에 3년간 1조원 투자 추진",
+        "link": "https://n.news.naver.com/mnews/article/648/0000050323?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 31 Aug 2026 07:02:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "pubDate": "Mon, 31 Aug 2026 12:58:00 +0900",
+        "summary": "",
         "term": null
       },
       {
-        "title": "농협 경남본부, 거제·통영 수해복구에 700명 투입…500억원 긴급자금 지...",
-        "link": "https://www.kukinews.com/article/view/kuk202608310007",
+        "title": "KB국민 은행 , 한국장애인고용공단 '장애대학생 진로지원 우수기업' 선정",
+        "link": "https://www.delighti.co.kr/news/articleView.html?idxno=121035",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 31 Aug 2026 07:02:00 +0900",
+        "pubDate": "Mon, 31 Aug 2026 12:58:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "\"변화·혁신 주도할 인재 찾습니다\" 기업 은행 , 9월14일까지 '하반기 신입...",
+        "link": "https://www.catchnews.kr/news/articleView.html?idxno=127914",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 31 Aug 2026 12:56:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "신한 은행 임직원들, 거제 수해 피해 복구에 나서",
+        "link": "http://www.newsbrite.net/news/articleView.html?idxno=200066",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 31 Aug 2026 12:50:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "하나 은행 , 강동경희대와 유언대용신탁 활성화 나서",
+        "link": "http://www.newsbrite.net/news/articleView.html?idxno=200065",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 31 Aug 2026 12:50:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "한은, 물가·성장 압력에 기준금리 3%로 연속 인상…주담대 8%대 부담↑",
-        "link": "https://www.newswhoplus.com/news/articleView.html?idxno=68273",
+        "title": "대구기업 85.9% \"기준금리 인상, 경영에 부정적\"",
+        "link": "https://n.news.naver.com/mnews/article/003/0014158589?sid=102",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 31 Aug 2026 07:30:00 +0900",
+        "pubDate": "Mon, 31 Aug 2026 12:54:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": {
           "word": "Forward Guidance",
@@ -110,39 +150,23 @@
         }
       },
       {
-        "title": "연 9% 이자에 금리까지 올랐다…'빚투' 부담 더 커지나 [백투백 인상]",
-        "link": "https://n.news.naver.com/mnews/article/119/0003127074?sid=101",
+        "title": "총량 규제 풀어줘도 못 늘린다…상호금융 중금리대출 '딜레마'",
+        "link": "https://dealsite.co.kr/articles/168027",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 31 Aug 2026 07:08:00 +0900",
+        "pubDate": "Mon, 31 Aug 2026 12:02:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "주거사업장 PF 규제 2년 유예 … 방심은 금물 [바른 컴플라이언스리포트...",
-        "link": "https://n.news.naver.com/mnews/article/009/0005727857?sid=102",
+        "title": "850원대 엔화에 돈 몰렸다…예금 1.3조엔",
+        "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=102454",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 31 Aug 2026 07:01:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "강원 상호금융 '역대 최대' 예금 1조원 이탈",
-        "link": "https://n.news.naver.com/mnews/article/654/0000197786?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 31 Aug 2026 00:08:00 +0900",
+        "pubDate": "Mon, 31 Aug 2026 11:50:00 +0900",
         "summary": "",
         "term": {
           "word": "Deposit Beta",
           "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
         }
-      },
-      {
-        "title": "주담대 금리 2년 8개월 만에 최고… 가계 이자 부담 커진다",
-        "link": "https://www.ggilbo.com/news/articleView.html?idxno=1177718",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 30 Aug 2026 18:10:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
       }
     ]
   }
