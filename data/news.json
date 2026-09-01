@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T13:57:14.328Z",
+  "updatedAt": "2026-09-01T18:10:24.355Z",
   "headline": "[금융] iM뱅크 추석 1조원 지원 / 새마을금고 회원 감사 / 한화손보 상담... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -36,14 +36,6 @@
         "term": null
       },
       {
-        "title": "새마을금고·신협 대출한도 늘었지만…신규 주담대는 여전히 ‘좁은 문...",
-        "link": "https://www.viva100.com/article/20260901501529",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 01 Sep 2026 20:22:00 +0900",
-        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
         "title": "울산 일산 새마을금고 , 주부대학 29기 입학식 개최…40명 참여",
         "link": "https://www.gukjenews.com/news/articleView.html?idxno=3681613",
         "source": "네이버뉴스",
@@ -70,10 +62,26 @@
     ],
     "otherFinance": [
       {
-        "title": "[채용] KB국민 은행 , 2026년 하반기 신입·경력 180여 명 채용…서류 접수...",
-        "link": "http://www.ttlnews.com/news/articleView.html?idxno=3138905",
+        "title": "이란 은행 추가 제재, 이번 주 발표 가능성",
+        "link": "https://www.tokenpost.kr/news/breaking/401655",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 01 Sep 2026 22:46:00 +0900",
+        "pubDate": "Wed, 02 Sep 2026 01:52:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "베선트 美재무 \"이번주 이란 은행 제재 발표할 수도\"",
+        "link": "https://n.news.naver.com/mnews/article/003/0014162771?sid=104",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 02 Sep 2026 01:38:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "핑거, NH 농협 은행 100개 영업점에 'AI스마트패드' 공급",
+        "link": "https://www.thedailypost.kr/news/articleView.html?idxno=115309",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 01 Sep 2026 23:46:00 +0900",
         "summary": "",
         "term": null
       },
@@ -86,60 +94,68 @@
         "term": null
       },
       {
-        "title": "NH농협 금융 , 전북 금융 허브 출범",
-        "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=663627",
+        "title": "[NH] 농협금융 전북 금융허브 출범 / 농협은행 청년 응원 이벤트",
+        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2286353",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 01 Sep 2026 22:24:00 +0900",
+        "pubDate": "Tue, 01 Sep 2026 21:50:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "KB국민 은행 , 하반기 180명 채용…ICT·ESG·지역인재 대폭 확대",
-        "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=63683",
+        "title": "NH 농협금융 도 전북에 사무소…“특화산업·제3금융중심지 지원”",
+        "link": "https://n.news.naver.com/mnews/article/056/0012248991?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 01 Sep 2026 22:20:00 +0900",
+        "pubDate": "Tue, 01 Sep 2026 21:47:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[ 금융 로드] 하나 은행 , 은행 권 첫 '보증형 실적배당보험' 출시…IRP 연금...",
-        "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=63682",
+        "title": "[NH] 농협 은행 청약 이벤트 / 노량진1구역 금융 주선 / 농협 캐피탈 민원...",
+        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2286282",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 01 Sep 2026 22:18:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "신한 은행 , 에이블리와 손잡고 '최대 1만1천원' 쏜다…1020 겨냥 생활 금융 ...",
-        "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=63681",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 01 Sep 2026 22:14:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "저축 은행 업계, 청년상인 100곳 매장 환경개선 지원… \"소상공인과 상생...",
-        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=358274",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 01 Sep 2026 22:10:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "울산시·BNK경남 은행 , 소상공인 상생 금융 지원 확대",
-        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1066106",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 01 Sep 2026 21:56:00 +0900",
+        "pubDate": "Tue, 01 Sep 2026 21:20:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "\"美, 日 재무상·일은 총재에 '금리 올려라' 압박\"",
-        "link": "https://n.news.naver.com/mnews/article/119/0003127972?sid=104",
+        "title": "美 국채 금리 4.72% 급등… 역상관 장세 속 방어주 피난처 부상",
+        "link": "https://www.g-enews.com/view.php?ud=202609011725221202fbbec65dfb_1",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 01 Sep 2026 22:01:00 +0900",
+        "pubDate": "Wed, 02 Sep 2026 03:06:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "[패트롤] 경기도-경기도의회-경기도교육청-경기신보",
+        "link": "https://www.ekn.kr/web/view.php?key=20260902029569408",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 02 Sep 2026 02:20:00 +0900",
+        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
+        "term": null
+      },
+      {
+        "title": "유럽증시, 주요국 국채 금리 급등에 일제히 하락… 유로존 인플레 3년 만...",
+        "link": "https://www.newspim.com/news/view/20260902000038",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 02 Sep 2026 02:02:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "유가·가스발 인플레 공포…英 국채금리 2008년 이후 최고",
+        "link": "https://www.g-enews.com/view.php?ud=2026090117101223139a1f309431_1",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 02 Sep 2026 02:00:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "인플레 우려에 글로벌 채권 매도세 심화…금리 폭등·증시 하락",
+        "link": "https://n.news.naver.com/mnews/article/421/0009145138?sid=104",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 02 Sep 2026 01:50:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       },
@@ -149,14 +165,6 @@
         "source": "네이버뉴스",
         "pubDate": "Tue, 01 Sep 2026 21:20:00 +0900",
         "summary": "",
-        "term": null
-      },
-      {
-        "title": "2금융권 가계대출 한도 늘어난다…당국, 추가 여력 배분 착수",
-        "link": "https://n.news.naver.com/mnews/article/119/0003127957?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 01 Sep 2026 18:59:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
         "term": null
       }
     ]
