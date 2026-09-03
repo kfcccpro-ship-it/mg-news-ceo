@@ -1,8 +1,43 @@
 {
-  "updatedAt": "2026-09-03T20:34:32.760Z",
-  "headline": "묶인 2.7조 풀린다… 지역 새마을금고 , 적자 해소 '숨통' 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-09-03T23:04:31.854Z",
+  "headline": "\"금융에서 지역경제로\"… 새마을금고 , 일자리에 문화생활 지원 '전폭확대... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "\"금융에서 지역경제로\"… 새마을금고 , 일자리에 문화생활 지원 '전폭확대...",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=226310",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 04 Sep 2026 08:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "'금고 선정 앞두고 기준 변경 논란'…광주은행 \"공정성 훼손 우려\"",
+        "link": "https://www.ppss.kr/news/articleView.html?idxno=308728",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 04 Sep 2026 07:16:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "금융소비자 보호 새판 짠다… 새마을금고 , 금융상품 판매 전 과정 '소비...",
+        "link": "https://www.goodkyung.com/news/articleView.html?idxno=290969",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 04 Sep 2026 07:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "김인 새마을금고 중앙회장, 부실채권 3.5조 털어내고 구조조정 결실…20...",
+        "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=763048",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 04 Sep 2026 06:16:00 +0900",
+        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
       {
         "title": "묶인 2.7조 풀린다… 지역 새마을금고 , 적자 해소 '숨통'",
         "link": "https://n.news.naver.com/mnews/article/008/0005409295?sid=101",
@@ -34,123 +69,104 @@
         "pubDate": "Thu, 03 Sep 2026 21:42:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "새마을금고 , 금융상품 판매 전 과정 '소비자중심' 개편",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3684232",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 03 Sep 2026 21:42:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "새마을금고 , 연 12% 금리 적금 인기…저출생 극복 상품 가입자 2만2000명...",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3684223",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 03 Sep 2026 21:24:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "대구 청구로 새마을금고 , ISO 37001 인증 획득",
-        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=558597",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 03 Sep 2026 21:24:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "새마을금고 , 최고 연 12% '걸음마적금' 누적 가입자 12만 돌파",
-        "link": "http://www.sisacast.kr/news/articleView.html?idxno=99592",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 03 Sep 2026 19:02:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "\"생산 중심 농업서 '돈 버는 산업'으로… 농협 이 유통·판매 책임져야\"",
-        "link": "https://n.news.naver.com/mnews/article/018/0006363445?sid=101",
+        "title": "순익은 '역대급', 연임은 '미지수'…박종문 삼성증권 대표, 올 하반기 성...",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=226327",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 04 Sep 2026 05:32:00 +0900",
+        "pubDate": "Fri, 04 Sep 2026 08:02:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "저축 은행 거래자 1000만명 시대…54년 만에 처음",
-        "link": "https://n.news.naver.com/mnews/article/421/0009150302?sid=101",
+        "title": "[수협 은행 장 레이스] '수협맨' 4연승이냐, 이형주 반전이냐…신학기 대...",
+        "link": "https://dealsite.co.kr/articles/168383",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 04 Sep 2026 05:30:00 +0900",
+        "pubDate": "Fri, 04 Sep 2026 08:02:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "골드만·MUFG 뭉쳤다… 21개 은행 달러 스테이블코인 발행",
-        "link": "https://www.g-enews.com/view.php?ud=202609040437409505e7e8286d56_1",
+        "title": "'글로벌 후발주자' NH 농협 은행, 수익성 극대화 총력",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=861894",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 04 Sep 2026 05:16:00 +0900",
+        "pubDate": "Fri, 04 Sep 2026 07:44:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "농협 9월 정례조회…‘이달의 새농민상’ 등 시상",
-        "link": "https://n.news.naver.com/mnews/article/662/0000103493?sid=102",
+        "title": "AI·마이데이터 타고 금리인하 요구↑…카드·보험 수용률↓",
+        "link": "https://n.news.naver.com/mnews/article/119/0003128919?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 04 Sep 2026 05:02:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "부자 너무 많아져서…3억 굴리는 손님 퇴짜 놓는 은행PB",
-        "link": "https://n.news.naver.com/mnews/article/025/0003549080?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 04 Sep 2026 05:00:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[단독] 29일 단기 투자에도 98%가 선취… 은행 ETF 신탁 수익 6천억 '도마...",
-        "link": "https://n.news.naver.com/mnews/article/469/0000952036?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 04 Sep 2026 04:30:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "불안한 증시엔 은행주 '방패' … 금리·실적·배당까지 '3박자'",
-        "link": "https://n.news.naver.com/mnews/article/008/0005409304?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 04 Sep 2026 04:10:00 +0900",
+        "pubDate": "Fri, 04 Sep 2026 07:10:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "KB국민은행, 네팔 홍수 피해 복구 위한 해외송금 지원 프로그램 실시 外",
-        "link": "https://www.rcast.co.kr/news/articleView.html?idxno=31557",
+        "title": "명분은 ‘포용’, 현실은 ‘은행 부담’…소상공인 SCB ‘시험대’",
+        "link": "https://n.news.naver.com/mnews/article/119/0003128916?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 03 Sep 2026 19:04:00 +0900",
+        "pubDate": "Fri, 04 Sep 2026 07:07:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "은행채 5년물 4.5% 육박… 주담대·신용대출 금리 또 뛴다",
+        "link": "http://www.segyebiz.com/newsView/20260903519544?OutUrl=naver",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 04 Sep 2026 07:02:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "[Invest]'선취수수료' 환급될까...ETF 신탁 검사 막바지, 은행권 제재 수...",
+        "link": "https://www.investchosun.com/site/data/html_dir/2026/09/03/2026090380179.html",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 04 Sep 2026 07:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "\"월급 1000만원 넘는데\"…좁아지는 은행원 신규 채용문",
+        "link": "https://n.news.naver.com/mnews/article/003/0014168581?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 04 Sep 2026 07:00:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "물가 압박에 美·유럽·日도 긴축모드?… 이달 금리 인상 무게",
-        "link": "https://n.news.naver.com/mnews/article/081/0003676672?sid=101",
+        "title": "반도체 수출 호조에 경상수지 421억달러 흑자…두 달째 400억달러대",
+        "link": "https://www.ajunews.com/view/20260904075713414",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 04 Sep 2026 05:05:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Terminal Rate",
-          "meaning": "기준금리 인상 사이클의 최종 수준에 대한 시장 기대"
-        }
+        "pubDate": "Fri, 04 Sep 2026 08:02:00 +0900",
+        "summary": "",
+        "term": null
       },
       {
-        "title": "[사설] 유가 급등, 글로벌 국채 쇼크...고물가·고금리 대비해야",
-        "link": "https://n.news.naver.com/mnews/article/018/0006363433?sid=110",
+        "title": "[속보] 반도체 수출 꾸준…7월 경상수지 420억8000만달러 역대 2위",
+        "link": "https://n.news.naver.com/mnews/article/009/0005730257?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 04 Sep 2026 05:03:00 +0900",
+        "pubDate": "Fri, 04 Sep 2026 08:01:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "7월 경상수지 420.8억달러 흑자 '역대 2위'…반도체 수출 176.3%↑",
+        "link": "https://n.news.naver.com/mnews/article/031/0001055350?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 04 Sep 2026 08:01:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "중금리대출 규제 풀었지만…차주·상호금융 실익은 '글쎄'",
+        "link": "https://n.news.naver.com/mnews/article/119/0003128914?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 04 Sep 2026 07:05:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       }
