@@ -1,80 +1,106 @@
 {
-  "updatedAt": "2026-09-02T23:01:23.783Z",
-  "headline": "‘17조 원 곳간지기 쟁탈전’…인천 1금고 양자 대결 압축 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-09-03T03:13:00.103Z",
+  "headline": "\"110억 사라졌다\"…직원·친인척 명의로 차명예금 만든 ' 새마을금고 ' 이... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
-        "title": "‘17조 원 곳간지기 쟁탈전’…인천 1금고 양자 대결 압축",
-        "link": "https://n.news.naver.com/mnews/article/011/0004658084?sid=102",
+        "title": "\"110억 사라졌다\"…직원·친인척 명의로 차명예금 만든 ' 새마을금고 ' 이...",
+        "link": "https://www.ngonews.kr/news/articleView.html?idxno=237081",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 03 Sep 2026 07:39:00 +0900",
+        "pubDate": "Thu, 03 Sep 2026 11:42:00 +0900",
+        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "새마을금고 , '걸음마적금' 2만2000명 가입…판매한도 44% 소진",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=749752",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 03 Sep 2026 11:36:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "종로구 “ 새마을금고 와 37억 원 골목자금 물꼬 튼다”",
-        "link": "https://n.news.naver.com/mnews/article/021/0002815924?sid=102",
+        "title": "새마을금고 , '걸음마적금' 가입 2만2000좌 돌파",
+        "link": "https://n.news.naver.com/mnews/article/629/0000530337?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 03 Sep 2026 06:48:00 +0900",
+        "pubDate": "Thu, 03 Sep 2026 11:34:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[단독] “세금 아끼려고”…‘차명예금’ 110억 든 새마을금고 이사장",
-        "link": "https://n.news.naver.com/mnews/article/056/0012250011?sid=102",
+        "title": "최고 연 12% 금리… 새마을금고 '걸음마적금', 가입자 2만2000여명 달성",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7182238",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 03 Sep 2026 06:44:00 +0900",
-        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
+        "pubDate": "Thu, 03 Sep 2026 11:28:00 +0900",
+        "summary": "",
+        "term": null
       },
       {
-        "title": "새마을금고 이사장, 110억 차명예금 경찰 수사",
-        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=273503",
+        "title": "새마을금고 , 최고 12% '걸음마적금' 가입자 2.2만 돌파",
+        "link": "https://n.news.naver.com/mnews/article/003/0014166565?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 03 Sep 2026 00:40:00 +0900",
-        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
+        "pubDate": "Thu, 03 Sep 2026 11:26:00 +0900",
+        "summary": "",
+        "term": null
       },
       {
-        "title": "'110억 원 차명 예금' 새마을금고 이사장 경찰 수사",
-        "link": "https://n.news.naver.com/mnews/article/052/0002401967?sid=102",
+        "title": "[초점] 수협, 회원조합 공제체계 '중앙회 중심' 재편 추진",
+        "link": "http://www.newswatch.kr/news/articleView.html?idxno=80975",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 02 Sep 2026 23:46:00 +0900",
-        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
+        "pubDate": "Thu, 03 Sep 2026 11:26:00 +0900",
+        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "\"우리 아이 첫 적금 새마을금고 로\"...걸음마적금 가입자 2만2000명 돌파",
+        "link": "https://n.news.naver.com/mnews/article/014/0005570518?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 03 Sep 2026 11:18:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "새마을금고 '걸음마적금' 가입자 2만2000명 넘어…한도 44% 소진",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=225952",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 03 Sep 2026 11:08:00 +0900",
+        "summary": "",
+        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "\"보험업권 대출 추가 한도 고민되네\"···목표치 배분 진통",
-        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2466089",
+        "title": "\"여보세요\" 한마디가 치매 신호…보험사, AI로 인지변화 살핀다",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2117411",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 03 Sep 2026 08:00:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "'체급' 키운 우리투자증권...남기천號 '3조·종투사' 수익성 시험대",
-        "link": "https://www.youthdaily.co.kr/news/article.html?no=226266",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 03 Sep 2026 08:00:00 +0900",
+        "pubDate": "Thu, 03 Sep 2026 12:10:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[김하은의 금융 노트] 은행 부실채권 19조원 육박…이대로 괜찮나",
-        "link": "https://www.cstimes.com/news/articleView.html?idxno=719133",
+        "title": "IBK기업 은행 , 하반기 '신입행원 175명 공개' 채용",
+        "link": "http://www.digitalbizon.com/news/articleView.html?idxno=2343737",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 03 Sep 2026 07:54:00 +0900",
+        "pubDate": "Thu, 03 Sep 2026 12:06:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "BNK부산 은행 , 신규 급여 입금 고객 대상 이벤트 전개",
+        "link": "https://www.newsmap.co.kr/news/articleView.html?idxno=2852",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 03 Sep 2026 12:04:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "부실 외면한 채 서민 금융 늘리라는 정부…\"은행권 출연금 확대 불가피\"",
+        "link": "https://www.mediapen.com/news/view/1121049",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 03 Sep 2026 12:02:00 +0900",
         "summary": "",
         "term": {
           "word": "Delinquency",
@@ -82,82 +108,52 @@
         }
       },
       {
-        "title": "6월 은행 부실채권 8년 만에 최대…비율 0.03%p↑",
-        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=861456",
+        "title": "NH 농협 은행, 저탄소 농가 45곳서 탄소배출권 1만4918톤 매입",
+        "link": "https://idsn.co.kr/news/view/1065581127751781",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 03 Sep 2026 07:54:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
-      },
-      {
-        "title": "AI 상담 늘자 '뺑뺑이' 불편도…보험업계, 시니어 전용 창구로 차별화",
-        "link": "https://www.cstimes.com/news/articleView.html?idxno=719146",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 03 Sep 2026 07:54:00 +0900",
+        "pubDate": "Thu, 03 Sep 2026 11:54:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "\"카드론 막자 리볼빙으로\"...급전수요 '풍선효과'",
-        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=861474",
+        "title": "[경제소식] NH농협은행, 저탄소 농가 탄소배출권 구매대금 전달",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2117397",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 03 Sep 2026 07:50:00 +0900",
+        "pubDate": "Thu, 03 Sep 2026 11:50:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "2조2000억원 소상공인 성장평가, 은행권 도입",
-        "link": "https://www.tokenpost.kr/news/policy/401978",
+        "title": "[경제소식] NH 농협 은행, 저탄소 농가 탄소배출권 구매대금 전달",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2117397",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 03 Sep 2026 07:48:00 +0900",
+        "pubDate": "Thu, 03 Sep 2026 11:50:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "은행권 소상공인 대출 '계산법' 들여다보니...SCB 활용 제각각",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=697750",
+        "title": "신용 7등급도 대출 승인…은행권 2.2조 '성장성 대출' 실험",
+        "link": "https://n.news.naver.com/mnews/article/629/0000530353?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 03 Sep 2026 07:30:00 +0900",
+        "pubDate": "Thu, 03 Sep 2026 11:48:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "[채권/외환] 美 국채금리, 고용 둔화에 고점서 후퇴… 엔화는 급등",
-        "link": "https://www.newspim.com/news/view/20260903000057",
+        "title": "日 국채금리 3% 넘자 기업들 비명…자산 팔고 해외서 돈 빌린다",
+        "link": "https://n.news.naver.com/mnews/article/018/0006363068?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 03 Sep 2026 07:57:00 +0900",
+        "pubDate": "Thu, 03 Sep 2026 12:11:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "美·日 금리 급등에 국고채 3년물 4%선 코앞…기업 조달비용 '비상'",
-        "link": "https://n.news.naver.com/mnews/article/277/0005811139?sid=101",
+        "title": "4년간 서민 금융 출연금 1.5조 … 부실 청구서 떠안은 금융 권",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/09/03/2026090300187.html",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 03 Sep 2026 07:53:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
-      },
-      {
-        "title": "‘126만원→206만원’…5년 전 저금리 막차 찬 영끌족, 이젠 8% ‘이자폭...",
-        "link": "https://n.news.naver.com/mnews/article/022/0004156005?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 03 Sep 2026 07:40:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "서민 금융 '부실' 커지자 금융 권 출연금 1.5조 육박",
-        "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000062047",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 03 Sep 2026 07:39:00 +0900",
+        "pubDate": "Thu, 03 Sep 2026 11:58:00 +0900",
         "summary": "",
         "term": {
           "word": "Delinquency",
@@ -165,30 +161,22 @@
         }
       },
       {
-        "title": "소상공인 특화신용평가 도입…대출승인에 한도·금리 우대",
-        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=861616",
+        "title": "금융 권 서민 금융 출연금 4년 반 새 1조5천억 육박…부실 부담도↑",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=749761",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 03 Sep 2026 07:34:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "'1억 넣으면 이자만 385만원'…정기예금 1000조원 넘었다",
-        "link": "https://n.news.naver.com/mnews/article/374/0000530910?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 03 Sep 2026 07:22:00 +0900",
+        "pubDate": "Thu, 03 Sep 2026 11:36:00 +0900",
         "summary": "",
         "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
         }
       },
       {
-        "title": "여신회사도 가계대출 목표치 소폭 상향…\"불이익 없게 선별배정\"",
-        "link": "https://n.news.naver.com/mnews/article/001/0016286499?sid=101",
+        "title": "기아, 주거대출 총한도 200억→350억 상향",
+        "link": "https://n.news.naver.com/mnews/article/011/0004658206?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 03 Sep 2026 05:55:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
+        "pubDate": "Thu, 03 Sep 2026 11:24:00 +0900",
+        "summary": "",
         "term": null
       }
     ]
