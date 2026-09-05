@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T14:41:36.326Z",
+  "updatedAt": "2026-09-05T17:10:26.483Z",
   "headline": "인천 곳간지기 '시금고' 경쟁…1금고 신한 vs 하나·2금고 재입찰 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -26,38 +26,14 @@
         "pubDate": "Fri, 04 Sep 2026 18:20:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "인천시, 1곳만 참여해 자동유찰된 제2 금고 지정계획 재공고",
-        "link": "http://www.incheonin.com/news/articleView.html?idxno=120580",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 04 Sep 2026 17:18:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "BNK부산 은행 , 지역 일상 파고든 '생활밀착 상생 금융 '",
-        "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=85564",
+        "title": "골드만삭스·씨티 등 21개 은행 , 2026년 법인 설립해 2027년 스테이블코...",
+        "link": "https://www.wikitree.co.kr/articles/1157501",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 05 Sep 2026 22:10:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[골프IN화보] 방신실, OK저축 은행 읏맨 오픈 2라운드 경기 장면",
-        "link": "https://m.sports.naver.com/golf/article/018/0006364206",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 05 Sep 2026 21:21:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "하나 은행 , 백남준과 가우디를 잇는 미디어아트 특별전 개최",
-        "link": "https://www.dongponews.net/news/articleView.html?idxno=60337",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 05 Sep 2026 21:16:00 +0900",
+        "pubDate": "Sun, 06 Sep 2026 01:24:00 +0900",
         "summary": "",
         "term": null
       },
@@ -100,20 +76,25 @@
         "pubDate": "Sat, 05 Sep 2026 17:01:00 +0900",
         "summary": "",
         "term": null
+      },
+      {
+        "title": "“외국인이 쓴 카드값만 분기 6조”…카드사 새 먹거리 된 관광객",
+        "link": "https://www.ekn.kr/web/view.php?key=20260905029400985",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 05 Sep 2026 16:20:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "주식보다 ‘金’이 좋다는 오마이걸 미미…중앙은행 이어 1.8조 금통장까...",
+        "link": "https://n.news.naver.com/mnews/article/016/0002693198?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 05 Sep 2026 16:01:00 +0900",
+        "summary": "",
+        "term": null
       }
     ],
     "macro": [
-      {
-        "title": "李 대통령 \"한 번의 연체가 평생 발목 잡아선 안 돼\"",
-        "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=317391",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 05 Sep 2026 21:40:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
-      },
       {
         "title": "한국부동산원, '안전'과 '탄소중립' 두 마리 토끼 잡는다",
         "link": "https://www.idaegu.com/news/articleView.html?idxno=665460",
