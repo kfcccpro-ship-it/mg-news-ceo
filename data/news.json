@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-06T10:22:23.885Z",
-  "headline": "뺏느냐 뺏기느냐… 15兆 인천시금고 쟁탈전 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-09-06T15:00:41.560Z",
+  "headline": "경북도, 한국마사회· 농협 중앙회 정조준 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
-        "title": "뺏느냐 뺏기느냐… 15兆 인천시금고 쟁탈전",
-        "link": "https://n.news.naver.com/mnews/article/014/0005571643?sid=101",
+        "title": "경북도, 한국마사회· 농협 중앙회 정조준",
+        "link": "https://www.ksmnews.co.kr/news/view.php?idx=620682",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 06 Sep 2026 18:30:00 +0900",
-        "summary": "",
+        "pubDate": "Sun, 06 Sep 2026 20:36:00 +0900",
+        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
         "term": null
       },
       {
@@ -30,100 +30,87 @@
     ],
     "otherFinance": [
       {
-        "title": "[데스크칼럼] 공공기관 지방 이전, 농협 은 왜?",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363735845",
+        "title": "[올댓차이나] 인민 은행 , 7일 3개월물 역레포로 자금 100조원 공급",
+        "link": "https://n.news.naver.com/mnews/article/003/0014172517?sid=104",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 06 Sep 2026 18:56:00 +0900",
+        "pubDate": "Sun, 06 Sep 2026 23:48:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "NK경남 은행 , 양산지역 소상공인 경영 안정 20억원 지원",
-        "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=644842",
+        "title": "금 86톤 런던 이전, 중앙 은행 보관지 재편",
+        "link": "https://www.tokenpost.kr/news/economy/403389",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 06 Sep 2026 18:56:00 +0900",
+        "pubDate": "Sun, 06 Sep 2026 22:30:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "LCR",
+          "meaning": "단기 유동성 충격 대응 능력을 보여주는 지표"
+        }
+      },
+      {
+        "title": "김제시 장애인…전북 은행 임직원 성금으로 특별한 가족 나들이",
+        "link": "http://www.jeonmin.co.kr/news/articleView.html?idxno=446448",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 06 Sep 2026 22:04:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[데스크칼럼] 공공기관 지방 이전, 농협은 왜?",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363735845",
+        "title": "김제 백구 농협 장승환 조합장, 농림축산식품부 장관상",
+        "link": "http://www.jeonmin.co.kr/news/articleView.html?idxno=446444",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 06 Sep 2026 18:56:00 +0900",
+        "pubDate": "Sun, 06 Sep 2026 21:54:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "NH 농협 은행 전북본부, 기술보증기금에 10억 특별출연을 통한 200억 규모...",
-        "link": "https://sjbnews.com/news/news.php?number=886963",
+        "title": "농협 은행, 5급 신규직원 채용…17일까지 지원서 접수",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=145353",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 06 Sep 2026 18:38:00 +0900",
+        "pubDate": "Sun, 06 Sep 2026 20:28:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "NH농협 은행 전북본부, 기술보증기금에 10억 특별출연을 통한 200억 규모...",
-        "link": "https://sjbnews.com/news/news.php?number=886963",
+        "title": "울산, 6천만원 보이스피싱 피해 막은 은행원들 '맹활약'",
+        "link": "http://www.ujeil.com/news/articleView.html?idxno=391586",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 06 Sep 2026 18:38:00 +0900",
+        "pubDate": "Sun, 06 Sep 2026 20:22:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[공시분석] 윌비스, 은행 관리 중단되자 회생절차 개시 신청",
-        "link": "https://www.moneystorm.kr/news/articleView.html?idxno=6260",
+        "title": "농협 은행 동울산지점 조현정 계장 보이스피싱 피해 예방 공로 감사장",
+        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=582451",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 06 Sep 2026 18:37:00 +0900",
+        "pubDate": "Sun, 06 Sep 2026 20:14:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "신규 고객 잡아라…적금 앞세워 고객 기반 확대 나선 은행",
-        "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260906010002143",
+        "title": "\"돈 빌릴 데가 없어서\"…은행 대출 막히니 보험사 '풍선효과'",
+        "link": "https://n.news.naver.com/mnews/article/119/0003129605?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 06 Sep 2026 18:04:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "호남 농협 ·영남 企銀 ‘눈독’… 지역산업 연계 알짜 기관 ‘쟁탈전’...",
-        "link": "https://n.news.naver.com/mnews/article/022/0004156754?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 06 Sep 2026 18:02:00 +0900",
-        "summary": "",
+        "pubDate": "Sun, 06 Sep 2026 19:47:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "“1600원에 1만 달러 샀다면 두 달 새 254만원 손실”…환율 급락에도 달...",
-        "link": "https://n.news.naver.com/mnews/article/016/0002693389?sid=101",
+        "title": "코스피, 이번주 7000 회복할까…변수는 美 물가·금리",
+        "link": "https://n.news.naver.com/mnews/article/018/0006364588?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 06 Sep 2026 19:21:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "NH전북본부-기술보증기금 중기 200억 대출지원",
-        "link": "http://www.jjn.co.kr/news/articleView.html?idxno=1051294",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 06 Sep 2026 18:40:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "“이번 주 증시? 美 국채금리 5%에 달렸다”…금리 꺾이면 반도체부터 ...",
-        "link": "https://n.news.naver.com/mnews/article/009/0005731134?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 06 Sep 2026 18:36:00 +0900",
+        "pubDate": "Sun, 06 Sep 2026 23:32:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "정책대출 이관 착시… 가계빚, 진짜 줄었나",
-        "link": "https://n.news.naver.com/mnews/article/014/0005571644?sid=101",
+        "title": "“1600원에 1만 달러 샀다면 두 달 새 254만원 손실”…환율 급락에도 달...",
+        "link": "https://n.news.naver.com/mnews/article/016/0002693389?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 06 Sep 2026 18:30:00 +0900",
+        "pubDate": "Sun, 06 Sep 2026 19:21:00 +0900",
         "summary": "",
         "term": null
       },
@@ -164,14 +151,6 @@
         "link": "https://n.news.naver.com/mnews/article/119/0003129541?sid=101",
         "source": "네이버뉴스",
         "pubDate": "Sun, 06 Sep 2026 12:03:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "금감원, 全 금융권과 '보이스피싱 예방 주간'",
-        "link": "https://n.news.naver.com/mnews/article/001/0016292333?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 06 Sep 2026 12:00:00 +0900",
         "summary": "",
         "term": null
       }
