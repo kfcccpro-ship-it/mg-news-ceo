@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T17:21:27.083Z",
+  "updatedAt": "2026-09-07T21:10:26.223Z",
   "headline": "제13회 전국 농축협 야구대회 성료... 농협 중앙회장배 소통·화합의 무대... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -30,10 +30,50 @@
     ],
     "otherFinance": [
       {
-        "title": "전북 은행 , ‘달(Moon)달(月)한 용돈관리’ 운영",
-        "link": "https://sjbnews.com/news/news.php?number=887043",
+        "title": "롯데카드 해외법인, 국내 최초 베트남 ‘종합 금융 사’ 승인 받아",
+        "link": "https://n.news.naver.com/mnews/article/022/0004157197?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 08 Sep 2026 00:36:00 +0900",
+        "pubDate": "Tue, 08 Sep 2026 06:04:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "은행권 하반기 채용문 열렸지만…갈수록 ‘바늘 구멍’",
+        "link": "https://www.kukinews.com/article/view/kuk202609070213",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 08 Sep 2026 06:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "은행 권 하반기 채용문 열렸지만…갈수록 ‘바늘 구멍’",
+        "link": "https://www.kukinews.com/article/view/kuk202609070213",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 08 Sep 2026 06:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "한도 늘린다더니⋯ 시중은행 주담대 여전히 '선착순'",
+        "link": "https://www.etoday.co.kr/news/view/2622740",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 08 Sep 2026 05:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[AI시대, 권력 대이동-NH투자증권] 디지털 금융 플랫폼 체질 개선 가속",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=318298",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 08 Sep 2026 04:00:00 +0900",
+        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "은행, ELS 소송 '연승'… 과징금 더 낮아지나",
+        "link": "https://n.news.naver.com/mnews/article/008/0005410607?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 08 Sep 2026 03:45:00 +0900",
         "summary": "",
         "term": null
       },
@@ -52,63 +92,31 @@
         "pubDate": "Tue, 08 Sep 2026 00:08:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "또 ‘빚더미’ LH, 은행은 여전히 ‘잔인한 금융’…주택은행 다시 만든...",
-        "link": "https://n.news.naver.com/mnews/article/016/0002694019?sid=110",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 08 Sep 2026 00:02:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "또 ‘빚더미’ LH, 은행은 여전히 ‘잔인한 금융 ’…주택은행 다시 만든...",
-        "link": "https://n.news.naver.com/mnews/article/016/0002694019?sid=110",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 08 Sep 2026 00:02:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "농협 상호 금융 , 대학생 아이디어로 'NH콕뱅크 혁신' 앞당긴다",
-        "link": "https://weeklytrade.co.kr/news/view.html?section=1&category=160&item=&no=101315",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 07 Sep 2026 23:54:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "NH 농협 캐피탈, '보이스피싱 집중 예방 주간' 운영",
-        "link": "https://weeklytrade.co.kr/news/view.html?section=1&category=6&item=&no=101313",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 07 Sep 2026 23:40:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "전국 금융 산업노조, 김종필 NH 농협 지부 경북지역위원장 3선",
-        "link": "https://tk.newdaily.co.kr/site/data/html/2026/09/07/2026090700382.html",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 07 Sep 2026 22:26:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "macro": [
       {
-        "title": "[경제시평] 고금리시대와 부동산 시장 셈법",
-        "link": "https://n.news.naver.com/mnews/article/005/0001871501?sid=110",
+        "title": "두 달 새 환율 200원 급락…‘원화 강세 수혜주 공식’ 달라졌다",
+        "link": "https://www.kukinews.com/article/view/kuk202609070171",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 08 Sep 2026 00:36:00 +0900",
+        "pubDate": "Tue, 08 Sep 2026 06:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "\"당장 싼 금리냐, 더 많은 한도냐\"…주담대 차주들 '골머리'",
+        "link": "https://n.news.naver.com/mnews/article/003/0014175243?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 08 Sep 2026 06:00:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "집 산 뒤 빚 부담 급증한 상위 10% 가구… 금리 1%p 오르면 연체 비율 0....",
-        "link": "https://n.news.naver.com/mnews/article/023/0003997147?sid=101",
+        "title": "'영끌족' 버티기 한계?…주담대 연체 3년반 만에 2.2배로",
+        "link": "https://n.news.naver.com/mnews/article/001/0016295748?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 08 Sep 2026 00:33:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "pubDate": "Tue, 08 Sep 2026 05:51:00 +0900",
+        "summary": "",
         "term": {
           "word": "Delinquency",
           "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
