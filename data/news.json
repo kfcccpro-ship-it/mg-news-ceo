@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T16:06:00.376Z",
+  "updatedAt": "2026-09-08T20:47:15.209Z",
   "headline": "강원 영서북부 새마을금고 회원 건강·화합 다졌다 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -70,11 +70,65 @@
     ],
     "otherFinance": [
       {
-        "title": "은행 신용대출 금리 6% 뚫었다…주담대는 7%대 ‘훌쩍’",
-        "link": "https://n.news.naver.com/mnews/article/025/0003550039?sid=101",
+        "title": "은행권 주담대 연체 채권 2.2조 원 급증… 3년 반 만에 120% 폭발",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=604741",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 09 Sep 2026 00:03:00 +0900",
+        "pubDate": "Wed, 09 Sep 2026 05:40:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "은행 권 주담대 연체 채권 2.2조 원 급증… 3년 반 만에 120% 폭발",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=604741",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 09 Sep 2026 05:40:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "[기자수첩] 펀드 변상 자율...한국투자증권 '안정성', 우리 은행 '자기책...",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=274539",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 09 Sep 2026 05:30:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "비자, 정산 데이터로 온체인 대출 연결…스테이블코인 카드 200억달러 정...",
+        "link": "https://www.wikitree.co.kr/articles/1158210",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 09 Sep 2026 05:12:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "김포고촌 농협 , 스마트폰 AI 활용 교육",
+        "link": "https://n.news.naver.com/mnews/article/662/0000103843?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 09 Sep 2026 05:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "농협 은행, 120여명 신규 채용…17일까지 접수",
+        "link": "https://n.news.naver.com/mnews/article/662/0000103839?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 09 Sep 2026 05:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "용인 구성 농협 , 보이스피싱 피해예방 캠페인",
+        "link": "https://n.news.naver.com/mnews/article/662/0000103847?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 09 Sep 2026 05:02:00 +0900",
+        "summary": "",
         "term": null
       },
       {
@@ -84,48 +138,46 @@
         "pubDate": "Wed, 09 Sep 2026 00:01:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "농협 , ‘농심천심 범국민운동’ 추진위 개최…농촌 활력화 방안 논의",
-        "link": "https://www.fntimes.com/html/view.php?ud=202609082254007592dd55077bc2_18",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 08 Sep 2026 23:00:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "표선 농협 , 전기통신 금융 사기 피해예방 캠페인 전개",
-        "link": "https://www.newsjeju.net/news/articleView.html?idxno=425605",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 08 Sep 2026 23:00:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "나주·화순 농협 , 지역 경계 넘은 기부... '농촌 협력 넓힌다'",
-        "link": "https://www.newsworker.co.kr/news/articleView.html?idxno=503275",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 08 Sep 2026 22:20:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "예보한도 상향 1년…시중자금 2금융 대신 은행권 향했다",
-        "link": "https://www.asiatime.co.kr/article/20260908500377",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 08 Sep 2026 18:06:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "macro": [
       {
-        "title": "1710억달러 미 단기국채 발행…금리 3.8%대 유지",
-        "link": "https://www.tokenpost.kr/news/economy/404556",
+        "title": "3주 만에 '림솔대전' 재개…서교림 vs 김민솔 \"멋진 경기 펼치겠다\"",
+        "link": "https://m.sports.naver.com/golf/article/018/0006365900",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 09 Sep 2026 00:54:00 +0900",
+        "pubDate": "Wed, 09 Sep 2026 05:46:00 +0900",
+        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
+        "term": null
+      },
+      {
+        "title": "'긴축의 무게' 금리 0.5%p 오르면 가계 이자 연 6.5조원↑",
+        "link": "https://n.news.naver.com/mnews/article/001/0016298509?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 09 Sep 2026 05:45:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Terminal Rate",
+          "meaning": "기준금리 인상 사이클의 최종 수준에 대한 시장 기대"
+        }
+      },
+      {
+        "title": "日銀 9월 금리 인상 논의… 0.25%p 점진 조정 무게",
+        "link": "https://www.g-enews.com/view.php?ud=202609090257118435e7e8286d56_1",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 09 Sep 2026 05:30:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
+      },
+      {
+        "title": "주담대 21% 늘 때 연체는 120% 폭증",
+        "link": "https://n.news.naver.com/mnews/article/005/0001871790?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 09 Sep 2026 02:24:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
       },
       {
         "title": "[사설] 눈덩이처럼 불어나는 '주담대' 연체… 금융 권 부실 고리 끊어야",
@@ -137,33 +189,6 @@
           "word": "Delinquency",
           "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
         }
-      },
-      {
-        "title": "금리 오르자… 당국, ’10년 고정금리 주담대' 출시 독려",
-        "link": "https://n.news.naver.com/mnews/article/023/0003997351?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 09 Sep 2026 00:36:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "‘빚 폭탄’ 경고등… 주담대 3년반새 21% 늘때 연체 120% 급증",
-        "link": "https://n.news.naver.com/mnews/article/020/0003746647?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 09 Sep 2026 00:31:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
-      },
-      {
-        "title": "엔-달러 환율 장중 152엔대 7개월來 최저… ‘엔캐리 청산’ 우려",
-        "link": "https://n.news.naver.com/mnews/article/020/0003746645?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 09 Sep 2026 00:31:00 +0900",
-        "summary": "",
-        "term": null
       }
     ]
   }
