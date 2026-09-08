@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T20:47:15.209Z",
+  "updatedAt": "2026-09-08T23:12:39.418Z",
   "headline": "강원 영서북부 새마을금고 회원 건강·화합 다졌다 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -70,10 +70,18 @@
     ],
     "otherFinance": [
       {
-        "title": "은행권 주담대 연체 채권 2.2조 원 급증… 3년 반 만에 120% 폭발",
-        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=604741",
+        "title": "국회예산처 \"원화스테이블코인, 카드 수수료 연간 5조 절감 효과\"",
+        "link": "https://n.news.naver.com/mnews/article/018/0006365960?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 09 Sep 2026 05:40:00 +0900",
+        "pubDate": "Wed, 09 Sep 2026 08:10:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "BNK 부산·경남 은행 주담대 연체율 증가",
+        "link": "https://news.knn.co.kr/news/article/192188",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 09 Sep 2026 08:10:00 +0900",
         "summary": "",
         "term": {
           "word": "Delinquency",
@@ -81,114 +89,86 @@
         }
       },
       {
-        "title": "은행 권 주담대 연체 채권 2.2조 원 급증… 3년 반 만에 120% 폭발",
-        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=604741",
+        "title": "예탁금 40조 증발?..증권사, 고객자산 확보 경쟁 뜨거워진다",
+        "link": "https://kpenews.com/View.aspx?No=4218906",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 09 Sep 2026 05:40:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
-      },
-      {
-        "title": "[기자수첩] 펀드 변상 자율...한국투자증권 '안정성', 우리 은행 '자기책...",
-        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=274539",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 09 Sep 2026 05:30:00 +0900",
+        "pubDate": "Wed, 09 Sep 2026 08:08:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "비자, 정산 데이터로 온체인 대출 연결…스테이블코인 카드 200억달러 정...",
-        "link": "https://www.wikitree.co.kr/articles/1158210",
+        "title": "산업부·우리 은행 , 중견기업 45곳에 5480억원 지원…수출기업 금융 지원...",
+        "link": "https://www.public25.com/news/articleView.html?idxno=54369",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 09 Sep 2026 05:12:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "김포고촌 농협 , 스마트폰 AI 활용 교육",
-        "link": "https://n.news.naver.com/mnews/article/662/0000103843?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 09 Sep 2026 05:02:00 +0900",
+        "pubDate": "Wed, 09 Sep 2026 08:06:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "농협 은행, 120여명 신규 채용…17일까지 접수",
-        "link": "https://n.news.naver.com/mnews/article/662/0000103839?sid=102",
+        "title": "[국민성장펀드] [초장기] 가점 기대한 증권사·VC 연합…16년 공동운용이...",
+        "link": "https://dealsite.co.kr/articles/168554",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 09 Sep 2026 05:02:00 +0900",
+        "pubDate": "Wed, 09 Sep 2026 08:02:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "용인 구성 농협 , 보이스피싱 피해예방 캠페인",
-        "link": "https://n.news.naver.com/mnews/article/662/0000103847?sid=102",
+        "title": "해킹 당하기 전에 먼저 뚫어본다…은행권 '화이트해커' 모시기",
+        "link": "https://news.ifm.kr/news/articleView.html?idxno=478909",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 09 Sep 2026 05:02:00 +0900",
+        "pubDate": "Wed, 09 Sep 2026 08:00:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[신협 지역이사 성적표①] \"건전성 합격점\"…15곳 중 돋보인 신협 3곳 어...",
-        "link": "https://n.news.naver.com/mnews/article/629/0000531993?sid=101",
+        "title": "은행원 채용지도 바뀐다…신입채용 줄고 AI·IT 인재는 늘어",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=207950",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 09 Sep 2026 00:01:00 +0900",
+        "pubDate": "Wed, 09 Sep 2026 08:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "퇴직연금 업고 커지는 개인용 국채…증권사도 '머니무브' 눈독",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4433986",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 09 Sep 2026 07:46:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "3주 만에 '림솔대전' 재개…서교림 vs 김민솔 \"멋진 경기 펼치겠다\"",
-        "link": "https://m.sports.naver.com/golf/article/018/0006365900",
+        "title": "중견기업 45개사에 5480억원 융자…수출기업 지원 늘린다",
+        "link": "https://www.ajunews.com/view/20260909080252015",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 09 Sep 2026 05:46:00 +0900",
-        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
+        "pubDate": "Wed, 09 Sep 2026 08:08:00 +0900",
+        "summary": "",
         "term": null
       },
       {
-        "title": "'긴축의 무게' 금리 0.5%p 오르면 가계 이자 연 6.5조원↑",
-        "link": "https://n.news.naver.com/mnews/article/001/0016298509?sid=101",
+        "title": "'부동산과 금융 절연'이라더니…주택 PF 곳간 열라는 금융 당국",
+        "link": "https://n.news.naver.com/mnews/article/648/0000050604?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 09 Sep 2026 05:45:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Terminal Rate",
-          "meaning": "기준금리 인상 사이클의 최종 수준에 대한 시장 기대"
-        }
-      },
-      {
-        "title": "日銀 9월 금리 인상 논의… 0.25%p 점진 조정 무게",
-        "link": "https://www.g-enews.com/view.php?ud=202609090257118435e7e8286d56_1",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 09 Sep 2026 05:30:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "pubDate": "Wed, 09 Sep 2026 08:00:00 +0900",
+        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
         "term": null
       },
       {
-        "title": "주담대 21% 늘 때 연체는 120% 폭증",
-        "link": "https://n.news.naver.com/mnews/article/005/0001871790?sid=101",
+        "title": "[더벨][조단위 PF 개발사업 돋보기] 청담 프리마호텔 개발, 본PF 1.5조 조...",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609010159230260101694",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 09 Sep 2026 02:24:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
+        "pubDate": "Wed, 09 Sep 2026 07:38:00 +0900",
+        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
+        "term": null
       },
       {
-        "title": "[사설] 눈덩이처럼 불어나는 '주담대' 연체… 금융 권 부실 고리 끊어야",
-        "link": "https://n.news.naver.com/mnews/article/015/0005330255?sid=110",
+        "title": "“신축만 실수요자냐”…규제 완화가 부른 ‘대출 양극화’",
+        "link": "https://n.news.naver.com/mnews/article/119/0003130520?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 09 Sep 2026 00:41:00 +0900",
+        "pubDate": "Wed, 09 Sep 2026 07:05:00 +0900",
         "summary": "",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
+        "term": null
       }
     ]
   }
