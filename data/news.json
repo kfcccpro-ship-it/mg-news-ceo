@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T15:54:59.509Z",
+  "updatedAt": "2026-09-10T20:28:40.305Z",
   "headline": "이천시·NH 농협 은행, 차기 시금고 약정…2027년부터 4년간 재정 관리 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -54,18 +54,26 @@
     ],
     "otherFinance": [
       {
-        "title": "‘주택 첫 구입’ 자격 완화에도… 은행 선 ‘먹통’",
-        "link": "https://n.news.naver.com/mnews/article/023/0003997789?sid=101",
+        "title": "[N2 포커스] 삼성증권 이달 발행어음 출격…다음 주자 메리츠 '주목'",
+        "link": "https://www.news2day.co.kr/article/20260911500011",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 11 Sep 2026 00:35:00 +0900",
+        "pubDate": "Fri, 11 Sep 2026 05:04:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "코인베이스, 무브와 손잡고 지역 은행 1000곳에 스테이블코인 정산 인프...",
-        "link": "https://www.wikitree.co.kr/articles/1158741",
+        "title": "증권사 2분기 순익 5.2조…증시 활황에 사상 최대치 [경제 레이더]",
+        "link": "https://n.news.naver.com/mnews/article/022/0004158135?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 11 Sep 2026 00:24:00 +0900",
+        "pubDate": "Fri, 11 Sep 2026 05:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[노트북 너머] 문만 열어둔 전환 금융 , 판단은 결국 은행 몫",
+        "link": "https://www.etoday.co.kr/news/view/2623910",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 11 Sep 2026 05:00:00 +0900",
         "summary": "",
         "term": null
       },
@@ -114,51 +122,54 @@
         "pubDate": "Thu, 10 Sep 2026 22:06:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "농협 강원본부, 고령 농가 주거환경 개선…노후 씽크대 교체 실시",
-        "link": "https://www.fntimes.com/html/view.php?ud=202609102144315190dd55077bc2_18",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 10 Sep 2026 21:48:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "macro": [
       {
-        "title": "27.5% 문제성 대출, MKB 기업여신서 확인",
-        "link": "https://www.tokenpost.kr/news/economy/405956",
+        "title": "ECB, 예금금리 2.25%→2.5%로↑…“올해 두 번째 인상”",
+        "link": "https://www.kukinews.com/article/view/kuk202609110001",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 11 Sep 2026 00:50:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "한은 “수도권 집값 뛰고 가계대출 증가… 금융 위험성 커져”",
-        "link": "https://n.news.naver.com/mnews/article/020/0003747301?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 11 Sep 2026 00:32:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "유가 치솟자 금융 시장 흔들… 추석앞 물가관리 비상",
-        "link": "https://n.news.naver.com/mnews/article/020/0003747285?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 11 Sep 2026 00:31:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "튀르키예, 기준금리 37%로 동결…\"에너지 상승 위험에 5회 연속 유지\"",
-        "link": "https://n.news.naver.com/mnews/article/003/0014183492?sid=104",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 11 Sep 2026 00:30:00 +0900",
+        "pubDate": "Fri, 11 Sep 2026 05:24:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": {
-          "word": "Forward Guidance",
-          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
         }
+      },
+      {
+        "title": "유럽증시, ECB 금리인상과 중동리스크 고조 등 영향 일제히 떨어져⋯독...",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=444176",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 11 Sep 2026 05:20:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Terminal Rate",
+          "meaning": "기준금리 인상 사이클의 최종 수준에 대한 시장 기대"
+        }
+      },
+      {
+        "title": "[사설] 중동 전선 확대… 물가·공급망 방어벽 다시 점검할 때",
+        "link": "https://n.news.naver.com/mnews/article/081/0003679204?sid=110",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 11 Sep 2026 05:16:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "한은, 추가 금리 인상 열어뒀다… “가계빚·물가 부담 여전”",
+        "link": "https://n.news.naver.com/mnews/article/081/0003679187?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 11 Sep 2026 05:05:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "금융 위 ‘PF 금융 ’ 지원… “호반 풍무지구 성공한 주택 공급”",
+        "link": "https://n.news.naver.com/mnews/article/081/0003679189?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 11 Sep 2026 05:05:00 +0900",
+        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
+        "term": null
       },
       {
         "title": "[데스크 칼럼] '닥공'의 열쇠, 부동산 금융 이다",
