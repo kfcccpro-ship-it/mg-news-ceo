@@ -1,160 +1,114 @@
 {
-  "updatedAt": "2026-09-10T03:22:24.098Z",
-  "headline": "주요 시중은행, 정기예금 금리 잇달아 인상…시장금리 상승 반영 등 타 금융권 동향을 비교해볼 필요가 있습니다.",
+  "updatedAt": "2026-09-10T10:45:09.261Z",
+  "headline": "금천 새마을금고 , 쌀 기탁 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
-    "mg": [],
+    "mg": [
+      {
+        "title": "금천 새마을금고 , 쌀 기탁",
+        "link": "http://www.cctimes.kr/news/articleView.html?idxno=926804",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 10 Sep 2026 19:40:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "청주시 금천 새마을금고 , 쌀 기부",
+        "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1099139",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 10 Sep 2026 19:26:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "인천시금고 2금고 NH 농협 은행 단독 재입찰··· 수의계약 절차",
+        "link": "https://www.incheontoday.com/news/articleView.html?idxno=323504",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 10 Sep 2026 19:16:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "25조 곳간 누가 맡나…룰 바뀐 전남광주시 금고 선정, 'ATM 개수'보다 '지...",
+        "link": "https://n.news.naver.com/mnews/article/002/0002456062?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 10 Sep 2026 19:16:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "인천시금고 2금고 NH농협 은행 단독 재입찰··· 수의계약 절차",
+        "link": "https://www.incheontoday.com/news/articleView.html?idxno=323504",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 10 Sep 2026 19:16:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[포토뉴스]춘천중부 새마을금고 , 강남동 문화체육행사에 쌀 40포대 지원",
+        "link": "https://n.news.naver.com/mnews/article/087/0001217139?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 10 Sep 2026 19:14:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "울산 남구 새마을금고 협의회, 파크골프 어울림 한마당 개최",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1066940",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 10 Sep 2026 19:12:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "인천시 2금고 농협 무혈입성… 17일 신한-하나 1금고 외나무다리 승부",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363736421",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 10 Sep 2026 19:12:00 +0900",
+        "summary": "",
+        "term": null
+      }
+    ],
     "otherFinance": [
       {
-        "title": "주요 시중은행, 정기예금 금리 잇달아 인상…시장금리 상승 반영",
-        "link": "https://www.delighti.co.kr/news/articleView.html?idxno=121619",
+        "title": "신한 은행 , 경기신용보증재단·금감원과 '성공 두드림 세미나' 개최",
+        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=358798",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 10 Sep 2026 12:18:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
-      },
-      {
-        "title": "주요 시중 은행 , 정기예금 금리 잇달아 인상…시장금리 상승 반영",
-        "link": "https://www.delighti.co.kr/news/articleView.html?idxno=121619",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 10 Sep 2026 12:18:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
-      },
-      {
-        "title": "은행 예금에 다시 돈 몰린다…금리 3%대·정기예금 1000조 시대",
-        "link": "https://m.skyedaily.com/news_view.html?ID=311361",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 10 Sep 2026 12:16:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
-      },
-      {
-        "title": "송은이, 33년째 묵인 연금저축 수익률 공개…\" 은행 서 해지 권유까지\"",
-        "link": "https://m.entertain.naver.com/article/003/0014182043",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 10 Sep 2026 12:15:00 +0900",
+        "pubDate": "Thu, 10 Sep 2026 19:42:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[은행가] 하나카드, SKT '모두의 AI' 금융 파트너 참여 外",
-        "link": "https://www.slist.kr/news/articleView.html?idxno=765098",
+        "title": "[ 금융 게시판] 우리은행, 치매·발달장애인 재산관리 지원…우리·기업...",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=208103",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 10 Sep 2026 12:04:00 +0900",
+        "pubDate": "Thu, 10 Sep 2026 19:02:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[ 금융 계 동향] NH 농협 은행·한화손해보험·롯데카드",
-        "link": "http://www.iminju.net/news/articleView.html?idxno=169342",
+        "title": "경산시, 지방보조금 전용계좌 개설 금융기관 신협까지 확대",
+        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609101138322320443",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 10 Sep 2026 12:04:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "교보증권 \"핑거, 피지컬 AI 기업으로 변신한다\"",
-        "link": "https://www.irobotnews.com/news/articleView.html?idxno=48405",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 10 Sep 2026 12:02:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "“20년 묻어두면 수익률 161%”…퇴직연금 국채, 증권사 유치전 불붙었...",
-        "link": "https://n.news.naver.com/mnews/article/138/0002240901?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 10 Sep 2026 11:59:00 +0900",
+        "pubDate": "Thu, 10 Sep 2026 18:22:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "한은 금통위원 \"물가 압력 파급 속도 중요⋯금리 인상 영향 살펴야\"",
-        "link": "https://n.news.naver.com/mnews/article/031/0001057194?sid=101",
+        "title": "전북 소상공인 경영자금 2,500억 대출",
+        "link": "https://sjbnews.com/news/news.php?number=887461",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 10 Sep 2026 12:21:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "[드림Talk] 대림통상 오너家, 왜 주식 샀다 팔까…시총·유동성·승계 셈...",
-        "link": "http://www.newsdream.kr/news/articleView.html?idxno=117889",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 10 Sep 2026 12:18:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "LCR",
-          "meaning": "단기 유동성 충격 대응 능력을 보여주는 지표"
-        }
-      },
-      {
-        "title": "한은 \"물가 상승세 상당기간 지속…중동·반도체發 물가 압력 고려 요인...",
-        "link": "https://n.news.naver.com/mnews/article/079/0004187973?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 10 Sep 2026 12:17:00 +0900",
+        "pubDate": "Thu, 10 Sep 2026 19:28:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "이찬진 금감원장 \"결제주기 단축·거래시간 연장…외국인 투자 제약 해...",
-        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5060873",
+        "title": "프로당구 팀리그 포항서 개막…10개 팀 9일간 45경기",
+        "link": "http://www.newstown.co.kr/news/articleView.html?idxno=715422",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 10 Sep 2026 12:16:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "한은 \"대내외 여건 점검하며 기준금리 인상 시기·속도 결정\"",
-        "link": "https://n.news.naver.com/mnews/article/422/0000904760?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 10 Sep 2026 12:16:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Forward Guidance",
-          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
-        }
-      },
-      {
-        "title": "“사업자 대출로 부동산 샀다”…용도 외 유용 5년간 1167건",
-        "link": "https://www.ekn.kr/web/view.php?key=20260910028173018",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 10 Sep 2026 11:52:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "사업자대출금 유용 사례 2021년 이후 1167건·대출금 3891억원",
-        "link": "http://www.newscape.co.kr/news/articleView.html?idxno=124479",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 10 Sep 2026 11:46:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "사업자대출 받아 부동산 구입...'용도 외 유용' 1167건, 대출액만 3900억...",
-        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=310846",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 10 Sep 2026 11:38:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "사업자대출 불법 전용 급증…5년간 1167건 적발",
-        "link": "https://n.news.naver.com/mnews/article/123/0002389934?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 10 Sep 2026 10:27:00 +0900",
-        "summary": "",
+        "pubDate": "Thu, 10 Sep 2026 19:10:00 +0900",
+        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
         "term": null
       }
     ]
