@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T15:57:48.539Z",
+  "updatedAt": "2026-09-11T20:32:56.869Z",
   "headline": "농협 중앙회, 정보보호 강화…“신뢰받는 농협 만들 것 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -8,14 +8,6 @@
         "link": "https://www.fntimes.com/html/view.php?ud=202609112224172250dd55077bc2_18",
         "source": "네이버뉴스",
         "pubDate": "Fri, 11 Sep 2026 22:28:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "' 농협 중앙회를 원주로!'…원주시의원들 유치전 한목소리",
-        "link": "https://n.news.naver.com/mnews/article/003/0014185517?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 11 Sep 2026 22:13:00 +0900",
         "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
         "term": null
       },
@@ -66,14 +58,65 @@
         "pubDate": "Fri, 11 Sep 2026 17:06:00 +0900",
         "summary": "",
         "term": null
+      },
+      {
+        "title": "[이슈] PF 부실 결국 자본잠식…김인號 새마을금고 , 감독망 뭐했나(2부)",
+        "link": "https://www.the-today.com/news/articleView.html?idxno=89978",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 11 Sep 2026 16:36:00 +0900",
+        "summary": "새마을금고 건전성 관리 흐름과 연결해 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
       }
     ],
     "otherFinance": [
       {
-        "title": "미 은행 당국, 제3자 위험관리 지침 제안…외부업체 관리 기준 담아",
-        "link": "https://www.tokenpost.kr/news/breaking/406612",
+        "title": "[판결] 신용정보 제3자에 무단 제공… 저축 은행 과징금은 적법",
+        "link": "https://www.lawtimes.co.kr/news/articleView.html?idxno=226221",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 12 Sep 2026 00:04:00 +0900",
+        "pubDate": "Sat, 12 Sep 2026 05:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "AI 경력 수시로, 신입 20% 빼고…은행 채용 달라졌다",
+        "link": "https://n.news.naver.com/mnews/article/079/0004188595?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 12 Sep 2026 05:01:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "AI 경력 수시로, 신입 20% 빼고… 은행 채용 달라졌다",
+        "link": "https://n.news.naver.com/mnews/article/079/0004188595?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 12 Sep 2026 05:01:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "NH 농협 은행, 파크골프대회서 고령층 '피싱 무표 보상보험' 홍보",
+        "link": "http://www.jeonmin.co.kr/news/articleView.html?idxno=446834",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 12 Sep 2026 03:14:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "전북 은행 , 소상공인 보듬자금 18억 추가 출연…500억 공급",
+        "link": "http://www.jeonmin.co.kr/news/articleView.html?idxno=446829",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 12 Sep 2026 03:14:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "NH농협 은행 , 파크골프대회서 고령층 '피싱 무표 보상보험' 홍보",
+        "link": "http://www.jeonmin.co.kr/news/articleView.html?idxno=446834",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 12 Sep 2026 03:14:00 +0900",
         "summary": "",
         "term": null
       },
@@ -86,87 +129,22 @@
         "term": null
       },
       {
-        "title": "농협 은행, 'the Origins카드' 출시기념 우수고객 초청 세미나 개최",
-        "link": "http://www.bizwnews.com/news/articleView.html?idxno=145966",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 11 Sep 2026 22:44:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
         "title": "농협 , ‘농심천심’으로 위기 넘고 ‘AI’로 미래 연다",
         "link": "https://www.fntimes.com/html/view.php?ud=202609112241251440dd55077bc2_18",
         "source": "네이버뉴스",
         "pubDate": "Fri, 11 Sep 2026 22:44:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "“효돌아, 내 연금 알려줘”… 농협 상호 금융 , 말로 하는 AI 금융 서비스 선...",
-        "link": "https://www.fntimes.com/html/view.php?ud=202609112232115028dd55077bc2_18",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 11 Sep 2026 22:40:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "NH 농협 수원시지부·수원 농협 , 추석 앞두고 사과 수확 일손돕기",
-        "link": "https://www.fntimes.com/html/view.php?ud=202609112228081255dd55077bc2_18",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 11 Sep 2026 22:32:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "인천 농협 , 도시와 농촌 아우르는 환경보호 활동 지원",
-        "link": "https://www.fntimes.com/html/view.php?ud=202609112221178906dd55077bc2_18",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 11 Sep 2026 22:24:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "강원 농협 ·고향주부모임, 농심천심 실천으로 농촌에 활력",
-        "link": "https://www.fntimes.com/html/view.php?ud=202609112218521615dd55077bc2_18",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 11 Sep 2026 22:22:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "macro": [
       {
-        "title": "[에디터 프리즘] 대출도 전세도 ‘오픈런’",
-        "link": "https://n.news.naver.com/mnews/article/353/0000056623?sid=110",
+        "title": "서원주 국민연금 CIO \"환율 분석 등 AI 활용 분야 발굴하겠다\" [fn마켓워...",
+        "link": "https://n.news.naver.com/mnews/article/014/0005574678?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 12 Sep 2026 00:31:00 +0900",
+        "pubDate": "Sat, 12 Sep 2026 04:17:00 +0900",
         "summary": "",
-        "term": {
-          "word": "LCR",
-          "meaning": "단기 유동성 충격 대응 능력을 보여주는 지표"
-        }
-      },
-      {
-        "title": "美물가 다시 꿈틀…금리인상 확률 85% 넘게 치솟아",
-        "link": "https://n.news.naver.com/mnews/article/665/0000008137?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 12 Sep 2026 00:20:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Terminal Rate",
-          "meaning": "기준금리 인상 사이클의 최종 수준에 대한 시장 기대"
-        }
-      },
-      {
-        "title": "캐나다 금융 감독당국, 토큰화 예금 법적 지위 명확화",
-        "link": "https://www.tokenpost.kr/news/breaking/406619",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 12 Sep 2026 00:08:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
+        "term": null
       },
       {
         "title": "'사업자 대출 받아 아파트 매매'...5년간 1167건 적발",
