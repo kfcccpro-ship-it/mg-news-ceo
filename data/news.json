@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-11T20:32:56.869Z",
-  "headline": "농협 중앙회, 정보보호 강화…“신뢰받는 농협 만들 것 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-09-11T23:00:11.611Z",
+  "headline": "새마을금고 , 금소법 의무 적용 앞서 전면 개편…'소비자중심' 금융환경... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
-        "title": "농협 중앙회, 정보보호 강화…“신뢰받는 농협 만들 것",
-        "link": "https://www.fntimes.com/html/view.php?ud=202609112224172250dd55077bc2_18",
+        "title": "새마을금고 , 금소법 의무 적용 앞서 전면 개편…'소비자중심' 금융환경...",
+        "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=87825",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 11 Sep 2026 22:28:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
+        "pubDate": "Sat, 12 Sep 2026 06:00:00 +0900",
+        "summary": "",
         "term": null
       },
       {
@@ -58,25 +58,62 @@
         "pubDate": "Fri, 11 Sep 2026 17:06:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "[이슈] PF 부실 결국 자본잠식…김인號 새마을금고 , 감독망 뭐했나(2부)",
-        "link": "https://www.the-today.com/news/articleView.html?idxno=89978",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 11 Sep 2026 16:36:00 +0900",
-        "summary": "새마을금고 건전성 관리 흐름과 연결해 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
       }
     ],
     "otherFinance": [
       {
-        "title": "[판결] 신용정보 제3자에 무단 제공… 저축 은행 과징금은 적법",
-        "link": "https://www.lawtimes.co.kr/news/articleView.html?idxno=226221",
+        "title": "NH 농협 은행, 가계대출 금리 인하… 16일부터 주담대 최대 0.45%p 인하 적용",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=606009",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 12 Sep 2026 05:02:00 +0900",
+        "pubDate": "Sat, 12 Sep 2026 07:50:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "NH농협 은행 , 가계대출 금리 인하… 16일부터 주담대 최대 0.45%p 인하 적용",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=606009",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 12 Sep 2026 07:50:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "농협 상호 금융 , AI 돌봄인형 '효돌' 농촌서 첫 시범운영",
+        "link": "https://n.news.naver.com/mnews/article/119/0003131887?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 12 Sep 2026 07:40:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "오픈AI, 투자 은행 용 '챗GPT 포 파이낸셜 서비스' 출시",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=700146",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 12 Sep 2026 07:34:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "KB 금융 , '깜짝' 이재근 카드…\"과감한 변화와 세대교체\" 택했다",
+        "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=64196",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 12 Sep 2026 07:10:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "30년 전엔 은행 옆이, 지금은 역세권 주변이 ‘땅값 좌우’ [경기·인천...",
+        "link": "https://n.news.naver.com/mnews/article/666/0000123029?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 12 Sep 2026 06:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "경품부터 통신비까지⋯은행권, 추석 맞춤형 이벤트 소비자 접점 확대",
+        "link": "https://n.news.naver.com/mnews/article/031/0001057763?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 12 Sep 2026 06:01:00 +0900",
         "summary": "",
         "term": null
       },
@@ -87,64 +124,35 @@
         "pubDate": "Sat, 12 Sep 2026 05:01:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "AI 경력 수시로, 신입 20% 빼고… 은행 채용 달라졌다",
-        "link": "https://n.news.naver.com/mnews/article/079/0004188595?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 12 Sep 2026 05:01:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "NH 농협 은행, 파크골프대회서 고령층 '피싱 무표 보상보험' 홍보",
-        "link": "http://www.jeonmin.co.kr/news/articleView.html?idxno=446834",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 12 Sep 2026 03:14:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "전북 은행 , 소상공인 보듬자금 18억 추가 출연…500억 공급",
-        "link": "http://www.jeonmin.co.kr/news/articleView.html?idxno=446829",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 12 Sep 2026 03:14:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "NH농협 은행 , 파크골프대회서 고령층 '피싱 무표 보상보험' 홍보",
-        "link": "http://www.jeonmin.co.kr/news/articleView.html?idxno=446834",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 12 Sep 2026 03:14:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "농협 상호 금융 , AI 돌봄인형 '효돌'로 농촌 고령층 금융 접근성 높인다",
-        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=89144",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 11 Sep 2026 23:50:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "농협 , ‘농심천심’으로 위기 넘고 ‘AI’로 미래 연다",
-        "link": "https://www.fntimes.com/html/view.php?ud=202609112241251440dd55077bc2_18",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 11 Sep 2026 22:44:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "macro": [
       {
-        "title": "서원주 국민연금 CIO \"환율 분석 등 AI 활용 분야 발굴하겠다\" [fn마켓워...",
-        "link": "https://n.news.naver.com/mnews/article/014/0005574678?sid=101",
+        "title": "엔화 6개월 만에 최고…일본 완성차 수익성 '빨간불'",
+        "link": "https://www.theguru.co.kr/news/article.html?no=106988",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 12 Sep 2026 04:17:00 +0900",
+        "pubDate": "Sat, 12 Sep 2026 07:32:00 +0900",
         "summary": "",
         "term": null
+      },
+      {
+        "title": "논밭에서 황금 땅으로…148% 뛴 대한민국 땅값 [경기·인천 지가 30년의...",
+        "link": "https://n.news.naver.com/mnews/article/666/0000123031?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 12 Sep 2026 06:22:00 +0900",
+        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
+        "term": null
+      },
+      {
+        "title": "주식보다 예금?…3%대 중반 금리에 자금이동 촉각",
+        "link": "https://www.ajunews.com/view/20260911141725183",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 12 Sep 2026 06:06:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
       },
       {
         "title": "'사업자 대출 받아 아파트 매매'...5년간 1167건 적발",
