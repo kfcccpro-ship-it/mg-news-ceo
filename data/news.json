@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T18:01:08.380Z",
+  "updatedAt": "2026-09-14T23:41:44.632Z",
   "headline": "춘천남부 새마을금고 백미 기부 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -38,117 +38,111 @@
     ],
     "otherFinance": [
       {
-        "title": "스테이블코인 수익률 놓고 백악관· 은행 권 이견…대출 효과 공방",
-        "link": "https://www.tokenpost.kr/news/policy/407852",
+        "title": "농협금융 , 순천 지역 초등학생 대상 '농심천심' 상생 릴레이",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1406077",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 15 Sep 2026 02:56:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "트럼프, 클래리티 법안 지지… 은행 권은 스테이블코인 반발",
-        "link": "https://www.tokenpost.kr/news/breaking/407834",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 15 Sep 2026 02:16:00 +0900",
+        "pubDate": "Tue, 15 Sep 2026 08:40:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "'4연패 탈출' 우리 금융 캐피탈, 하나카드에 4-3 승리…5일 만에 3R 첫 승 ...",
-        "link": "https://www.thebilliards.kr/news/articleView.html?idxno=31920",
+        "title": "농협 금융 , 순천 지역 초등학생 대상 '농심천심' 상생 릴레이",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1406077",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 15 Sep 2026 02:02:00 +0900",
+        "pubDate": "Tue, 15 Sep 2026 08:40:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "국제결제 은행 , AI 랠리 취약 경고…AI 기업 차입 1조달러 넘어",
-        "link": "https://www.g-enews.com/view.php?ud=2026091422283776249a1f309431_1",
+        "title": "북단양 농협 ·경찰, 보이스피싱 예방 '합동 캠페인'",
+        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2440761",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 15 Sep 2026 02:00:00 +0900",
+        "pubDate": "Tue, 15 Sep 2026 08:30:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "대출 기준금리 3년간 0.72%p 내렸는데… 은행선 0.15%p 하락 그쳐",
-        "link": "https://n.news.naver.com/mnews/article/023/0003998400?sid=101",
+        "title": "NH 농협 은행 기업고객 대상, 이체 이벤트로 수수료 환급과 호텔 뷔페 기...",
+        "link": "https://www.gokorea.kr/news/articleView.html?idxno=878411",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 15 Sep 2026 00:33:00 +0900",
+        "pubDate": "Tue, 15 Sep 2026 08:24:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "농협 '청년농부 상생 직거래장터' 개최...'도농상생장터 활성화 선포식...",
+        "link": "http://www.wsobi.com/news/articleView.html?idxno=318170",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 15 Sep 2026 08:12:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[ 농협 개혁 진단] 상반기엔 '개혁', 하반기엔 '이전'… 농협 현안 무게추...",
+        "link": "https://dealsite.co.kr/articles/168460",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 15 Sep 2026 08:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "KB발 세대교체, 5대 은행장까지 번지나…연말 인사판 흔들",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=853693",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 15 Sep 2026 08:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "예금금리 오른다는데…어느 은행에 돈 맡길까",
+        "link": "https://n.news.naver.com/mnews/article/018/0006369285?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 14 Sep 2026 19:13:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": {
-          "word": "Forward Guidance",
-          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
         }
-      },
-      {
-        "title": "지역경제 한파, 은행 덮쳐… 지방은행 부실채권 2조 육박",
-        "link": "https://n.news.naver.com/mnews/article/023/0003998399?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 15 Sep 2026 00:32:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
-      },
-      {
-        "title": "하나은행, 우즈베키스탄 투자산업통상부와 투자· 금융 협력 위한 업무협...",
-        "link": "https://www.rcast.co.kr/news/articleView.html?idxno=31622",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 14 Sep 2026 23:36:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "장동혁 “CBDC 거래추적·지출제한 우려”…한은은 은행 9곳·지갑 50만개...",
-        "link": "https://www.wikitree.co.kr/articles/1159469",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 14 Sep 2026 23:28:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "macro": [
       {
-        "title": "美 연준 16일 금리 올리나…시장 90%에도 ‘동결론’ 살아있다",
-        "link": "https://www.g-enews.com/view.php?ud=2026091420350488959a1f309431_1",
+        "title": "\"소상공인 금융 부담 확 줄인다\"…부산시, 1%대 금리로 1.2조원 금융 지원",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=750787",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 15 Sep 2026 03:00:00 +0900",
+        "pubDate": "Tue, 15 Sep 2026 08:38:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Forward Guidance",
-          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
-        }
-      },
-      {
-        "title": "美연준 금리인상 베팅 90%로 상승…월가 IB들도 인상 전망 합류",
-        "link": "https://www.tfmedia.co.kr/news/article.html?no=207225",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 15 Sep 2026 02:22:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Forward Guidance",
-          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
-        }
-      },
-      {
-        "title": "\"환율 200원 빠졌다고 美주식 샀다간\"…전문가가 꼽은 '뜻밖의 변수'",
-        "link": "https://n.news.naver.com/mnews/article/003/0014189750?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 15 Sep 2026 02:20:00 +0900",
-        "summary": "",
         "term": null
       },
       {
-        "title": "“대출금리 확 오르는데 예금은 찔끔” 재테크족 불만",
-        "link": "https://n.news.naver.com/mnews/article/020/0003748062?sid=101",
+        "title": "연준 '3년 만의 금리 인상' 가시화…워시·트럼프 \"정면충돌\" 예고",
+        "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000065458",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 15 Sep 2026 00:31:00 +0900",
+        "pubDate": "Tue, 15 Sep 2026 08:37:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": {
-          "word": "NIM",
-          "meaning": "금리 변화가 금융기관 수익성에 미치는 영향을 보여주는 핵심 지표"
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
         }
+      },
+      {
+        "title": "[굿모닝경제] 추석맞이 닭고기 20% 할인 / 예금 금리 다 올렸다 / 항공권...",
+        "link": "https://n.news.naver.com/mnews/article/057/0001968994?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 15 Sep 2026 08:02:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "한도 풀어줘도 못 늘린다…2금융 '건전성 벽' [누더기 대출②]",
+        "link": "https://n.news.naver.com/mnews/article/119/0003132619?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 15 Sep 2026 07:07:00 +0900",
+        "summary": "",
+        "term": null
       }
     ]
   }
