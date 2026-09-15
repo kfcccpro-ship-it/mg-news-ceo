@@ -1,21 +1,29 @@
 {
-  "updatedAt": "2026-09-15T20:55:06.171Z",
-  "headline": "'연간 17조' 인천시금고 17일 판가름…'청라 하나'vs'20년 신한' 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-09-15T23:25:54.080Z",
+  "headline": "연간 17조 인천시금고 오늘 판가름…'청라 하나' vs '20년 신한' 정면승... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
-        "title": "'연간 17조' 인천시금고 17일 판가름…'청라 하나'vs'20년 신한'",
-        "link": "https://n.news.naver.com/mnews/article/001/0016313319?sid=101",
+        "title": "연간 17조 인천시금고 오늘 판가름…'청라 하나' vs '20년 신한' 정면승...",
+        "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=64393",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 16 Sep 2026 05:53:00 +0900",
+        "pubDate": "Wed, 16 Sep 2026 07:56:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "달아오른 시금고 경쟁⋯은행권, 42조 규모 인천ㆍ전남광주 두고 격돌",
-        "link": "https://www.etoday.co.kr/news/view/2625800",
+        "title": "[이슈] 금고 1조 적자, 김인 보수 6억3158만원…1년 새 15.9%↑ \"감독 책...",
+        "link": "https://www.the-today.com/news/articleView.html?idxno=90192",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 16 Sep 2026 05:00:00 +0900",
+        "pubDate": "Wed, 16 Sep 2026 07:36:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "인천시 시금고 운영권, 하나은행 vs 신한은행의 빅매치 경쟁",
+        "link": "https://www.gokorea.kr/news/articleView.html?idxno=878558",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 16 Sep 2026 07:14:00 +0900",
         "summary": "",
         "term": null
       },
@@ -36,16 +44,16 @@
         "term": null
       },
       {
-        "title": "MG한마음 새마을금고 , 화정종합사회복지관에 300만원",
-        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=583133",
+        "title": "동울산 새마을금고 , 동구종합복지관에 150만원",
+        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=583129",
         "source": "네이버뉴스",
         "pubDate": "Tue, 15 Sep 2026 21:08:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "동울산 새마을금고 , 동구종합복지관에 150만원",
-        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=583129",
+        "title": "MG한마음 새마을금고 , 화정종합사회복지관에 300만원",
+        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=583133",
         "source": "네이버뉴스",
         "pubDate": "Tue, 15 Sep 2026 21:08:00 +0900",
         "summary": "",
@@ -58,77 +66,118 @@
         "pubDate": "Tue, 15 Sep 2026 20:07:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "새마을금고 중앙회 충북본부, ' MG로컬공동체 활성화 지원사업 '시설 개...",
-        "link": "http://www.cctimes.kr/news/articleView.html?idxno=927698",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 15 Sep 2026 19:56:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "5대 은행 하반기 공채 돌입…AI·전문인력 늘리고 채용문은 좁혔다",
-        "link": "https://n.news.naver.com/mnews/article/421/0009172576?sid=101",
+        "title": "은행권 기업대출 22% 늘 때 부실여신 82% 급증",
+        "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=664630",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 16 Sep 2026 05:40:00 +0900",
+        "pubDate": "Wed, 16 Sep 2026 08:24:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "은행 권 기업대출 22% 늘 때 부실여신 82% 급증",
+        "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=664630",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 16 Sep 2026 08:24:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "임호선, 농협경제지주회사와 유통자회사 간 합병 '취득세 면제' 추진",
+        "link": "https://www.sejungilbo.com/news/articleView.html?idxno=60125",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 16 Sep 2026 08:22:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "은행 연합회 \"신규 코픽스 전월과 동일\"… 국민·우리 은행 주담대 금리 ...",
-        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=607033",
+        "title": "진옥동 신한 금융 회장, 우즈벡 대통령 만나…신한 은행 현지법인 탄력받...",
+        "link": "https://www.theguru.co.kr/news/article.html?no=107147",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 16 Sep 2026 05:30:00 +0900",
+        "pubDate": "Wed, 16 Sep 2026 08:20:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "하나 은행 ·골프존, 골퍼에 최대 2만포인트",
+        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=709463",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 16 Sep 2026 08:20:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "안동 농협 , 보이스피싱 예방 캠페인 적극 전개",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=311297",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 16 Sep 2026 08:16:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "대출 브랜드평판 순위 공개… SBI저축은행·아이엠뱅크· 농협 은행 톱3",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=487354",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 16 Sep 2026 07:12:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "KB '은행장 출신' 회장 재등판…불붙는 '리딩뱅크' 왕좌 다툼",
-        "link": "https://n.news.naver.com/mnews/article/421/0009172567?sid=101",
+        "title": "5대 은행 예금금리 다 올렸다…'3.5% 수신 경쟁' 시작되나",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=208343",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 16 Sep 2026 05:20:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "KB ' 은행 장 출신' 회장 재등판…불붙는 '리딩뱅크' 왕좌 다툼",
-        "link": "https://n.news.naver.com/mnews/article/421/0009172567?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 16 Sep 2026 05:20:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "NH 농협 캐피탈, 제천서 이사회 개최… 제천·단양 조합장 간담회로 ‘농...",
-        "link": "https://weeklytrade.co.kr/news/view.html?section=1&category=6&item=&no=101416",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 16 Sep 2026 01:04:00 +0900",
-        "summary": "",
-        "term": null
+        "pubDate": "Wed, 16 Sep 2026 07:00:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
       }
     ],
     "macro": [
       {
-        "title": "[N2 모닝 경제 브리핑-9월 16일] 美 증시, ‘금리·유가’ 겹악재에 휘청...",
-        "link": "https://www.news2day.co.kr/article/20260915500031",
+        "title": "월세 연체에 깊어지는 시름… 임대인을 위한 '명도단행가처분' 활용법",
+        "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=89848",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 16 Sep 2026 05:26:00 +0900",
+        "pubDate": "Wed, 16 Sep 2026 08:00:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "집단대출 풀자 '방배'로…같은 서초도 11억 격차 [누더기 대출 규제③]",
+        "link": "https://n.news.naver.com/mnews/article/119/0003133128?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 16 Sep 2026 07:08:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "19년래 최고 찍은 미 국채금리, 한국 영향은… 금감원, ‘폐쇄적 CEO 선...",
+        "link": "https://n.news.naver.com/mnews/article/022/0004159390?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 16 Sep 2026 07:02:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "美 10년물 금리 2007년 이후 최고…유가·연준 인상 '이중 압박'",
-        "link": "https://n.news.naver.com/mnews/article/421/0009172566?sid=101",
+        "title": "올해 주담대 하단 1%p 뛰어…3억 대출이자 6600만원 더 내야",
+        "link": "https://n.news.naver.com/mnews/article/003/0014192943?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 16 Sep 2026 05:18:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Forward Guidance",
-          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
-        }
+        "pubDate": "Wed, 16 Sep 2026 07:00:00 +0900",
+        "summary": "",
+        "term": null
       }
     ]
   }
