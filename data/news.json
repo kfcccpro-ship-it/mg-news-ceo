@@ -1,8 +1,64 @@
 {
-  "updatedAt": "2026-09-17T16:22:05.366Z",
-  "headline": "춘천동남 새마을금고 백미 전달 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-09-17T20:59:33.124Z",
+  "headline": "인천시 제1금고에 신한은행, 제2금고에 농협 은행 선정 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "인천시 제1금고에 신한은행, 제2금고에 농협 은행 선정",
+        "link": "http://www.incheonin.com/news/articleView.html?idxno=120893",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 18 Sep 2026 05:56:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "인천시 제1금고에 신한 은행 , 제2금고에 농협 은행 선정",
+        "link": "http://www.incheonin.com/news/articleView.html?idxno=120893",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 18 Sep 2026 05:56:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "17조 인천시 1금고, '20년 터줏대감' 신한은행 품으로…2금고는 농협",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=881163",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 18 Sep 2026 05:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "인천시, 차기 시금고에 '제1금고 신한은행·제2금고 농협 은행' 선정",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=721204",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 18 Sep 2026 04:08:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "'20년 지기' 신한銀, 하나 막았다… 인천시금고 4년 더 맡는다",
+        "link": "https://n.news.naver.com/mnews/article/008/0005415567?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 18 Sep 2026 04:04:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "'작년엔 삼전, 올해는 하닉' 새마을금고 가계대출 숙제",
+        "link": "https://n.news.naver.com/mnews/article/008/0005415557?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 18 Sep 2026 03:53:00 +0900",
+        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "신한은행, 서울 이어 인천 ‘금고지기’도 지켰다… “지역 발전에 최선...",
+        "link": "https://n.news.naver.com/mnews/article/366/0001193151?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 18 Sep 2026 02:50:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "춘천동남 새마을금고 백미 전달",
         "link": "https://n.news.naver.com/mnews/article/654/0000201349?sid=101",
@@ -10,78 +66,38 @@
         "pubDate": "Fri, 18 Sep 2026 00:08:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "춘천남부 새마을금고 추석명절 맞이 백미 기부",
-        "link": "https://n.news.naver.com/mnews/article/654/0000201307?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 18 Sep 2026 00:06:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "농협 중앙회, 추석 연휴 앞두고 NH통합IT센터 비상대응체계 점검",
-        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=89417",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 17 Sep 2026 23:52:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "전남광주 ‘4년 곳간지기’ 찾는다…차기 금고 선정 돌입",
-        "link": "http://www.kjdaily.com/article.php?aid=1789642690687169002",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 17 Sep 2026 23:46:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "새마을금고 , 제주지역 소상공인·기업에 특별보증대출...150억 규모",
-        "link": "http://www.newsbrite.net/news/articleView.html?idxno=200487",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 17 Sep 2026 23:24:00 +0900",
-        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "20년 아성 지켰다…신한은행 17조 인천시금고 수성",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701496",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 17 Sep 2026 23:24:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "신한은행, 인천시 1금고 수성…내년부터 4년 더",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1724750",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 17 Sep 2026 23:24:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "새마을금고 , 제주지역 소상공인·기업에 150억원 특별보증대출",
-        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2310493",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 17 Sep 2026 23:04:00 +0900",
-        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "FDIC, 주 인가 은행 디지털자산 규정안 승인",
-        "link": "https://www.tokenpost.kr/news/breaking/409854",
+        "title": "은행장 후보, 이번엔 회장 대신 사외이사에 줄서기?",
+        "link": "https://n.news.naver.com/mnews/article/081/0003681461?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 18 Sep 2026 01:06:00 +0900",
-        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
+        "pubDate": "Fri, 18 Sep 2026 05:04:00 +0900",
+        "summary": "",
         "term": null
       },
       {
-        "title": "선우용여, 은행 갔다가 400만원 날렸다…\"적금인 줄 알았는데 퇴직연금...",
-        "link": "https://m.entertain.naver.com/article/117/0004106617",
+        "title": "[단독] 주담대 ‘4억·DSR 35%’ 넘으면 은행 위험 가중치 높인다",
+        "link": "https://n.news.naver.com/mnews/article/081/0003681463?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 18 Sep 2026 01:03:00 +0900",
+        "pubDate": "Fri, 18 Sep 2026 05:04:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[이코노 브리핑] NH 농협 , 그룹 ‘ESG 추진협의회’ 개최 외",
+        "link": "https://n.news.naver.com/mnews/article/022/0004160011?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 18 Sep 2026 05:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "충북 북단양 농협 ·단양경찰서 매포지구대, 보이스피싱 피해예방 캠페인",
+        "link": "https://n.news.naver.com/mnews/article/662/0000104556?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 18 Sep 2026 05:01:00 +0900",
         "summary": "",
         "term": null
       },
@@ -95,46 +111,55 @@
           "word": "Terminal Rate",
           "meaning": "기준금리 인상 사이클의 최종 수준에 대한 시장 기대"
         }
-      },
+      }
+    ],
+    "macro": [
       {
-        "title": "유럽·美·日… 세계 중앙 은행 들 ‘긴축 행렬’",
-        "link": "https://n.news.naver.com/mnews/article/023/0003999089?sid=101",
+        "title": "[뉴욕증시] 금리인상 시작에 오히려 안도…강세 마감",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4435512",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 18 Sep 2026 00:32:00 +0900",
-        "summary": "",
+        "pubDate": "Fri, 18 Sep 2026 05:54:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": {
           "word": "Terminal Rate",
           "meaning": "기준금리 인상 사이클의 최종 수준에 대한 시장 기대"
         }
       },
       {
-        "title": "코픽스 멈췄는데 주담대는 왜 오르나…은행채·예금금리 '이중 압박'",
-        "link": "https://www.ziksir.com/news/articleView.html?idxno=146778",
+        "title": "말 아끼던 ‘트럼프의 남자’, 결국 美 금리 올렸다 [글로벌 모닝 브리...",
+        "link": "https://n.news.naver.com/mnews/article/011/0004663149?sid=104",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 18 Sep 2026 00:00:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "pubDate": "Fri, 18 Sep 2026 05:50:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "[뉴욕마감]나스닥 1.69%↑…유가·국채금리 하락에 반등",
+        "link": "https://n.news.naver.com/mnews/article/421/0009177753?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 18 Sep 2026 05:50:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "연준 3년 만에 금리 인상하는데…하원은 비트코인 전략보유법 28대21 통...",
+        "link": "https://www.wikitree.co.kr/articles/1160347",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 18 Sep 2026 05:14:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
         }
       },
       {
-        "title": "다우오피스, NH 농협 은행까지 묶어, 다우기술 제휴 금융 사 지속 확대",
-        "link": "http://www.technoa.co.kr/news/articleView.html?idxno=101405",
+        "title": "주담대 금리 또 오르나…전문가들 \"빚 재편이 우선\"",
+        "link": "https://n.news.naver.com/mnews/article/417/0001158663?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 17 Sep 2026 23:06:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "밀양 농협 , 마케팅 추진 우수사무소 선정",
-        "link": "http://www.gnmaeil.com/news/articleView.html?idxno=595108",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 17 Sep 2026 23:06:00 +0900",
-        "summary": "",
+        "pubDate": "Fri, 18 Sep 2026 05:00:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       }
-    ],
-    "macro": []
+    ]
   }
 }
