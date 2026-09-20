@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T15:32:57.128Z",
+  "updatedAt": "2026-09-20T20:24:19.007Z",
   "headline": "MG춘천중부 새마을금고 성품 기탁 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -28,16 +28,16 @@
         "term": null
       },
       {
-        "title": "새마을금고 , 사회연대금융 활성화에 20억 출연",
-        "link": "http://www.bizwnews.com/news/articleView.html?idxno=146856",
+        "title": "[동정]김계순 삼척중앙 새마을금고 이사장",
+        "link": "https://n.news.naver.com/mnews/article/087/0001219383?sid=102",
         "source": "네이버뉴스",
         "pubDate": "Sun, 20 Sep 2026 19:24:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[동정]김계순 삼척중앙 새마을금고 이사장",
-        "link": "https://n.news.naver.com/mnews/article/087/0001219383?sid=102",
+        "title": "새마을금고 , 사회연대금융 활성화에 20억 출연",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=146856",
         "source": "네이버뉴스",
         "pubDate": "Sun, 20 Sep 2026 19:24:00 +0900",
         "summary": "",
@@ -45,6 +45,60 @@
       }
     ],
     "otherFinance": [
+      {
+        "title": "예대마진만으론 못 큰다…'대출하는 은행 '서 '투자하는 금융 '으로",
+        "link": "https://n.news.naver.com/mnews/article/008/0005416408?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 21 Sep 2026 05:15:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "NIM",
+          "meaning": "금리 변화가 금융기관 수익성에 미치는 영향을 보여주는 핵심 지표"
+        }
+      },
+      {
+        "title": "[목멱칼럼]서울 부동산에 관심 많은 '한국 은행 '",
+        "link": "https://n.news.naver.com/mnews/article/018/0006373278?sid=110",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 21 Sep 2026 05:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "\"될성부른 기업 먼저 찾아라\"…변리사·약사도 뽑는 은행권 심사전쟁",
+        "link": "https://n.news.naver.com/mnews/article/008/0005416405?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 21 Sep 2026 05:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "농협 은행 17억 추가출연…충남 소상공인에 255억 '긴급 수혈'",
+        "link": "https://www.tournews21.com/news/articleView.html?idxno=143988",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 21 Sep 2026 02:32:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "검사부터 재활까지 치료 과정 보장 넓힌 보험 상품 잇단 출시",
+        "link": "https://n.news.naver.com/mnews/article/023/0003999527?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 21 Sep 2026 00:38:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "5대은행 저신용 자영업자 연체율, 5년 새 24%로 치솟아",
+        "link": "https://n.news.naver.com/mnews/article/023/0003999508?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 21 Sep 2026 00:32:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
       {
         "title": "“주식 대신 예적금” 은행 총수신 올 최고 찍었다",
         "link": "https://n.news.naver.com/mnews/article/020/0003749563?sid=101",
@@ -57,14 +111,6 @@
         }
       },
       {
-        "title": "[나가이 시게토의 마켓 나우] 일본 은행 이 붙잡은 동아줄, 치러야 할 대가",
-        "link": "https://n.news.naver.com/mnews/article/025/0003552712?sid=110",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 21 Sep 2026 00:04:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
         "title": "저신용자 더 싸게 빌린다…카드론도 대출금리 역전",
         "link": "https://n.news.naver.com/mnews/article/025/0003552699?sid=101",
         "source": "네이버뉴스",
@@ -74,47 +120,42 @@
           "word": "NIM",
           "meaning": "금리 변화가 금융기관 수익성에 미치는 영향을 보여주는 핵심 지표"
         }
-      },
-      {
-        "title": "보험사 신용도, CSM 규모보다 '질'… 자본관리능력도 변수",
-        "link": "https://www.insnews.co.kr/news/articleView.html?idxno=92873",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 21 Sep 2026 00:02:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "주가 오르자 자본·위험액 동반 증가… 보험사 건전성 '희비'",
-        "link": "https://www.insnews.co.kr/news/articleView.html?idxno=92872",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 21 Sep 2026 00:00:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "경남 대전환 ③ '경남'에는 '경남은행'이 없다",
-        "link": "http://www.gnmaeil.com/news/articleView.html?idxno=595228",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 20 Sep 2026 23:14:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[ 금융 권 이모저모]NH 농협 은행, 수출입 기업 맞춤 컨설팅 外",
-        "link": "https://www.businessplus.kr/news/articleView.html?idxno=117126",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 20 Sep 2026 22:44:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "macro": [
       {
-        "title": "[부동산 먼데이 시그널] PF·공급·규제가 동시에 움직인다…부동산 시...",
-        "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=317961",
+        "title": "예금·대출 흔드는 스테이블코인 ‘이자 전쟁’",
+        "link": "https://n.news.naver.com/mnews/article/081/0003682044?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 21 Sep 2026 00:06:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
+        "pubDate": "Mon, 21 Sep 2026 05:04:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "[단독] 보금자리 ‘내 집 마련 꿈’… 고금리에 경·공매 2400건 신청",
+        "link": "https://n.news.naver.com/mnews/article/081/0003682042?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 21 Sep 2026 05:04:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "[사설] 日 잇단 금리 인상, 엔 캐리 청산 가능성 대비해야",
+        "link": "https://n.news.naver.com/mnews/article/018/0006373280?sid=110",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 21 Sep 2026 05:02:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "논밭 경매 유찰 반복…담보대출 농축협 연쇄 ‘충격’ 현실로",
+        "link": "https://n.news.naver.com/mnews/article/662/0000104726?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 21 Sep 2026 05:01:00 +0900",
+        "summary": "",
         "term": null
       },
       {
@@ -126,17 +167,6 @@
         "term": null
       },
       {
-        "title": "저신용 자영업자 연체율 5배 뛰었다…고금리 충격도 ‘양극화’",
-        "link": "https://n.news.naver.com/mnews/article/025/0003552701?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 21 Sep 2026 00:02:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
-      },
-      {
         "title": "정정훈號 캠코 1년, 11.7조 장기 연체채권 품었다",
         "link": "https://www.fntimes.com/html/view.php?ud=202609182154455248dd55077bc2_18",
         "source": "네이버뉴스",
@@ -145,17 +175,6 @@
         "term": {
           "word": "Delinquency",
           "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
-      },
-      {
-        "title": "'예금 큰손' 시니어,전용 창구도 마련",
-        "link": "https://www.ubc.co.kr/news/28096/",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 20 Sep 2026 22:24:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
         }
       }
     ]
