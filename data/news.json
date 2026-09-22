@@ -1,107 +1,122 @@
 {
-  "updatedAt": "2026-09-22T03:36:27.058Z",
-  "headline": "새마을금고 중앙회, 한국평가데이터와 데이터 활용 업무협약 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-09-22T11:03:29.628Z",
+  "headline": "대구 서구 와룡 새마을금고 , 추석 맞이 특식 나눔 행사 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
-        "title": "새마을금고 중앙회, 한국평가데이터와 데이터 활용 업무협약",
-        "link": "https://n.news.naver.com/mnews/article/021/0002820673?sid=102",
+        "title": "대구 서구 와룡 새마을금고 , 추석 맞이 특식 나눔 행사",
+        "link": "https://n.news.naver.com/mnews/article/088/0001030123?sid=004",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 22 Sep 2026 12:30:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
+        "pubDate": "Tue, 22 Sep 2026 17:12:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "\"지역 곳곳에 따뜻한 숨결을\"… 새마을금고 충청본부 '따숨' 봉사단 뜬...",
+        "link": "https://www.ggilbo.com/news/articleView.html?idxno=1183437",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 22 Sep 2026 17:02:00 +0900",
+        "summary": "",
         "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "카드론 잔액 석 달 연속 감소…대환대출·리볼빙은 오히려 늘었다",
-        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=743782",
+        "title": "BNK부산 은행 , 외국인 크루즈 관광객에 환전 서비스 … 추석 맞이 '정 투...",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=89645",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 22 Sep 2026 12:31:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "5대 은행 가계대출 한도 벌써 소진…연간 목표 2000억원 초과",
-        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=743784",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 22 Sep 2026 12:30:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "은행 연체율 0.63%로 다시 상승…대기업 연체율 5년 만에 최고",
-        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=743785",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 22 Sep 2026 12:30:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
-      },
-      {
-        "title": "수출입 은행 , LG화학 국내 첫 SAF 전용설비에 2500억원 지원",
-        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=743799",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 22 Sep 2026 12:29:00 +0900",
+        "pubDate": "Tue, 22 Sep 2026 20:02:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "한국산업 은행 -IBK기업 은행 , 1,200억 규모 '넥스트스테이지 펀드' 결성",
-        "link": "https://www.onews.tv/news/articleView.html?idxno=287728",
+        "title": "NH 농협금융 , 거제·통영 수해복구 성금 기탁에 범농협 차원 지원",
+        "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=646099",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 22 Sep 2026 12:28:00 +0900",
+        "pubDate": "Tue, 22 Sep 2026 19:58:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "목포시 고향사랑, 농협 의 1,145만 원 기부 행렬로 이어지다",
-        "link": "https://www.gokorea.kr/news/articleView.html?idxno=879402",
+        "title": "NH농협 금융 , 거제·통영 수해복구 성금 기탁에 범농협 차원 지원",
+        "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=646099",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 22 Sep 2026 12:26:00 +0900",
+        "pubDate": "Tue, 22 Sep 2026 19:58:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "명절 장보기가 시장 매출로… BNK부산 은행 , 덕포시장서 '골목동행'",
-        "link": "https://n.news.naver.com/mnews/article/277/0005819877?sid=102",
+        "title": "BNK경남 은행 , 추석 앞두고 경남ㆍ울산지역 복지시설 49곳에 1840만원 기탁",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=89644",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 22 Sep 2026 12:19:00 +0900",
+        "pubDate": "Tue, 22 Sep 2026 19:54:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "대기업 은행 대출 연체율 5년 만에 최고치…중앙그룹 구조조정 여파",
-        "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=81313",
+        "title": "BNK 금융 그룹, 부산·경남 은행 신입행원 공개채용 실시",
+        "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=646151",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 22 Sep 2026 12:12:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
+        "pubDate": "Tue, 22 Sep 2026 19:48:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "농협 , 경남 수해 이재민에 기부금 5억원 추가",
+        "link": "https://www.womentimes.co.kr/news/articleView.html?idxno=106442",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 22 Sep 2026 19:44:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "농협, 경남 수해 이재민에 기부금 5억원 추가",
+        "link": "https://www.womentimes.co.kr/news/articleView.html?idxno=106442",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 22 Sep 2026 19:44:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "영주 농협 , 상금 1천만 원 상당 인재육성 기금으로 쾌척",
+        "link": "https://www.dkilbo.com/news/articleView.html?idxno=555326",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 22 Sep 2026 19:36:00 +0900",
+        "summary": "",
+        "term": null
       }
     ],
     "macro": [
       {
-        "title": "JP모건 \"채권시장, 연준보다 네 가지 요인이 금리 주도\"",
-        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436101",
+        "title": "치솟는 주담대 금리… ‘7% 눈앞’ 원리금 걱정 한숨",
+        "link": "https://www.kyeongin.com/article/1771377",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 22 Sep 2026 12:22:00 +0900",
+        "pubDate": "Tue, 22 Sep 2026 19:52:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Forward Guidance",
-          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
-        }
+        "term": null
       },
       {
-        "title": "중구, 소상공인 '3종 맞춤지원'…빅데이터·특별보증·저금리 융자 제공",
-        "link": "https://www.hg-times.com/news/articleView.html?idxno=305513",
+        "title": "[포커스] 하나銀, 소상공인 대출심사 '사업 성장 가능성'도 본다",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=813960",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 22 Sep 2026 10:20:00 +0900",
+        "pubDate": "Tue, 22 Sep 2026 19:06:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "중구, 빅데이터 분석부터 특별보증, 저금리 융자까지 소상공인 '3종 맞...",
+        "link": "https://www.cnbizm.com/news/articleView.html?idxno=316027",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 22 Sep 2026 17:32:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "고창군, 추석맞이 전통시장 장보기…군민활력지원금으로 소비 촉진",
+        "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=393716",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 22 Sep 2026 17:00:00 +0900",
+        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
         "term": null
       }
     ]
