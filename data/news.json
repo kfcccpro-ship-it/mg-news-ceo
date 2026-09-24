@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T11:12:33.539Z",
+  "updatedAt": "2026-09-24T16:36:18.054Z",
   "headline": "새마을금고 역사관, 산청서 금융교육·문화공간 역할 톡톡 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -54,6 +54,22 @@
     ],
     "otherFinance": [
       {
+        "title": "러시아 중앙 은행 , 암호화폐 시장 진입 초안 공개",
+        "link": "https://www.tokenpost.kr/news/breaking/413686",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 25 Sep 2026 01:14:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "오라클 '불가항력' 카드…AI 데이터센터 금융 흔든다",
+        "link": "https://n.news.naver.com/mnews/article/015/0005335963?sid=104",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 25 Sep 2026 00:09:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
         "title": "“이제는 여행갈 때도 NH올원뱅크” 농협 은행, 올원트래블 서비스 오픈",
         "link": "https://n.news.naver.com/mnews/article/662/0000105065?sid=101",
         "source": "네이버뉴스",
@@ -62,23 +78,7 @@
         "term": null
       },
       {
-        "title": "“이제는 여행갈 때도 NH올원뱅크” 농협 은행 , 올원트래블 서비스 오픈",
-        "link": "https://n.news.naver.com/mnews/article/662/0000105065?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 24 Sep 2026 19:53:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
         "title": "강태영 NH 농협 은행장, 추석 명절 앞두고 비상근무 사무소 찾아 外",
-        "link": "https://www.rcast.co.kr/news/articleView.html?idxno=31714",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 24 Sep 2026 19:34:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "강태영 NH농협 은행 장, 추석 명절 앞두고 비상근무 사무소 찾아 外",
         "link": "https://www.rcast.co.kr/news/articleView.html?idxno=31714",
         "source": "네이버뉴스",
         "pubDate": "Thu, 24 Sep 2026 19:34:00 +0900",
@@ -120,27 +120,19 @@
     ],
     "macro": [
       {
-        "title": "국채금리와 연관성 거의 없는 비트코인, 왜 금리상승에 추락했나",
-        "link": "https://n.news.naver.com/mnews/article/018/0006375382?sid=101",
+        "title": "EBA, 암호화폐 대출·DeFi 접근까지 MiCA로 규제하자…16개국서 확산 지...",
+        "link": "https://www.wikitree.co.kr/articles/1161904",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 24 Sep 2026 20:05:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "pubDate": "Fri, 25 Sep 2026 01:28:00 +0900",
+        "summary": "",
         "term": null
       },
       {
-        "title": "가계대출 1인당 9천만원, 다중채무자 23.7%...10년새 최고",
-        "link": "https://n.news.naver.com/mnews/article/123/0002390823?sid=101",
+        "title": "[ 금융 家] 이찬진 금융 감독원장 ⑤ㅣ 지배구조·소비자보호·시장 안정 '...",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=609666",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 24 Sep 2026 19:39:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "[단독] 부동산 편법 거래 기승...1년 새 국세청 통보 2배↑",
-        "link": "https://n.news.naver.com/mnews/article/011/0004665247?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 24 Sep 2026 19:33:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
+        "pubDate": "Fri, 25 Sep 2026 01:00:00 +0900",
+        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
         "term": null
       }
     ]
