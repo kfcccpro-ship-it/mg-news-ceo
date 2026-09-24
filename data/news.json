@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T16:36:18.054Z",
+  "updatedAt": "2026-09-24T21:12:08.510Z",
   "headline": "새마을금고 역사관, 산청서 금융교육·문화공간 역할 톡톡 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -42,30 +42,57 @@
         "pubDate": "Thu, 24 Sep 2026 06:56:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "[이슈] 새마을금고 역사관 누적관람 4만5000명… 지역 '금융교육 거점' 되...",
-        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=814116",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 23 Sep 2026 19:00:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "러시아 중앙 은행 , 암호화폐 시장 진입 초안 공개",
-        "link": "https://www.tokenpost.kr/news/breaking/413686",
+        "title": "늘어난 파킹 자금 수요에 주목받는 증권사 '발행어음' 경쟁",
+        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=423893",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 25 Sep 2026 01:14:00 +0900",
+        "pubDate": "Fri, 25 Sep 2026 06:10:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "오라클 '불가항력' 카드…AI 데이터센터 금융 흔든다",
-        "link": "https://n.news.naver.com/mnews/article/015/0005335963?sid=104",
+        "title": "추석 뒤 늘었던 카드론…올해 ‘급전 수요’ 몰릴까",
+        "link": "https://www.kukinews.com/article/view/kuk202609220226",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 25 Sep 2026 00:09:00 +0900",
+        "pubDate": "Fri, 25 Sep 2026 06:06:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "추석 연휴 은행 문 닫아도 여기선 된다…이동·탄력점포 어디",
+        "link": "https://www.ajunews.com/view/20260923145854919",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 25 Sep 2026 06:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "증시서 은행 으로 ‘역머니무브’…예금 3% 후반·적금 최고 13.5%",
+        "link": "http://www.metroseoul.co.kr/article/20260924500081",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 25 Sep 2026 06:02:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "명절에만 반짝 ‘달리는 은행 ’…고향집엔 ATM도 사라졌다",
+        "link": "https://www.kukinews.com/article/view/kuk202609160179",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 25 Sep 2026 06:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "은행권 ‘자산가 잡기’ 경쟁, 서울 넘어 지방으로 확대",
+        "link": "https://n.news.naver.com/mnews/article/366/0001194357?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 25 Sep 2026 06:01:00 +0900",
         "summary": "",
         "term": null
       },
@@ -84,56 +111,35 @@
         "pubDate": "Thu, 24 Sep 2026 19:34:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "[2026 미리보는 국정감사] 5대 금융 지주 회장 국감 증인 신청…증권사까...",
-        "link": "http://www.newsian.co.kr/news/articleView.html?idxno=95960",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 24 Sep 2026 18:28:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "은행권 추석 휴게소 이동점포 운영…중기 대출 지원 확대",
-        "link": "https://n.news.naver.com/mnews/article/448/0000641291?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 24 Sep 2026 18:05:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "NH 농협 은행 광주본부 ‘AI 반도체 금융 실무 연수’",
-        "link": "http://www.jndn.com/article.php?aid=1790239327440202095",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 24 Sep 2026 17:46:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[ 금융 zip] 우리은행, 신보·기보와 청년 창업기업에 2000억원 금융 지원 ...",
-        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=881778",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 24 Sep 2026 17:34:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "macro": [
       {
-        "title": "EBA, 암호화폐 대출·DeFi 접근까지 MiCA로 규제하자…16개국서 확산 지...",
-        "link": "https://www.wikitree.co.kr/articles/1161904",
+        "title": "가계대출 조이는데… 국토부 산하 4개 기관 사내대출 최대 2억",
+        "link": "https://n.news.naver.com/mnews/article/022/0004161681?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 25 Sep 2026 01:28:00 +0900",
-        "summary": "",
+        "pubDate": "Fri, 25 Sep 2026 06:02:00 +0900",
+        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
         "term": null
       },
       {
-        "title": "[ 금융 家] 이찬진 금융 감독원장 ⑤ㅣ 지배구조·소비자보호·시장 안정 '...",
-        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=609666",
+        "title": "연 12% 금리도 챙기고 저축 습관도 키우고, 추석 아이용돈 적금으로 굴...",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=447841",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 25 Sep 2026 01:00:00 +0900",
-        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
+        "pubDate": "Fri, 25 Sep 2026 06:00:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
+      },
+      {
+        "title": "“주식은 불안하고 돈은 놀고 있는데”…예금 3%대, 다시 넣어볼까?[유...",
+        "link": "https://n.news.naver.com/mnews/article/029/0003049781?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 25 Sep 2026 05:45:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
       }
     ]
   }
