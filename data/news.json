@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T16:41:32.632Z",
+  "updatedAt": "2026-09-25T21:09:37.686Z",
   "headline": "수만 명 몰린 새마을금고 역사관, 지역 '복합문화공간' 자리매김 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -30,6 +30,68 @@
     ],
     "otherFinance": [
       {
+        "title": "[외화채 조달전략] [KB증권] 5년만에 달러채 복귀, 든든한 뒷배",
+        "link": "https://news.dealsitetv.com/articles/176356",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 26 Sep 2026 06:08:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "한때 뜨거웠던 트래블카드, 올해는 왜 잠잠할까",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1725582",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 26 Sep 2026 06:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "은행 예금금리 3.5%까지 올랐는데…저축은행은 거꾸로",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1725365",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 26 Sep 2026 06:02:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "은행 예금금리 3.5%까지 올랐는데…저축 은행 은 거꾸로",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1725365",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 26 Sep 2026 06:02:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "“있는 줄도 몰랐네”⋯이번 연휴에 숨은 카드포인트 찾는 법",
+        "link": "https://www.etoday.co.kr/news/view/2628994",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 26 Sep 2026 06:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "내보험찾아줌에서 가입 보험과 미청구금 조회",
+        "link": "https://www.vegannews.co.kr/news/article.html?no=387782",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 26 Sep 2026 04:28:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "NH 농협금융 , 인도네시아 마야파다그룹 초청 연수",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=320439",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 26 Sep 2026 04:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
         "title": "시중은행, 정기예금 금리 상향···'역머니무브' 가속화",
         "link": "https://www.smartbizn.com/news/articleView.html?idxno=154560",
         "source": "네이버뉴스",
@@ -39,91 +101,35 @@
           "word": "Deposit Beta",
           "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
         }
-      },
-      {
-        "title": "시중 은행 , 정기예금 금리 상향···'역머니무브' 가속화",
-        "link": "https://www.smartbizn.com/news/articleView.html?idxno=154560",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 26 Sep 2026 00:10:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
-      },
-      {
-        "title": "\"'효돌'을 아시나요\" 농협 , AI 금융 부터 청년농 지원까지",
-        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2317404",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 25 Sep 2026 23:28:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "농협 , 미국서 농식품 판로 넓힌다…14개국 글로벌망 협업도 강화",
-        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2317401",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 25 Sep 2026 22:28:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "농협 , 추석 맞아 수해복구·농가 판로·취약계층 지원 확대",
-        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2317399",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 25 Sep 2026 21:22:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "中企·소상공인 추석 자금 숨통…은행권 80조원 지원",
-        "link": "https://www.ajunews.com/view/20260923161803201",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 25 Sep 2026 18:02:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "세종시, NH 농협 ·하나은행과 지역성장펀드 조성 추진",
-        "link": "https://www.kukinews.com/article/view/kuk202609250027",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 25 Sep 2026 16:18:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "주식할 여윳돈 있으면 은행 간다…“금리 13.5%, 지금이 기회”",
-        "link": "https://n.news.naver.com/mnews/article/030/0003469890?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 25 Sep 2026 12:32:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
       }
     ],
     "macro": [
       {
-        "title": "[채권 전망] \"방향성 베팅보다 듀레이션 관리\"…연휴 직후 금리 움직일...",
-        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=609791",
+        "title": "추석 상여금 어떻게 굴릴까…고금리 예적금 보니",
+        "link": "https://www.kukinews.com/article/view/kuk202609180184",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 26 Sep 2026 00:36:00 +0900",
+        "pubDate": "Sat, 26 Sep 2026 06:06:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "부동산과 금융 투자상품의 세제 격차 줄여야…생산적 금융",
-        "link": "https://www.junggi.co.kr/news/articleView.html?idxno=37846",
+        "title": "추석 지나면 다시 대출문 좁아지나…'가을 이사철'에 총량 충돌",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1725381",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 26 Sep 2026 00:00:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
+        "pubDate": "Sat, 26 Sep 2026 06:02:00 +0900",
+        "summary": "",
         "term": null
       },
       {
-        "title": "금감원·거래소는 민간기업?…지방이전설에 소환된 금융 기관 ‘정체성...",
-        "link": "https://n.news.naver.com/mnews/article/022/0004161803?sid=101",
+        "title": "환율 떨어지니 달러예금 급증… “변동성 커 사려면 나눠서”",
+        "link": "https://n.news.naver.com/mnews/article/366/0001194445?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 25 Sep 2026 17:32:00 +0900",
+        "pubDate": "Sat, 26 Sep 2026 06:02:00 +0900",
         "summary": "",
-        "term": null
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
       },
       {
         "title": "연 12% 금리도 챙기고 저축 습관도 키우고, 추석 아이용돈 적금으로 굴...",
