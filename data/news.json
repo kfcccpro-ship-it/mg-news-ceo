@@ -1,8 +1,16 @@
 {
-  "updatedAt": "2026-09-26T10:54:16.220Z",
-  "headline": "산청 새마을금고 역사관, 지역 내 '복합문화공간' 자리매김 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-09-26T15:54:13.311Z",
+  "headline": "KB국민 은행 , 동대문 구금고 단독 응찰… 은행 권 ‘금고 확보보다 손익’ 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "KB국민 은행 , 동대문 구금고 단독 응찰… 은행 권 ‘금고 확보보다 손익’",
+        "link": "http://sateconomy.co.kr/news/view/1065613647453252",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 26 Sep 2026 20:50:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "산청 새마을금고 역사관, 지역 내 '복합문화공간' 자리매김",
         "link": "https://www.sisaweek.com/news/articleView.html?idxno=238077",
@@ -22,37 +30,37 @@
     ],
     "otherFinance": [
       {
+        "title": "증시 활황에 돈 몰린 증권사···이제는 '조달 경쟁'으로",
+        "link": "https://www.smartbizn.com/news/articleView.html?idxno=154772",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 27 Sep 2026 00:20:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "영국 7개 은행 , 토큰화 파운드 예금 첫 실사용 결제",
+        "link": "https://www.tokenpost.kr/news/breaking/414532",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 26 Sep 2026 22:34:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "세일러, 비트코인 은행 ·보험 통합 구상 제시",
+        "link": "https://www.tokenpost.kr/news/breaking/414529",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 26 Sep 2026 22:22:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
         "title": "KB국민·NH 농협 ·하나증권, 성장펀드 2차 판매 참여…은행 40%·증권 60% ‘...",
         "link": "https://sateconomy.co.kr/news/view/1065609597812288",
         "source": "네이버뉴스",
         "pubDate": "Sat, 26 Sep 2026 19:46:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "KB국민·NH농협·하나증권, 성장펀드 2차 판매 참여… 은행 40%·증권 60% ‘...",
-        "link": "https://sateconomy.co.kr/news/view/1065609597812288",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 26 Sep 2026 19:46:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "'평생 어부바' 신협, 공적자금 부실책임자 74% 집중⋯관리·감독 체계 허...",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=600716",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 26 Sep 2026 19:38:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
-      },
-      {
-        "title": "\"스마트 국채 유통 청사진\"…한국 은행 , 자산토큰화 전담 신설",
-        "link": "http://www.globalepic.co.kr/view.php?ud=2026092619280385157cc35ccc5c_29",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 26 Sep 2026 19:32:00 +0900",
         "summary": "",
         "term": null
       },
@@ -110,42 +118,12 @@
         }
       },
       {
-        "title": "1 금융 조이자 취약차주 연체율 10.4% 급등…가계빚 '2차 뇌관' 터진 2금...",
-        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065607712978859",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 26 Sep 2026 19:16:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
-      },
-      {
         "title": "추석 연휴 금융사기 차단…'안심차단 3종' 대출·계좌개설 막는다",
         "link": "https://www.g-enews.com/view.php?ud=202609231218009175cd0bfacc1c_1",
         "source": "네이버뉴스",
         "pubDate": "Sat, 26 Sep 2026 14:00:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "추석 연휴 금융 사기 차단…'안심차단 3종' 대출·계좌개설 막는다",
-        "link": "https://www.g-enews.com/view.php?ud=202609231218009175cd0bfacc1c_1",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 26 Sep 2026 14:00:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[위클리 뱅크이슈] 예대금리차 줄었다는데… 대출금리는 여전히 '고공행...",
-        "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=728239",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 26 Sep 2026 14:00:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "NIM",
-          "meaning": "금리 변화가 금융기관 수익성에 미치는 영향을 보여주는 핵심 지표"
-        }
       },
       {
         "title": "\"연 12% 이자 준다고?\"···추석 연휴에 찾아볼 고금리 예·적금은",
