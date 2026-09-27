@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-27T16:30:31.813Z",
+  "updatedAt": "2026-09-27T20:58:10.345Z",
   "headline": "춘천남부 새마을금고 · 새마을금고 중앙회 강원지역본부 전자제품 전달 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
         "title": "춘천남부 새마을금고 · 새마을금고 중앙회 강원지역본부 전자제품 전달",
-        "link": "https://n.news.naver.com/mnews/article/654/0000202587?sid=101",
+        "link": "https://n.news.naver.com/mnews/article/654/0000202586?sid=101",
         "source": "네이버뉴스",
         "pubDate": "Mon, 28 Sep 2026 00:08:00 +0900",
         "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
@@ -18,91 +18,121 @@
         "pubDate": "Mon, 28 Sep 2026 00:06:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "춘천시 금고 농협·신한 은행 이 맡는다",
-        "link": "https://n.news.naver.com/mnews/article/654/0000202554?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 28 Sep 2026 00:06:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "새마을금고 역사관, 경남 산청 지역민 교육·문화 공간으로",
-        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7186028",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 27 Sep 2026 12:52:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "‘대출 갈아타기’, 은행 16곳중 11곳 신규보다 비싸",
-        "link": "https://n.news.naver.com/mnews/article/020/0003750849?sid=101",
+        "title": "원금 보장에 연 4% 이자 눈앞…은행 정기예금·ELD로 '뭉칫돈'",
+        "link": "https://n.news.naver.com/mnews/article/421/0009194042?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 28 Sep 2026 00:31:00 +0900",
+        "pubDate": "Mon, 28 Sep 2026 05:50:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "원금 보장에 연 4% 이자 눈앞… 은행 정기예금·ELD로 '뭉칫돈'",
+        "link": "https://n.news.naver.com/mnews/article/421/0009194042?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 28 Sep 2026 05:50:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "다음 카드는 '전월세 안정'…전문가 70% \"추가 대책 필요\"",
+        "link": "https://n.news.naver.com/mnews/article/421/0009194033?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 28 Sep 2026 05:05:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[이코노 브리핑] 농협금융 ‘건강증진형 상품’ 5종 선봬 외",
+        "link": "https://n.news.naver.com/mnews/article/022/0004162159?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 28 Sep 2026 05:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "은행 갈아타기 대출 금리 신규보다 높아 효과 의문 [경제 레이더]",
+        "link": "https://n.news.naver.com/mnews/article/022/0004162158?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 28 Sep 2026 05:02:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "신혼부부 지원 문턱 낮춰도 협약은행 태부족",
-        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1068271",
+        "title": "[이코노 브리핑] 농협 금융 ‘건강증진형 상품’ 5종 선봬 외",
+        "link": "https://n.news.naver.com/mnews/article/022/0004162159?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 28 Sep 2026 00:02:00 +0900",
+        "pubDate": "Mon, 28 Sep 2026 05:02:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[현장 칼럼] 은행은 정말 앉아서 돈을 벌까?",
-        "link": "https://www.fntimes.com/html/view.php?ud=202609231834029420dd55077bc2_18",
+        "title": "질문 바꿨더니 '상담원 연결'…KB국민·하나·우리은행, '무늬만' AI 상담",
+        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5065558",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 28 Sep 2026 00:02:00 +0900",
+        "pubDate": "Mon, 28 Sep 2026 05:00:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "삼성증권, '슈퍼리치' 1만명 시대 선도…발행어음 IB 확장 [빅7 증권사 ...",
-        "link": "https://www.fntimes.com/html/view.php?ud=202609231724432862dd55077bc2_18",
+        "title": "펀드 위험등급 ‘늑장 반영’…산은 등 은행 9곳 무더기 제재",
+        "link": "https://www.etoday.co.kr/news/view/2629168",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 28 Sep 2026 00:02:00 +0900",
+        "pubDate": "Mon, 28 Sep 2026 05:00:00 +0900",
         "summary": "",
-        "term": null
-      },
-      {
-        "title": "걷기·금연부터 사회활동까지… 농협금융 , '건강 금융' 넓힌다",
-        "link": "https://www.thedailypost.kr/news/articleView.html?idxno=115836",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 27 Sep 2026 23:38:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "세종시, '지역성장펀드' 승부수…NH 농협 ·하나은행과 5대 전략산업 키운...",
-        "link": "https://www.tournews21.com/news/articleView.html?idxno=144324",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 27 Sep 2026 23:02:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "농협 보이스피싱 피해 3,220억 원...\"예방 체계 정비 시급\"",
-        "link": "https://ysmbc.co.kr/NewsArticle/1538574",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 27 Sep 2026 22:50:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "건강 챙기면 우대금리·보험료 할인… NH 농협금융 , 건강증진형 상품 5종...",
-        "link": "http://www.ttlnews.com/news/articleView.html?idxno=3147078",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 27 Sep 2026 22:10:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       }
     ],
     "macro": [
+      {
+        "title": "결혼 시작부터 빚더미…신혼부부 대출 중간값 8년새 130% 증가",
+        "link": "https://n.news.naver.com/mnews/article/001/0016339469?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 28 Sep 2026 05:51:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "아르헨티나 7월 경제활동 2.9% 급감…경기침체 우려",
+        "link": "https://n.news.naver.com/mnews/article/001/0016339468?sid=104",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 28 Sep 2026 05:43:00 +0900",
+        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
+        "term": null
+      },
+      {
+        "title": "[4분기 증시 포인트] ① 기업들 영업목표 밑돌고 소비는 타격...투심, '3...",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=277460",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 28 Sep 2026 05:32:00 +0900",
+        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
+        "term": null
+      },
+      {
+        "title": "트럼프 “엔저 우려” 한마디에…일본 10월 금리 인상 가능성 커지나",
+        "link": "https://n.news.naver.com/mnews/article/011/0004665755?sid=104",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 28 Sep 2026 05:31:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "금감원 검사결과 중간발표 원칙적 제한...검사·제재 관행 고친다",
+        "link": "https://www.tfmedia.co.kr/news/article.html?no=207496",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 28 Sep 2026 04:10:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "대출규제 매물 품귀…강원 아파트 전세보증금 부동산 폭등기보다 올라",
         "link": "https://n.news.naver.com/mnews/article/087/0001220509?sid=101",
