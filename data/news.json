@@ -1,15 +1,18 @@
 {
-  "updatedAt": "2026-10-01T20:09:23.705Z",
-  "headline": "영월 농협 ·한반도 농협 ·영월군지부· 농협 중앙회 상호 금융 사업지원본부... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-10-02T00:33:19.357Z",
+  "headline": "새마을금고 예수금 반년 새 12조원 감소…기업대출 연체율 10% 넘어 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
-        "title": "영월 농협 ·한반도 농협 ·영월군지부· 농협 중앙회 상호 금융 사업지원본부...",
-        "link": "https://n.news.naver.com/mnews/article/662/0000105421?sid=102",
+        "title": "새마을금고 예수금 반년 새 12조원 감소…기업대출 연체율 10% 넘어",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=213774",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 02 Oct 2026 05:01:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
-        "term": null
+        "pubDate": "Fri, 02 Oct 2026 08:36:00 +0900",
+        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
       },
       {
         "title": "[취재수첩] 새마을금고 연대보증의 악순환",
@@ -42,104 +45,80 @@
         "pubDate": "Thu, 01 Oct 2026 19:08:00 +0900",
         "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
         "term": null
-      },
-      {
-        "title": "새마을금고 중앙회, 고령층 맞춤형 보이스피싱 예방망 구축",
-        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=137326",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 01 Oct 2026 18:50:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "새마을금고 ·노인인력개발원, 비수도권 인구소멸지역 금융사기 예방 협...",
-        "link": "http://www.ttlnews.com/news/articleView.html?idxno=3148684",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 01 Oct 2026 18:12:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "농협 은행 경북본부, 군장병 ‘행복채움 금융 교실’ 진행",
-        "link": "https://n.news.naver.com/mnews/article/662/0000105414?sid=102",
+        "title": "NH 농협 은행, 고양 화훼농가 일손 보탰다",
+        "link": "https://www.womentimes.co.kr/news/articleView.html?idxno=106709",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 02 Oct 2026 05:01:00 +0900",
+        "pubDate": "Fri, 02 Oct 2026 09:32:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "대출 신청했다 날벼락…신한 은행 개인정보 유출 일파만파",
-        "link": "https://n.news.naver.com/mnews/article/079/0004195016?sid=101",
+        "title": "[정책포커스] 금융 위-광주 은행 , 부산에 이어 전남광주에 '서민 금융 복합...",
+        "link": "http://www.sisacast.kr/news/articleView.html?idxno=100559",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 02 Oct 2026 05:01:00 +0900",
+        "pubDate": "Fri, 02 Oct 2026 09:32:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "NH농협 은행 , 고양 화훼농가 일손 보탰다",
+        "link": "https://www.womentimes.co.kr/news/articleView.html?idxno=106709",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 02 Oct 2026 09:32:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "개인정보 유출 5년 과징금 7004억 원…보험금 지급 13억뿐",
+        "link": "https://n.news.naver.com/mnews/article/079/0004195074?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 02 Oct 2026 09:31:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "신한 은행 해킹 서버서 '중국어 AI 침투도구' 흔적",
+        "link": "https://n.news.naver.com/mnews/article/001/0016352574?sid=105",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 02 Oct 2026 09:30:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "NH 농협 카드, 가을 맞아 'NH pay Payday 이벤트' 진행",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=321131",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 02 Oct 2026 09:26:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "5대 은행, 가계대출 6개월 만에 감소…신용대출 1.3조 '뚝'",
+        "link": "https://n.news.naver.com/mnews/article/119/0003138881?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 02 Oct 2026 09:25:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "“늙어서 아프면 어쩌지”.…치매·장기간병 보험 수요 급증에 관련 상...",
-        "link": "https://n.news.naver.com/mnews/article/662/0000105406?sid=101",
+        "title": "순천 농협 , 농촌소득 새 길 찾는다",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=278461",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 02 Oct 2026 05:00:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "영끌족 '시들'… 5대은행 가계대출 1.3조 ↓",
-        "link": "https://n.news.naver.com/mnews/article/008/0005421344?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 02 Oct 2026 03:55:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "NH 농협 캐피탈, 새 브랜드 'NCAP'과 함께할 신규직원 공개 채용... 오는 8...",
-        "link": "https://weeklytrade.co.kr/news/view.html?section=1&category=6&item=&no=101607",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 02 Oct 2026 02:30:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "NH 농협 캐피탈, 'AX 중장기 전략 로드맵 1.0' 수립… AI로 업무·서비스 혁...",
-        "link": "https://weeklytrade.co.kr/news/view.html?section=1&category=160&item=&no=101606",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 02 Oct 2026 02:20:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[금융권 이모저모]하나카드, 테더·하나은행과 스테이블코인 협력 外",
-        "link": "https://www.businessplus.kr/news/articleView.html?idxno=117611",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 01 Oct 2026 20:56:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "케이뱅크, ONE체크카드 '모두의카드' 캐시백 혜택 확대 外",
-        "link": "https://www.rcast.co.kr/news/articleView.html?idxno=31751",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 01 Oct 2026 19:14:00 +0900",
+        "pubDate": "Fri, 02 Oct 2026 09:22:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "[르포] '15억 문턱' 닿자 강북 집값도 숨고르기…\"대출 부담\"",
-        "link": "https://n.news.naver.com/mnews/article/421/0009205233?sid=101",
+        "title": "농촌형 로컬푸드에서 도시형 공공조달·지역재투자까지: 한국형 CWB의 진...",
+        "link": "https://www.lifein.news/news/articleView.html?idxno=20461",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 02 Oct 2026 05:05:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "환율 변동 손실땐 환전 3시간내 취소 앱 눈길",
-        "link": "https://n.news.naver.com/mnews/article/020/0003752265?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 02 Oct 2026 04:33:00 +0900",
+        "pubDate": "Fri, 02 Oct 2026 09:02:00 +0900",
         "summary": "",
         "term": null
       }
