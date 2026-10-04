@@ -1,89 +1,97 @@
 {
-  "updatedAt": "2026-10-04T04:36:59.124Z",
-  "headline": "상호금융까지 노린 해킹… 새마을금고 ·농협도 공격 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-10-04T11:51:39.927Z",
+  "headline": "[기자수첩] 612조 지방금고 넘보는 새마을금고 , ‘독과점 타파’ 뒤에 숨... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
-        "title": "상호금융까지 노린 해킹… 새마을금고 ·농협도 공격",
-        "link": "https://n.news.naver.com/mnews/article/011/0004668086?sid=101",
+        "title": "[기자수첩] 612조 지방금고 넘보는 새마을금고 , ‘독과점 타파’ 뒤에 숨...",
+        "link": "https://www.dailyt.co.kr/newsView/dlt202610040003",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 04 Oct 2026 12:37:00 +0900",
+        "pubDate": "Sun, 04 Oct 2026 20:04:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[기자수첩] 612조 지방금고 넘보는 새마을금고, ‘독과점 타파’ 뒤에 숨...",
+        "link": "https://www.dailyt.co.kr/newsView/dlt202610040003",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 04 Oct 2026 20:04:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "캐피달·저축은행까지 번졌다... 금융 권 덮친 ‘해킹 도미노’",
-        "link": "https://www.todayeconomic.com/news/article.html?no=32333",
+        "title": "웰컴저축 은행 도 해킹 피해…법인고객 정보 2200건 유출",
+        "link": "https://n.news.naver.com/mnews/article/117/0004112207?sid=103",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 04 Oct 2026 13:34:00 +0900",
+        "pubDate": "Sun, 04 Oct 2026 20:46:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "캐피달·저축 은행 까지 번졌다... 금융 권 덮친 ‘해킹 도미노’",
-        "link": "https://www.todayeconomic.com/news/article.html?no=32333",
+        "title": "차명계좌 적발 농협은행 '최다'…국세청 과세 활용은 해마다 줄어",
+        "link": "https://www.the-today.com/news/articleView.html?idxno=91184",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 04 Oct 2026 13:34:00 +0900",
+        "pubDate": "Sun, 04 Oct 2026 20:44:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "시중 은행 ·저축 은행 이어 여신사도 해킹...李 대통령 \"철저 조사·대책 ...",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3712848",
+        "title": "차명계좌 적발 농협 은행 '최다'…국세청 과세 활용은 해마다 줄어",
+        "link": "https://www.the-today.com/news/articleView.html?idxno=91184",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 04 Oct 2026 13:32:00 +0900",
+        "pubDate": "Sun, 04 Oct 2026 20:44:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "iM뱅크·바로저축 은행 도 악성코드 감염… 금융 침해사고 잇따라",
-        "link": "http://www.segyebiz.com/newsView/20261004504793?OutUrl=naver",
+        "title": "적발된 사업자 차명계좌 3471건…농협은행 703건 '최다'",
+        "link": "https://www.ajunews.com/view/20261004203748127",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 04 Oct 2026 13:30:00 +0900",
+        "pubDate": "Sun, 04 Oct 2026 20:40:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "5대 은행 넘어 2금융권까지 AI 해킹에 전 금융권 비상···금융당국, 긴...",
-        "link": "https://n.news.naver.com/mnews/article/023/0004002009?sid=101",
+        "title": "적발된 사업자 차명계좌 3471건… 농협 은행 703건 '최다'",
+        "link": "https://www.ajunews.com/view/20261004203748127",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 04 Oct 2026 13:23:00 +0900",
+        "pubDate": "Sun, 04 Oct 2026 20:40:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "5대 은행 넘어 2 금융 권까지 AI 해킹에 전 금융 권 비상··· 금융 당국, 긴...",
-        "link": "https://n.news.naver.com/mnews/article/023/0004002009?sid=101",
+        "title": "적발된 사업자 차명계좌 3471건…농협 은행 703건 '최다'",
+        "link": "https://www.ajunews.com/view/20261004203748127",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 04 Oct 2026 13:23:00 +0900",
+        "pubDate": "Sun, 04 Oct 2026 20:40:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "은행·저축은행 이어 상호금융까지...금융권 전방위 해킹 '비상'[종합]",
-        "link": "https://n.news.naver.com/mnews/article/014/0005584674?sid=101",
+        "title": "4대 금융 3분기 순익 최대 전망…연말 은행장 인선 ‘마지막 성적표’",
+        "link": "https://www.betanews.net/article/view/beta202610040015",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 04 Oct 2026 13:11:00 +0900",
+        "pubDate": "Sun, 04 Oct 2026 20:38:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "은행·저축은행 이어 상호 금융 까지... 금융 권 전방위 해킹 '비상'[종합]",
-        "link": "https://n.news.naver.com/mnews/article/014/0005584674?sid=101",
+        "title": "4대 금융 3분기 순익 최대 전망…연말 은행 장 인선 ‘마지막 성적표’",
+        "link": "https://www.betanews.net/article/view/beta202610040015",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 04 Oct 2026 13:11:00 +0900",
+        "pubDate": "Sun, 04 Oct 2026 20:38:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "2금융권서도 해킹…금융당국, 전 금융권 긴급 소집",
-        "link": "https://n.news.naver.com/mnews/article/437/0000514005?sid=101",
+        "title": "금융권 덮친 해킹‥금융당국 긴급회의 소집",
+        "link": "https://n.news.naver.com/mnews/article/214/0001527140?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 04 Oct 2026 11:59:00 +0900",
+        "pubDate": "Sun, 04 Oct 2026 20:12:00 +0900",
         "summary": "",
         "term": null
       }
