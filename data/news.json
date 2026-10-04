@@ -1,80 +1,121 @@
 {
-  "updatedAt": "2026-10-04T20:55:26.200Z",
-  "headline": "'징검다리론' 독려에 올해 취급액 145배 뛰었지만…4대은행 1%뿐 등 타 금융권 동향을 비교해볼 필요가 있습니다.",
+  "updatedAt": "2026-10-04T23:50:57.553Z",
+  "headline": "새마을금고 중앙회, 금융권 해킹 공격 막았다…동일 공격 IP에도 정보유... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
-    "mg": [],
+    "mg": [
+      {
+        "title": "새마을금고 중앙회, 금융권 해킹 공격 막았다…동일 공격 IP에도 정보유...",
+        "link": "https://www.e-science.co.kr/news/articleView.html?idxno=136691",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 05 Oct 2026 08:50:00 +0900",
+        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "새마을금고중앙회, 금융 권 해킹 공격 막았다…동일 공격 IP에도 정보유...",
+        "link": "https://www.e-science.co.kr/news/articleView.html?idxno=136691",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 05 Oct 2026 08:50:00 +0900",
+        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "금고 대신 뒷문 노렸다…은행 이어 저축은행·캐피탈까지 금융 사 7곳 털...",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=870052",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 05 Oct 2026 08:18:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "은행권 '지방 시금고' 쟁탈전 가열…평가 기준 형평성 논란까지",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=704776",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 05 Oct 2026 08:12:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "새마을금고 , 612조원 지방금고 시장 도전장...농협 독주체제 흔들까?",
+        "link": "https://n.news.naver.com/mnews/article/123/0002391300?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 05 Oct 2026 07:22:00 +0900",
+        "summary": "",
+        "term": null
+      }
+    ],
     "otherFinance": [
       {
-        "title": "'징검다리론' 독려에 올해 취급액 145배 뛰었지만…4대은행 1%뿐",
-        "link": "https://n.news.naver.com/mnews/article/001/0016357172?sid=101",
+        "title": "[N2 포커스] 우리·농협은 막았다… 연쇄 해킹, 무엇을 어느 단계에서 차...",
+        "link": "https://www.news2day.co.kr/article/20261005500009",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 05 Oct 2026 05:53:00 +0900",
+        "pubDate": "Mon, 05 Oct 2026 08:44:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "'징검다리론' 독려에 올해 취급액 145배 뛰었지만…4대 은행 1%뿐",
-        "link": "https://n.news.naver.com/mnews/article/001/0016357172?sid=101",
+        "title": "[N2 포커스] 우리· 농협 은 막았다… 연쇄 해킹, 무엇을 어느 단계에서 차...",
+        "link": "https://www.news2day.co.kr/article/20261005500009",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 05 Oct 2026 05:53:00 +0900",
+        "pubDate": "Mon, 05 Oct 2026 08:44:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "올해 5대 은행 가계대출 중도상환 13% 감소…수수료 40% 줄어",
-        "link": "https://n.news.naver.com/mnews/article/001/0016357169?sid=101",
+        "title": "은행 해킹에 커지는 불안 \"내 돈은 안전한가\"…개인정보 유출에 보이스...",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=16238322",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 05 Oct 2026 05:50:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "은행에 10억 이상 맡긴 미성년 고객 52명…1억 이상 2천595명",
-        "link": "https://n.news.naver.com/mnews/article/001/0016357168?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 05 Oct 2026 05:49:00 +0900",
+        "pubDate": "Mon, 05 Oct 2026 08:42:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "은행 에 10억 이상 맡긴 미성년 고객 52명…1억 이상 2천595명",
-        "link": "https://n.news.naver.com/mnews/article/001/0016357168?sid=101",
+        "title": "카드업계도 4.9일제 속속 도입…금요일 조기 퇴근 확산",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4437742",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 05 Oct 2026 05:49:00 +0900",
+        "pubDate": "Mon, 05 Oct 2026 08:42:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "은행들 가계대출 기준 1년간 150회 바꿔…실수요층 혼란",
-        "link": "https://n.news.naver.com/mnews/article/001/0016357167?sid=101",
+        "title": "1239억 썼는데 뚫렸다… 은행 보안에 무슨 일이",
+        "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000070874",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 05 Oct 2026 05:48:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "pubDate": "Mon, 05 Oct 2026 08:36:00 +0900",
+        "summary": "",
         "term": null
       },
       {
-        "title": "은행 들 가계대출 기준 1년간 150회 바꿔…실수요층 혼란",
-        "link": "https://n.news.naver.com/mnews/article/001/0016357167?sid=101",
+        "title": "[이슈 직썰] \"AI 해킹에 뚫렸다\"…은행·한전·티빙까지 국가 기간망 비...",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=148294",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 05 Oct 2026 05:48:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "pubDate": "Mon, 05 Oct 2026 08:28:00 +0900",
+        "summary": "",
         "term": null
       },
       {
-        "title": "국민·신한 여유 vs 우리·하나 초과…목표 상향에도 은행별 대출 여력...",
-        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=612301",
+        "title": "\"차명계좌 방치는 탈세 악용 우려\"…NH농협·국민·농축협·신한은행 계...",
+        "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=65284",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 05 Oct 2026 05:46:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "pubDate": "Mon, 05 Oct 2026 07:30:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "NH농협·국민·농축협·신한 순…사업자 차명계좌 적발 상위 4곳이 57% 차...",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=612347",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 05 Oct 2026 05:56:00 +0900",
+        "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "“대출 1억 신청하셨죠?”…벌써 2차범죄 우려 커졌다",
-        "link": "https://n.news.naver.com/mnews/article/025/0003555726?sid=101",
+        "title": "[국감 2026] '땜질식 대출 규제', 예측 가능성 급락에 실수요자 눈물",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=278705",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 05 Oct 2026 00:20:00 +0900",
+        "pubDate": "Mon, 05 Oct 2026 08:22:00 +0900",
         "summary": "",
         "term": null
       }
