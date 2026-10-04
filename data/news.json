@@ -1,146 +1,89 @@
 {
-  "updatedAt": "2026-10-03T23:32:27.316Z",
-  "headline": "새마을금고 , 자본비율 10%→6% 인하 제안…지방금고 진입 추진 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-10-04T04:36:59.124Z",
+  "headline": "상호금융까지 노린 해킹… 새마을금고 ·농협도 공격 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
-        "title": "새마을금고 , 자본비율 10%→6% 인하 제안…지방금고 진입 추진",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492493",
+        "title": "상호금융까지 노린 해킹… 새마을금고 ·농협도 공격",
+        "link": "https://n.news.naver.com/mnews/article/011/0004668086?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 03 Oct 2026 17:12:00 +0900",
+        "pubDate": "Sun, 04 Oct 2026 12:37:00 +0900",
         "summary": "",
-        "term": {
-          "word": "CET1",
-          "meaning": "손실흡수력을 보여주는 대표적인 자본적정성 지표"
-        }
-      },
-      {
-        "title": "새마을금고 , 지자체 금고 진출 추진…재무조건 완화 추진",
-        "link": "http://www.segyebiz.com/newsView/20261003502769?OutUrl=naver",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 03 Oct 2026 09:34:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "새마을금고 중앙회-한국노인인력개발원, 인구 감소지역 고령층 금융사기...",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=320903",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 03 Oct 2026 09:28:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
         "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "국세청 적발 사업자 차명계좌…NH농협은행 가장 많아",
-        "link": "http://www.segyebiz.com/newsView/20261004502141?OutUrl=naver",
+        "title": "캐피달·저축은행까지 번졌다... 금융 권 덮친 ‘해킹 도미노’",
+        "link": "https://www.todayeconomic.com/news/article.html?no=32333",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 04 Oct 2026 08:26:00 +0900",
+        "pubDate": "Sun, 04 Oct 2026 13:34:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "국세청 적발 사업자 차명계좌…NH 농협 은행 가장 많아",
-        "link": "http://www.segyebiz.com/newsView/20261004502141?OutUrl=naver",
+        "title": "캐피달·저축 은행 까지 번졌다... 금융 권 덮친 ‘해킹 도미노’",
+        "link": "https://www.todayeconomic.com/news/article.html?no=32333",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 04 Oct 2026 08:26:00 +0900",
+        "pubDate": "Sun, 04 Oct 2026 13:34:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "국세청 적발 사업자 차명계좌…NH농협 은행 가장 많아",
-        "link": "http://www.segyebiz.com/newsView/20261004502141?OutUrl=naver",
+        "title": "시중 은행 ·저축 은행 이어 여신사도 해킹...李 대통령 \"철저 조사·대책 ...",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3712848",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 04 Oct 2026 08:26:00 +0900",
+        "pubDate": "Sun, 04 Oct 2026 13:32:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "국세청 차명계좌 제보·과세활용 매년 감소…농협 가장 많아",
-        "link": "https://www.kukinews.com/article/view/kuk202610040002",
+        "title": "iM뱅크·바로저축 은행 도 악성코드 감염… 금융 침해사고 잇따라",
+        "link": "http://www.segyebiz.com/newsView/20261004504793?OutUrl=naver",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 04 Oct 2026 08:24:00 +0900",
+        "pubDate": "Sun, 04 Oct 2026 13:30:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "국세청 차명계좌 제보·과세활용 매년 감소… 농협 가장 많아",
-        "link": "https://www.kukinews.com/article/view/kuk202610040002",
+        "title": "5대 은행 넘어 2금융권까지 AI 해킹에 전 금융권 비상···금융당국, 긴...",
+        "link": "https://n.news.naver.com/mnews/article/023/0004002009?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 04 Oct 2026 08:24:00 +0900",
+        "pubDate": "Sun, 04 Oct 2026 13:23:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "국민의힘, 은행 권 해킹사태에 \"전 금융 권 점수점검\"",
-        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=278676",
+        "title": "5대 은행 넘어 2 금융 권까지 AI 해킹에 전 금융 권 비상··· 금융 당국, 긴...",
+        "link": "https://n.news.naver.com/mnews/article/023/0004002009?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 04 Oct 2026 08:24:00 +0900",
+        "pubDate": "Sun, 04 Oct 2026 13:23:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "은행 넘어 저축은행·캐피탈까지… 금융 권 '해킹 비상'",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=704955",
+        "title": "은행·저축은행 이어 상호금융까지...금융권 전방위 해킹 '비상'[종합]",
+        "link": "https://n.news.naver.com/mnews/article/014/0005584674?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 04 Oct 2026 08:12:00 +0900",
+        "pubDate": "Sun, 04 Oct 2026 13:11:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "은행 넘어 저축 은행 ·캐피탈까지… 금융 권 '해킹 비상'",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=704955",
+        "title": "은행·저축은행 이어 상호 금융 까지... 금융 권 전방위 해킹 '비상'[종합]",
+        "link": "https://n.news.naver.com/mnews/article/014/0005584674?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 04 Oct 2026 08:12:00 +0900",
+        "pubDate": "Sun, 04 Oct 2026 13:11:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "예금 닮았지만 보호는 없다…발행어음, 뭐가 다를까[주린이 투자지침서...",
-        "link": "https://www.newsway.co.kr/news/view?ud=2026100210550755774",
+        "title": "2금융권서도 해킹…금융당국, 전 금융권 긴급 소집",
+        "link": "https://n.news.naver.com/mnews/article/437/0000514005?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 04 Oct 2026 08:18:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
-      },
-      {
-        "title": "역대 최고서 30% 밀린 금값, 美 금리 인상에 묶여 4200달러 횡보",
-        "link": "https://www.g-enews.com/view.php?ud=202610040802382065fbbec65dfb_1",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 04 Oct 2026 08:10:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "[N2 포커스] 대출금리 오른 2개월간…'중신용자' 이자부담 제일 컸다",
-        "link": "https://www.news2day.co.kr/article/20261001500269",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 04 Oct 2026 07:06:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "NIM",
-          "meaning": "금리 변화가 금융기관 수익성에 미치는 영향을 보여주는 핵심 지표"
-        }
-      },
-      {
-        "title": "AI 무차별 해킹에 1·2금융권 잇따라 피해… 금융당국 비상 대응",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3437706",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 04 Oct 2026 07:04:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[건설] 신탁사 책임준공 위반에 '대출원리금 전액 배상' 또 판결",
-        "link": "http://www.legaltimes.co.kr/news/articleView.html?idxno=96305",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 03 Oct 2026 10:56:00 +0900",
+        "pubDate": "Sun, 04 Oct 2026 11:59:00 +0900",
         "summary": "",
         "term": null
       }
