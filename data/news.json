@@ -1,42 +1,79 @@
 {
-  "updatedAt": "2026-10-05T13:46:15.335Z",
-  "headline": "새마을금고 , 내년부터 전국 금고 이상거래 전산 감시 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-10-05T21:50:24.409Z",
+  "headline": "새마을금고 , 사회연대금융 20억원 출연…취약계층·지역 지원 확대 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
-        "title": "새마을금고 , 내년부터 전국 금고 이상거래 전산 감시",
-        "link": "https://www.greened.kr/news/articleView.html?idxno=351402",
+        "title": "새마을금고 , 사회연대금융 20억원 출연…취약계층·지역 지원 확대",
+        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2325136",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 05 Oct 2026 20:02:00 +0900",
+        "pubDate": "Tue, 06 Oct 2026 01:34:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "새마을금고 연체 9000억 감소…부채도 더 줄였다",
-        "link": "https://n.news.naver.com/mnews/article/011/0004668259?sid=101",
+        "title": "춘천중부 새마을금고 이사장배 그라운드 골프대회",
+        "link": "https://n.news.naver.com/mnews/article/654/0000203947?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 05 Oct 2026 17:36:00 +0900",
-        "summary": "새마을금고 건전성 관리 흐름과 연결해 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
+        "pubDate": "Tue, 06 Oct 2026 00:07:00 +0900",
+        "summary": "",
+        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "신한 은행 해킹 IP, 토스뱅크도 14차례 두드렸다…한전·대학까지 유출 ...",
-        "link": "https://n.news.naver.com/mnews/article/088/0001032399?sid=102",
+        "title": "[브랜드평판] SBI저축 은행 김문석, 저축 은행 CEO 10월 1위... OK저축 은행 ...",
+        "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=55005",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 05 Oct 2026 22:18:00 +0900",
+        "pubDate": "Tue, 06 Oct 2026 06:40:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[김종석의 리포트]뚫린 건 은행 인데 비번 바꾸라니…",
-        "link": "https://n.news.naver.com/mnews/article/449/0000363079?sid=101",
+        "title": "\"증권사가 증권주 사지 말라니\"…고점서 반토막 난 이유 [종목+]",
+        "link": "https://n.news.naver.com/mnews/article/015/0005339362?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 05 Oct 2026 22:01:00 +0900",
+        "pubDate": "Tue, 06 Oct 2026 06:31:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "농협금융 계열사 9곳 중 7곳, 조합장 출신 이사 포진...정부 '이해 상충...",
+        "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=765057",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 06 Oct 2026 06:10:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "애큐온캐피탈 대주주 한화생명으로…경영진 재편 촉각 [캐피탈사 M&A 지...",
+        "link": "https://www.fntimes.com/html/view.php?ud=2026100601391433318a55064dd1_18",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 06 Oct 2026 06:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "은행권 ‘모바일현금카드’ 부진에 활성화 고심⋯“현실과 괴리” 지적...",
+        "link": "https://www.etoday.co.kr/news/view/2630521",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 06 Oct 2026 06:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "금융 지주 3분기도 호실적… ‘연쇄 해킹’ 은행장 인선 새 변수로",
+        "link": "https://n.news.naver.com/mnews/article/081/0003686212?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 06 Oct 2026 05:05:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[사설] AI 해킹 뚫린 은행과 막은 은행, ‘기본’이 차이 갈랐다",
+        "link": "https://n.news.naver.com/mnews/article/023/0004002194?sid=110",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 06 Oct 2026 00:11:00 +0900",
         "summary": "",
         "term": null
       },
@@ -47,48 +84,47 @@
         "pubDate": "Mon, 05 Oct 2026 21:58:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "은행 권 해킹 사건 - 문을 연 것은 AI가 아니다",
-        "link": "https://www.ilemonde.com/news/articleView.html?idxno=30742",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 05 Oct 2026 21:58:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "금융권 덮친 'AI 해킹' …증권가·산업계도 비상",
-        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=561470",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 05 Oct 2026 21:54:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "금융 권 덮친 'AI 해킹' …증권가·산업계도 비상",
-        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=561470",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 05 Oct 2026 21:54:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "경남 은행 , 청년미래적금 2차 신청",
-        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=584199",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 05 Oct 2026 21:43:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "BNK경남 은행 , '청년미래적금' 더 판매한다",
-        "link": "http://www.gnmaeil.com/news/articleView.html?idxno=595959",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 05 Oct 2026 21:36:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
-    "macro": []
+    "macro": [
+      {
+        "title": "한화생명 편입에 한숨돌린 애큐온… 고금리 시름 덜어",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092171324",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 06 Oct 2026 06:30:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "농지 전수조사 불안에 ‘돈줄’도 얼었다…신규 담보대출 급감 [Pick코노...",
+        "link": "https://n.news.naver.com/mnews/article/011/0004668357?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 06 Oct 2026 06:13:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "10억 이상 예금 쥔 '금수저' 미성년자 52명…1억 이상 보유자도 2천600명...",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=612437",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 06 Oct 2026 05:50:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "[단독]5대銀, 최근 5년 중징계 806명…여신 부실·성희롱·횡령 매년 반...",
+        "link": "https://n.news.naver.com/mnews/article/421/0009210398?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 06 Oct 2026 05:10:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      }
+    ]
   }
 }
