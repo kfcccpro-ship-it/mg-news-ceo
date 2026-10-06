@@ -1,8 +1,16 @@
 {
-  "updatedAt": "2026-10-06T12:51:41.901Z",
-  "headline": "새마을금고 건전성 ‘뒷걸음’…하반기 회복 관건 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-10-06T19:59:07.424Z",
+  "headline": "동해남부 새마을금고 경로당 방문 물품 지원 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "동해남부 새마을금고 경로당 방문 물품 지원",
+        "link": "https://n.news.naver.com/mnews/article/654/0000204130?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 07 Oct 2026 00:05:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "새마을금고 건전성 ‘뒷걸음’…하반기 회복 관건",
         "link": "https://www.sentv.co.kr/article/view/sentv202610060116",
@@ -33,71 +41,87 @@
     ],
     "otherFinance": [
       {
-        "title": "우리 은행 ·LG유플러스, 보이스피싱 실시간 탐지 연동 시스템 구축",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3714509",
+        "title": "은행 해킹 악용 정황 ‘ARTEX’…중국서 개발된 개방형 AI보안도구",
+        "link": "https://n.news.naver.com/mnews/article/056/0012268984?sid=104",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 06 Oct 2026 21:36:00 +0900",
+        "pubDate": "Wed, 07 Oct 2026 04:48:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "개인정보 해킹됐는데…닷새 뒤 인지한 웰컴저축銀·현대캐피탈",
-        "link": "https://n.news.naver.com/mnews/article/025/0003556145?sid=101",
+        "title": "韓 은행 해킹 악용 정황 'ARTEX'…中서 개발된 개방형 AI보안도구",
+        "link": "https://n.news.naver.com/mnews/article/001/0016361138?sid=104",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 06 Oct 2026 21:35:00 +0900",
+        "pubDate": "Wed, 07 Oct 2026 04:42:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "'5경원 빚더미' 美, 이자 부담 줄이려 2차대전 비상카드까지 만지작",
-        "link": "https://n.news.naver.com/mnews/article/018/0006382376?sid=101",
+        "title": "해킹 사태로 국감 칼바람…5대 시중은행장 줄소환 촉각",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=321378",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 06 Oct 2026 21:32:00 +0900",
+        "pubDate": "Wed, 07 Oct 2026 04:00:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "가격 떨어져도 月 300억원씩 팔린다…은행들 ‘이것’ 확보 경쟁 나선 ...",
-        "link": "https://n.news.naver.com/mnews/article/016/0002706103?sid=101",
+        "title": "해킹 사태로 국감 칼바람…5대 시중 은행 장 줄소환 촉각",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=321378",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 06 Oct 2026 21:31:00 +0900",
+        "pubDate": "Wed, 07 Oct 2026 04:00:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "가격 떨어져도 月 300억원씩 팔린다… 은행 들 ‘이것’ 확보 경쟁 나선 ...",
-        "link": "https://n.news.naver.com/mnews/article/016/0002706103?sid=101",
+        "title": "증권 주춤해도… 4대 금융 지주 질주 본능, 연간 최대실적 쓰나",
+        "link": "https://n.news.naver.com/mnews/article/008/0005422902?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 06 Oct 2026 21:31:00 +0900",
+        "pubDate": "Wed, 07 Oct 2026 04:00:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "은행 해킹에 '부처 칸막이' 질타…中 로봇 국감장에",
-        "link": "https://n.news.naver.com/mnews/article/422/0000913134?sid=101",
+        "title": "2차 행추위 결과도 같았다… 수협 은행 장 선임 또 불발",
+        "link": "https://n.news.naver.com/mnews/article/008/0005422900?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 06 Oct 2026 21:26:00 +0900",
+        "pubDate": "Wed, 07 Oct 2026 04:00:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "인터넷 은행 에도 해킹 접근 시도…시중 은행 IP와 동일",
-        "link": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005933306",
+        "title": "시중 은행 해킹 IP, 인터넷 은행 에도 접근 시도…피해는 없어",
+        "link": "http://www.paxetv.com/news/articleView.html?idxno=283502",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 06 Oct 2026 21:26:00 +0900",
+        "pubDate": "Wed, 07 Oct 2026 03:40:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "우리 은행 , 예체능·IT 인재 장학생과 '꿈.꾸.당' 3기 행사 개최",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3714502",
+        "title": "디지털 루블 첫 달 계좌 22만개…중앙 은행 예상의 3.7배",
+        "link": "https://www.tokenpost.kr/news/policy/419045",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 06 Oct 2026 21:26:00 +0900",
-        "summary": "",
+        "pubDate": "Wed, 07 Oct 2026 03:32:00 +0900",
+        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
         "term": null
       }
     ],
     "macro": [
+      {
+        "title": "[포커스] 점포는 그대로, 기업 금융 은 전국으로…iM뱅크의 'PRM 여신'",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=815135",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 07 Oct 2026 04:56:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "금감원, AI 에이전트 활용 추정 해킹 '공격 주소' 19개 특정",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=612675",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 07 Oct 2026 00:10:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "예금계 '큰손' 된 6070.. \"실버 머니 잡아라\"",
         "link": "http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20261006&SEQUENCE=4494",
