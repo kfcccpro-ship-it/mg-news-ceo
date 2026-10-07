@@ -1,8 +1,40 @@
 {
-  "updatedAt": "2026-10-06T19:59:07.424Z",
-  "headline": "동해남부 새마을금고 경로당 방문 물품 지원 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-10-07T00:22:58.505Z",
+  "headline": "저축 은행 중앙회, 1천억대 차세대시스템에 'AI 해킹' 보안 강화 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "저축 은행 중앙회, 1천억대 차세대시스템에 'AI 해킹' 보안 강화",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438045",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 07 Oct 2026 09:20:00 +0900",
+        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "동해남부 새마을금고 , 북삼동 경로당에 390만원 상당 물품 지원",
+        "link": "https://www.newstnt.com/news/articleView.html?idxno=721712",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 07 Oct 2026 09:08:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "한수협·MG 새마을금고 재단, 취약계층 청소년 240명에 '5년 의료안전망' ...",
+        "link": "https://www.ngonews.kr/news/articleView.html?idxno=239973",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 07 Oct 2026 08:22:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "MG동울산 새마을금고 ESG 봉사단, 마들렌 250개 '사랑의 나눔'",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1068933",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 07 Oct 2026 08:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "동해남부 새마을금고 경로당 방문 물품 지원",
         "link": "https://n.news.naver.com/mnews/article/654/0000204130?sid=102",
@@ -41,106 +73,70 @@
     ],
     "otherFinance": [
       {
-        "title": "은행 해킹 악용 정황 ‘ARTEX’…중국서 개발된 개방형 AI보안도구",
-        "link": "https://n.news.naver.com/mnews/article/056/0012268984?sid=104",
+        "title": "삼성증권, 1년물 연 4.3% 발행어음 2차 판매… 1인당 최대 3억 원",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=119487",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 07 Oct 2026 04:48:00 +0900",
+        "pubDate": "Wed, 07 Oct 2026 09:22:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "韓 은행 해킹 악용 정황 'ARTEX'…中서 개발된 개방형 AI보안도구",
-        "link": "https://n.news.naver.com/mnews/article/001/0016361138?sid=104",
+        "title": "농협 은행, ' 금융 자산 알림서비스' BM특허...자산관리 차별화",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=553057",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 07 Oct 2026 04:42:00 +0900",
+        "pubDate": "Wed, 07 Oct 2026 09:20:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "해킹 사태로 국감 칼바람…5대 시중은행장 줄소환 촉각",
-        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=321378",
+        "title": "여러 금융 사 자산 변동을 문자로… 농협 은행, 알림 서비스 특허 취득",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=302161",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 07 Oct 2026 04:00:00 +0900",
+        "pubDate": "Wed, 07 Oct 2026 09:20:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "해킹 사태로 국감 칼바람…5대 시중 은행 장 줄소환 촉각",
-        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=321378",
+        "title": "NH 농협금융 , 전남·광주에 '서남권 NH금융허브' 출범",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=321469",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 07 Oct 2026 04:00:00 +0900",
+        "pubDate": "Wed, 07 Oct 2026 09:20:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "증권 주춤해도… 4대 금융 지주 질주 본능, 연간 최대실적 쓰나",
-        "link": "https://n.news.naver.com/mnews/article/008/0005422902?sid=101",
+        "title": "NH 농협금융 , 전남광주 지원 '서남권 금융허브' 4분기 출범",
+        "link": "https://n.news.naver.com/mnews/article/003/0014237297?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 07 Oct 2026 04:00:00 +0900",
+        "pubDate": "Wed, 07 Oct 2026 09:20:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "2차 행추위 결과도 같았다… 수협 은행 장 선임 또 불발",
-        "link": "https://n.news.naver.com/mnews/article/008/0005422900?sid=101",
+        "title": "농협 은행 , ' 금융 자산 알림서비스' BM특허...자산관리 차별화",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=553057",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 07 Oct 2026 04:00:00 +0900",
+        "pubDate": "Wed, 07 Oct 2026 09:20:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "시중 은행 해킹 IP, 인터넷 은행 에도 접근 시도…피해는 없어",
-        "link": "http://www.paxetv.com/news/articleView.html?idxno=283502",
+        "title": "여러 금융 사 자산 변동을 문자로…농협 은행 , 알림 서비스 특허 취득",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=302161",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 07 Oct 2026 03:40:00 +0900",
+        "pubDate": "Wed, 07 Oct 2026 09:20:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "디지털 루블 첫 달 계좌 22만개…중앙 은행 예상의 3.7배",
-        "link": "https://www.tokenpost.kr/news/policy/419045",
+        "title": "NH농협 금융 , 전남광주 지원 '서남권 금융 허브' 4분기 출범",
+        "link": "https://n.news.naver.com/mnews/article/003/0014237297?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 07 Oct 2026 03:32:00 +0900",
-        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
+        "pubDate": "Wed, 07 Oct 2026 09:20:00 +0900",
+        "summary": "",
         "term": null
       }
     ],
-    "macro": [
-      {
-        "title": "[포커스] 점포는 그대로, 기업 금융 은 전국으로…iM뱅크의 'PRM 여신'",
-        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=815135",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 07 Oct 2026 04:56:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "금감원, AI 에이전트 활용 추정 해킹 '공격 주소' 19개 특정",
-        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=612675",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 07 Oct 2026 00:10:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "예금계 '큰손' 된 6070.. \"실버 머니 잡아라\"",
-        "link": "http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20261006&SEQUENCE=4494",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 06 Oct 2026 21:12:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
-      },
-      {
-        "title": "[T나는 경제]금융권 정보유출 노린 대출빙자 사기 주의보…소비자경보...",
-        "link": "https://www.tjb.co.kr/news05/bodo/view/id/104458",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 06 Oct 2026 17:30:00 +0900",
-        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
-        "term": null
-      }
-    ]
+    "macro": []
   }
 }
