@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T10:08:09.294Z",
+  "updatedAt": "2026-10-09T18:01:15.428Z",
   "headline": "[2026 국감] 신협· 새마을금고 절반이 적자… 이억원 \"정체성·지역사회... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -25,6 +25,46 @@
     ],
     "otherFinance": [
       {
+        "title": "고령화에 간병보험 시장 확대···장기 수익성 관리 관건",
+        "link": "https://www.smartbizn.com/news/articleView.html?idxno=155960",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 10 Oct 2026 02:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "\"말랑이 줄게, 앱 깔아줘\"…중학교 앞 은행 홍보에 학부모 발끈",
+        "link": "https://n.news.naver.com/mnews/article/003/0014243960?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 10 Oct 2026 02:00:00 +0900",
+        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "전북 은행 환경그림 공모전…김서우·여가은 대상",
+        "link": "http://www.jeonmin.co.kr/news/articleView.html?idxno=448259",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 10 Oct 2026 01:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "전북 은행 쏙뱅크서 디지털자산 정보 한눈에",
+        "link": "http://www.jeonmin.co.kr/news/articleView.html?idxno=448258",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 10 Oct 2026 01:00:00 +0900",
+        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "AI 해킹에 흔들리는 은행 신뢰…내 돈은 안전한가",
+        "link": "https://www.dongponews.net/news/articleView.html?idxno=60974",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 09 Oct 2026 23:18:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
         "title": "금융 권, 보안 컨설팅 지출 급감…보험사 6곳 보안 교육비 별도 집계 '0원...",
         "link": "https://www.dailysecu.com/news/articleView.html?idxno=208809",
         "source": "네이버뉴스",
@@ -47,63 +87,34 @@
         "pubDate": "Fri, 09 Oct 2026 15:00:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "[은행업계기상도]10월 둘째주, 연쇄 해킹에 5대 은행장 국감 소환 ‘먹...",
-        "link": "https://www.nspna.com/news/?mode=view&newsid=830978",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 09 Oct 2026 15:00:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "‘연쇄 해킹’에 5대 은행장 국감 소환..보안 투자·내부통제 책임 묻는...",
-        "link": "https://kpenews.com/View.aspx?No=4257672",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 09 Oct 2026 13:08:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "농협 은행, 경기도상공회의소연합회와 기업 금융 활성화 협력",
-        "link": "http://www.bizwnews.com/news/articleView.html?idxno=148440",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 09 Oct 2026 12:48:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "농협 , 금융 사기 예방·종자사업 통합…스마트농업·농산물 수출 경쟁력...",
-        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2329796",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 09 Oct 2026 12:20:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "“AI 탓만 할 수 있나” 같은 해킹에 피해 엇갈린 은행들…CEO 책임론 부...",
-        "link": "https://n.news.naver.com/mnews/article/243/0000104020?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 09 Oct 2026 09:01:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "macro": [
       {
-        "title": "한국판 국부펀드, 차입금 조달 허용",
-        "link": "https://n.news.naver.com/mnews/article/015/0005340917?sid=101",
+        "title": "高물가·유가에 꺾인 美 소비…‘10월 연속 금리인상’ 멈춰서나",
+        "link": "https://n.news.naver.com/mnews/article/029/0003052229?sid=104",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 09 Oct 2026 18:05:00 +0900",
+        "pubDate": "Sat, 10 Oct 2026 02:25:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Terminal Rate",
+          "meaning": "기준금리 인상 사이클의 최종 수준에 대한 시장 기대"
+        }
+      },
+      {
+        "title": "유럽증시, EU·中 하이브리드車 수출 물량 합의 소식에 일제히 올라… ...",
+        "link": "https://www.newspim.com/news/view/20261010000003",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 10 Oct 2026 01:56:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "빚투에 전세대출까지… 20대 수진씨의 '8천만원 빚' 탈출전략",
-        "link": "https://n.news.naver.com/mnews/article/665/0000008324?sid=101",
+        "title": "日, 이달 또 금리 올리나",
+        "link": "https://n.news.naver.com/mnews/article/023/0004003050?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 09 Oct 2026 17:57:00 +0900",
-        "summary": "",
+        "pubDate": "Sat, 10 Oct 2026 00:36:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       }
     ]
