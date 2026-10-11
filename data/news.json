@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-10-11T12:12:26.839Z",
-  "headline": "농협 vs 광주은행…전남광주시 금고 쟁탈전 ‘후끈’ 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-10-11T19:21:37.279Z",
+  "headline": "\"가까운 곳서 가장 먼저\" 새마을금고 지역밀착 금융 실천 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
-        "title": "농협 vs 광주은행…전남광주시 금고 쟁탈전 ‘후끈’",
-        "link": "http://www.kwangju.co.kr/article.php?aid=1791716400804152277",
+        "title": "\"가까운 곳서 가장 먼저\" 새마을금고 지역밀착 금융 실천",
+        "link": "https://n.news.naver.com/mnews/article/654/0000204711?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 11 Oct 2026 20:06:00 +0900",
+        "pubDate": "Mon, 12 Oct 2026 00:06:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "농협 vs 광주 은행 …전남광주시 금고 쟁탈전 ‘후끈’",
-        "link": "http://www.kwangju.co.kr/article.php?aid=1791716400804152277",
+        "title": "MG태화 새마을금고 , 태화·다운동 경로행사 후원",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1069216",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 11 Oct 2026 20:06:00 +0900",
+        "pubDate": "Mon, 12 Oct 2026 00:02:00 +0900",
         "summary": "",
         "term": null
       },
@@ -42,96 +42,66 @@
         "pubDate": "Sun, 11 Oct 2026 11:46:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "새마을금고 58곳, 해남 솔라시도 개발사업에 돈 몰았다…국가 AI센터 부...",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=321683",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 11 Oct 2026 09:12:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "NH 농협 은행, 4분기 기업 금융 과제에 맞춤형 지원·계열사 협업 선정",
-        "link": "https://www.businessplus.kr/news/articleView.html?idxno=117977",
+        "title": "[뉴욕증시 전망] CPI 발표 은행 ·반도체 실적 주목…금리 향방 분수령",
+        "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=90288",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 11 Oct 2026 20:34:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "NH농협 은행 , 4분기 기업 금융 과제에 맞춤형 지원·계열사 협업 선정",
-        "link": "https://www.businessplus.kr/news/articleView.html?idxno=117977",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 11 Oct 2026 20:34:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[이슈포커스] 신한·KB국민·하나 등 은행권 줄줄이 털렸다…IT 강국 한...",
-        "link": "http://www.sisacast.kr/news/articleView.html?idxno=100876",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 11 Oct 2026 20:22:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[이슈포커스] 신한·KB국민·하나 등 은행 권 줄줄이 털렸다…IT 강국 한...",
-        "link": "http://www.sisacast.kr/news/articleView.html?idxno=100876",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 11 Oct 2026 20:22:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "BNK경남 은행 , 지역 주택건설산업 살리기 박차",
-        "link": "http://www.ujeil.com/news/articleView.html?idxno=393269",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 11 Oct 2026 20:04:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[기고] 농협 은 합쳐도 농촌의 삶까지 사라져서는 안 된다- 조성래(창원...",
-        "link": "https://www.knnews.co.kr/news/articleView.php?idxno=1552483",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 11 Oct 2026 18:56:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "해킹 잇따르자 은행권 보안 투자 확대…KB국민은행 내년 1000억원대 편성",
-        "link": "http://www.smarttimes.co.kr/news/articleView.html?idxno=49614",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 11 Oct 2026 18:48:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "AI 해킹 충격… 5대 은행 요구불예금 일주일새 20조 증발",
-        "link": "https://n.news.naver.com/mnews/article/005/0001877967?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 11 Oct 2026 18:46:00 +0900",
+        "pubDate": "Mon, 12 Oct 2026 02:14:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
+        "term": null
+      },
+      {
+        "title": "청년미래적금 2차 신청 16일까지, 은행 앱 접수",
+        "link": "https://www.vegannews.co.kr/news/article.html?no=392073",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 12 Oct 2026 01:18:00 +0900",
+        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "아르헨티나 중앙 은행 , 밀레이 재선 시 은행 가상자산 서비스 가능성 언...",
+        "link": "https://www.tokenpost.kr/news/breaking/421125",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 12 Oct 2026 00:56:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[시론] 알고리즘의 효율, 보험의 신뢰와 포용의 과제",
+        "link": "https://www.insnews.co.kr/news/articleView.html?idxno=93158",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 12 Oct 2026 00:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "NH 농협 은행, 기업 금융 역량 강화…계열사 협업·전문인력 육성",
+        "link": "http://www.paxetv.com/news/articleView.html?idxno=283786",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 11 Oct 2026 23:30:00 +0900",
+        "summary": "",
+        "term": null
       }
     ],
     "macro": [
       {
-        "title": "농지 전수조사 뒤 농지담보대출 부실채권 손실 2.3배…신규 대출도 1조...",
-        "link": "https://n.news.naver.com/mnews/article/088/0001033563?sid=101",
+        "title": "美 9월 소비자물가 0.6% 상승 전망…휘발유값이 물가 자극",
+        "link": "https://www.g-enews.com/view.php?ud=2026101120161394929a1f309431_1",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 11 Oct 2026 19:14:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
+        "pubDate": "Mon, 12 Oct 2026 02:00:00 +0900",
+        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
+        "term": null
+      },
+      {
+        "title": "막오른 금융 권 국정감사… ETF·가계대출·보안 쟁점 부상",
+        "link": "https://www.insnews.co.kr/news/articleView.html?idxno=93251",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 12 Oct 2026 00:00:00 +0900",
+        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
+        "term": null
       },
       {
         "title": "\"내수 살리자니 집값 들썩\"…피벗 개시 속 한은의 '가계부채 2차 딜레마...",
