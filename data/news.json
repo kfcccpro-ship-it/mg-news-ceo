@@ -1,8 +1,24 @@
 {
-  "updatedAt": "2026-10-12T10:18:56.668Z",
-  "headline": "새마을금고 중앙회, 비대면 보험 서비스 개편 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-10-12T20:58:14.750Z",
+  "headline": "새마을금고 보험, 모바일 앱·보험 홈페이지 'UX·UI' 개선 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "새마을금고 보험, 모바일 앱·보험 홈페이지 'UX·UI' 개선",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=148645",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 12 Oct 2026 21:14:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "새마을금고 , 비대면 보험 서비스 UX·UI 전면 개편…고객 편의성 강화",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3719242",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 12 Oct 2026 20:50:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "새마을금고 중앙회, 비대면 보험 서비스 개편",
         "link": "https://www.namdonews.com/news/articleView.html?idxno=925906",
@@ -10,46 +26,62 @@
         "pubDate": "Mon, 12 Oct 2026 18:22:00 +0900",
         "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
         "term": null
-      },
-      {
-        "title": "한국에너지공단, 4개 금융중앙회와 햇빛소득마을 이차보전 협약",
-        "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=87399",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 12 Oct 2026 17:54:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "법원 판결로 재조명된 '영광 새마을금고 전직 전무 제명' 논란",
-        "link": "https://www.namdonews.com/news/articleView.html?idxno=925894",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 12 Oct 2026 17:46:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "새마을금고 , 비대면 보험 서비스 개편…‘조회·납입’ 한눈에",
-        "link": "https://www.ekn.kr/web/view.php?key=20261012024205164",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 12 Oct 2026 17:42:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "새마을금고 보험, 앱·홈페이지 이용 편의성 강화",
-        "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=666135",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 12 Oct 2026 17:24:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "[2026국감] 농협 착오송금 4816억원…잘못 보낸 돈 2377억원은 '증발'",
-        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=713413",
+        "title": "광주 은행 , 불법사 금융 예방 ‘사람 살리는 금융 ’ 릴레이 캠페인 동참",
+        "link": "http://www.breaknews.com/1242495",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 12 Oct 2026 19:14:00 +0900",
+        "pubDate": "Tue, 13 Oct 2026 05:54:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "금융 감독원, '해킹 유출' 예가람저축 은행 오늘부터 현장점검",
+        "link": "https://n.news.naver.com/mnews/article/001/0016372215?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 13 Oct 2026 05:51:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "경북도·경북신용보증재단·5개 시중은행, ‘경북 버팀 금융 ’ 지원 확대...",
+        "link": "https://n.news.naver.com/mnews/article/016/0002708336?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 13 Oct 2026 05:33:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "금, 가격 떨어졌을 때가 매입 기회… 5대은행 골드바 판매 늘어",
+        "link": "https://n.news.naver.com/mnews/article/020/0003754432?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 13 Oct 2026 00:32:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[포토뉴스]NH 농협금융 지주 횡성서 농촌일손돕기 봉사활동",
+        "link": "https://n.news.naver.com/mnews/article/087/0001223298?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 13 Oct 2026 00:07:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "농협 금융 지주 횡성 수확기 농촌일손돕기 활동",
+        "link": "https://n.news.naver.com/mnews/article/654/0000204927?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 13 Oct 2026 00:05:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "\"고령화 81% 벽 깬다\"… 경북 농협 , '청년조합원 협의회' 출범해 세대교...",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2479122",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 12 Oct 2026 21:24:00 +0900",
         "summary": "",
         "term": null
       },
@@ -60,41 +92,88 @@
         "pubDate": "Mon, 12 Oct 2026 19:00:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "대전시교육청, 농협 은행 대전본부로부터 학교발전기금 1억 원 기탁받아",
-        "link": "https://www.newsworker.co.kr/news/articleView.html?idxno=508165",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 12 Oct 2026 18:50:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "지슨, 무선백도어 매출 7배 성장...5대 은행 공급",
-        "link": "https://www.thelec.kr/news/articleView.html?idxno=63545",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 12 Oct 2026 18:38:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "하나은행, 자녀의 올바른 성장과 건강한 금융 습관 돕는다 外",
-        "link": "https://www.rcast.co.kr/news/articleView.html?idxno=31796",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 12 Oct 2026 18:34:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "NH 농협 은행, 한국 금융 연수원과 남양주 농가서 일손돕기",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=321901",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 12 Oct 2026 18:32:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "macro": [
+      {
+        "title": "[상호금융 연체비상] 10곳 중 1곳 연체율 두 자릿수…상호금융 339곳 부...",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=614520",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 13 Oct 2026 05:56:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "[상호 금융 연체비상] 10곳 중 1곳 연체율 두 자릿수…상호 금융 339곳 부...",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=614520",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 13 Oct 2026 05:56:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "\"빌려줄수록 손해\"…기준금리 6배, 2 금융 권 대출금리 상한은 그대로",
+        "link": "https://n.news.naver.com/mnews/article/417/0001160679?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 13 Oct 2026 05:40:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "NIM",
+          "meaning": "금리 변화가 금융기관 수익성에 미치는 영향을 보여주는 핵심 지표"
+        }
+      },
+      {
+        "title": "뉴욕증시, AI 대형주 약세에 혼조…기업 실적·물가 지표 주시",
+        "link": "https://n.news.naver.com/mnews/article/003/0014248479?sid=104",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 13 Oct 2026 05:37:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "18년만의 최저 환율… 엔화예금 6000억 늘고 상승베팅 투자는 손실",
+        "link": "https://n.news.naver.com/mnews/article/020/0003754439?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 13 Oct 2026 04:32:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "월 최소 60만원 더 낸다… 주담대 금리 변동 앞둔 차주들 비상",
+        "link": "https://n.news.naver.com/mnews/article/005/0001878278?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 13 Oct 2026 02:25:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "에너지공단, 햇빛소득마을 주민 대출이자 부담 경감",
+        "link": "http://www.e2news.com/news/articleView.html?idxno=335006",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 13 Oct 2026 01:10:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "지역금융 '빨간불'… 조합 10곳 중 1곳 연체율 10% 넘었다",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=2004961",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 12 Oct 2026 20:30:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
       {
         "title": "상호금융 339곳 대출 연체율 10%",
         "link": "https://n.news.naver.com/mnews/article/658/0000158219?sid=101",
@@ -105,49 +184,6 @@
           "word": "Delinquency",
           "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
         }
-      },
-      {
-        "title": "상호 금융 339곳 대출 연체율 10%",
-        "link": "https://n.news.naver.com/mnews/article/658/0000158219?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 12 Oct 2026 19:16:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
-      },
-      {
-        "title": "신현송 \"금리 연속 인상, 환율 안정 효과도 거둬\"(종합)",
-        "link": "https://n.news.naver.com/mnews/article/003/0014248094?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 12 Oct 2026 19:11:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "한은, 국감서 \"대출 규제 흔들지 말라\"…강남 잡혔지만 외곽·경기 남부...",
-        "link": "https://www.greened.kr/news/articleView.html?idxno=351883",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 12 Oct 2026 19:11:00 +0900",
-        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
-        "term": null
-      },
-      {
-        "title": "신현송 \"美보다 먼저 금리 높여 시간 벌어…환율 안정에 큰 역할\"(종합2...",
-        "link": "https://n.news.naver.com/mnews/article/421/0009223213?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 12 Oct 2026 19:02:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "농지 전수조사 예고에 농·축협 비상…담보대출 매각 손실 두 배",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=321898",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 12 Oct 2026 18:32:00 +0900",
-        "summary": "",
-        "term": null
       },
       {
         "title": "에너지공단, '햇빛소득마을' 대출 이자 부담 낮춘다",
