@@ -1,195 +1,161 @@
 {
-  "updatedAt": "2026-10-12T00:14:42.049Z",
-  "headline": "새마을금고 보험, 모바일 앱·보험 홈페이지 UX·UI 개선 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-10-12T10:18:56.668Z",
+  "headline": "새마을금고 중앙회, 비대면 보험 서비스 개편 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
-        "title": "새마을금고 보험, 모바일 앱·보험 홈페이지 UX·UI 개선",
-        "link": "https://n.news.naver.com/mnews/article/030/0003473907?sid=101",
+        "title": "새마을금고 중앙회, 비대면 보험 서비스 개편",
+        "link": "https://www.namdonews.com/news/articleView.html?idxno=925906",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 12 Oct 2026 09:09:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "\"출자금은 예금자보호 안 돼\"…동반부실 우려에 금고 합병 거부 사례도",
-        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438624",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 12 Oct 2026 09:08:00 +0900",
-        "summary": "새마을금고의 수신·여신 운영 흐름과 연결해서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
-      },
-      {
-        "title": "[위클리오늘] 빙그레, 현대백화점, 농협 중앙회(10.8)",
-        "link": "http://www.weeklytoday.com/news/articleView.html?idxno=797492",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 12 Oct 2026 09:04:00 +0900",
+        "pubDate": "Mon, 12 Oct 2026 18:22:00 +0900",
         "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
         "term": null
       },
       {
-        "title": "새마을금고 , 부실채권 매각 건전성 '착시' 논란…\"저가매각 수두룩\"",
-        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438621",
+        "title": "한국에너지공단, 4개 금융중앙회와 햇빛소득마을 이차보전 협약",
+        "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=87399",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 12 Oct 2026 09:00:00 +0900",
-        "summary": "새마을금고 건전성 관리 흐름과 연결해 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
+        "pubDate": "Mon, 12 Oct 2026 17:54:00 +0900",
+        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
+        "term": null
       },
       {
-        "title": "양산중앙 새마을금고 , 물금점 흡수합병 완료",
-        "link": "http://www.yangsanilbo.com/news/articleView.html?idxno=127871",
+        "title": "법원 판결로 재조명된 '영광 새마을금고 전직 전무 제명' 논란",
+        "link": "https://www.namdonews.com/news/articleView.html?idxno=925894",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 12 Oct 2026 09:00:00 +0900",
+        "pubDate": "Mon, 12 Oct 2026 17:46:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "새마을금고, 부실채권 매각 건전성 '착시' 논란…\"저가매각 수두룩\"",
-        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438621",
+        "title": "새마을금고 , 비대면 보험 서비스 개편…‘조회·납입’ 한눈에",
+        "link": "https://www.ekn.kr/web/view.php?key=20261012024205164",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 12 Oct 2026 09:00:00 +0900",
-        "summary": "새마을금고 건전성 관리 흐름과 연결해 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
+        "pubDate": "Mon, 12 Oct 2026 17:42:00 +0900",
+        "summary": "",
+        "term": null
       },
       {
-        "title": "[2026 국감] 상호금융 부실 '빨간불'…조합· 금고 339곳 연체율 두 자릿...",
-        "link": "https://n.news.naver.com/mnews/article/119/0003141515?sid=101",
+        "title": "새마을금고 보험, 앱·홈페이지 이용 편의성 강화",
+        "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=666135",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 12 Oct 2026 08:35:00 +0900",
-        "summary": "새마을금고 건전성 관리 흐름과 연결해 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
-      },
-      {
-        "title": "금융 위기 경고등, 연체율 10% 넘는 조합· 금고 339곳 급증",
-        "link": "https://www.gokorea.kr/news/articleView.html?idxno=881027",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 12 Oct 2026 07:54:00 +0900",
-        "summary": "새마을금고 건전성 관리 흐름과 연결해 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
+        "pubDate": "Mon, 12 Oct 2026 17:24:00 +0900",
+        "summary": "",
+        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "하나 은행 , 글로벌파이낸스 선정 '2026 베스트 서브커스터디언' 수상",
-        "link": "https://www.ziksir.com/news/articleView.html?idxno=148916",
+        "title": "[2026국감] 농협 착오송금 4816억원…잘못 보낸 돈 2377억원은 '증발'",
+        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=713413",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 12 Oct 2026 09:12:00 +0900",
+        "pubDate": "Mon, 12 Oct 2026 19:14:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "하나 은행 , '2026 베스트 서브커스터디언' 수상",
-        "link": "http://www.nongaek.com/news/articleView.html?idxno=97079",
+        "title": "[뉴스인사이드 이슈톡톡] 무역보험공사, 떼인 돈 4조 육박…장기 미회수...",
+        "link": "https://www.newsinside.kr/news/articleView.html?idxno=5022666",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 12 Oct 2026 09:12:00 +0900",
+        "pubDate": "Mon, 12 Oct 2026 19:00:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[금주 뉴욕증시 전망] 은행 실적·CPI 시험대…국채금리 5.2% 부담",
-        "link": "https://www.goodkyung.com/news/articleView.html?idxno=292217",
+        "title": "대전시교육청, 농협 은행 대전본부로부터 학교발전기금 1억 원 기탁받아",
+        "link": "https://www.newsworker.co.kr/news/articleView.html?idxno=508165",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 12 Oct 2026 09:10:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "하나증권 \" 은행 주 금리 상승에 방어주 매력 부각, 3분기 실적 기대감은...",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=449018",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 12 Oct 2026 09:08:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "IBK기업 은행 , 취약차주 4,700여 명에 2,138억 원 채무 조정·소각",
-        "link": "https://www.handmk.com/news/articleView.html?idxno=43956",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 12 Oct 2026 09:08:00 +0900",
+        "pubDate": "Mon, 12 Oct 2026 18:50:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "NH 농협 은행, 4분기 기업 금융 사업추진 결의대회…맞춤형 금융 지원 강화",
-        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=745440",
+        "title": "지슨, 무선백도어 매출 7배 성장...5대 은행 공급",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=63545",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 12 Oct 2026 09:05:00 +0900",
+        "pubDate": "Mon, 12 Oct 2026 18:38:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "윤종규 3년 만에 돌아오나…은행연합회장 ‘재등판’에 쏠린 눈",
-        "link": "https://n.news.naver.com/mnews/article/243/0000104092?sid=101",
+        "title": "하나은행, 자녀의 올바른 성장과 건강한 금융 습관 돕는다 外",
+        "link": "https://www.rcast.co.kr/news/articleView.html?idxno=31796",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 12 Oct 2026 09:01:00 +0900",
+        "pubDate": "Mon, 12 Oct 2026 18:34:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "NH 농협 은행, 기업 성장단계별 금융 지원 확대…4분기 사업계획 점검",
-        "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=318874",
+        "title": "NH 농협 은행, 한국 금융 연수원과 남양주 농가서 일손돕기",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=321901",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 12 Oct 2026 08:56:00 +0900",
+        "pubDate": "Mon, 12 Oct 2026 18:32:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "[뉴스투데이 뚝딱뉴스] 가계대출 상향조치 국감서 지적…\"잦은 규제 변...",
-        "link": "https://www.news2day.co.kr/article/20261012500038",
+        "title": "상호금융 339곳 대출 연체율 10%",
+        "link": "https://n.news.naver.com/mnews/article/658/0000158219?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 12 Oct 2026 09:08:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
+        "pubDate": "Mon, 12 Oct 2026 19:16:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "상호 금융 339곳 대출 연체율 10%",
+        "link": "https://n.news.naver.com/mnews/article/658/0000158219?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 12 Oct 2026 19:16:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "신현송 \"금리 연속 인상, 환율 안정 효과도 거둬\"(종합)",
+        "link": "https://n.news.naver.com/mnews/article/003/0014248094?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 12 Oct 2026 19:11:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "[ 금융 B-Side] [iM 금융 ] 자산 확장 답습한 신수환 CFO, 유동성 규제 턱걸...",
-        "link": "https://news.dealsitetv.com/articles/176690",
+        "title": "한은, 국감서 \"대출 규제 흔들지 말라\"…강남 잡혔지만 외곽·경기 남부...",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=351883",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 12 Oct 2026 09:02:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "LCR",
-          "meaning": "단기 유동성 충격 대응 능력을 보여주는 지표"
-        }
+        "pubDate": "Mon, 12 Oct 2026 19:11:00 +0900",
+        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
+        "term": null
       },
       {
-        "title": "연체율 10% 이상 상호금융 339곳…반년 새 66.2% 급증",
-        "link": "https://www.jasm.co.kr/news/articleView.html?idxno=321072",
+        "title": "신현송 \"美보다 먼저 금리 높여 시간 벌어…환율 안정에 큰 역할\"(종합2...",
+        "link": "https://n.news.naver.com/mnews/article/421/0009223213?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 12 Oct 2026 08:40:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
+        "pubDate": "Mon, 12 Oct 2026 19:02:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
       },
       {
-        "title": "상호금융 339곳 연체율 두 자릿수…반년 새 66% 급증",
-        "link": "https://www.cstimes.com/news/articleView.html?idxno=723521",
+        "title": "농지 전수조사 예고에 농·축협 비상…담보대출 매각 손실 두 배",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=321898",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 12 Oct 2026 08:24:00 +0900",
+        "pubDate": "Mon, 12 Oct 2026 18:32:00 +0900",
         "summary": "",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
+        "term": null
+      },
+      {
+        "title": "에너지공단, '햇빛소득마을' 대출 이자 부담 낮춘다",
+        "link": "https://www.energy-news.co.kr/news/articleView.html?idxno=228889",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 12 Oct 2026 18:02:00 +0900",
+        "summary": "",
+        "term": null
       }
     ]
   }
