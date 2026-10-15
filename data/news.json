@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T20:59:23.676Z",
+  "updatedAt": "2026-10-15T23:38:20.084Z",
   "headline": "새마을금고 , 비대면 보험서비스 개편…회원 교류·지역사회 지원 확대 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -26,76 +26,92 @@
         "pubDate": "Thu, 15 Oct 2026 22:14:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "LG씨엔에스, 2910억원 새마을금고 계정계 구축 계약",
-        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=873171",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 15 Oct 2026 21:40:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "올해 은행 정보보호예산 KB가 최다…신한·우리는 10% 이상 감소",
-        "link": "https://n.news.naver.com/mnews/article/001/0016380305?sid=101",
+        "title": "[2026국감] 농협 조합원 연체액 2조원 돌파…3년 만에 5배 폭증",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=214933",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 16 Oct 2026 05:51:00 +0900",
+        "pubDate": "Fri, 16 Oct 2026 08:32:00 +0900",
         "summary": "",
-        "term": null
-      },
-      {
-        "title": "크로스리버 은행 , 핵심 플랫폼에 리플 RLUSD 탑재…핀테크 API 하나로 3~5초...",
-        "link": "https://www.wikitree.co.kr/articles/1166622",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 16 Oct 2026 05:10:00 +0900",
-        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "[단독] ‘자본 족쇄’ 풀린 신한·하나·우리 은행 … 대출 문턱 낮아질까",
-        "link": "https://n.news.naver.com/mnews/article/081/0003689512?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 16 Oct 2026 05:06:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "NH 농협 은행, 전자계약 전국 확대…미국 가스 인프라에 6천만달러 대출",
-        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2335273",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 16 Oct 2026 01:52:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "OK저축은행 고객 250명 정보유출…현재 은행·저축은행·캐피탈 등 총 1...",
-        "link": "https://www.dailysecu.com/news/articleView.html?idxno=208898",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 16 Oct 2026 01:16:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "“불안한 증시 대신 예금” 보름새 37조 은행 몰렸다",
-        "link": "https://n.news.naver.com/mnews/article/020/0003755329?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 16 Oct 2026 00:31:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
         }
+      },
+      {
+        "title": "NH 농협 카드, '차세대 쇼핑·결제 기술 PoC' 추진",
+        "link": "https://www.ajunews.com/view/20261016082154791",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 16 Oct 2026 08:26:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "금융 사고 제로’ 외치던 농협 은행의 민낯… 5년간 822억 털리고 109억 떼...",
+        "link": "https://www.dailyt.co.kr/newsView/dlt202610160010",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 16 Oct 2026 08:26:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "금융 사고 제로’ 외치던 농협 은행 의 민낯… 5년간 822억 털리고 109억 떼...",
+        "link": "https://www.dailyt.co.kr/newsView/dlt202610160010",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 16 Oct 2026 08:26:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "구글 안드로이드, 화면 공유 중 비밀번호·카드 보안번호 가린다…크롬...",
+        "link": "https://www.wikitree.co.kr/articles/1166656",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 16 Oct 2026 08:24:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[국감 2026] 5대 은행 정보보호 예산 격차…신한은행, KB·NH 등 지출 '반...",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=280767",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 16 Oct 2026 08:22:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "농협 상호 금융 , 대포통장 피해액 63% 감소",
+        "link": "https://www.farmnmarket.com/news/article.html?no=28189",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 16 Oct 2026 08:22:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "NH 농협 카드, AI 비서가 고객 대신 쇼핑·결제…'차세대 결제 PoC' 추진",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065568200458059",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 16 Oct 2026 08:20:00 +0900",
+        "summary": "",
+        "term": null
       }
     ],
     "macro": [
       {
-        "title": "9월 금융 권 가계대출 2.2조 감소…올해 첫 순감",
-        "link": "https://n.news.naver.com/mnews/article/422/0000916140?sid=101",
+        "title": "[국제 금융 브리핑] 미국 9월 생산자물가 6.3% 급등...AI 부채 우려에 국...",
+        "link": "https://www.tokenpost.kr/news/economy/423130",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 16 Oct 2026 05:53:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
+        "pubDate": "Fri, 16 Oct 2026 08:34:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "中 D램 공습? 현물가는 뛰었다…내년 삼전닉스 합산익 '964조' 전망",
+        "link": "https://n.news.naver.com/mnews/article/008/0005427235?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 16 Oct 2026 08:30:00 +0900",
+        "summary": "",
         "term": null
       },
       {
@@ -104,22 +120,6 @@
         "source": "네이버뉴스",
         "pubDate": "Fri, 16 Oct 2026 05:42:00 +0900",
         "summary": "",
-        "term": null
-      },
-      {
-        "title": "[주택시장 수요자 진퇴양난] 전세대란에 금리마저 오름세… ‘규제 수렁...",
-        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610131458582120394",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 16 Oct 2026 05:20:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "가계대출 줄어들고",
-        "link": "https://n.news.naver.com/mnews/article/025/0003558287?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 16 Oct 2026 00:02:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
         "term": null
       },
       {
