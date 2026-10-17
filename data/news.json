@@ -1,8 +1,16 @@
 {
-  "updatedAt": "2026-10-17T20:12:42.001Z",
-  "headline": "새마을금고 계정계 최신화에 LG씨엔에스 2910억원 계약 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-10-17T22:54:37.872Z",
+  "headline": "2 금융 권 해킹 확산…저축 은행 중앙회, 1400억 '차세대 전산망' 구축 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "2 금융 권 해킹 확산…저축 은행 중앙회, 1400억 '차세대 전산망' 구축",
+        "link": "https://n.news.naver.com/mnews/article/119/0003143865?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 18 Oct 2026 07:16:00 +0900",
+        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
       {
         "title": "새마을금고 계정계 최신화에 LG씨엔에스 2910억원 계약",
         "link": "https://www.vegannews.co.kr/news/article.html?no=393725",
@@ -38,138 +46,108 @@
     ],
     "otherFinance": [
       {
-        "title": "[이번주 국감] 횡령 사태 4년만에 해킹사고… 증인석 오르는 5대 은행장",
-        "link": "https://www.g-enews.com/view.php?ud=202610161319147004e30fcb1ba8_1",
+        "title": "24개월 최고 연 7.00%…케이뱅크 '마이키즈 적금' [이주의 은행 적금금리...",
+        "link": "https://www.fntimes.com/html/view.php?ud=2026101612492728031b5a221379_18",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 18 Oct 2026 05:00:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[이번주 국감] 횡령 사태 4년만에 해킹사고… 증인석 오르는 5대 은행 장",
-        "link": "https://www.g-enews.com/view.php?ud=202610161319147004e30fcb1ba8_1",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 18 Oct 2026 05:00:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "월가 3대 은행 , 토큰화로 거래·송금·자문 확대 모색",
-        "link": "https://www.tokenpost.kr/news/cryptocurrency/423792",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 18 Oct 2026 04:14:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "농협 개혁 두고 ‘마녀사냥’·‘ 농협 이 자초’ 여야 설전…강호동, 사퇴...",
-        "link": "https://n.news.naver.com/mnews/article/022/0004167464?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 17 Oct 2026 23:27:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "NH 농협 은행, 최고 연 3.9% 특판예금…키움증권과 투자자문 협력",
-        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2337527",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 17 Oct 2026 22:26:00 +0900",
+        "pubDate": "Sun, 18 Oct 2026 07:16:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
+        "term": null
       },
       {
-        "title": "은행권, 모바일 신분증 개방 확대… \"편의성·보안성 동시 강화\"",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3441063",
+        "title": "[N2 포커스] 신한 금융 , 롯데손보 인수로 비 은행 승부수…수익성 개선 시...",
+        "link": "https://www.news2day.co.kr/article/20261014500373",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 17 Oct 2026 19:46:00 +0900",
+        "pubDate": "Sun, 18 Oct 2026 07:12:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "예금족 웃고 차주는 운다…은행 정기예금 ‘4% 시대’",
-        "link": "https://www.ekn.kr/web/view.php?key=20261017023177558",
+        "title": "'해킹 국감' 앞둔 5대 은행장…보안 투자보다 예방 실패 책임 도마 [이슈...",
+        "link": "https://www.ngetnews.com/news/articleView.html?idxno=554623",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 17 Oct 2026 19:10:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
+        "pubDate": "Sun, 18 Oct 2026 07:10:00 +0900",
+        "summary": "",
+        "term": null
       },
       {
-        "title": "국민 편의 넓히는 은행권…모바일 신분증 서비스 경쟁 본격화",
-        "link": "https://www.ekn.kr/web/view.php?key=20261017025387452",
+        "title": "12개월 최고 연 7.00%…경남 은행 '오면우대! 하면우대! 정기적금' [이주...",
+        "link": "https://www.fntimes.com/html/view.php?ud=2026101612475476481b5a221379_18",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 17 Oct 2026 18:06:00 +0900",
+        "pubDate": "Sun, 18 Oct 2026 07:10:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "'해킹 국감' 앞둔 5대 은행 장…보안 투자보다 예방 실패 책임 도마 [이슈...",
+        "link": "https://www.ngetnews.com/news/articleView.html?idxno=554623",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 18 Oct 2026 07:10:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "횡령 이어 해킹…5대 은행장, 4년 만에 국감대",
+        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072604",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 18 Oct 2026 07:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "5대 은행장 '해킹 사고' 국감서 해명할까",
+        "link": "https://n.news.naver.com/mnews/article/660/0000119401?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 18 Oct 2026 06:36:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[DQN] JB우리캐피탈 지주계 캐피탈사 수익성 '톱'·iM캐피탈 약진… 농협 ...",
+        "link": "https://www.fntimes.com/html/view.php?ud=2026101801371850548a55064dd1_18",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 18 Oct 2026 06:02:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "반도체 호황에 2년 만에 최저 환율…AI 불안이 원화 강세 막나[주간외환...",
-        "link": "https://n.news.naver.com/mnews/article/018/0006390531?sid=101",
+        "title": "[통장잔GO] 다시 예·적금의 시간… 4~9% 고금리 상품 '눈길'",
+        "link": "https://n.news.naver.com/mnews/article/119/0003143866?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 18 Oct 2026 05:02:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "\"드러누워서라도 막았어야\" 이찬진 입에 쏠린 금감원 국감",
-        "link": "https://n.news.naver.com/mnews/article/079/0004199794?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 18 Oct 2026 05:01:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "컴퓨터 물가 뛰자 빅테크 빚 부담 눈덩이…AI 질주 앞에 채권시장 장벽...",
-        "link": "https://www.g-enews.com/view.php?ud=202610171536146992fbbec65dfb_1",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 18 Oct 2026 03:16:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "월가 보너스 잔치 끝자락에 닥친 유동성 절벽…2027년 미국 증시 약세장...",
-        "link": "https://www.g-enews.com/view.php?ud=202610171525311619fbbec65dfb_1",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 18 Oct 2026 03:06:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "LCR",
-          "meaning": "단기 유동성 충격 대응 능력을 보여주는 지표"
-        }
-      },
-      {
-        "title": "국제 금값 주간 0.7% 하락…美 연말 금리 인상 우려 지속",
-        "link": "https://www.g-enews.com/view.php?ud=2026101721195291849a1f309431_1",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 18 Oct 2026 03:02:00 +0900",
+        "pubDate": "Sun, 18 Oct 2026 07:39:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "“지키자 내 돈”…코스피 불안에 예금·IMA로 ‘역 머니무브’",
-        "link": "https://n.news.naver.com/mnews/article/662/0000106313?sid=101",
+        "title": "연 4%대 예금금리 확산 코픽스 상승 압력… 주담대 이자 부담 커졌다",
+        "link": "https://www.g-enews.com/view.php?ud=202610161535383537cd0bfacc1c_1",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 17 Oct 2026 19:47:00 +0900",
-        "summary": "",
+        "pubDate": "Sun, 18 Oct 2026 07:36:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": {
           "word": "Deposit Beta",
           "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
         }
       },
       {
-        "title": "“주식 팔아 빚 갚으려 했는데”…급락 후 반등에도 대출이자 ‘이중고...",
-        "link": "https://n.news.naver.com/mnews/article/009/0005749969?sid=101",
+        "title": "주담대 변동금리 상단 6% 줄줄이 돌파…연말까지 165조원 금리 바뀐다",
+        "link": "https://n.news.naver.com/mnews/article/022/0004167487?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 17 Oct 2026 17:20:00 +0900",
-        "summary": "",
+        "pubDate": "Sun, 18 Oct 2026 07:02:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
+      },
+      {
+        "title": "“삼전서만 일주일 새 1000만원 날렸다” 아우성…폭락장에 연 4% 예금으...",
+        "link": "https://n.news.naver.com/mnews/article/016/0002710716?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 18 Oct 2026 07:01:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
       }
     ]
   }
