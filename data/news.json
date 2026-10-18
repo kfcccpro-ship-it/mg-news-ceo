@@ -1,8 +1,24 @@
 {
-  "updatedAt": "2026-10-18T10:29:25.701Z",
-  "headline": "전북 새마을금고 대표봉사단 ‘MG따숨’, ‘사랑의 연탄 나눔’ 봉사 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-10-18T15:27:46.265Z",
+  "headline": "MG춘천동부 새마을금고 효잔치 자원봉사 활동 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "MG춘천동부 새마을금고 효잔치 자원봉사 활동",
+        "link": "https://n.news.naver.com/mnews/article/654/0000206038?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 19 Oct 2026 00:07:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "경북 농협 , 중앙회장배 농업인 파크골프대회 예선",
+        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=562593",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 18 Oct 2026 21:24:00 +0900",
+        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
       {
         "title": "전북 새마을금고 대표봉사단 ‘MG따숨’, ‘사랑의 연탄 나눔’ 봉사",
         "link": "https://sjbnews.com/news/news.php?number=890150",
@@ -12,116 +28,89 @@
         "term": null
       },
       {
-        "title": "윤준병의원, 농협 중앙회-한국마사회 이전 강력 촉구",
-        "link": "http://www.jjn.co.kr/news/articleView.html?idxno=1054796",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 18 Oct 2026 18:22:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
-      {
         "title": "새마을금고 중앙회 충북본부, ' MG로컬공동체 활성화 지원사업 '시설 개...",
         "link": "http://www.cctimes.kr/news/articleView.html?idxno=932565",
         "source": "네이버뉴스",
         "pubDate": "Sun, 18 Oct 2026 18:18:00 +0900",
         "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
         "term": null
-      },
-      {
-        "title": "농협 중앙회, 개혁 요구 앞에 놓인 3대 과제...선출·감사·책임 구조 바...",
-        "link": "https://www.m-economynews.com/news/article.html?no=71794",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 18 Oct 2026 17:50:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "BNK 부산 은행 '가을철 일손돕기' 온정의 손길",
-        "link": "https://n.news.naver.com/mnews/article/014/0005590812?sid=102",
+        "title": "AI투자 더 간다는 월가 은행 , 막상 돈 댈 땐 “보증 있나”",
+        "link": "https://n.news.naver.com/mnews/article/025/0003558748?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 18 Oct 2026 19:10:00 +0900",
+        "pubDate": "Mon, 19 Oct 2026 00:12:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "황기연 수출입 은행 장, IFC 총재와 금융 협력 논의",
-        "link": "https://n.news.naver.com/mnews/article/014/0005590797?sid=101",
+        "title": "세계 은행 “청년 12억명 몰리는데 일자리는 4억개”…개발 금융 ‘고용 ...",
+        "link": "https://www.dailyt.co.kr/newsView/dlt202610180004",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 18 Oct 2026 19:02:00 +0900",
+        "pubDate": "Mon, 19 Oct 2026 00:10:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "오늘 5대 은행장 '해킹 국감'… 보안책임 도마에",
-        "link": "https://n.news.naver.com/mnews/article/029/0003053719?sid=105",
+        "title": "5대 은행장 전원 증언대로…보안 구멍·CEO 책임 ‘맹공ʼ [포스트 2026 국...",
+        "link": "https://www.fntimes.com/html/view.php?ud=202610162039225114dd55077bc2_18",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 18 Oct 2026 18:50:00 +0900",
+        "pubDate": "Mon, 19 Oct 2026 00:02:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "오늘 5대 은행 장 '해킹 국감'… 보안책임 도마에",
-        "link": "https://n.news.naver.com/mnews/article/029/0003053719?sid=105",
+        "title": "국감 증인대 서는 5대 은행장… 연쇄 해킹 대응 책임 추궁",
+        "link": "https://www.insnews.co.kr/news/articleView.html?idxno=93340",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 18 Oct 2026 18:50:00 +0900",
+        "pubDate": "Mon, 19 Oct 2026 00:02:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[ 금융 로드] 외국인에 1만 원대 7GB·보험까지…KB, 'KB Global Star 7GB+' 내...",
-        "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=65971",
+        "title": "미래에셋증권, 해외경험·플랫폼 기반 토큰화 속도…\"내년 1분기 상품 목...",
+        "link": "https://www.fntimes.com/html/view.php?ud=20261016204615409dd55077bc2_18",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 18 Oct 2026 18:44:00 +0900",
+        "pubDate": "Mon, 19 Oct 2026 00:02:00 +0900",
+        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "국감 증인대 서는 5대 은행 장… 연쇄 해킹 대응 책임 추궁",
+        "link": "https://www.insnews.co.kr/news/articleView.html?idxno=93340",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 19 Oct 2026 00:02:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "NH 농협 생명, 강원 인제 양배추 농가서 일손돕기… 임직원 25명 참여",
-        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=360830",
+        "title": "농협 은행, 'NH올원뱅크 10주년 페스타' 진행…고금리 특판 예금 판매",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=149130",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 18 Oct 2026 18:42:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "전북, 농협 -마사회등 핵심기관 유치 총력전",
-        "link": "http://www.jjn.co.kr/news/articleView.html?idxno=1054757",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 18 Oct 2026 18:36:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "신한은행, 중저신용자 대출금리 인하 / 농협 은행 자산관리 / 수출입은행...",
-        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2338168",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 18 Oct 2026 18:14:00 +0900",
+        "pubDate": "Sun, 18 Oct 2026 23:18:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": {
-          "word": "NIM",
-          "meaning": "금리 변화가 금융기관 수익성에 미치는 영향을 보여주는 핵심 지표"
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
         }
+      },
+      {
+        "title": "[ 금융 권 이모저모]토스증권, 대표 주도 내부통제 점검·준법 평가 강화...",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=118334",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 18 Oct 2026 22:46:00 +0900",
+        "summary": "",
+        "term": null
       }
     ],
     "macro": [
       {
-        "title": "[주간 증시전망] 국제유가 상승·미국 통화정책···국내 증시 부담",
-        "link": "https://www.jjan.kr/article/20261018500369",
+        "title": "홍재문 온라인투자연계 금융 협회장, “상호 금융 자금으로 중금리 공급…...",
+        "link": "https://www.fntimes.com/html/view.php?ud=202610162159532069dd55077bc2_18",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 18 Oct 2026 19:20:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Forward Guidance",
-          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
-        }
-      },
-      {
-        "title": "두려운 만기연장…인뱅 마통 금리 최대 3%P 올라",
-        "link": "https://n.news.naver.com/mnews/article/011/0004672474?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 18 Oct 2026 18:22:00 +0900",
+        "pubDate": "Mon, 19 Oct 2026 00:02:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       },
