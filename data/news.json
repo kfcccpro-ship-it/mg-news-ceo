@@ -1,96 +1,104 @@
 {
-  "updatedAt": "2026-10-19T03:30:52.776Z",
-  "headline": "JT친애저축 은행 , 일·가정 양립 위한 복지제도 강화 등 타 금융권 동향을 비교해볼 필요가 있습니다.",
+  "updatedAt": "2026-10-19T12:18:19.542Z",
+  "headline": "우리 은행 , SK하이닉스 협력사에 7500억원 금융 지원…반도체 공급망 강화 등 타 금융권 동향을 비교해볼 필요가 있습니다.",
   "categories": {
     "mg": [],
     "otherFinance": [
       {
-        "title": "JT친애저축 은행 , 일·가정 양립 위한 복지제도 강화",
-        "link": "https://n.news.naver.com/mnews/article/277/0005830319?sid=101",
+        "title": "우리 은행 , SK하이닉스 협력사에 7500억원 금융 지원…반도체 공급망 강화",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=445935",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 19 Oct 2026 12:25:00 +0900",
+        "pubDate": "Mon, 19 Oct 2026 21:16:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "하나 은행 , 3년 연속 적립금 증가 1위",
-        "link": "http://www.newsbrite.net/news/articleView.html?idxno=200983",
+        "title": "캐피탈업계, 생산적·포용 금융 역할 확대 논의…규제 개선 필요성 제기",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=149332",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 19 Oct 2026 12:24:00 +0900",
+        "pubDate": "Mon, 19 Oct 2026 21:16:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "수협 연체액 2.4조·해상 불법유류 1754억…부실 관리 도마 [국감]",
-        "link": "https://www.etoday.co.kr/news/view/2637338",
+        "title": "\" 농협 조합원 땀방울 보상으로 만들 것\"",
+        "link": "http://www.gnmaeil.com/news/articleView.html?idxno=596843",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 19 Oct 2026 12:20:00 +0900",
+        "pubDate": "Mon, 19 Oct 2026 21:12:00 +0900",
         "summary": "",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
+        "term": null
       },
       {
-        "title": "[국감] 금융 권 해킹·불법대출 피해·캐피탈사 지배구조…금감원 감독 ...",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=496446",
+        "title": "\"농협 조합원 땀방울 보상으로 만들 것\"",
+        "link": "http://www.gnmaeil.com/news/articleView.html?idxno=596843",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 19 Oct 2026 12:20:00 +0900",
+        "pubDate": "Mon, 19 Oct 2026 21:12:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "김태한 경남 은행 장 '사람 살리는 금융 ' 캠페인",
+        "link": "http://www.gnmaeil.com/news/articleView.html?idxno=596872",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 19 Oct 2026 21:12:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "경남 농협 제14대 이성준 노조위원장 취임",
+        "link": "https://n.news.naver.com/mnews/article/003/0014264198?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 19 Oct 2026 21:06:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[ST PICK]\"가산금리 내리고 우대금리 더 줄였다\"…시중은행 국감서 질타",
+        "link": "http://www.smarttimes.co.kr/news/articleView.html?idxno=49853",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 19 Oct 2026 21:06:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "하나 은행 , 3분기 누적 퇴직연금 적립금 3.77조원 증가… 은행 권 1위",
-        "link": "https://www.onews.tv/news/articleView.html?idxno=289397",
+        "title": "경남농협 제14대 이성준 노조위원장 취임",
+        "link": "https://n.news.naver.com/mnews/article/003/0014264198?sid=102",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 19 Oct 2026 12:18:00 +0900",
+        "pubDate": "Mon, 19 Oct 2026 21:06:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "영양군, 농협 과 ‘지역농업 상생’ 협력체계 구축",
-        "link": "https://tk.newdaily.co.kr/site/data/html/2026/10/19/2026101900187.html",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 19 Oct 2026 12:16:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "“산림 녹화 주역이 어쩌다…” 10곳 중 9곳 적자, 벼랑 끝 선 산림조합...",
-        "link": "https://www.dailyt.co.kr/newsView/dlt202610190021",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 19 Oct 2026 12:14:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[단독] 강화 지역 농협 임원 당선 후 대출금리 인하 의혹… 특혜 논란",
-        "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3079094",
-        "source": "네이버뉴스",
-        "pubDate": "Mon, 19 Oct 2026 12:10:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "NIM",
-          "meaning": "금리 변화가 금융기관 수익성에 미치는 영향을 보여주는 핵심 지표"
-        }
       }
     ],
     "macro": [
       {
-        "title": "AI 투자비용·고금리 부담에 아시아 증시 약세…코스피 급락 출발 뒤 낙...",
-        "link": "https://www.dailyt.co.kr/newsView/dlt202610190020",
+        "title": "예금금리 올랐더니···스테이블코인 성장 제동",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=874284",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 19 Oct 2026 12:20:00 +0900",
+        "pubDate": "Mon, 19 Oct 2026 21:16:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "프랑스 국채금리 급등에…프랑스發 ‘유럽 재정위기’ 재현될까",
+        "link": "https://n.news.naver.com/mnews/article/024/0000109029?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 19 Oct 2026 21:01:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "송미령 \"농지조사 상담 계속…브라질계란 수입은 물가안정조치\"(종합)",
-        "link": "https://n.news.naver.com/mnews/article/001/0016385379?sid=101",
+        "title": "금 가격 보면, 기준금리 움직임 보인다 [레버리지셰어즈 인사이트]",
+        "link": "https://n.news.naver.com/mnews/article/215/0001269719?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Mon, 19 Oct 2026 12:00:00 +0900",
-        "summary": "",
-        "term": null
+        "pubDate": "Mon, 19 Oct 2026 21:00:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+        }
       }
     ]
   }
