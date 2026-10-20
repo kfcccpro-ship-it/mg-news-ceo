@@ -1,8 +1,16 @@
 {
-  "updatedAt": "2026-10-20T14:07:43.617Z",
-  "headline": "양평군, 보조금 계좌 새마을금고 -신협으로 확대 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-10-20T18:56:51.959Z",
+  "headline": "포탄보다 무서운 금리 청구서…글로벌 부호들 싱가포르 금고로 숨었다 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "포탄보다 무서운 금리 청구서…글로벌 부호들 싱가포르 금고로 숨었다",
+        "link": "https://www.g-enews.com/view.php?ud=202610201659479359fbbec65dfb_1",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 21 Oct 2026 03:26:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "양평군, 보조금 계좌 새마을금고 -신협으로 확대",
         "link": "https://www.cnbnews.com/news/articleView.html?idxno=1020198",
@@ -36,14 +44,6 @@
         "term": null
       },
       {
-        "title": "'통합교육청 금고 운용' NH 농협 은행 단독 응모",
-        "link": "https://n.news.naver.com/mnews/article/660/0000119589?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 20 Oct 2026 21:27:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
         "title": "새마을금고 이사장 전횡 고발, 임동우 기자 ‘지역신문보도상’",
         "link": "https://n.news.naver.com/mnews/article/658/0000159008?sid=102",
         "source": "네이버뉴스",
@@ -62,34 +62,58 @@
     ],
     "otherFinance": [
       {
+        "title": "미국 금융 당국, 대형 은행 들 자의적 계좌 퇴출에 제동",
+        "link": "https://www.g-enews.com/view.php?ud=202610201652557372fbbec65dfb_1",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 21 Oct 2026 03:06:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "스테이블코인 분기 전송 8910억달러…73%는 은행 영업 끝난 뒤였다",
+        "link": "https://www.tokenpost.kr/news/cryptocurrency/425093",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 21 Oct 2026 02:04:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "IBK기업 은행 , 'i-ONE 모바일 신분증' 서비스 출시",
+        "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=44655",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 21 Oct 2026 02:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[ 금융 zip] 신한은행, 개방형 금융 콘텐츠 플랫폼 '솔깃' 오픈 外",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=884248",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 21 Oct 2026 01:52:00 +0900",
+        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "[ 금융 zip] 신한 은행 , 개방형 금융 콘텐츠 플랫폼 '솔깃' 오픈 外",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=884248",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 21 Oct 2026 01:52:00 +0900",
+        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "구글 클라우드 장애로 영국 은행 ·공공의료 사이트 차질(종합)",
+        "link": "https://n.news.naver.com/mnews/article/001/0016390064?sid=104",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 21 Oct 2026 01:26:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
         "title": "농협 , 무기질비료 가격 평균 5.1% 인하…농가 영농비 85억원 절감 전망",
         "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2341413",
         "source": "네이버뉴스",
         "pubDate": "Tue, 20 Oct 2026 23:04:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "에브리존 \"자카르타 은행 , 작년 이어 올해도 '화이트디펜더' 계약\"",
-        "link": "https://n.news.naver.com/mnews/article/092/0002441707?sid=105",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 20 Oct 2026 22:39:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "스테이블코인 시간당 4억달러 이동…이체 73%는 미국 은행 영업시간 밖",
-        "link": "https://www.tokenpost.kr/news/cryptocurrency/424953",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 20 Oct 2026 22:30:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "BNK경남 은행 , '맘프 2026' 기부금 전달",
-        "link": "http://www.gnmaeil.com/news/articleView.html?idxno=596966",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 20 Oct 2026 22:24:00 +0900",
         "summary": "",
         "term": null
       },
@@ -100,39 +124,34 @@
         "pubDate": "Tue, 20 Oct 2026 21:46:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "농협 경제지주, 충북 음성 멜론농가 찾아 농촌일손돕기 구슬땀",
-        "link": "https://www.fntimes.com/html/view.php?ud=202610202136011668dd55077bc2_18",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 20 Oct 2026 21:38:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "서안성 농협 , ‘중대재해 배상책임보험 현판식’ 개최… 안전경영 강화",
-        "link": "https://www.fntimes.com/html/view.php?ud=202610202131351767dd55077bc2_18",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 20 Oct 2026 21:34:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "농협 , ‘2026년 재난대응 안전한국훈련’ 실시",
-        "link": "https://www.fntimes.com/html/view.php?ud=202610202127168528dd55077bc2_18",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 20 Oct 2026 21:30:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "macro": [
       {
-        "title": "美 번스타인 \"중국 명품 경기 침체 오래 간다\"",
-        "link": "http://www.apparelnews.co.kr/news/news_view/?idx=228356",
+        "title": "제이피모건, 자체 예금 토큰 이더리움으로 확대",
+        "link": "https://www.khgames.co.kr/news/articleView.html?idxno=309498",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 20 Oct 2026 22:02:00 +0900",
-        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
+        "pubDate": "Wed, 21 Oct 2026 03:08:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+        }
+      },
+      {
+        "title": "국제 금값 하락…유가 급등에 美 금리 인상 우려 재부각",
+        "link": "https://www.g-enews.com/view.php?ud=2026102019413929479a1f309431_1",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 21 Oct 2026 02:00:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "내년 금리 오를 위험 주담대 563조… 영끌 대출자들 “잠이 안와요”",
+        "link": "https://n.news.naver.com/mnews/article/020/0003756397?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 21 Oct 2026 00:31:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       }
     ]
