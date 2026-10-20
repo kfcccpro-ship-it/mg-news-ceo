@@ -1,80 +1,113 @@
 {
-  "updatedAt": "2026-10-20T00:06:53.014Z",
-  "headline": "\"개인 금융 비서 시대 연다\"…NH 농협 은행, '대고객 AI 에이전트' 자체 구... 등 타 금융권 동향을 비교해볼 필요가 있습니다.",
+  "updatedAt": "2026-10-20T08:13:30.728Z",
+  "headline": "양평군, 지방보조금 전용계좌 ' 새마을금고 ·신협'으로 전격 확대 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
-    "mg": [],
+    "mg": [
+      {
+        "title": "양평군, 지방보조금 전용계좌 ' 새마을금고 ·신협'으로 전격 확대",
+        "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=395765",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 20 Oct 2026 17:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "양평군, 지방보조금 전용계좌 '새마을금고·신협'으로 전격 확대",
+        "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=395765",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 20 Oct 2026 17:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "양평군 지방보조금 계좌, 농협에서 새마을금고 ·신협까지 확대",
+        "link": "https://www.wikitree.co.kr/articles/1167689",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 20 Oct 2026 16:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "서김해 새마을금고 , '내외동민 해반천 걷기대회' 후원금 기탁",
+        "link": "https://www.newsgn.com/news/articleView.html?idxno=580260",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 20 Oct 2026 14:44:00 +0900",
+        "summary": "",
+        "term": null
+      }
+    ],
     "otherFinance": [
       {
-        "title": "\"개인 금융 비서 시대 연다\"…NH 농협 은행, '대고객 AI 에이전트' 자체 구...",
-        "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=91237",
+        "title": "[ 금융 픽] BNK경남은행, '맘프 2026' 성공 개최 위해 기부금 3000만원 기탁...",
+        "link": "http://www.newsian.co.kr/news/articleView.html?idxno=97368",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 20 Oct 2026 09:06:00 +0900",
+        "pubDate": "Tue, 20 Oct 2026 17:12:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "롯데카드, 자동차 할부 금융 자산 기반 1670억 원 ABCP 발행",
-        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=266972",
+        "title": "BNK부산 은행 , '부산불꽃축제' 고객 초청 이벤트…총 40명 추첨",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=90681",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 20 Oct 2026 09:06:00 +0900",
+        "pubDate": "Tue, 20 Oct 2026 17:12:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "“코인으로 계산할게요”…비자·마스터카드도 움직인다",
-        "link": "https://n.news.naver.com/mnews/article/009/0005750988?sid=101",
+        "title": "[ 금융 픽] BNK경남 은행 , '맘프 2026' 성공 개최 위해 기부금 3000만원 기탁...",
+        "link": "http://www.newsian.co.kr/news/articleView.html?idxno=97368",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 20 Oct 2026 09:04:00 +0900",
+        "pubDate": "Tue, 20 Oct 2026 17:12:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "4대 은행 , 반도체 협력사 금융 지원 본격화…하나·우리銀 각 7500억원",
-        "link": "https://www.ajunews.com/view/20261020085720398",
+        "title": "BNK경남 은행 , 'MAMF 2026'에 3000만원 기탁...15년째 후원 이어가",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=367725",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 20 Oct 2026 09:04:00 +0900",
+        "pubDate": "Tue, 20 Oct 2026 17:12:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "우리 은행 , SK하이닉스 협력사에 7500억원 금융 지원",
-        "link": "https://n.news.naver.com/mnews/article/123/0002392177?sid=101",
+        "title": "롯데카드, 자동차 할부채권 기반 ABCP 1670억원 발행",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000101146",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 20 Oct 2026 09:04:00 +0900",
+        "pubDate": "Tue, 20 Oct 2026 17:11:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "김영우 BC카드 사장, '사람 살리는 금융 ' 캠페인 참여",
-        "link": "http://www.popcornnews.net/news/articleView.html?idxno=136535",
+        "title": "KB증권, 일회용 컵 줄이기 캠페인…500건 달성 시 1000만원 기부",
+        "link": "https://www.newspim.com/news/view/20261020001106",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 20 Oct 2026 09:04:00 +0900",
+        "pubDate": "Tue, 20 Oct 2026 17:11:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[그래픽] 동탄 ' 은행 밖 근저당' 역대 최대…삼성 사내대출 영향",
-        "link": "https://n.news.naver.com/mnews/article/003/0014264538?sid=102",
+        "title": "농협 은행, 자산배분 정교화 키맨도 AI…기업여신 적용 사례 보니",
+        "link": "https://n.news.naver.com/mnews/article/293/0000091867?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 20 Oct 2026 09:03:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "pubDate": "Tue, 20 Oct 2026 17:10:00 +0900",
+        "summary": "",
         "term": null
       },
       {
-        "title": "[국감 2026] 신한 차기 은행장 연임 기준 '실적'…하나·우리 '내부통제...",
-        "link": "https://news.dealsitetv.com/articles/177195",
+        "title": "신한은행 우리은행 外( 금융 레이더)",
+        "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3079365",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 20 Oct 2026 09:02:00 +0900",
+        "pubDate": "Tue, 20 Oct 2026 17:10:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "베트남 중앙銀 총재 \"신규 외 기존 대출도 금리 인하해야\"…금리 조정 ...",
-        "link": "https://www.insidevina.com/news/articleView.html?idxno=44296",
+        "title": "국채금리 뛰자 회사채 '껑충'…기업 채무 차환 부담 커져",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=120412",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 20 Oct 2026 09:04:00 +0900",
+        "pubDate": "Tue, 20 Oct 2026 17:08:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       }
