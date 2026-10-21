@@ -1,8 +1,24 @@
 {
-  "updatedAt": "2026-10-21T11:16:31.333Z",
-  "headline": "서부 새마을금고 , 두류공원서 이웃사랑 실천…취약계층 1천명에 따뜻한 ... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-10-21T16:42:33.589Z",
+  "headline": "춘천남부 새마을금고 문화센터 탐방 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "춘천남부 새마을금고 문화센터 탐방",
+        "link": "https://n.news.naver.com/mnews/article/654/0000206784?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 22 Oct 2026 00:07:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "정읍 연지 새마을금고 '제1회 효잔치' 성황",
+        "link": "http://www.jeonmin.co.kr/news/articleView.html?idxno=449023",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 21 Oct 2026 22:44:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "서부 새마을금고 , 두류공원서 이웃사랑 실천…취약계층 1천명에 따뜻한 ...",
         "link": "https://www.ksmnews.co.kr/news/view.php?idx=626529",
@@ -18,82 +34,105 @@
         "pubDate": "Wed, 21 Oct 2026 19:20:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "진주동부 새마을금고 지역 어르신에 나눔 실천",
-        "link": "http://www.gndomin.com/news/articleView.html?idxno=493578",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 21 Oct 2026 18:10:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "대출 신청부터 심사까지 빨라진다…KB국민 은행 , 비대면 가계대출 신청 ...",
-        "link": "https://www.swtvnews.com/news/newsview.php?ncode=1065609954346002",
+        "title": "IBK저축 은행 , 김학필 신임 부사장 선임",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=874954",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 21 Oct 2026 20:10:00 +0900",
+        "pubDate": "Thu, 22 Oct 2026 00:54:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "한국 은행 , 3연속 기준금리 인상?...오늘 오전 결정",
+        "link": "https://n.news.naver.com/mnews/article/052/0002421948?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 22 Oct 2026 00:32:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+        }
+      },
+      {
+        "title": "하나 금융 , 신종자본증권 수요 뜨거웠다…'모집액 1.9배 달성'",
+        "link": "https://www.ppss.kr/news/articleView.html?idxno=316679",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 22 Oct 2026 00:26:00 +0900",
+        "summary": "",
         "term": null
       },
       {
-        "title": "KB국민 은행 , 가계대출 심사 클라우드 전환",
-        "link": "https://www.koreareport.co.kr/news/articleView.html?idxno=53846",
+        "title": "안전보건공단· 농협 은행, 감정노동자 인권 보호 맞손",
+        "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=87971",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 21 Oct 2026 19:56:00 +0900",
+        "pubDate": "Thu, 22 Oct 2026 00:08:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "산림조합 상호금융 141곳 중 90% 이상 적자…반기 순손실 370억원",
+        "link": "https://www.youngnong.co.kr/news/articleView.html?idxno=71264",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 21 Oct 2026 23:28:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "산림조합 상호 금융 141곳 중 90% 이상 적자…반기 순손실 370억원",
+        "link": "https://www.youngnong.co.kr/news/articleView.html?idxno=71264",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 21 Oct 2026 23:28:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[ 금융 HOT 뉴스] 은행 앱으로 모바일 신분증 발급…신한·하나·기업은행...",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=149583",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 21 Oct 2026 22:32:00 +0900",
+        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "중소기업 돈줄 줄인 우리은행…대기업 대출은 8.8조 늘었다",
+        "link": "https://www.hinews.co.kr/view.php?ud=202610212220328642cd8b879b3c_48",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 21 Oct 2026 22:24:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "핀다, 대원저축 은행 인수 승인…핀테크 첫 저축 은행 진출",
-        "link": "http://www.paxetv.com/news/articleView.html?idxno=284818",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 21 Oct 2026 19:54:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "중진공, 전북 K-푸드 공급망 강화 위해 ㈜하림산업·신한 은행 ·하나 은행 ...",
-        "link": "https://sjbnews.com/news/news.php?number=890451",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 21 Oct 2026 19:50:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "신한 은행 , 외국인 환자 의료비 결제 실증 완료…스테이블코인 결제·원...",
-        "link": "https://www.swtvnews.com/news/newsview.php?ncode=1065609477659976",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 21 Oct 2026 19:50:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "달러-대만달러, 낙폭 확대…중앙 은행 시장 안정의지 확인(상보)",
-        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440428",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 21 Oct 2026 19:48:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "한국투자증권, ELW 224종목 신규 상장 外",
-        "link": "https://www.rcast.co.kr/news/articleView.html?idxno=31863",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 21 Oct 2026 19:48:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "NH 농협 은행, 외국계 코레스은행 초청 '2026 NH 코레스데이' 개최",
-        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=303153",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 21 Oct 2026 19:44:00 +0900",
-        "summary": "",
         "term": null
       }
     ],
-    "macro": []
+    "macro": [
+      {
+        "title": "오늘 한은 금통위 기준금리 결정…‘동결’ 전망 우세",
+        "link": "https://n.news.naver.com/mnews/article/056/0012278442?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 22 Oct 2026 01:00:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+        }
+      },
+      {
+        "title": "7대 그룹 계열사 사내 주택 대출 3년여 만에 2배, 6370억원 달해",
+        "link": "https://n.news.naver.com/mnews/article/023/0004005187?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 22 Oct 2026 00:33:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "성장-환율보다 물가… 취임 6개월 한은 신현송의 무게 추",
+        "link": "https://n.news.naver.com/mnews/article/020/0003756709?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 22 Oct 2026 00:32:00 +0900",
+        "summary": "",
+        "term": null
+      }
+    ]
   }
 }
