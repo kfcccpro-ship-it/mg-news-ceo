@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T16:43:14.021Z",
+  "updatedAt": "2026-10-22T21:14:30.387Z",
   "headline": "홍천 새마을금고 후원금 기탁 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -34,22 +34,22 @@
         "pubDate": "Thu, 22 Oct 2026 21:42:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "일산 새마을금고 , 소화기·보관함 나눔",
-        "link": "http://www.ujeil.com/news/articleView.html?idxno=393948",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 22 Oct 2026 20:24:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "송옥주 의원 \"농협법 개정 통해 상호금융 부실 해소해야\"",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3730144",
+        "title": "금융 권 다음 '맏형'은 누구… 은행 연합회 차기회장 선임 3대 관전포인트",
+        "link": "https://n.news.naver.com/mnews/article/018/0006394291?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 23 Oct 2026 01:32:00 +0900",
+        "pubDate": "Fri, 23 Oct 2026 06:10:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "8월 은행 권 연체율 0.69%…당월 기준 10년래 '최고'",
+        "link": "https://www.asiatime.co.kr/article/20261022500371",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 23 Oct 2026 06:02:00 +0900",
         "summary": "",
         "term": {
           "word": "Delinquency",
@@ -57,54 +57,66 @@
         }
       },
       {
-        "title": "송옥주 의원 \" 농협 법 개정 통해 상호 금융 부실 해소해야\"",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3730144",
+        "title": "은행 연체율 0.7% 육박…중소기업 대출 연체율 1% 돌파",
+        "link": "https://n.news.naver.com/mnews/article/018/0006394284?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 23 Oct 2026 01:32:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
-      },
-      {
-        "title": "'포용 금융 ' 실천 정진완 우리 은행 장, 소상공인과 문화예술로 소통",
-        "link": "http://www.00news.co.kr/news/articleView.html?idxno=107390",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 23 Oct 2026 01:10:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[AI시대 강원경제 대도약]“농업인 든든한 버팀목 이웃같은 농협 거듭나...",
-        "link": "https://n.news.naver.com/mnews/article/087/0001225763?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 23 Oct 2026 00:04:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "울산 농협 , 농축협 상호 금융 마케팅협의회",
-        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1070345",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 23 Oct 2026 00:02:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "NH 농협 생명, 인천 강화서 농촌일손돕기…전략영업부문 참여",
-        "link": "http://www.sisacast.kr/news/articleView.html?idxno=101240",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 22 Oct 2026 22:30:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[국감] 저축은행 '폐업자 대출' 연체율 56%…국감서 경영부실·소비자 보...",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497757",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 22 Oct 2026 20:40:00 +0900",
+        "pubDate": "Fri, 23 Oct 2026 06:02:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "8월 은행 연체율 0.69%로 두 달째 상승…중소기업 대출 1%대",
+        "link": "https://n.news.naver.com/mnews/article/119/0003145976?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 23 Oct 2026 06:02:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "은행 연체율 0.69%로 2개월째 상승…중소기업 다시 1%대",
+        "link": "https://www.newsway.co.kr/news/view?ud=2026102215332961710",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 23 Oct 2026 06:02:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "은행 대출 연체율 10년 만에 최고⋯기업대출이 상승 주도",
+        "link": "https://www.etoday.co.kr/news/view/2638959",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 23 Oct 2026 06:02:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "은행 8월 말 대출 연체율 0.69%…10년來 최고",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440718",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 23 Oct 2026 06:02:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "8월 은행 연체율 0.69% … 기업·가계 연체부담 확대",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/10/22/2026102200346.html",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 23 Oct 2026 06:02:00 +0900",
+        "summary": "",
         "term": {
           "word": "Delinquency",
           "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
@@ -113,34 +125,31 @@
     ],
     "macro": [
       {
-        "title": "국고채 금리 혼조 마감…3년물 상승·10년물 하락",
-        "link": "http://www.kjdaily.com/article.php?aid=1792683639690046276",
+        "title": "대출 중개 플랫폼 '핀다', AI뱅크로 대변신 나서...JB 금융 등에 업고 은...",
+        "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=766441",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 23 Oct 2026 00:42:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "pubDate": "Fri, 23 Oct 2026 06:10:00 +0900",
+        "summary": "",
         "term": null
       },
       {
-        "title": "금통위, 기준금리 年3%로 동결",
-        "link": "https://n.news.naver.com/mnews/article/023/0004005447?sid=101",
+        "title": "[사이버 위협] 예금주 비번 쥐고 계좌 침투…월가 흔든 '로그(Rogue) AI 봇...",
+        "link": "https://www.the-today.com/news/articleView.html?idxno=92235",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 23 Oct 2026 00:33:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "pubDate": "Fri, 23 Oct 2026 06:04:00 +0900",
+        "summary": "",
         "term": {
-          "word": "Forward Guidance",
-          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+          "word": "Deposit Beta",
+          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
         }
       },
       {
-        "title": "금리동결… 신현송 “긴축 이어갈것” 11월 인상 무게",
-        "link": "https://n.news.naver.com/mnews/article/020/0003757018?sid=101",
+        "title": "韓銀, 금리 ‘매파적 동결’… 11월 인상 재개할 듯",
+        "link": "https://n.news.naver.com/mnews/article/022/0004169032?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 23 Oct 2026 00:31:00 +0900",
+        "pubDate": "Fri, 23 Oct 2026 06:03:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Terminal Rate",
-          "meaning": "기준금리 인상 사이클의 최종 수준에 대한 시장 기대"
-        }
+        "term": null
       }
     ]
   }
