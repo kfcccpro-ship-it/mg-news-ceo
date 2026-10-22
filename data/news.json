@@ -1,115 +1,146 @@
 {
-  "updatedAt": "2026-10-22T11:15:06.283Z",
-  "headline": "[포토뉴스] 북춘천 새마을금고 세대공감 나눔릴레이 캠페인 참여 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-10-22T16:43:14.021Z",
+  "headline": "홍천 새마을금고 후원금 기탁 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
-        "title": "[포토뉴스] 북춘천 새마을금고 세대공감 나눔릴레이 캠페인 참여",
-        "link": "https://n.news.naver.com/mnews/article/087/0001225698?sid=102",
+        "title": "홍천 새마을금고 후원금 기탁",
+        "link": "https://n.news.naver.com/mnews/article/654/0000207023?sid=102",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 22 Oct 2026 18:38:00 +0900",
+        "pubDate": "Fri, 23 Oct 2026 00:08:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "\" 새마을금고 해킹, 뒤늦게 신고\"…'이중 감독체계' 도마 위",
-        "link": "https://n.news.naver.com/mnews/article/421/0009245048?sid=101",
+        "title": "[포토뉴스]홍천 새마을금고 김장 나눔 사업 후원",
+        "link": "https://n.news.naver.com/mnews/article/087/0001225818?sid=102",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 22 Oct 2026 17:38:00 +0900",
+        "pubDate": "Fri, 23 Oct 2026 00:08:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "천안서부 새마을금고 , 회원 초청 가을 문화여행",
-        "link": "https://n.news.naver.com/mnews/article/656/0000190320?sid=102",
+        "title": "일산 새마을금고 '사랑의 소화기' 전달",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1070349",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 22 Oct 2026 16:35:00 +0900",
+        "pubDate": "Fri, 23 Oct 2026 00:02:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "울산 동구 일산 새마을금고 , 소화기 전달",
+        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=585249",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 22 Oct 2026 21:42:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "일산 새마을금고 , 소화기·보관함 나눔",
+        "link": "http://www.ujeil.com/news/articleView.html?idxno=393948",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 22 Oct 2026 20:24:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "증권사, 상반기 실적 잔치 끝났다...3분기 순익 급감·4분기 방어 시험대",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497733",
+        "title": "송옥주 의원 \"농협법 개정 통해 상호금융 부실 해소해야\"",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3730144",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 22 Oct 2026 20:14:00 +0900",
+        "pubDate": "Fri, 23 Oct 2026 01:32:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "송옥주 의원 \" 농협 법 개정 통해 상호 금융 부실 해소해야\"",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3730144",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 23 Oct 2026 01:32:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "'포용 금융 ' 실천 정진완 우리 은행 장, 소상공인과 문화예술로 소통",
+        "link": "http://www.00news.co.kr/news/articleView.html?idxno=107390",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 23 Oct 2026 01:10:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "경북도, 2차 공공기관 이전 '10대 유치기관' 선정… 농협 ·마사회 '정조준",
-        "link": "https://www.ksmnews.co.kr/news/view.php?idx=626622",
+        "title": "[AI시대 강원경제 대도약]“농업인 든든한 버팀목 이웃같은 농협 거듭나...",
+        "link": "https://n.news.naver.com/mnews/article/087/0001225763?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 22 Oct 2026 20:12:00 +0900",
+        "pubDate": "Fri, 23 Oct 2026 00:04:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "농협 경제지주, 과채류 소비 촉진과 가격 안정 나서",
-        "link": "https://www.fntimes.com/html/view.php?ud=202610222002205439dd55077bc2_18",
+        "title": "울산 농협 , 농축협 상호 금융 마케팅협의회",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1070345",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 22 Oct 2026 20:08:00 +0900",
+        "pubDate": "Fri, 23 Oct 2026 00:02:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "베센트 재무장관, 지니어스법을 1863년 국립 은행 통화법에 비유",
-        "link": "https://www.tokenpost.kr/news/policy/425903",
+        "title": "NH 농협 생명, 인천 강화서 농촌일손돕기…전략영업부문 참여",
+        "link": "http://www.sisacast.kr/news/articleView.html?idxno=101240",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 22 Oct 2026 20:08:00 +0900",
+        "pubDate": "Thu, 22 Oct 2026 22:30:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "“블록체인이 은행 대체하지 않아…전통 금융 과 융합이 핵심”",
-        "link": "https://n.news.naver.com/mnews/article/016/0002713176?sid=101",
+        "title": "[국감] 저축은행 '폐업자 대출' 연체율 56%…국감서 경영부실·소비자 보...",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497757",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 22 Oct 2026 20:01:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "“블록체인이 은행 대체하지 않아…전통 금융 과 융합이 핵심” [크립토...",
-        "link": "https://n.news.naver.com/mnews/article/016/0002713177?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 22 Oct 2026 20:01:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "경기 농협 ·경기도, 고향사랑기부제 홍보 캠페인 실시",
-        "link": "https://www.fntimes.com/html/view.php?ud=202610221907448103dd55077bc2_18",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 22 Oct 2026 19:52:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "대구 다사 농협 , NH 농협 손보 '탑 클래스' 선정",
-        "link": "https://www.hidomin.com/news/articleView.html?idxno=726167",
-        "source": "네이버뉴스",
-        "pubDate": "Thu, 22 Oct 2026 19:18:00 +0900",
-        "summary": "",
-        "term": null
+        "pubDate": "Thu, 22 Oct 2026 20:40:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
       }
     ],
     "macro": [
       {
-        "title": "\"현금 부자만 집 사나\"…금융위·금감원 종합국감서 대출 규제 집중포화...",
-        "link": "https://www.newsway.co.kr/news/view?ud=2026102217173377110",
+        "title": "국고채 금리 혼조 마감…3년물 상승·10년물 하락",
+        "link": "http://www.kjdaily.com/article.php?aid=1792683639690046276",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 22 Oct 2026 17:36:00 +0900",
-        "summary": "",
+        "pubDate": "Fri, 23 Oct 2026 00:42:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "(PF 구조조정의 그늘)①옥석 가리기가 '지방 고사'로…선별 지원 시급",
-        "link": "http://www.newstomato.com/ReadNews.aspx?no=1317717&inflow=N",
+        "title": "금통위, 기준금리 年3%로 동결",
+        "link": "https://n.news.naver.com/mnews/article/023/0004005447?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Thu, 22 Oct 2026 17:00:00 +0900",
-        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
-        "term": null
+        "pubDate": "Fri, 23 Oct 2026 00:33:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+        }
+      },
+      {
+        "title": "금리동결… 신현송 “긴축 이어갈것” 11월 인상 무게",
+        "link": "https://n.news.naver.com/mnews/article/020/0003757018?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 23 Oct 2026 00:31:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Terminal Rate",
+          "meaning": "기준금리 인상 사이클의 최종 수준에 대한 시장 기대"
+        }
       }
     ]
   }
