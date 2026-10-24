@@ -1,18 +1,26 @@
 {
-  "updatedAt": "2026-10-24T03:31:38.292Z",
-  "headline": "새마을금고 , 누적 적자 3.6조 ‘눈덩이’…292곳 구조조정 압박 [2026년 ... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-10-24T10:23:21.950Z",
+  "headline": "전남광주통합특별시 금고, 26일 선정… 농협 ·광주은행 '초박빙' 승부 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
-        "title": "새마을금고 , 누적 적자 3.6조 ‘눈덩이’…292곳 구조조정 압박 [2026년 ...",
-        "link": "https://n.news.naver.com/mnews/article/123/0002392509?sid=101",
+        "title": "전남광주통합특별시 금고, 26일 선정… 농협 ·광주은행 '초박빙' 승부",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=875917",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 24 Oct 2026 10:57:00 +0900",
+        "pubDate": "Sat, 24 Oct 2026 17:40:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "새마을금고, 누적 적자 3.6조 ‘눈덩이’…292곳 구조조정 압박 [2026년 ...",
+        "title": "전남광주통합특별시 금고, 26일 선정…농협·광주 은행 '초박빙' 승부",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=875917",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 24 Oct 2026 17:40:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "새마을금고 , 누적 적자 3.6조 ‘눈덩이’…292곳 구조조정 압박 [2026년 ...",
         "link": "https://n.news.naver.com/mnews/article/123/0002392509?sid=101",
         "source": "네이버뉴스",
         "pubDate": "Sat, 24 Oct 2026 10:57:00 +0900",
@@ -60,15 +68,47 @@
     ],
     "otherFinance": [
       {
-        "title": "5대 은행 임직원 235명 '6억 이상 주택대출'…은행권 \"특혜 없었다\"",
-        "link": "http://www.economytalk.kr/news/articleView.html?idxno=424856",
+        "title": "우리 은행 , 사회연대경제기업 10곳 지원...전체 고용 6명, 취약계층 고용...",
+        "link": "https://www.lifein.news/news/articleView.html?idxno=20505",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 24 Oct 2026 12:04:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "pubDate": "Sat, 24 Oct 2026 18:46:00 +0900",
+        "summary": "",
         "term": null
       },
       {
-        "title": "5대 은행 임직원 235명 '6억 이상 주택대출'… 은행 권 \"특혜 없었다\"",
+        "title": "전북 은행 ·핀다, 대원저축 은행 공동 인수…지역 금융 역할 강화",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=875911",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 24 Oct 2026 17:20:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "성주군· 농협 , 농촌 일손 부족 해소·농산물 판로 확대 '맞손'",
+        "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4088285",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 24 Oct 2026 17:10:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[금상소] 지갑 속 신분증, 이제 은행 앱으로⋯발급부터 이용까지",
+        "link": "https://www.etoday.co.kr/news/view/2639417",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 24 Oct 2026 17:00:00 +0900",
+        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "\"조합원 권익 보호 최우선\"…강원 농협 노조 강창묵 신임 위원장 취임",
+        "link": "https://n.news.naver.com/mnews/article/421/0009247501?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 24 Oct 2026 12:56:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "5대 은행 임직원 235명 '6억 이상 주택대출'…은행권 \"특혜 없었다\"",
         "link": "http://www.economytalk.kr/news/articleView.html?idxno=424856",
         "source": "네이버뉴스",
         "pubDate": "Sat, 24 Oct 2026 12:04:00 +0900",
@@ -90,47 +130,15 @@
         "pubDate": "Sat, 24 Oct 2026 11:56:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "5대 은행 4년 새 직원 3000명 감소…정규직 줄고 비정규직 늘었다",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498101",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 24 Oct 2026 10:00:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "\"지능화 금융 사기 대응\" NH 농협 생명, 이상거래탐지시스템 도입",
-        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=267629",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 24 Oct 2026 10:00:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[ 금융 픽] 부산은행, 김미영 전 금감원 부원장 초청 금융 소비자보호 특강...",
-        "link": "http://www.newsian.co.kr/news/articleView.html?idxno=97599",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 24 Oct 2026 09:28:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "NH 농협 생명, 이상거래탐지시스템 도입…비대면 금융 사기 차단",
-        "link": "https://www.ajunews.com/view/20261023124010903",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 24 Oct 2026 09:02:00 +0900",
-        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
-        "term": null
       }
     ],
     "macro": [
       {
-        "title": "금융 연구원 \"물가상승, 수요 측 압력 커져…고금리 길어진다\"",
-        "link": "https://www.jasm.co.kr/news/view/322786/?sc=Naver",
+        "title": "“1천만원 대출 성공” vs. “3천만원 대출 부결” 같은 플랫폼인데 다...",
+        "link": "https://n.news.naver.com/mnews/article/016/0002713847?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 24 Oct 2026 12:08:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "pubDate": "Sat, 24 Oct 2026 17:52:00 +0900",
+        "summary": "",
         "term": null
       }
     ]
