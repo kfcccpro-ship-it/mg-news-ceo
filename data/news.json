@@ -1,21 +1,53 @@
 {
-  "updatedAt": "2026-10-24T22:55:20.444Z",
-  "headline": "[2026 국감] 새마을금고 '누적 순손실 3조6000억'…292곳 적기시정조치 ... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-10-25T03:28:08.338Z",
+  "headline": "농협 중앙회, 생성형 AI 데이터 조회 기술 5건 특허 출원 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "농협 중앙회, 생성형 AI 데이터 조회 기술 5건 특허 출원",
+        "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1104821",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 25 Oct 2026 12:02:00 +0900",
+        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "“이사장 당선 도우려 돈 건넸는데”… 새마을금고 임원들은 유죄, 당선...",
+        "link": "https://n.news.naver.com/mnews/article/021/0002827575?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 25 Oct 2026 10:07:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "새마을금고 선거서 오간 '검은돈'…유무죄 갈린 이유는?",
+        "link": "https://n.news.naver.com/mnews/article/003/0014276118?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 25 Oct 2026 09:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "새마을금고 이사장 선거 앞 대의원에 현금 건넨 감사 집행유예",
+        "link": "https://n.news.naver.com/mnews/article/421/0009247961?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 25 Oct 2026 09:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "새마을금고 이사장 선거 앞두고 대의원에 금품…감사 집행유예",
+        "link": "https://n.news.naver.com/mnews/article/001/0016398551?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 25 Oct 2026 09:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "[2026 국감] 새마을금고 '누적 순손실 3조6000억'…292곳 적기시정조치 ...",
         "link": "https://www.bzeronews.com/news/articleView.html?idxno=824303",
         "source": "네이버뉴스",
         "pubDate": "Sun, 25 Oct 2026 07:26:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "농협 은행 연승이냐 광주은행 설욕이냐, 전남광주통합시 25조 금고 경쟁 ...",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=450061",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 25 Oct 2026 06:02:00 +0900",
         "summary": "",
         "term": null
       },
@@ -37,70 +69,38 @@
           "word": "Delinquency",
           "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
         }
-      },
-      {
-        "title": "3조6000억 적자 쌓인 새마을금고 …누가 책임지고 있나",
-        "link": "https://www.ppss.kr/news/articleView.html?idxno=317126",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 23 Oct 2026 17:44:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "인천 미추홀구 숭의2동, 숭의 새마을금고 ·남원골 추어탕과 지역사회 나...",
-        "link": "https://www.kmaeil.com/news/articleView.html?idxno=655603",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 23 Oct 2026 17:30:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "AI 해킹과 PHP 취약점에 맞서는 은행들의 1천억 보안 예산 확대 계획",
-        "link": "https://www.gokorea.kr/news/articleView.html?idxno=882618",
+        "title": "전북 은행 ·핀다, 대원저축 은행 공동인수…AI 금융 서비스 강화",
+        "link": "http://www.jeollailbo.com/news/articleView.html?idxno=814654",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 25 Oct 2026 07:42:00 +0900",
+        "pubDate": "Sun, 25 Oct 2026 12:24:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "AI 해킹과 PHP 취약점에 맞서는 은행 들의 1천억 보안 예산 확대 계획",
-        "link": "https://www.gokorea.kr/news/articleView.html?idxno=882618",
+        "title": "산업 은행 ·기업 은행 , KOFR 기반 기업대출 상품 신규 출시",
+        "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=766710",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 25 Oct 2026 07:42:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "일본 은행 , AI 투자 거품· 금융 시장 충격 경고…“기대 꺾이면 금융 권으...",
-        "link": "https://www.geconomy.co.kr/news/article.html?no=324792",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 25 Oct 2026 07:04:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "24개월 최고 연 7.00%…케이뱅크 '마이키즈 적금' [이주의 은행 적금금리...",
-        "link": "https://www.fntimes.com/html/view.php?ud=2026102311043896625e6e69892f_18",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 25 Oct 2026 06:02:00 +0900",
+        "pubDate": "Sun, 25 Oct 2026 12:06:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "'너도나도 1천억' 은행 보안투자 경쟁…PHP 대응도 비상",
-        "link": "https://n.news.naver.com/mnews/article/001/0016398361?sid=101",
+        "title": "IBK기업 은행 , 국내 첫 5천억 규모 'KOFR 대출' 출시..中企 지원",
+        "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=172530",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 25 Oct 2026 05:55:00 +0900",
-        "summary": "",
+        "pubDate": "Sun, 25 Oct 2026 12:04:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "가계대출 다시 들썩, 5대은행 이달 2.6조↑…은행 예금 11조↑",
-        "link": "https://n.news.naver.com/mnews/article/001/0016398357?sid=101",
+        "title": "한은 “프로젝트 한강 ‘예금토큰’이 신용카드 중심 한국 결제시장 바...",
+        "link": "https://n.news.naver.com/mnews/article/016/0002713974?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 25 Oct 2026 05:49:00 +0900",
+        "pubDate": "Sun, 25 Oct 2026 12:04:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": {
           "word": "Deposit Beta",
@@ -108,93 +108,81 @@
         }
       },
       {
-        "title": "은행연합회장 인선 내달 초 시동…'KB 견제론·관료 출신' 변수",
-        "link": "https://n.news.naver.com/mnews/article/421/0009247819?sid=101",
+        "title": "산업 은행 , 5000억 규모 'KOFR 단기한도 대출' 선봬",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/10/23/2026102300339.html",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 25 Oct 2026 05:00:00 +0900",
+        "pubDate": "Sun, 25 Oct 2026 12:02:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "5대 은행 가계대출 이달 2조6천억원 증가",
+        "link": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005946458",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 25 Oct 2026 11:46:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "은행 보안예산 '1000억 시대'···지난해 편성액 3분의 1 못 썼다",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=640908",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 25 Oct 2026 11:06:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "농협 은행, 지역 초등학생 '맞춤형 IT 코딩 교육·견학' 진행",
-        "link": "http://www.bizwnews.com/news/articleView.html?idxno=149732",
+        "title": "제주 농협 , 지속가능한 성장기반 마련 다짐",
+        "link": "https://www.jejumaeil.net/news/articleView.html?idxno=405919",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 24 Oct 2026 23:34:00 +0900",
+        "pubDate": "Sun, 25 Oct 2026 10:54:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "뉴욕증시, FOMC·물가지표·빅테크 실적에 촉각...‘슈퍼 위크’ 변동성...",
-        "link": "https://www.m-economynews.com/news/article.html?no=72072",
+        "title": "가을 이사철에 대전·세종·충남 가계대출 상승세... 단, 연체율 증가에...",
+        "link": "https://www.joongdo.co.kr/web/view.php?key=20261025010007045",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 25 Oct 2026 07:54:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Forward Guidance",
-          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
-        }
-      },
-      {
-        "title": "\"수도권 집값 상승에 가계대출 급증, 주식 하락에 예금 인기\"",
-        "link": "https://www.gokorea.kr/news/articleView.html?idxno=882620",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 25 Oct 2026 07:42:00 +0900",
+        "pubDate": "Sun, 25 Oct 2026 12:26:00 +0900",
         "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
         "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
         }
       },
       {
-        "title": "AI 기업 실적 발표와 연준 금리 동결 가능성, 투자자들의 이목 집중",
-        "link": "https://www.gokorea.kr/news/articleView.html?idxno=882606",
+        "title": "산은, 국내 첫 KOFR 기반 대출 출시…5000억원 규모",
+        "link": "https://n.news.naver.com/mnews/article/277/0005833062?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 25 Oct 2026 07:40:00 +0900",
+        "pubDate": "Sun, 25 Oct 2026 12:05:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "산은, KOFR 기반 대출상품 출시…무위험 지표금리 체계 조성",
+        "link": "https://n.news.naver.com/mnews/article/119/0003146710?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 25 Oct 2026 12:03:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Forward Guidance",
-          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
-        }
-      },
-      {
-        "title": "10월 수출 105% 급증…반도체 호황에 한국 경제 성장률 기대 커진다",
-        "link": "https://www.geconomy.co.kr/news/article.html?no=324793",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 25 Oct 2026 07:08:00 +0900",
-        "summary": "",
         "term": null
       },
       {
-        "title": "외국인 40조 팔아도 원화 '나홀로 강세'…환율 내년 1250원 전망까지",
-        "link": "https://n.news.naver.com/mnews/article/421/0009247888?sid=101",
+        "title": "가계대출, 한 달만에 다시 증가 전환…이달 2.6조원↑",
+        "link": "https://n.news.naver.com/mnews/article/079/0004202401?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 25 Oct 2026 07:05:00 +0900",
-        "summary": "",
+        "pubDate": "Sun, 25 Oct 2026 11:57:00 +0900",
+        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
         "term": null
       },
       {
-        "title": "[뉴욕증시-주간전망] 운명의 한 주…FOMC·물가·AI 실적 '3중 시험대'",
-        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440960",
+        "title": "금감원 제재 전 금융 위와 사전조율…'홍콩 ELS'식 엇박자 막는다",
+        "link": "https://n.news.naver.com/mnews/article/018/0006395687?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 25 Oct 2026 07:02:00 +0900",
+        "pubDate": "Sun, 25 Oct 2026 11:04:00 +0900",
         "summary": "",
-        "term": {
-          "word": "Forward Guidance",
-          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
-        }
-      },
-      {
-        "title": "1320원대로 내려온 환율, FOMC·고유가에 하락세 꺾이나[주간외환전망]",
-        "link": "https://n.news.naver.com/mnews/article/018/0006395592?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 25 Oct 2026 07:02:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Forward Guidance",
-          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
-        }
+        "term": null
       }
     ]
   }
