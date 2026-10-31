@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T04:23:02.525Z",
+  "updatedAt": "2026-10-31T11:46:02.509Z",
   "headline": "자취 감추는 직장 금고 …풀뿌리 금융 역할론 '재점화' 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -22,111 +22,95 @@
     ],
     "otherFinance": [
       {
-        "title": "지갑 없이 병원·공항 간다…7대 은행 앱에 '모바일 신분증' 전격 탑재",
-        "link": "https://www.newsway.co.kr/news/view?ud=2026103011284565920",
+        "title": "시중은행 예대금리차 줄었는데 인터넷은행은 확대…엇갈린 '이자마진'",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=500259",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 31 Oct 2026 13:18:00 +0900",
-        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "\"회복탄력성은 기업 생존의 보험료\"…한·독 리더들, 제3국 공동 금융 진...",
-        "link": "https://n.news.naver.com/mnews/article/277/0005836140?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 31 Oct 2026 12:58:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "KB국민 은행 , 모바일 수어상담 도입 … 청각장애인 금융 접근성 높인다",
-        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=91261",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 31 Oct 2026 12:28:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "역대급 실적 거둔 정상혁 신한 은행 장 거취 주목…연임 가를 변수는",
-        "link": "http://www.economytalk.kr/news/articleView.html?idxno=425005",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 31 Oct 2026 12:04:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "백남기 농민 죽음 책임자를 농협 계열사 사회이사로?",
-        "link": "https://n.news.naver.com/mnews/article/047/0002534131?sid=102",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 31 Oct 2026 11:51:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "순익 내리막 농협 손보, '무심사' 화재보험 출시…내년 실적 변수 되나",
-        "link": "https://www.greened.kr/news/articleView.html?idxno=353550",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 31 Oct 2026 11:40:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "금리인상 속 엇갈린 예대차…5대 은행 내리고, 인뱅 올랐다",
-        "link": "https://www.mediapen.com/news/view/1134056",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 31 Oct 2026 10:08:00 +0900",
+        "pubDate": "Sat, 31 Oct 2026 20:24:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Terminal Rate",
-          "meaning": "기준금리 인상 사이클의 최종 수준에 대한 시장 기대"
-        }
-      },
-      {
-        "title": "[연금 승부⑤] 단기는 보험, 장기는 은행·증권…수익률 엇갈려",
-        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=901495",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 31 Oct 2026 10:00:00 +0900",
-        "summary": "",
-        "term": null
-      }
-    ],
-    "macro": [
-      {
-        "title": "국고채 넘어선 CP 금리…“경색 아닌 키맞추기”",
-        "link": "https://n.news.naver.com/mnews/article/018/0006400682?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 31 Oct 2026 13:03:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "환율 하락에 여행객은 ‘웃고’ 대출금리 상승에 차주는 ‘울고’",
-        "link": "https://www.yeongnam.com/web/view.php?key=20261031022247893",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 31 Oct 2026 12:02:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": {
           "word": "NIM",
           "meaning": "금리 변화가 금융기관 수익성에 미치는 영향을 보여주는 핵심 지표"
         }
       },
       {
-        "title": "AI·클라우드에 매출 늘어난 IT서비스 업계...수익성은 희비",
-        "link": "https://news.mtn.co.kr/article/2026103109350340590",
+        "title": "시중 은행 예대금리차 줄었는데 인터넷 은행 은 확대…엇갈린 '이자마진'",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=500259",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 31 Oct 2026 09:36:00 +0900",
+        "pubDate": "Sat, 31 Oct 2026 20:24:00 +0900",
+        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "NIM",
+          "meaning": "금리 변화가 금융기관 수익성에 미치는 영향을 보여주는 핵심 지표"
+        }
+      },
+      {
+        "title": "“영농형태양광 사업 안착하려면 농협 에도 참여 기회 부여해야”",
+        "link": "https://n.news.naver.com/mnews/article/662/0000107389?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 31 Oct 2026 20:06:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "금융사 부실 정리 3~4일로 단축…위기 확산 차단",
-        "link": "https://www.sentv.co.kr/article/view/sentv202610300130",
+        "title": "박병희 농협 생명 대표, 신계약 CSM 1조원 순항…손실계약비용 증가에 순...",
+        "link": "https://www.fntimes.com/html/view.php?ud=2026102815590736048a55064dd1_18",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 30 Oct 2026 19:00:00 +0900",
+        "pubDate": "Sat, 31 Oct 2026 19:08:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "해외 간편결제 경쟁 불붙었다…시중 은행 , 결제망 넓히기 총력",
+        "link": "https://www.ekn.kr/web/view.php?key=20261031028533449",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 31 Oct 2026 18:28:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "NH 농협 생명, 하남 화훼농가 일손 지원…영농기 인력 부족 대응",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=755583",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 31 Oct 2026 18:08:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "NH 농협 은행, 청약저축 가입 이벤트 실시…4000명 추첨 경품",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=755579",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 31 Oct 2026 18:08:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "NH농협 은행 , 청약저축 가입 이벤트 실시…4000명 추첨 경품",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=755579",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 31 Oct 2026 18:08:00 +0900",
+        "summary": "",
+        "term": null
+      }
+    ],
+    "macro": [
+      {
+        "title": "오픈AI, 투자유치 당초 목표 절반 미달…AI 업계 자금조달 문턱 높아져...",
+        "link": "https://n.news.naver.com/mnews/article/003/0014292221?sid=104",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 31 Oct 2026 19:52:00 +0900",
         "summary": "",
         "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+          "word": "LCR",
+          "meaning": "단기 유동성 충격 대응 능력을 보여주는 지표"
         }
+      },
+      {
+        "title": "이란 물가 90%↑·원유 선적 두 달째 '0'…美재무, 트럼프에 '더 조이자...",
+        "link": "https://n.news.naver.com/mnews/article/003/0014292189?sid=104",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 31 Oct 2026 18:21:00 +0900",
+        "summary": "",
+        "term": null
       }
     ]
   }
