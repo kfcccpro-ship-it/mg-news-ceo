@@ -1,19 +1,8 @@
 {
-  "updatedAt": "2026-10-30T21:58:21.868Z",
-  "headline": "농협 중앙회, 3분기 종합경영분석회의 … 연체율 부담 속 농축협 건전성... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-10-31T04:23:02.525Z",
+  "headline": "자취 감추는 직장 금고 …풀뿌리 금융 역할론 '재점화' 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
-      {
-        "title": "농협 중앙회, 3분기 종합경영분석회의 … 연체율 부담 속 농축협 건전성...",
-        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=91252",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 31 Oct 2026 02:14:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
-      },
       {
         "title": "자취 감추는 직장 금고 …풀뿌리 금융 역할론 '재점화'",
         "link": "https://n.news.naver.com/mnews/article/629/0000547460?sid=101",
@@ -29,110 +18,102 @@
         "pubDate": "Fri, 30 Oct 2026 19:34:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "새마을금고 재단, 전국 공동체 시설 80곳에 환경개선 물품 지원",
-        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2355892",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 30 Oct 2026 18:48:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "연 15% 이색 적금에 3.9% 특판까지… 은행들 예금 유치전",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092173187",
+        "title": "지갑 없이 병원·공항 간다…7대 은행 앱에 '모바일 신분증' 전격 탑재",
+        "link": "https://www.newsway.co.kr/news/view?ud=2026103011284565920",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 31 Oct 2026 06:30:00 +0900",
+        "pubDate": "Sat, 31 Oct 2026 13:18:00 +0900",
+        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "\"회복탄력성은 기업 생존의 보험료\"…한·독 리더들, 제3국 공동 금융 진...",
+        "link": "https://n.news.naver.com/mnews/article/277/0005836140?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 31 Oct 2026 12:58:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "KB국민 은행 , 모바일 수어상담 도입 … 청각장애인 금융 접근성 높인다",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=91261",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 31 Oct 2026 12:28:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "역대급 실적 거둔 정상혁 신한 은행 장 거취 주목…연임 가를 변수는",
+        "link": "http://www.economytalk.kr/news/articleView.html?idxno=425005",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 31 Oct 2026 12:04:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "백남기 농민 죽음 책임자를 농협 계열사 사회이사로?",
+        "link": "https://n.news.naver.com/mnews/article/047/0002534131?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 31 Oct 2026 11:51:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "순익 내리막 농협 손보, '무심사' 화재보험 출시…내년 실적 변수 되나",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=353550",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 31 Oct 2026 11:40:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "금리인상 속 엇갈린 예대차…5대 은행 내리고, 인뱅 올랐다",
+        "link": "https://www.mediapen.com/news/view/1134056",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 31 Oct 2026 10:08:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
+          "word": "Terminal Rate",
+          "meaning": "기준금리 인상 사이클의 최종 수준에 대한 시장 기대"
         }
       },
       {
-        "title": "연 15% 이색 적금에 3.9% 특판까지… 은행 들 예금 유치전",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092173187",
+        "title": "[연금 승부⑤] 단기는 보험, 장기는 은행·증권…수익률 엇갈려",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=901495",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 31 Oct 2026 06:30:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": {
-          "word": "Deposit Beta",
-          "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
-        }
-      },
-      {
-        "title": "[머니브리핑] 금융 위, 5대 은행장 소집⋯‘해킹 대응’ 연말 인사 변수...",
-        "link": "https://www.etoday.co.kr/news/view/2642339",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 31 Oct 2026 06:00:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "지난달 5대 은행 예대금리차 축소… 농협 銀 1.58%p 최고",
-        "link": "https://www.jasm.co.kr/news/view/323580/?sc=Naver",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 31 Oct 2026 05:52:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "NH 농협 캐피탈, 금융 지원 넘어 붓 들고 지역 상생 실천... 대림역 일대 ...",
-        "link": "https://weeklytrade.co.kr/news/view.html?section=1&category=160&item=&no=101990",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 31 Oct 2026 03:20:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "NH 농협 캐피탈, 충북 단양 자매결연 마을 덕촌리서 농촌 일손 돕기에 환...",
-        "link": "https://weeklytrade.co.kr/news/view.html?section=1&category=160&item=&no=101989",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 31 Oct 2026 03:08:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "농협 , 청년농 창업부터 판로까지 지원 … 한농대와 미래 농업인 육성 '맞...",
-        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=91253",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 31 Oct 2026 02:26:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "농협 , 수확기 쌀값 안정·경영 건전성 관리 강화…청년농 육성·사회공...",
-        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2355569",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 31 Oct 2026 00:16:00 +0900",
+        "pubDate": "Sat, 31 Oct 2026 10:00:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "CJ제일제당 브라질 자회사, 400억대 '그린론' 조달…글로벌 ESG 공급망 '...",
-        "link": "https://www.kpinews.kr/newsView/1065562995560388",
+        "title": "국고채 넘어선 CP 금리…“경색 아닌 키맞추기”",
+        "link": "https://n.news.naver.com/mnews/article/018/0006400682?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 31 Oct 2026 06:50:00 +0900",
-        "summary": "",
+        "pubDate": "Sat, 31 Oct 2026 13:03:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "[단독] CJ제일제당 CJ셀렉타, 브라질서 '381억' 녹색 금융 조달…대두망...",
-        "link": "https://www.the-today.com/news/articleView.html?idxno=92770",
+        "title": "환율 하락에 여행객은 ‘웃고’ 대출금리 상승에 차주는 ‘울고’",
+        "link": "https://www.yeongnam.com/web/view.php?key=20261031022247893",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 31 Oct 2026 06:42:00 +0900",
-        "summary": "",
-        "term": null
+        "pubDate": "Sat, 31 Oct 2026 12:02:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "NIM",
+          "meaning": "금리 변화가 금융기관 수익성에 미치는 영향을 보여주는 핵심 지표"
+        }
       },
       {
-        "title": "\"소득 상위 10%는 대출·소득 상승, 하위층은 고사\"…심화하는 양극화 실...",
-        "link": "https://n.news.naver.com/mnews/article/003/0014291807?sid=101",
+        "title": "AI·클라우드에 매출 늘어난 IT서비스 업계...수익성은 희비",
+        "link": "https://news.mtn.co.kr/article/2026103109350340590",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 31 Oct 2026 06:30:00 +0900",
+        "pubDate": "Sat, 31 Oct 2026 09:36:00 +0900",
         "summary": "",
         "term": null
       },
@@ -141,17 +122,6 @@
         "link": "https://www.sentv.co.kr/article/view/sentv202610300130",
         "source": "네이버뉴스",
         "pubDate": "Fri, 30 Oct 2026 19:00:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
-      },
-      {
-        "title": "연체율은 시중銀 10배, 예금 3조 썰물…상호금융 '부실 시한폭탄' 되나",
-        "link": "https://www.goodkyung.com/news/articleView.html?idxno=292966",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 30 Oct 2026 18:18:00 +0900",
         "summary": "",
         "term": {
           "word": "Delinquency",
