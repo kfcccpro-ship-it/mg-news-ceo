@@ -1,8 +1,16 @@
 {
-  "updatedAt": "2026-11-01T12:45:16.955Z",
-  "headline": "새마을금고 , 아이 첫 계좌 트면 최대 5만원 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-11-01T19:22:47.396Z",
+  "headline": "MG춘천동부 새마을금고 파크골프 단합대회 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "MG춘천동부 새마을금고 파크골프 단합대회",
+        "link": "https://n.news.naver.com/mnews/article/654/0000208720?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 02 Nov 2026 00:06:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "새마을금고 , 아이 첫 계좌 트면 최대 5만원",
         "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=564076",
@@ -10,54 +18,30 @@
         "pubDate": "Sun, 01 Nov 2026 21:34:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "이계영 춘천중부 새마을금고 이사장, 도지사 표창 수상",
-        "link": "https://n.news.naver.com/mnews/article/087/0001227654?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 01 Nov 2026 13:40:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[포토뉴스]춘천동부 새마을금고 파크골프클럽 단합대회 열어",
-        "link": "https://n.news.naver.com/mnews/article/087/0001227646?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 01 Nov 2026 13:30:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "NH 농협 은행, 발전에너지 금융 기회 찾는 전력산업 포럼 개최",
-        "link": "https://www.joongangenews.com/news/articleView.html?idxno=560134",
+        "title": "엔비디아 칩 임대료까지 '하락 보험'…월가 AI 파생상품 확산",
+        "link": "https://www.g-enews.com/view.php?ud=2026110120441638469a1f309431_1",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 01 Nov 2026 21:42:00 +0900",
+        "pubDate": "Mon, 02 Nov 2026 03:02:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "NH농협 은행 , 발전에너지 금융 기회 찾는 전력산업 포럼 개최",
-        "link": "https://www.joongangenews.com/news/articleView.html?idxno=560134",
+        "title": "우승 맛 본 팀들, 첫판부터 매웠다... 우리 금융 ·휴온스·하나카드 나란...",
+        "link": "https://m.sports.naver.com/general/article/450/0000155222",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 01 Nov 2026 21:42:00 +0900",
+        "pubDate": "Mon, 02 Nov 2026 02:17:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "iM뱅크 \"퇴직연금 DC형 수익률 은행 권 1위 달성\"",
-        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=564077",
+        "title": "5대 은행 中企 대출 연체율 0.6%… 9년 6개월 만에 최고",
+        "link": "https://n.news.naver.com/mnews/article/023/0004007174?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 01 Nov 2026 21:34:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "올 3분기 은행 대출 연체율 9년 6개월 만에 최고",
-        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=564052",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 01 Nov 2026 21:24:00 +0900",
+        "pubDate": "Mon, 02 Nov 2026 00:33:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": {
           "word": "Delinquency",
@@ -65,50 +49,36 @@
         }
       },
       {
-        "title": "KB국민 은행 , 12조6000억원 AI 인프라 금융 주선 총괄",
-        "link": "https://www.joongangenews.com/news/articleView.html?idxno=560130",
+        "title": "[ 금융 권 이모저모]NH 농협 은행, 발전에너지 2.1조원 투자…전력 금융 확대...",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=119077",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 01 Nov 2026 21:18:00 +0900",
+        "pubDate": "Mon, 02 Nov 2026 00:00:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "KB국민·신한·하나은행 ELS 충당부채 엇갈려…환입 효과도 제각각",
-        "link": "http://sateconomy.co.kr/news/view/1065614597534726",
+        "title": "[전매TV] 김완술 곡성 농협 조합장 \"농업인 실익 높이고 미래 30년 준비\"",
+        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1307219",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 01 Nov 2026 21:06:00 +0900",
+        "pubDate": "Sun, 01 Nov 2026 21:46:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "5대은행 ‘악성빚’ 부실채권, 1년새 1.3조↑…8년 6개월만에 최대",
-        "link": "https://n.news.naver.com/mnews/article/020/0003759206?sid=101",
+        "title": "NH 농협 은행, 발전에너지 금융 기회 찾는 전력산업 포럼 개최",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=560134",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 01 Nov 2026 21:04:00 +0900",
+        "pubDate": "Sun, 01 Nov 2026 21:42:00 +0900",
         "summary": "",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
-      },
-      {
-        "title": "5대 은행 연체율 9년6개월 만에 최고…중소기업 부실 '경고등'",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=500367",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 01 Nov 2026 19:56:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "Delinquency",
-          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
-        }
+        "term": null
       }
     ],
     "macro": [
       {
-        "title": "“이번달 이자도 겨우 막았다”...중소기업 ‘대출 부실’ 갈수록 심각",
-        "link": "https://www.ekn.kr/web/view.php?key=20261101028333861",
+        "title": "배당 늘리는데… 금융 사, 부실 대응력 약화",
+        "link": "https://n.news.naver.com/mnews/article/008/0005434851?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 01 Nov 2026 20:20:00 +0900",
+        "pubDate": "Mon, 02 Nov 2026 03:41:00 +0900",
         "summary": "",
         "term": {
           "word": "Delinquency",
@@ -116,11 +86,46 @@
         }
       },
       {
-        "title": "\"예금자 웃고 대출자 운다\"…4% 이상 예금 급증·저금리 대출 실종",
-        "link": "https://n.news.naver.com/mnews/article/666/0000130112?sid=101",
+        "title": "[BOOKS] 금리 내리면 주가 오를까… 투자 공식에 숨은 함정",
+        "link": "https://economychosun.com/site/data/html_dir/2026/10/26/2026102600043.html",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 01 Nov 2026 19:26:00 +0900",
+        "pubDate": "Mon, 02 Nov 2026 02:58:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "[재계 이슈] SK하이닉스 美 손자 회사 나스닥 상장 논란 | 금감원 \"중복...",
+        "link": "https://economychosun.com/site/data/html_dir/2026/10/26/2026102600021.html",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 02 Nov 2026 02:58:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "5대銀 부실채권, 1년새 1.3조 늘어 7.6조… 8년 6개월만에 최대",
+        "link": "https://n.news.naver.com/mnews/article/020/0003759235?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 02 Nov 2026 00:31:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "춘천 시온숲 피해자들 거리로 \"전국적 불법대출 엄중 수사\"",
+        "link": "https://n.news.naver.com/mnews/article/654/0000208750?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 02 Nov 2026 00:08:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "연 이자 4% 넘는 예금 비중 2년9개월 만에 최고",
+        "link": "https://n.news.naver.com/mnews/article/025/0003562036?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Mon, 02 Nov 2026 00:03:00 +0900",
+        "summary": "",
         "term": {
           "word": "Deposit Beta",
           "meaning": "시장금리 변화가 예금금리에 얼마나 빠르게 반영되는지를 보여주는 개념"
@@ -140,14 +145,6 @@
         "source": "네이버뉴스",
         "pubDate": "Sun, 01 Nov 2026 16:49:00 +0900",
         "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
-        "term": null
-      },
-      {
-        "title": "금융당국, AI 해킹 확산에 대응책 촉구…내주 보안대책 회의",
-        "link": "https://n.news.naver.com/mnews/article/003/0014292865?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Sun, 01 Nov 2026 13:59:00 +0900",
-        "summary": "",
         "term": null
       }
     ]
