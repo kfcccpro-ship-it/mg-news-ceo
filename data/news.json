@@ -1,16 +1,8 @@
 {
-  "updatedAt": "2026-11-10T16:48:28.517Z",
-  "headline": "농협 중앙회, 채용 신체검사 절차 개선…지원자 부담 줄인다 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-11-10T22:53:41.168Z",
+  "headline": "새마을금고 MG따숨봉사단, 지역 청소년과 따뜻한 한 끼 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
-      {
-        "title": "농협 중앙회, 채용 신체검사 절차 개선…지원자 부담 줄인다",
-        "link": "https://www.fntimes.com/html/view.php?ud=202611102033434642dd55077bc2_18",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 10 Nov 2026 21:16:00 +0900",
-        "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
-        "term": null
-      },
       {
         "title": "새마을금고 MG따숨봉사단, 지역 청소년과 따뜻한 한 끼",
         "link": "http://www.bizwnews.com/news/articleView.html?idxno=151493",
@@ -22,42 +14,34 @@
     ],
     "otherFinance": [
       {
-        "title": "알타, 4750만달러 시리즈A 유치… 은행 ·결제사용 블록체인 개발",
-        "link": "https://www.tokenpost.kr/news/blockchain/436041",
+        "title": "6개월 된 소보 수장, 자산관리로 이동?…기업 은행 인사 공식 '딜레마'",
+        "link": "https://dealsite.co.kr/articles/172381",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 11 Nov 2026 01:34:00 +0900",
+        "pubDate": "Wed, 11 Nov 2026 07:42:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "신한 은행 , 인제대학교와 주거래 은행 업무협약",
-        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=81435",
+        "title": "'홍콩 ELS 사태' 과징금 감경…시중은행, 손익계산 저울질",
+        "link": "https://www.news2day.co.kr/article/20261110500385",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 11 Nov 2026 01:30:00 +0900",
+        "pubDate": "Wed, 11 Nov 2026 06:52:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "'마나베호' 기업 은행 , SOOP 꺾고 개막 3연승…선두 질주",
-        "link": "https://m.sports.naver.com/general/article/055/0001402110",
+        "title": "[ 금융 현미경]꾸준한 '금 투자' 관심에…은행권, 온라인 판매에 신탁까지",
+        "link": "https://n.news.naver.com/mnews/article/277/0005840828?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 11 Nov 2026 01:20:00 +0900",
+        "pubDate": "Wed, 11 Nov 2026 06:30:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "국제결제 은행 산하 CPMI 의장에 신현송 총재 선임…비서구권 최초",
-        "link": "https://n.news.naver.com/mnews/article/005/0001884358?sid=101",
+        "title": "DB손보, 보험약관 이해도 평가 '우수' 등급…36개 상품 중 홀로 웃었다",
+        "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=767940",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 11 Nov 2026 01:14:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "우리 은행 , AI 음성거래 도입...'스마트키오스크'로 금융 업무 간편하게",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3748210",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 11 Nov 2026 00:58:00 +0900",
+        "pubDate": "Wed, 11 Nov 2026 06:10:00 +0900",
         "summary": "",
         "term": null
       },
@@ -70,37 +54,61 @@
         "term": null
       },
       {
-        "title": "은행권 AI 진로 체험 마련",
-        "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3082074",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 11 Nov 2026 00:00:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
         "title": "폐의약품 연 6천 톤…'수거 명소'된 인천 동네 은행",
         "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1543309",
         "source": "네이버뉴스",
         "pubDate": "Tue, 10 Nov 2026 22:50:00 +0900",
         "summary": "",
         "term": null
+      },
+      {
+        "title": "폐의약품 연 6천톤…'수거 명소'된 인천 동네 은행",
+        "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1543341",
+        "source": "네이버뉴스",
+        "pubDate": "Tue, 10 Nov 2026 22:38:00 +0900",
+        "summary": "",
+        "term": null
       }
     ],
     "macro": [
       {
-        "title": "美 물가 예상 웃돌자 국채금리 급등…12월 '빅스텝' 부상 [월가 업&다운...",
-        "link": "https://n.news.naver.com/mnews/article/015/0005352532?sid=104",
+        "title": "[브라질증시] 美 물가 쇼크에 하락…헤알화 15개월 최저",
+        "link": "https://www.newspim.com/news/view/20261111000047",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 11 Nov 2026 01:27:00 +0900",
+        "pubDate": "Wed, 11 Nov 2026 07:46:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[오늘의 이슈]4% 뛴 코스피, 미 금리 급등 버틸까",
+        "link": "http://www.newskr.kr/news/articleView.html?idxno=107884",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 11 Nov 2026 07:40:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "주택담보대출 변동형 금리가 고정형보다 높아져",
-        "link": "https://n.news.naver.com/mnews/article/023/0004008866?sid=101",
+        "title": "신용점수 900점 넘어도 금리 혜택 싹둑…이자 부담 '쑥'",
+        "link": "https://n.news.naver.com/mnews/article/119/0003153636?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 11 Nov 2026 00:36:00 +0900",
+        "pubDate": "Wed, 11 Nov 2026 07:03:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "[더벨][PF Radar] 신촌 신통기획 사업, 브릿지론 2510억 재구조화",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611021346525840103063",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 11 Nov 2026 07:02:00 +0900",
+        "summary": "가계대출과 부동산 흐름을 함께 볼 때 참고할 만한 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "전세난에 대출 문턱까지…무소득 청년 전세보증 30% 급감",
+        "link": "https://n.news.naver.com/mnews/article/011/0004680827?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 11 Nov 2026 06:20:00 +0900",
+        "summary": "",
         "term": null
       }
     ]
