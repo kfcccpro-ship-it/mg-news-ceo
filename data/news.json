@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T14:00:01.613Z",
+  "updatedAt": "2026-11-13T21:12:40.582Z",
   "headline": "일산 새마을금고 , '대의원·우수회원의 날' 기념 대의원 연수 실시 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
@@ -30,26 +30,42 @@
     ],
     "otherFinance": [
       {
+        "title": "국내·외 증권사 목표가 ‘들쭉날쭉’…길 잃은 ‘삼전닉스’ 개미들",
+        "link": "https://n.news.naver.com/mnews/article/022/0004175018?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 14 Nov 2026 05:49:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "차기 은행연합회장 6파전…민간 5명, 관료 출신 1명",
+        "link": "https://n.news.naver.com/mnews/article/353/0000057252?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 14 Nov 2026 00:56:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "은행연합회 차기 회장 후보 6명 압축",
+        "link": "https://n.news.naver.com/mnews/article/023/0004009569?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sat, 14 Nov 2026 00:36:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "농협 축산경제, 국산 염소고기 최대 29% 할인…대중화 앞장",
+        "link": "https://www.fntimes.com/html/view.php?ud=202611131955187958dd55077bc2_18",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 13 Nov 2026 23:00:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
         "title": "NH 농협 캐피탈, 5년째 지배구조 'A'…투명경영 경쟁력 입증",
         "link": "https://www.dongponews.net/news/articleView.html?idxno=61670",
         "source": "네이버뉴스",
         "pubDate": "Fri, 13 Nov 2026 22:34:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "BNK경남 은행 , 거창 샛별중서 금융 진로 뮤지컬 공연 … 청소년 금융 교육...",
-        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=91997",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 13 Nov 2026 22:34:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "프로배구 IBK기업 은행 , 흥국생명 꺾고 개막 4연승 질주",
-        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=883245",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 13 Nov 2026 22:30:00 +0900",
         "summary": "",
         "term": null
       },
@@ -62,57 +78,38 @@
         "term": null
       },
       {
-        "title": "은행 연합회, 차기 회장 후보 6명 압축…'다음주 최종 결정' 눈길",
-        "link": "https://www.ppss.kr/news/articleView.html?idxno=320774",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 13 Nov 2026 22:24:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "SC제일 은행 , '8년 연속 A+ 등급' 기록…카카오뱅크도 ESG 평가서 성장세",
-        "link": "https://www.ppss.kr/news/articleView.html?idxno=320731",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 13 Nov 2026 22:23:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "SC제일 은행 , 3분기 누적 순익 67% 급증...비이자이익 성장 견인",
-        "link": "https://www.ppss.kr/news/articleView.html?idxno=320925",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 13 Nov 2026 22:16:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
         "title": "[ 농협 이모저모] 농협 , ESG·사회공헌 성과 점검 … 농촌 청소년 마음건...",
         "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=91995",
         "source": "네이버뉴스",
         "pubDate": "Fri, 13 Nov 2026 22:06:00 +0900",
         "summary": "",
         "term": null
+      },
+      {
+        "title": "NH 농협 은행, 인도 사업 확대 추진…현지 기업 금융 협력 논의",
+        "link": "https://www.onews.tv/news/articleView.html?idxno=291653",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 13 Nov 2026 21:52:00 +0900",
+        "summary": "",
+        "term": null
       }
     ],
     "macro": [
       {
-        "title": "미국 10월 생산자물가 전월비 0.3%↑…예상치 하회",
-        "link": "http://www.4th.kr/news/articleView.html?idxno=2121861",
+        "title": "한은 금리 인상에도 국고채·환율 하락 전망",
+        "link": "https://www.mediapen.com/news/view/1137439",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 13 Nov 2026 22:56:00 +0900",
-        "summary": "",
+        "pubDate": "Sat, 14 Nov 2026 06:02:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
       },
       {
-        "title": "[속보] 美 생산자물가 상승률 약 4년 만에 최고…연준, 12월 ‘빅스텝’...",
-        "link": "https://n.news.naver.com/mnews/article/023/0004009511?sid=101",
+        "title": "[EBN 칼럼] 달러/원 환율 추가 하락에 대한 고민",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1731640",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 13 Nov 2026 22:43:00 +0900",
+        "pubDate": "Sat, 14 Nov 2026 06:00:00 +0900",
         "summary": "",
-        "term": {
-          "word": "Forward Guidance",
-          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
-        }
+        "term": null
       },
       {
         "title": "울산 금융기관 대출 56조 원…주택대출 증가",
