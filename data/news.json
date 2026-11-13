@@ -1,102 +1,154 @@
 {
-  "updatedAt": "2026-11-13T05:22:33.587Z",
-  "headline": "5000만원 인출 막은 새마을금고 직원의 기지…보이스피싱 피해 막았다 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-11-13T14:00:01.613Z",
+  "headline": "일산 새마을금고 , '대의원·우수회원의 날' 기념 대의원 연수 실시 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
-        "title": "5000만원 인출 막은 새마을금고 직원의 기지…보이스피싱 피해 막았다",
-        "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2240238",
+        "title": "일산 새마을금고 , '대의원·우수회원의 날' 기념 대의원 연수 실시",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3751641",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 13 Nov 2026 13:38:00 +0900",
+        "pubDate": "Fri, 13 Nov 2026 19:24:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "대전북부 새마을금고 , 연말 맞아 취약계층에 사랑의 김치·고추장 나눔",
-        "link": "http://www.dtnews24.com/news/articleView.html?idxno=817160",
+        "title": "수원팔달 새마을금고 , '2026년 사랑의 김장 나눔' 행사 진행",
+        "link": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040873",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 13 Nov 2026 11:28:00 +0900",
+        "pubDate": "Fri, 13 Nov 2026 15:30:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "'부실 7조' 서민 금고 무너지는데… \"딸깍\" 하나로 3.6억 챙긴 고영철 신...",
-        "link": "http://www.newswell.co.kr/news/articleView.html?idxno=23561",
+        "title": "보령시 새마을금고 송재진 이사장 '사람 살리는 금융' 캠페인 동참",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=754897",
         "source": "네이버뉴스",
-        "pubDate": "Fri, 13 Nov 2026 09:24:00 +0900",
-        "summary": "새마을금고 건전성 관리 흐름과 연결해 볼 수 있는 기사입니다.",
+        "pubDate": "Fri, 13 Nov 2026 14:24:00 +0900",
+        "summary": "",
+        "term": null
+      }
+    ],
+    "otherFinance": [
+      {
+        "title": "NH 농협 캐피탈, 5년째 지배구조 'A'…투명경영 경쟁력 입증",
+        "link": "https://www.dongponews.net/news/articleView.html?idxno=61670",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 13 Nov 2026 22:34:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "BNK경남 은행 , 거창 샛별중서 금융 진로 뮤지컬 공연 … 청소년 금융 교육...",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=91997",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 13 Nov 2026 22:34:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "프로배구 IBK기업 은행 , 흥국생명 꺾고 개막 4연승 질주",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=883245",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 13 Nov 2026 22:30:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "은행연합회, 차기 회장 후보 6명 압축…'다음주 최종 결정' 눈길",
+        "link": "https://www.ppss.kr/news/articleView.html?idxno=320774",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 13 Nov 2026 22:24:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "은행 연합회, 차기 회장 후보 6명 압축…'다음주 최종 결정' 눈길",
+        "link": "https://www.ppss.kr/news/articleView.html?idxno=320774",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 13 Nov 2026 22:24:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "SC제일 은행 , '8년 연속 A+ 등급' 기록…카카오뱅크도 ESG 평가서 성장세",
+        "link": "https://www.ppss.kr/news/articleView.html?idxno=320731",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 13 Nov 2026 22:23:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "SC제일 은행 , 3분기 누적 순익 67% 급증...비이자이익 성장 견인",
+        "link": "https://www.ppss.kr/news/articleView.html?idxno=320925",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 13 Nov 2026 22:16:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[ 농협 이모저모] 농협 , ESG·사회공헌 성과 점검 … 농촌 청소년 마음건...",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=91995",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 13 Nov 2026 22:06:00 +0900",
+        "summary": "",
+        "term": null
+      }
+    ],
+    "macro": [
+      {
+        "title": "미국 10월 생산자물가 전월비 0.3%↑…예상치 하회",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2121861",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 13 Nov 2026 22:56:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "[속보] 美 생산자물가 상승률 약 4년 만에 최고…연준, 12월 ‘빅스텝’...",
+        "link": "https://n.news.naver.com/mnews/article/023/0004009511?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 13 Nov 2026 22:43:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+        }
+      },
+      {
+        "title": "울산 금융기관 대출 56조 원…주택대출 증가",
+        "link": "https://n.news.naver.com/mnews/article/056/0012293727?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 13 Nov 2026 21:56:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "울산 금융 기관 대출 56조 원…주택대출 증가",
+        "link": "https://n.news.naver.com/mnews/article/056/0012293727?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 13 Nov 2026 21:56:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "유수연 경기도의원, 10년 묵은 의정부 가능초 통학로 안전 해법 찾는다",
+        "link": "https://www.nspna.com/news/?mode=view&newsid=836057",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 13 Nov 2026 15:24:00 +0900",
+        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
+        "term": null
+      },
+      {
+        "title": "MG신용정보·캡스톤자산운용, 부실채권 회수 속도",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=754903",
+        "source": "네이버뉴스",
+        "pubDate": "Fri, 13 Nov 2026 14:22:00 +0900",
+        "summary": "",
         "term": {
           "word": "Delinquency",
           "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
         }
       }
-    ],
-    "otherFinance": [
-      {
-        "title": "BNK 금융 그룹, ESG 5년 연속 통합 A등급·BNK부산 은행 , 베트남 호치민 진...",
-        "link": "http://www.dailypop.kr/news/articleView.html?idxno=104571",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 13 Nov 2026 14:20:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "'2+1년' 첫 시험대 통과…정진완 우리 은행 장, 2027년 말까지 1년 더 간다",
-        "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=67707",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 13 Nov 2026 14:20:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "정진완 우리 은행 장 임기 1년 연장…경영 안정성 택했다",
-        "link": "https://n.news.naver.com/mnews/article/421/0009287876?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 13 Nov 2026 14:20:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "저축 은행 AI 활용 넓어진다…여신 관리부터 금융 비서까지",
-        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=883056",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 13 Nov 2026 14:20:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "웰컴저축 은행 , 어르신 금융 사기 예방교육…보상보험도 무상 지원",
-        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=883095",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 13 Nov 2026 14:18:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[속보]우리 금융 자추위, 정진완 은행 장 1년 연임 결정",
-        "link": "https://n.news.naver.com/mnews/article/008/0005440820?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 13 Nov 2026 14:16:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "차기 은행연합회장 후보군 6명으로 압축",
-        "link": "https://n.news.naver.com/mnews/article/215/0001272661?sid=101",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 13 Nov 2026 14:04:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "우리은행, '첫 테이프'…5대 은행장 연임·교체에 쏠린 눈",
-        "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=147048",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 13 Nov 2026 14:04:00 +0900",
-        "summary": "",
-        "term": null
-      }
-    ],
-    "macro": []
+    ]
   }
 }
