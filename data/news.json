@@ -1,13 +1,21 @@
 {
-  "updatedAt": "2026-11-18T11:11:47.576Z",
-  "headline": "충남도의회 행문위, 타 지역 수의계약 123억 원과 금고 협력사업비 추궁 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-11-18T20:01:42.737Z",
+  "headline": "[포토뉴스]횡성 새마을금고 , 인재육성장학금 기탁 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
-        "title": "충남도의회 행문위, 타 지역 수의계약 123억 원과 금고 협력사업비 추궁",
-        "link": "https://www.newsworker.co.kr/news/articleView.html?idxno=514856",
+        "title": "[포토뉴스]횡성 새마을금고 , 인재육성장학금 기탁",
+        "link": "https://n.news.naver.com/mnews/article/087/0001231856?sid=102",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 18 Nov 2026 19:56:00 +0900",
+        "pubDate": "Thu, 19 Nov 2026 00:08:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "춘천남부 새마을금고 회원 초청 영화 상영회",
+        "link": "https://n.news.naver.com/mnews/article/654/0000212085?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 19 Nov 2026 00:07:00 +0900",
         "summary": "",
         "term": null
       },
@@ -42,82 +50,108 @@
         "pubDate": "Wed, 18 Nov 2026 18:01:00 +0900",
         "summary": "",
         "term": null
-      },
-      {
-        "title": "경주 보림사, MG우성 새마을금고 에 백미 330㎏ 기탁…이웃사랑 실천",
-        "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091253",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 18 Nov 2026 17:36:00 +0900",
-        "summary": "",
-        "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "우리 금융 , 'AI Day' 열고 은행 ·보험·카드·증권 AI 활용 사례 공유",
-        "link": "https://www.tournews21.com/news/articleView.html?idxno=148808",
+        "title": "전국구 은행 꿈꾸는 iM… 제주-호남 금융 시장 공략",
+        "link": "https://n.news.naver.com/mnews/article/020/0003763534?sid=102",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 18 Nov 2026 20:10:00 +0900",
+        "pubDate": "Thu, 19 Nov 2026 04:33:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "IBK기업 은행 , 대표 캐릭터 '기은센' 3D 리뉴얼…'기은센과 친구들' 공개",
-        "link": "https://www.tournews21.com/news/articleView.html?idxno=148824",
+        "title": "시중은행 오프라인망 축소 속 대체 금융 망 한계 뚜렷",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=326490",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 18 Nov 2026 20:08:00 +0900",
+        "pubDate": "Thu, 19 Nov 2026 04:00:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "“JYP엔터·태권브이가 적금에 쏙” 하나 은행 , 협업 이색 적금 ‘주목’",
-        "link": "https://n.news.naver.com/mnews/article/382/0001305520?sid=101",
+        "title": "금감원 검사 전 자료 2.8만건 조작… 농협 은행 내부 통제 부실",
+        "link": "https://n.news.naver.com/mnews/article/005/0001886060?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 18 Nov 2026 19:50:00 +0900",
+        "pubDate": "Thu, 19 Nov 2026 00:53:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "[ 금융 직썰] 은행 '돈 가뭄'에 은행채 폭발…주담대 이자 또 오르나",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=153763",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 19 Nov 2026 00:00:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "마트협회, 가맹점 카드수수료 인하 촉구",
-        "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=247654",
+        "title": "농협 창업농지원센터, ‘농심천심 청년농업인 커뮤니티’ 간담회 개최",
+        "link": "https://www.fntimes.com/html/view.php?ud=202611182313129838dd55077bc2_18",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 18 Nov 2026 19:06:00 +0900",
+        "pubDate": "Wed, 18 Nov 2026 23:16:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[인천 농심천심] ⑤ 계양 농협 , 쌀농사 '꿋꿋' 예수금 '탄탄'…상생 경영...",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1337173",
+        "title": "인천 농협 ·NH도농상생국민운동본부, ‘농촌사랑 김장김치 나눔’ 실천",
+        "link": "https://www.fntimes.com/html/view.php?ud=202611182309594173dd55077bc2_18",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 18 Nov 2026 19:06:00 +0900",
+        "pubDate": "Wed, 18 Nov 2026 23:12:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[은행] IBK기업은행, 투자·상장 상담과 캐릭터 개편…NH 농협 은행, 기업...",
-        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2380995",
+        "title": "농협 , ‘2026 K-라이스페스타’ 사전등록하면 무료입장에 소비쿠폰까지",
+        "link": "https://www.fntimes.com/html/view.php?ud=202611182305369090dd55077bc2_18",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 18 Nov 2026 18:38:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[iN The Scene] 강태영 NH 농협 은행장, 국립창원대서 특별강연",
-        "link": "https://www.inthenews.co.kr/news/article.html?no=94717",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 18 Nov 2026 18:34:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[단독] 이천농협, 시청앞 대형매장 건립 계획 표류 논란",
-        "link": "https://www.kgnews.co.kr/news/article.html?no=919830",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 18 Nov 2026 17:36:00 +0900",
+        "pubDate": "Wed, 18 Nov 2026 23:10:00 +0900",
         "summary": "",
         "term": null
       }
     ],
-    "macro": []
+    "macro": [
+      {
+        "title": "장기 고정금리 주담대 확대 나선 금융 당국… 높은 금리에 수요는 '미지...",
+        "link": "https://www.g-enews.com/view.php?ud=20261118150345491cd0bfacc1c_1",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 19 Nov 2026 05:00:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "美 연준, 추가 금리인상 예고…AI 투자 과열에도 경고",
+        "link": "https://n.news.naver.com/mnews/article/014/0005606483?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 19 Nov 2026 04:46:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+        }
+      },
+      {
+        "title": "韓 성장률 3%대 후반 수렴…내수 1%대 부진에 물가 부담 '여전'",
+        "link": "https://n.news.naver.com/mnews/article/018/0006412147?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 19 Nov 2026 04:42:00 +0900",
+        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
+        "term": null
+      },
+      {
+        "title": "월러 연준 이사, 12월 빅스텝 언급…물가 상승에 강경 대응 촉구",
+        "link": "https://news.mtn.co.kr/article/2026111904205472022",
+        "source": "네이버뉴스",
+        "pubDate": "Thu, 19 Nov 2026 04:22:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Forward Guidance",
+          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+        }
+      }
+    ]
   }
 }
