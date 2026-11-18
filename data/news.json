@@ -1,145 +1,132 @@
 {
-  "updatedAt": "2026-11-17T18:11:43.388Z",
-  "headline": "[포토뉴스]춘천중부 새마을금고 , 지역인재 육성 장학금 기탁 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-11-18T02:44:36.530Z",
+  "headline": "지평선 새마을금고 본점, 김제시가족센터에 김장김치 15세트 후원 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
       {
-        "title": "[포토뉴스]춘천중부 새마을금고 , 지역인재 육성 장학금 기탁",
-        "link": "https://n.news.naver.com/mnews/article/087/0001231463?sid=101",
+        "title": "지평선 새마을금고 본점, 김제시가족센터에 김장김치 15세트 후원",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3755592",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 17 Nov 2026 17:55:00 +0900",
+        "pubDate": "Wed, 18 Nov 2026 11:14:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[이슈] NH농협지부, 농협중앙회 본사 이전 반발",
-        "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=668266",
+        "title": "용산구, 새마을금고 중앙회 서울본부와 지역상생 업무협약",
+        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5084663",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 17 Nov 2026 16:06:00 +0900",
+        "pubDate": "Wed, 18 Nov 2026 10:24:00 +0900",
         "summary": "새마을금고 조직 운영과 향후 대응 방향을 볼 때 참고할 만한 기사입니다.",
         "term": null
       },
       {
-        "title": "새마을금고 , 나눔 봉사활동·기부 캠페인·영양꾸러미 전달·보험료 지...",
-        "link": "http://www.wsobi.com/news/articleView.html?idxno=321970",
+        "title": "부실금고 빼도 적자… 새마을금고 , PF보다 깊은 '수익성 위기' [fn마켓워...",
+        "link": "https://n.news.naver.com/mnews/article/014/0005605952?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 17 Nov 2026 15:58:00 +0900",
+        "pubDate": "Wed, 18 Nov 2026 09:32:00 +0900",
+        "summary": "새마을금고 건전성 관리 흐름과 연결해 볼 수 있는 기사입니다.",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "춘천중부 새마을금고 , 파크골프대회 참가비 전액 장학금 기탁",
+        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5084559",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 18 Nov 2026 08:52:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "otherFinance": [
       {
-        "title": "KB증권 베트남법인 계좌서 '비정상 출금'...해킹 가능성 열려 있어",
-        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=301567",
+        "title": "조선·방산에 몰리는 은행 돈…삼성중·현대로템 ‘큰손’ 부상",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1320883&inflow=N",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 18 Nov 2026 03:08:00 +0900",
+        "pubDate": "Wed, 18 Nov 2026 11:42:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "수능날 은행 문 왜 안 열지?…19일 전국적으로 달라지는 것들",
-        "link": "https://www.wikitree.co.kr/articles/1174912",
+        "title": "9월 은행 대출 연체율 0.59%…동월 기준 10년만에 최고",
+        "link": "http://www.seouleconews.com/news/articleView.html?idxno=95095",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 18 Nov 2026 03:00:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "[NH투자증권] 내년 코스피 목표 9,200 제시…신규 고객에 최고 연 5.05% 발...",
-        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2378293",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 18 Nov 2026 01:06:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "농협 상호 금융 , 금융 사막에 디지털 창구 연다",
-        "link": "https://www.youngnong.co.kr/news/articleView.html?idxno=71866",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 18 Nov 2026 00:22:00 +0900",
-        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "카드사 8곳 3분기 합산 영업익 13% 감소···조달금리 오르고 결제 증가...",
-        "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=261263",
-        "source": "네이버뉴스",
-        "pubDate": "Tue, 17 Nov 2026 23:18:00 +0900",
+        "pubDate": "Wed, 18 Nov 2026 11:42:00 +0900",
         "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
         "term": {
-          "word": "NIM",
-          "meaning": "금리 변화가 금융기관 수익성에 미치는 영향을 보여주는 핵심 지표"
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
         }
       },
       {
-        "title": "NH 농협 은행 경북본부, 실물 금 맡기면 골드바·운용수익 지급",
-        "link": "https://tk.newdaily.co.kr/site/data/html/2026/11/17/2026111750364.html",
+        "title": "강태영 NH 농협 은행장 \"끊임없는 자기계발 중요…미래 육각형 인재로 성...",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=757650",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 17 Nov 2026 22:56:00 +0900",
+        "pubDate": "Wed, 18 Nov 2026 11:40:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "본사 지방 이전설에 술렁이는 농협 은행...노조 ' 금융 경쟁력 약화' 정면...",
-        "link": "http://www.newsbrite.net/news/articleView.html?idxno=201551",
+        "title": "은행 연체채권 4조7000억원 정리했지만…9월 연체율 10년 만에 최고",
+        "link": "http://www.smarttimes.co.kr/news/articleView.html?idxno=50673",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 17 Nov 2026 22:32:00 +0900",
+        "pubDate": "Wed, 18 Nov 2026 11:40:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "산업 은행 , KDB생명 매각 또 불발…한국투자 금융 지주와 협상 종료",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=757652",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 18 Nov 2026 11:40:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "농협 축산경제, 방역복 2만 벌 지원…축산농가 가축질병 차단 총력",
-        "link": "https://www.fntimes.com/html/view.php?ud=202611172229008584dd55077bc2_18",
+        "title": "강태영 NH농협 은행 장 \"끊임없는 자기계발 중요…미래 육각형 인재로 성...",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=757650",
         "source": "네이버뉴스",
-        "pubDate": "Tue, 17 Nov 2026 22:32:00 +0900",
+        "pubDate": "Wed, 18 Nov 2026 11:40:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "현대카드, JP모간 키넥시스와 AI 에이전트 기반 금융 거래 자동화 기술 검...",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=757647",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 18 Nov 2026 11:40:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "NH 농협 은행·NH 농협 생명, 강태영 농협 은행장 국립창원대서 미래세대와 ...",
+        "link": "http://www.wsobi.com/news/articleView.html?idxno=322025",
+        "source": "네이버뉴스",
+        "pubDate": "Wed, 18 Nov 2026 11:38:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "美 국채금리 혼조…12월 빅스텝 가능성 4%",
-        "link": "https://www.g-enews.com/view.php?ud=2026111718284027129a1f309431_1",
+        "title": "앞으로 금감원장 제재 재량 좁아진다… 금융 위 판단 우선",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445344",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 18 Nov 2026 03:02:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "해맥 美 연은 총재, 최종 금리 상향 가능성 시사",
-        "link": "https://www.g-enews.com/view.php?ud=2026111718241322399a1f309431_1",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 18 Nov 2026 03:00:00 +0900",
-        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "엔비디아 칩 4억8000만달러 대출 멈췄다…대주단 5곳 재검토",
-        "link": "https://www.tokenpost.kr/news/ai/439943",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 18 Nov 2026 02:14:00 +0900",
+        "pubDate": "Wed, 18 Nov 2026 11:40:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "[뉴스이슈&비즈] 젠슨황·앤트로픽·금리 '삼중고'에 코스피 9개월만에...",
-        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=81700",
+        "title": "증시 폭락에 '금리 노마드족' 분주…이자 0.1%p 차이에 자금 이동",
+        "link": "https://n.news.naver.com/mnews/article/003/0014329251?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Wed, 18 Nov 2026 01:30:00 +0900",
+        "pubDate": "Wed, 18 Nov 2026 10:26:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": null
-      },
-      {
-        "title": "테더 캐피털, 스테이블스에 전략 투자…금액은 비공개지만 USDT 유동성 ...",
-        "link": "https://www.wikitree.co.kr/articles/1175441",
-        "source": "네이버뉴스",
-        "pubDate": "Wed, 18 Nov 2026 01:08:00 +0900",
-        "summary": "",
-        "term": {
-          "word": "LCR",
-          "meaning": "단기 유동성 충격 대응 능력을 보여주는 지표"
-        }
       }
     ]
   }
