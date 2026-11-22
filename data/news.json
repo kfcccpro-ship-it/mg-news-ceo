@@ -1,8 +1,24 @@
 {
-  "updatedAt": "2026-11-21T18:45:25.468Z",
-  "headline": "경북 소상공인, 온라인 시장 공략 본격화… 새마을금고 ·위덕대 손잡았... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
+  "updatedAt": "2026-11-22T00:58:24.646Z",
+  "headline": "새마을금고 ·신협도 지방보조금 전용계좌…구로구, 금융기관 선택 폭 넓... 등 새마을금고 관련 이슈를 우선 확인할 필요가 있습니다.",
   "categories": {
     "mg": [
+      {
+        "title": "새마을금고 ·신협도 지방보조금 전용계좌…구로구, 금융기관 선택 폭 넓...",
+        "link": "https://n.news.naver.com/mnews/article/016/0002726644?sid=102",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 22 Nov 2026 08:42:00 +0900",
+        "summary": "",
+        "term": null
+      },
+      {
+        "title": "구로구, 동구로 새마을금고 ·든솔신협 등과 지방보조금 전용 계좌 업무협...",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=2021674",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 22 Nov 2026 08:24:00 +0900",
+        "summary": "",
+        "term": null
+      },
       {
         "title": "경북 소상공인, 온라인 시장 공략 본격화… 새마을금고 ·위덕대 손잡았...",
         "link": "https://www.ekn.kr/web/view.php?key=20261121028552832",
@@ -22,88 +38,129 @@
     ],
     "otherFinance": [
       {
-        "title": "블로킹 14대5, 마지막 세트 25대13... 삼성화재, OK저축 은행 에 3-1 역전승",
-        "link": "https://m.sports.naver.com/volleyball/article/450/0000155614",
+        "title": "NH 농협금융 '상생', 농가 이자부담 292억 덜어",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=315898",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 22 Nov 2026 02:23:00 +0900",
+        "pubDate": "Sun, 22 Nov 2026 09:52:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "카드론 잔액 42조6701억원, 5개월 만에 증가 전환…대환대출 791억원 늘어",
-        "link": "https://sateconomy.co.kr/news/view/1065623877313774",
+        "title": "NH농협 금융 '상생', 농가 이자부담 292억 덜어",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=315898",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 21 Nov 2026 23:50:00 +0900",
-        "summary": "타 금융권의 수신·여신 전략 변화를 비교 관점에서 볼 수 있는 기사입니다.",
-        "term": null
-      },
-      {
-        "title": "장종환 농협 캐피탈 대표, 투자 금융 매출은 유지…기저효과에 순익은 하...",
-        "link": "https://www.fntimes.com/html/view.php?ud=2026112120180143208a55064dd1_18",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 21 Nov 2026 21:50:00 +0900",
+        "pubDate": "Sun, 22 Nov 2026 09:52:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "은행원 대처로 70대 보이스피싱 피해 막아",
-        "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=291246",
+        "title": "5대 은행 마통 연체액 10개월 새 68% 증가···40·50대 집중",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=643549",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 21 Nov 2026 21:06:00 +0900",
+        "pubDate": "Sun, 22 Nov 2026 09:49:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "은행연합회, 핀테크 위크서 은행권 디지털 혁신 사례 공유... 농협 ·국민...",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=327823",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 22 Nov 2026 09:38:00 +0900",
+        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "은행 연합회, 핀테크 위크서 은행 권 디지털 혁신 사례 공유...농협·국민...",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=327823",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 22 Nov 2026 09:38:00 +0900",
+        "summary": "타 금융권의 채널 전략 변화를 비교해서 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "NH 농협 은행, 제2차 ESG추진위원회 개최…기후·포용 금융 강화",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=327882",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 22 Nov 2026 09:36:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "농협 상호 금융 , 블록체인 착오송금 방지 특허 출원",
-        "link": "https://www.youngnong.co.kr/news/articleView.html?idxno=72091",
+        "title": "NH농협 은행 , 제2차 ESG추진위원회 개최…기후·포용 금융 강화",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=327882",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 21 Nov 2026 20:40:00 +0900",
+        "pubDate": "Sun, 22 Nov 2026 09:36:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "지난달 카드론 잔액 42조6천701억원…4개월 만에 증가",
-        "link": "https://n.news.naver.com/mnews/article/448/0000652529?sid=101",
+        "title": "농협 개혁인가, 관치인가…187만 조합원 직선제 놓고 충돌 [머니카운터...",
+        "link": "https://news.ifm.kr/news/articleView.html?idxno=485085",
         "source": "네이버뉴스",
-        "pubDate": "Sat, 21 Nov 2026 17:39:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "보험사 '자산운용 역량'이 실적 갈랐다",
-        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2495284",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 21 Nov 2026 16:45:00 +0900",
-        "summary": "",
-        "term": null
-      },
-      {
-        "title": "광명 편의점·은행 84곳, 무더위·한파쉼터로 개방",
-        "link": "https://news-s.kr/view.html?id=L261120225100b7cf",
-        "source": "네이버뉴스",
-        "pubDate": "Fri, 20 Nov 2026 22:56:00 +0900",
+        "pubDate": "Sun, 22 Nov 2026 09:30:00 +0900",
         "summary": "",
         "term": null
       }
     ],
     "macro": [
       {
-        "title": "스페이스X, AI 칩 확보에 440억달러 조달 조건 확정",
-        "link": "https://www.g-enews.com/view.php?ud=2026112121283981599a1f309431_1",
+        "title": "‘검은 금요일’ 딛고 반등할까…美 물가·금리 시험대[주간증시전망]",
+        "link": "https://n.news.naver.com/mnews/article/018/0006413611?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 22 Nov 2026 03:02:00 +0900",
+        "pubDate": "Sun, 22 Nov 2026 09:57:00 +0900",
+        "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
+        "term": null
+      },
+      {
+        "title": "1000억원 넘어선 마통 연체…4050이 절반",
+        "link": "https://n.news.naver.com/mnews/article/018/0006413609?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 22 Nov 2026 09:55:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "“동네 가게는 문 닫는데 수출은 1조 달러”…돈이 골목에서 사라졌다",
+        "link": "https://n.news.naver.com/mnews/article/011/0004684721?sid=101",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 22 Nov 2026 09:54:00 +0900",
         "summary": "",
         "term": null
       },
       {
-        "title": "美 연준 추가 긴축 공감 속 금리 인상 속도 시각차",
-        "link": "https://www.g-enews.com/view.php?ud=202611212021368419a1f309431_1",
+        "title": "금리 상승·주가 급락 이중고에 마통 연체액 68% 급증…경제주축 40대는...",
+        "link": "https://n.news.naver.com/mnews/article/023/0004010984?sid=101",
         "source": "네이버뉴스",
-        "pubDate": "Sun, 22 Nov 2026 03:02:00 +0900",
+        "pubDate": "Sun, 22 Nov 2026 09:44:00 +0900",
         "summary": "금리 환경 변화가 금융권 전반에 미치는 영향을 함께 볼 수 있는 기사입니다.",
         "term": {
-          "word": "Forward Guidance",
-          "meaning": "중앙은행이 향후 정책 방향에 대해 시장에 주는 신호"
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
+        }
+      },
+      {
+        "title": "\"체력·컨디션 괜찮습니다\" 역시나 종휘, 끌려가던 경기 뒤집은 주역 공...",
+        "link": "https://m.sports.naver.com/volleyball/article/117/0004127078",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 22 Nov 2026 09:38:00 +0900",
+        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
+        "term": null
+      },
+      {
+        "title": "40대 마이너스통장 연체액 81.6% 증가",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=315894",
+        "source": "네이버뉴스",
+        "pubDate": "Sun, 22 Nov 2026 09:36:00 +0900",
+        "summary": "",
+        "term": {
+          "word": "Delinquency",
+          "meaning": "연체 흐름을 통해 자산건전성 악화 가능성을 읽는 지표"
         }
       },
       {
@@ -112,14 +169,6 @@
         "source": "네이버뉴스",
         "pubDate": "Sat, 21 Nov 2026 17:28:00 +0900",
         "summary": "",
-        "term": null
-      },
-      {
-        "title": "돌아온 부키리치, 21일 SOOP과 원정 경기 통해 V-리그 복귀전 가능성 UP ...",
-        "link": "https://m.sports.naver.com/volleyball/article/117/0004126994",
-        "source": "네이버뉴스",
-        "pubDate": "Sat, 21 Nov 2026 16:04:00 +0900",
-        "summary": "경기 흐름 변화가 지역 금융 수요에 미치는 영향을 볼 때 참고할 만합니다.",
         "term": null
       },
       {
